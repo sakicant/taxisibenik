@@ -19,7 +19,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="/styles.css?v=c2268a8424">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -44,9 +44,89 @@
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.9",
-    "reviewCount": "125"
+    "reviewCount": "142"
   },
   "priceRange": "€€"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I book a taxi from Šibenik?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Call +385 99 447 1013, message on WhatsApp, or send an email. Antonio needs the pickup location, destination, and preferred pickup or arrival time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far in advance should I book?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Last-minute requests are accepted within working hours, but booking in advance guarantees availability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does \"fixed price\" mean? What's included?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fixed prices include transportation, fuel, tolls, and help with luggage. No hidden fees. Extra stops or long waits may cost more, communicated upfront."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you take advance payments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Confirming a booking requires a 20% advance payment (minimum 20 euros). Rides priced at 20 euros or below require full payment in advance. Advance payments can be made by bank transfer (SEPA) or card, with the remaining balance settled on the day of the transfer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you accept card payments in the car?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, cards and other contactless payment methods are accepted."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if my flight is delayed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Flight arrivals are monitored in real time and the pickup time is adjusted automatically, at no extra cost."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I need to cancel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cancellations must be made in writing by email. More than 72 hours before the booking, a full refund applies for bank transfer, or a full refund minus a 10 euro processing fee for card. Cancellations within 72 hours, or no-shows, are non-refundable. Rescheduling is free at any time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you accommodate a larger group?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Škoda Superb fits up to 4 passengers. For larger groups, arrangements can be made through local, hand-picked partners."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer child seats?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, child and booster seats are available on request."
+      }
+    }
+  ]
 }
 </script>
 </head>
@@ -110,7 +190,7 @@
 </header>
 
 <main>
-  <section id="hero" class="hero">
+  <section id="hero" class="hero hero-split">
     <div class="hero-bg">
       <picture>
         <source media="(max-width: 768px)" srcset="/assets/img/hero-bg-mobile.webp">
@@ -118,12 +198,60 @@
       </picture>
       <div class="hero-overlay"></div>
     </div>
-    <div class="container hero-content">
-      <h1>Taxi Šibenik You Can Rely On</h1>
-      <p class="hero-tagline">Local City Rides, Transfers &amp; Day Trips. One driver, direct booking, no call center.</p>
-      <div class="hero-actions">
-        <a href="tel:+385994471013" class="btn btn-primary">Call +385 99 447 1013</a>
-        <a href="#contact" class="btn btn-secondary">Book a Transfer</a>
+    <div class="container hero-split-inner">
+      <div class="hero-text">
+        <h1>Taxi Šibenik You Can Rely On</h1>
+        <div class="hero-trust">
+          <script defer async src='https://cdn.trustindex.io/loader.js?3d034c475d3887585236cfe8dbc'></script>
+        </div>
+        <p class="hero-tagline">Local City Rides, Transfers &amp; Day Trips. One driver, direct booking, no call center.</p>
+        <div class="hero-actions">
+          <a href="tel:+385994471013" class="btn btn-primary">Call +385 99 447 1013</a>
+          <a href="https://wa.me/385994471013" target="_blank" rel="noopener" class="btn btn-secondary">WhatsApp Me</a>
+        </div>
+      </div>
+
+      <div class="quote-widget" id="quote-widget">
+        <div class="quote-trip-toggle">
+          <button type="button" class="trip-toggle-btn active" data-trip="oneway">One Way</button>
+          <button type="button" class="trip-toggle-btn" data-trip="return">Return</button>
+        </div>
+
+        <div class="quote-field">
+          <label for="quote-from">From</label>
+          <select id="quote-from">
+            <option value="">Pickup location</option>
+          </select>
+        </div>
+        <div class="quote-field">
+          <label for="quote-to">To</label>
+          <select id="quote-to">
+            <option value="">Destination</option>
+          </select>
+        </div>
+
+        <div class="quote-field-row">
+          <div class="quote-stepper">
+            <label>Passengers</label>
+            <div class="stepper-control">
+              <button type="button" class="stepper-btn" data-target="quote-passengers" data-delta="-1" aria-label="Decrease passengers">&minus;</button>
+              <span id="quote-passengers" data-value="1" data-min="1" data-max="4">1</span>
+              <button type="button" class="stepper-btn" data-target="quote-passengers" data-delta="1" aria-label="Increase passengers">+</button>
+            </div>
+          </div>
+          <div class="quote-stepper">
+            <label>Luggage</label>
+            <div class="stepper-control">
+              <button type="button" class="stepper-btn" data-target="quote-luggage" data-delta="-1" aria-label="Decrease luggage">&minus;</button>
+              <span id="quote-luggage" data-value="1" data-min="0" data-max="6">1</span>
+              <button type="button" class="stepper-btn" data-target="quote-luggage" data-delta="1" aria-label="Increase luggage">+</button>
+            </div>
+          </div>
+        </div>
+
+        <button type="button" id="quote-submit" class="btn btn-primary quote-btn">Get Quote</button>
+
+        <div id="quote-result" class="quote-result" hidden></div>
       </div>
     </div>
   </section>
@@ -156,27 +284,159 @@
       <p class="section-subtitle">From a quick ride across town to a full day exploring Krka National Park, TAXI Antonio covers Šibenik and all of Dalmatia.</p>
 
       <div class="services-grid">
-        <article class="service-card">
+        <a href="/airport-transfers-from-sibenik/" class="service-card">
           <img src="/assets/img/service-airport.webp" alt="Taxi arrivals pickup at Zadar Airport" loading="lazy">
           <h3>Airport Transfers</h3>
           <p>Reliable pickups and drop-offs at Split, Zadar and Zagreb airports, with real-time flight monitoring so you're never left waiting.</p>
-        </article>
-        <article class="service-card">
+        </a>
+        <a href="/city-to-city-transfers/" class="service-card">
           <img src="/assets/img/service-transfers.webp" alt="Taxi night hotel drop-off in Split" loading="lazy">
           <h3>City-to-City Transfers</h3>
           <p>Comfortable transfers between Šibenik, Split, Zadar, Dubrovnik, Zagreb and everywhere in between, with fixed prices on request.</p>
-        </article>
-        <article class="service-card">
+        </a>
+        <a href="/daytrips/" class="service-card">
           <img src="/assets/img/service-daytrips.webp" alt="Krka National Park waterfalls day trip" loading="lazy">
           <h3>Day Trips</h3>
           <p>Guided day trips to Krka National Park and Plitvice Lakes, tailored to your schedule and interests.</p>
-        </article>
-        <article class="service-card">
+        </a>
+        <a href="#pricing" class="service-card">
           <img src="/assets/img/service-childseat.webp" alt="Baby safely secured in a car seat during a taxi transfer" loading="lazy">
           <h3>Local Rides &amp; Family Travel</h3>
           <p>On-demand metered rides around Šibenik, with child and booster seats available on request for family travel.</p>
-        </article>
+        </a>
       </div>
+    </div>
+  </section>
+
+  <section id="pricing" class="pricing">
+    <div class="container">
+      <span class="eyebrow center">Local Rates</span>
+      <h2 class="section-title">Taxi Šibenik Pricing</h2>
+      <p class="section-subtitle">I offer two clear ways to book: the taxi meter for instant local rides, and a fixed price for rides booked in advance.</p>
+
+      <div class="pricing-grid">
+        <div class="pricing-card">
+          <h3>On-Demand Rides, Local Meter Rate</h3>
+          <p>For instant rides within Šibenik and the surrounding area, available during my working hours (Mon&ndash;Fri 07:00&ndash;21:00, Sat&ndash;Sun 06:00&ndash;15:00).</p>
+          <table class="price-table">
+            <tbody>
+              <tr><th>Start + 3 km</th><td>&euro;10</td></tr>
+              <tr><th>Price per kilometer</th><td>&euro;2.50</td></tr>
+              <tr><th>Waiting, per minute</th><td>&euro;0.50</td></tr>
+            </tbody>
+          </table>
+          <p class="pricing-note">Reservations, extra luggage, additional stops, and waiting time may carry additional charges. For rides starting and ending outside the Šibenik center area, the price is calculated from the center to whichever point is further away, keeping pricing fair.</p>
+        </div>
+
+        <div class="pricing-card">
+          <h3>Fixed-Price Rides, Booked in Advance</h3>
+          <p>All fixed-price rides are private, door-to-door, with no vehicle sharing. Available on demand during working hours, and 24/7 when booked in advance, with the price agreed upfront.</p>
+          <p>Looking for a fixed price to a specific destination? See the full route list on my <a href="/city-to-city-transfers/">transfers page</a>.</p>
+          <a href="/contact/" class="btn btn-primary">Get a Fixed Price</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="why-book" class="why-book">
+    <div class="container">
+      <span class="eyebrow center">Why Choose Me</span>
+      <h2 class="section-title">Why Book with TAXI Antonio?</h2>
+      <div class="why-book-grid">
+        <div class="why-book-item">
+          <h3>Direct Communication</h3>
+          <p>You deal with me, one person, from the first message to drop-off, not a call center.</p>
+        </div>
+        <div class="why-book-item">
+          <h3>Local Expertise</h3>
+          <p>Over a decade driving the roads of Šibenik, Skradin, and the wider Dalmatian region.</p>
+        </div>
+        <div class="why-book-item">
+          <h3>Fixed Prices</h3>
+          <p>No surprises when you book in advance, the price is agreed upfront.</p>
+        </div>
+        <div class="why-book-item">
+          <h3>Flight Monitoring</h3>
+          <p>I track arrivals in real time and adjust your pickup automatically, at no extra cost.</p>
+        </div>
+        <div class="why-book-item">
+          <h3>Comfortable Ride</h3>
+          <p>Clean, air-conditioned Škoda Superb with free Wi-Fi on every trip.</p>
+        </div>
+        <div class="why-book-item">
+          <h3>Family Friendly</h3>
+          <p>Child and booster seats available on request, just ask when booking.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="reviews" class="reviews">
+    <div class="container">
+      <span class="eyebrow center">Reviews</span>
+      <h2 class="section-title">What Riders Say</h2>
+      <p class="section-subtitle">Real reviews from real passengers.</p>
+      <div class="reviews-widget">
+        <script defer async src='https://cdn.trustindex.io/loader.js?4aa50a27517a87560776ec90a85'></script>
+      </div>
+    </div>
+  </section>
+
+  <section id="faq" class="faq">
+    <div class="container">
+      <span class="eyebrow center">FAQ</span>
+      <h2 class="section-title">Frequently Asked Questions</h2>
+      <p class="section-subtitle">Quick answers about booking, pricing, and flight delays.</p>
+
+      <div class="faq-grid">
+        <div class="faq-group">
+          <h3>Booking and Pricing</h3>
+
+          <div class="faq-item">
+            <h4>How do I book a taxi from Šibenik?</h4>
+            <p>Call <a href="tel:+385994471013">+385 99 447 1013</a>, message me on <a href="https://wa.me/385994471013" target="_blank" rel="noopener">WhatsApp</a>, or send an <a href="mailto:info@taxisibenik.hr">email</a>. I need your pickup location, destination, and preferred pickup or arrival time.</p>
+          </div>
+          <div class="faq-item">
+            <h4>How far in advance should I book?</h4>
+            <p>I take last-minute requests within my working hours, but booking in advance guarantees availability.</p>
+          </div>
+          <div class="faq-item">
+            <h4>What does "fixed price" mean? What's included?</h4>
+            <p>My fixed prices include transportation, fuel, tolls, and help with luggage. No hidden fees. Extra stops or long waits may cost more, and I'll always tell you upfront.</p>
+          </div>
+          <div class="faq-item">
+            <h4>Do you take advance payments?</h4>
+            <p>Yes. Confirming a booking requires a 20% advance payment (minimum &euro;20). Rides priced at &euro;20 or below require full payment in advance. You can also pay the full amount upfront if you prefer. Advance payments can be made by bank transfer (SEPA) or card, with the remaining balance settled with me on the day of the transfer.</p>
+          </div>
+          <div class="faq-item">
+            <h4>Do you accept card payments in the car?</h4>
+            <p>Yes, I accept cards and other contactless payment methods.</p>
+          </div>
+        </div>
+
+        <div class="faq-group">
+          <h3>Flight Delays and Cancellations</h3>
+
+          <div class="faq-item">
+            <h4>What if my flight is delayed?</h4>
+            <p>I monitor flight arrivals in real time and adjust your pickup time automatically, at no extra cost.</p>
+          </div>
+          <div class="faq-item">
+            <h4>What happens if I need to cancel?</h4>
+            <p>Cancellations must be made in writing by email. More than 72 hours before your booking, you get a full refund if you paid by bank transfer, or a full refund minus a &euro;10 processing fee if you paid by card. Cancellations within 72 hours, or no-shows, are non-refundable. You can reschedule at any time at no extra charge, your payment carries over in full to the new date.</p>
+          </div>
+          <div class="faq-item">
+            <h4>Can you accommodate a larger group?</h4>
+            <p>Yes, my Škoda Superb fits up to 4 passengers. For larger groups, I can arrange it through local, hand-picked partners I regularly work with. Just contact me for details.</p>
+          </div>
+          <div class="faq-item">
+            <h4>Do you offer child seats?</h4>
+            <p>Yes, I provide child and booster seats on request, just mention it when booking.</p>
+          </div>
+        </div>
+      </div>
+
+      <p class="faq-more">Have more questions? Visit my <a href="/frequently-asked-questions/">complete FAQ page</a> or call <a href="tel:+385994471013">+385 99 447 1013</a>.</p>
     </div>
   </section>
 
@@ -306,6 +566,6 @@
   </div>
 </footer>
 
-<script src="/script.js"></script>
+<script src="/script.js?v=c2268a8424"></script>
 </body>
 </html>

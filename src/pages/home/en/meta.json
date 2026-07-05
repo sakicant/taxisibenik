@@ -4,24 +4,104 @@
   "description": "Local taxi Šibenik available on demand and 24/7 when booked in advance. Airport transfers, city connections and day trips. English-speaking driver. Book directly with TAXI Antonio.",
   "keywords": "taxi šibenik, taxi sibenik, sibenik airport transfer, taxi transfer sibenik",
   "og_image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
-  "schema": {
-    "@context": "https://schema.org",
-    "@type": "LocalBusiness",
-    "name": "Taxi Antonio",
-    "url": "https://taxisibenik.hr/",
-    "telephone": "+385994471013",
-    "email": "info@taxisibenik.hr",
-    "areaServed": ["Šibenik", "Skradin", "Split", "Zadar", "Dubrovnik", "Zagreb"],
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Šibenik",
-      "addressCountry": "HR"
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Taxi Antonio",
+      "url": "https://taxisibenik.hr/",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "areaServed": ["Šibenik", "Skradin", "Split", "Zadar", "Dubrovnik", "Zagreb"],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Šibenik",
+        "addressCountry": "HR"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "142"
+      },
+      "priceRange": "€€"
     },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.9",
-      "reviewCount": "125"
-    },
-    "priceRange": "€€"
-  }
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I book a taxi from Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Call +385 99 447 1013, message on WhatsApp, or send an email. Antonio needs the pickup location, destination, and preferred pickup or arrival time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Last-minute requests are accepted within working hours, but booking in advance guarantees availability."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does \"fixed price\" mean? What's included?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fixed prices include transportation, fuel, tolls, and help with luggage. No hidden fees. Extra stops or long waits may cost more, communicated upfront."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you take advance payments?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Confirming a booking requires a 20% advance payment (minimum 20 euros). Rides priced at 20 euros or below require full payment in advance. Advance payments can be made by bank transfer (SEPA) or card, with the remaining balance settled on the day of the transfer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you accept card payments in the car?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, cards and other contactless payment methods are accepted."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if my flight is delayed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Flight arrivals are monitored in real time and the pickup time is adjusted automatically, at no extra cost."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if I need to cancel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cancellations must be made in writing by email. More than 72 hours before the booking, a full refund applies for bank transfer, or a full refund minus a 10 euro processing fee for card. Cancellations within 72 hours, or no-shows, are non-refundable. Rescheduling is free at any time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you accommodate a larger group?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Škoda Superb fits up to 4 passengers. For larger groups, arrangements can be made through local, hand-picked partners."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer child seats?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, child and booster seats are available on request."
+          }
+        }
+      ]
+    }
+  ]
 }

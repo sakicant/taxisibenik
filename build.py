@@ -15,6 +15,7 @@ self-referencing hreflang tag until more languages are added alongside it.
 
 Run `python build.py` after editing any partial or page content.
 """
+import hashlib
 import json
 import os
 
@@ -29,6 +30,19 @@ DEFAULT_LANG = "en"
 
 # Supported languages. Codes must be valid ISO 639-1 for correct hreflang.
 LANGUAGES = ["en", "hr", "de", "pl", "cs", "it", "fr", "nl"]
+
+
+def compute_asset_version():
+    """Short hash of styles.css + script.js so browsers fetch fresh copies
+    whenever either file changes, instead of serving a stale cached copy."""
+    hasher = hashlib.md5()
+    for name in ("styles.css", "script.js"):
+        with open(os.path.join(ROOT, name), "rb") as f:
+            hasher.update(f.read())
+    return hasher.hexdigest()[:10]
+
+
+ASSET_VERSION = compute_asset_version()
 
 
 def read(path):
@@ -142,9 +156,11 @@ def build_variant(lang, meta, content_path, base_tpl, header_tpl, footer_html, h
     header_html = header_tpl.replace("{{LANG_SWITCHER}}", build_lang_switcher(variants, lang))
 
     schema = meta.get("schema")
-    schema_block = ""
-    if schema:
-        schema_block = '<script type="application/ld+json">\n' + json.dumps(schema, indent=2, ensure_ascii=False) + "\n</script>"
+    schema_list = schema if isinstance(schema, list) else ([schema] if schema else [])
+    schema_block = "\n".join(
+        '<script type="application/ld+json">\n' + json.dumps(s, indent=2, ensure_ascii=False) + "\n</script>"
+        for s in schema_list
+    )
 
     html = base_tpl
     html = html.replace("{{LANG}}", lang)
@@ -155,6 +171,7 @@ def build_variant(lang, meta, content_path, base_tpl, header_tpl, footer_html, h
     html = html.replace("{{HREFLANGS}}", hreflang_block)
     html = html.replace("{{OG_IMAGE}}", meta.get("og_image", DEFAULT_OG_IMAGE))
     html = html.replace("{{SCHEMA}}", schema_block)
+    html = html.replace("{{ASSET_VERSION}}", ASSET_VERSION)
     html = html.replace("{{HEADER}}", header_html)
     html = html.replace("{{FOOTER}}", footer_html)
     html = html.replace("{{BODY}}", body)

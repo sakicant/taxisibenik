@@ -3,18 +3,18 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>About Antonio Šakić | Local Taxi Driver in Šibenik & Skradin | TAXI Antonio</title>
-<meta name="description" content="Meet Antonio Šakić, your local driver in Šibenik and Skradin. Over a decade of professional driving experience, founded TAXI Antonio in 2022.">
-<meta name="keywords" content="about taxi antonio, antonio sakic sibenik, local taxi driver sibenik">
-<link rel="canonical" href="https://taxisibenik.hr/about/">
-<link rel="alternate" hreflang="en" href="https://taxisibenik.hr/about/">
-<link rel="alternate" hreflang="x-default" href="https://taxisibenik.hr/about/">
+<title>Book Your Taxi Transfer | TAXI Antonio Šibenik</title>
+<meta name="description" content="Confirm your taxi Šibenik booking. Add your date, time, and contact details and Antonio will confirm your private transfer directly.">
+<meta name="keywords" content="book taxi sibenik, taxi transfer booking sibenik">
+<link rel="canonical" href="https://taxisibenik.hr/book/">
+<link rel="alternate" hreflang="en" href="https://taxisibenik.hr/book/">
+<link rel="alternate" hreflang="x-default" href="https://taxisibenik.hr/book/">
 
 <meta property="og:type" content="website">
-<meta property="og:title" content="About Antonio Šakić | Local Taxi Driver in Šibenik & Skradin | TAXI Antonio">
-<meta property="og:description" content="Meet Antonio Šakić, your local driver in Šibenik and Skradin. Over a decade of professional driving experience, founded TAXI Antonio in 2022.">
-<meta property="og:image" content="https://taxisibenik.hr/assets/img/about-antonio.webp">
-<meta property="og:url" content="https://taxisibenik.hr/about/">
+<meta property="og:title" content="Book Your Taxi Transfer | TAXI Antonio Šibenik">
+<meta property="og:description" content="Confirm your taxi Šibenik booking. Add your date, time, and contact details and Antonio will confirm your private transfer directly.">
+<meta property="og:image" content="https://taxisibenik.hr/assets/img/hero-bg.webp">
+<meta property="og:url" content="https://taxisibenik.hr/book/">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -65,7 +65,7 @@
       <div class="nav-dropdown nav-lang-dropdown">
         <button class="nav-dropdown-toggle">🇬🇧 EN <span class="caret"></span></button>
         <div class="nav-dropdown-menu">
-          <a href="https://taxisibenik.hr/about/" class="nav-lang-item active">🇬🇧 EN</a>
+          <a href="https://taxisibenik.hr/book/" class="nav-lang-item active">🇬🇧 EN</a>
           <span class="nav-lang-item soon" title="Coming soon">🇭🇷 HR</span>
           <span class="nav-lang-item soon" title="Coming soon">🇩🇪 DE</span>
           <span class="nav-lang-item soon" title="Coming soon">🇵🇱 PL</span>
@@ -84,38 +84,71 @@
 <main>
   <section class="page-hero">
     <div class="container">
-      <span class="eyebrow">About Me</span>
-      <h1>About Antonio Šakić</h1>
-      <p class="page-hero-sub">Your local taxi driver in Šibenik and Skradin.</p>
+      <span class="eyebrow">Booking</span>
+      <h1>Book Your Transfer</h1>
+      <p class="page-hero-sub">Add your travel details below and I'll confirm your ride directly, usually within a few hours.</p>
     </div>
   </section>
 
   <section class="page-content">
-    <div class="container prose">
-      <h2>Who Is Antonio?</h2>
-      <p>I was born in Šibenik in 1993 and have lived in the area my entire life. I currently live in Piramatovci with my wife and two young children, right between Šibenik and Skradin.</p>
-      <p>I am not a call center, a booking platform, or a faceless company. I am a local person who knows these roads, these towns, and this coastline inside out.</p>
+    <div class="container booking-page">
+      <div class="booking-summary" id="booking-summary" hidden>
+        <h2>Your Trip</h2>
+        <ul class="booking-summary-list">
+          <li><span>From</span><strong id="sum-from">&mdash;</strong></li>
+          <li><span>To</span><strong id="sum-to">&mdash;</strong></li>
+          <li><span>Trip type</span><strong id="sum-trip">&mdash;</strong></li>
+          <li><span>Passengers</span><strong id="sum-passengers">&mdash;</strong></li>
+          <li><span>Luggage</span><strong id="sum-luggage">&mdash;</strong></li>
+          <li class="booking-summary-price"><span>Price</span><strong id="sum-price">&mdash;</strong></li>
+        </ul>
+        <p class="booking-summary-note" id="sum-note"></p>
+        <a href="/#quote-widget" class="booking-change-link">Change trip</a>
+      </div>
 
-      <h2>Over a Decade Behind the Wheel</h2>
-      <p>I have worked as a professional driver for more than ten years. My career began with local taxi services in Šibenik, expanded to Zagreb for one year, and included two winter seasons in Austria operating airport transfers from Salzburg, Innsbruck, Munich, and Klagenfurt to Alpine ski destinations.</p>
-      <p>I founded TAXI Antonio officially in May 2022. I believed there was space on the market for a driver who does things differently, someone who communicates clearly, shows up on time, and takes full responsibility.</p>
+      <form class="booking-form" id="booking-page-form" action="/contact.php" method="POST">
+        <h3>Travel Details</h3>
 
-      <h2>Why I Work Differently</h2>
-      <p>I operate without intermediaries between passengers and myself. I respond personally to messages, confirm bookings directly, and take responsibility for any issues. I built this website myself, and that same attention to detail extends to vehicle maintenance and customer service.</p>
-      <p>I want every passenger to feel like they have a local friend in Šibenik.</p>
+        <div class="quote-field-row">
+          <div class="quote-field">
+            <label for="book-date">Pickup date</label>
+            <input type="date" id="book-date" name="book-date" required>
+          </div>
+          <div class="quote-field">
+            <label for="book-time">Pickup time</label>
+            <input type="time" id="book-time" name="book-time" required>
+          </div>
+        </div>
 
-      <h2>One Driver, One Car, One Standard</h2>
-      <p>TAXI Antonio is a solo business with one Škoda Superb, accommodating up to four passengers with luggage. While I operate solo, I maintain a trusted network of reliable colleagues between Zadar and Split for emergencies, with transparent advance notification to passengers if this is ever needed.</p>
+        <div class="quote-field-row" id="book-return-fields" hidden>
+          <div class="quote-field">
+            <label for="book-return-date">Return date</label>
+            <input type="date" id="book-return-date" name="book-return-date">
+          </div>
+          <div class="quote-field">
+            <label for="book-return-time">Return time</label>
+            <input type="time" id="book-return-time" name="book-return-time">
+          </div>
+        </div>
 
-      <h2>Services I Offer</h2>
-      <p>I cover <a href="/airport-transfers-from-sibenik/">airport transfers</a>, <a href="/city-to-city-transfers/">city-to-city transfers</a>, <a href="/daytrips/">day trips to Krka National Park and Plitvice Lakes</a>, and taxi services throughout the Dalmatian coast.</p>
+        <label for="book-name">Name</label>
+        <input type="text" id="book-name" name="name" required>
 
-      <h2>Get in Touch</h2>
-      <p>Phone: <a href="tel:+385994471013">+385 99 447 1013</a><br>
-      WhatsApp: <a href="https://wa.me/385994471013" target="_blank" rel="noopener">Message me on WhatsApp</a><br>
-      Email: <a href="mailto:info@taxisibenik.hr">info@taxisibenik.hr</a></p>
+        <label for="book-email">Email</label>
+        <input type="email" id="book-email" name="email" required>
 
-      <a href="/contact/" class="btn btn-primary">Contact Me</a>
+        <label for="book-phone">Phone / WhatsApp</label>
+        <input type="tel" id="book-phone" name="phone" placeholder="Include country code">
+
+        <label for="book-flight">Flight or vessel number (optional)</label>
+        <input type="text" id="book-flight" name="book-flight" placeholder="For airport or marina pickups">
+
+        <label for="book-notes">Anything else? (optional)</label>
+        <textarea id="book-notes" name="book-notes" rows="4" placeholder="Child seat, extra stops, oversized luggage, pickup instructions..."></textarea>
+
+        <button type="submit" class="btn btn-primary">Send Booking Request</button>
+        <p class="form-note" id="booking-page-note"></p>
+      </form>
     </div>
   </section>
 
