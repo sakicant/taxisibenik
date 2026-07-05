@@ -277,7 +277,7 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 }
 .hero-text { text-align: left; }
 .hero-split .hero-tagline { margin-bottom: 28px; }
-.hero-split .hero-actions { justify-content: flex-start; }
+.hero-split .hero-actions { justify-content: center; }
 
 .quote-widget {
   background: var(--white);
