@@ -19,7 +19,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/styles.css?v=7647f042d0">
+<link rel="stylesheet" href="/styles.css?v=109e7dc451">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -215,16 +215,20 @@
         </div>
 
         <div class="quote-field">
-          <label for="quote-from">From</label>
-          <select id="quote-from">
-            <option value="">Pickup location</option>
-          </select>
+          <label for="quote-from-input">From</label>
+          <div class="combo" data-placeholder="Pickup location">
+            <input type="text" class="combo-input" id="quote-from-input" placeholder="Pickup location" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list">
+            <input type="hidden" id="quote-from">
+            <div class="combo-panel" hidden></div>
+          </div>
         </div>
         <div class="quote-field">
-          <label for="quote-to">To</label>
-          <select id="quote-to">
-            <option value="">Destination</option>
-          </select>
+          <label for="quote-to-input">To</label>
+          <div class="combo" data-placeholder="Destination">
+            <input type="text" class="combo-input" id="quote-to-input" placeholder="Destination" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list">
+            <input type="hidden" id="quote-to">
+            <div class="combo-panel" hidden></div>
+          </div>
         </div>
 
         <div class="quote-field-row">
@@ -564,6 +568,6 @@
   </svg>
 </a>
 
-<script src="/script.js?v=7647f042d0"></script>
+<script src="/script.js?v=109e7dc451"></script>
 </body>
 </html>

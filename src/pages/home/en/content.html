@@ -25,16 +25,20 @@
         </div>
 
         <div class="quote-field">
-          <label for="quote-from">From</label>
-          <select id="quote-from">
-            <option value="">Pickup location</option>
-          </select>
+          <label for="quote-from-input">From</label>
+          <div class="combo" data-placeholder="Pickup location">
+            <input type="text" class="combo-input" id="quote-from-input" placeholder="Pickup location" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list">
+            <input type="hidden" id="quote-from">
+            <div class="combo-panel" hidden></div>
+          </div>
         </div>
         <div class="quote-field">
-          <label for="quote-to">To</label>
-          <select id="quote-to">
-            <option value="">Destination</option>
-          </select>
+          <label for="quote-to-input">To</label>
+          <div class="combo" data-placeholder="Destination">
+            <input type="text" class="combo-input" id="quote-to-input" placeholder="Destination" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list">
+            <input type="hidden" id="quote-to">
+            <div class="combo-panel" hidden></div>
+          </div>
         </div>
 
         <div class="quote-field-row">

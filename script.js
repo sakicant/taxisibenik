@@ -715,18 +715,118 @@ if (quoteWidget) {
     }
   };
 
-  const LOCATIONS = ["Split Airport (SPU)", "Zadar Airport (ZAD)", "Šibenik - center", "Amadria Park Hotel Šibenik", "D-Resort Hotel Šibenik", "D-Marin Marina Mandalina Šibenik", "Vodice", "Tisno", "Zadar", "Split", "Primošten", "Srima", "NP Krka - Skradin entrance", "NP Krka - Lozovac entrance", "NP Krka - Roški Slap entrance", "Žaborić", "Grebaštica", "Zaton", "Dubrovnik", "Zagreb", "Brodarica - Šibenik", "Bilice", "Dubrovnik Airport (DBV)", "Zagreb Airport (ZAG)", "NP Plitvice Lakes", "Skradin - center", "Marina ACI Skradin", "Marina Zaton", "Betina", "Pirovac", "Murter", "Bilo", "Jadrija", "Jezera", "Rogoznica", "Trogir", "Tribunj"];
+  const GROUPS = [
+    { label: 'Šibenik area', items: ['Šibenik - center', 'Amadria Park Hotel Šibenik', 'D-Resort Hotel Šibenik', 'D-Marin Marina Mandalina Šibenik', 'Brodarica - Šibenik', 'Bilice', 'Žaborić', 'Jadrija'] },
+    { label: 'Airports', items: ['Split Airport (SPU)', 'Zadar Airport (ZAD)', 'Dubrovnik Airport (DBV)', 'Zagreb Airport (ZAG)'] },
+    { label: 'Skradin area & Krka', items: ['Skradin - center', 'Marina ACI Skradin', 'NP Krka - Skradin entrance', 'NP Krka - Lozovac entrance', 'NP Krka - Roški Slap entrance'] },
+    { label: 'Coastal towns & cities', items: ['Vodice', 'Tribunj', 'Zaton', 'Marina Zaton', 'Srima', 'Grebaštica', 'Tisno', 'Murter', 'Betina', 'Jezera', 'Bilo', 'Primošten', 'Rogoznica', 'Pirovac', 'Zadar', 'Split', 'Dubrovnik', 'Zagreb', 'Trogir'] },
+    { label: 'Plitvice', items: ['NP Plitvice Lakes'] }
+  ];
+
+  // Diacritic-insensitive normalize so "sibenik" matches "Šibenik", etc.
+  function normalize(s) {
+    return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  }
+
+  // Searchable, grouped dropdown backed by a hidden input (id kept as
+  // quote-from / quote-to so the quote logic can still read .value).
+  function initCombo(root) {
+    const input = root.querySelector('.combo-input');
+    const hidden = root.querySelector('input[type="hidden"]');
+    const panel = root.querySelector('.combo-panel');
+    const options = [];
+    let isOpen = false;
+    let activeIdx = -1;
+
+    GROUPS.forEach((group) => {
+      const g = document.createElement('div');
+      g.className = 'combo-group';
+      const gl = document.createElement('div');
+      gl.className = 'combo-group-label';
+      gl.textContent = group.label;
+      g.appendChild(gl);
+      group.items.forEach((name) => {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'combo-option';
+        btn.textContent = name;
+        btn.addEventListener('click', () => choose(name));
+        g.appendChild(btn);
+        options.push({ el: btn, group: g, value: name, norm: normalize(name) });
+      });
+      panel.appendChild(g);
+    });
+    const empty = document.createElement('div');
+    empty.className = 'combo-empty';
+    empty.textContent = 'No matching location';
+    empty.hidden = true;
+    panel.appendChild(empty);
+
+    function visible() { return options.filter((o) => !o.el.hidden); }
+    function clearActive() { options.forEach((o) => o.el.classList.remove('active')); activeIdx = -1; }
+    function setActive(i) {
+      const vis = visible();
+      if (!vis.length) return;
+      activeIdx = (i + vis.length) % vis.length;
+      options.forEach((o) => o.el.classList.remove('active'));
+      vis[activeIdx].el.classList.add('active');
+      vis[activeIdx].el.scrollIntoView({ block: 'nearest' });
+    }
+    function filter(q) {
+      const nq = normalize(q);
+      const groupsShown = new Set();
+      let any = false;
+      options.forEach((o) => {
+        const match = nq === '' || o.norm.indexOf(nq) !== -1;
+        o.el.hidden = !match;
+        if (match) { any = true; groupsShown.add(o.group); }
+      });
+      panel.querySelectorAll('.combo-group').forEach((g) => { g.hidden = !groupsShown.has(g); });
+      empty.hidden = any;
+      clearActive();
+    }
+    function open() {
+      if (isOpen) return;
+      isOpen = true;
+      panel.hidden = false;
+      input.setAttribute('aria-expanded', 'true');
+      filter('');
+    }
+    function close() {
+      isOpen = false;
+      panel.hidden = true;
+      input.setAttribute('aria-expanded', 'false');
+      input.value = hidden.value;
+      clearActive();
+    }
+    function choose(name) {
+      hidden.value = name;
+      input.value = name;
+      close();
+    }
+
+    input.addEventListener('focus', () => { open(); input.select(); });
+    input.addEventListener('click', open);
+    input.addEventListener('input', () => { open(); filter(input.value); });
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowDown') { e.preventDefault(); open(); setActive(activeIdx + 1); }
+      else if (e.key === 'ArrowUp') { e.preventDefault(); setActive(activeIdx - 1); }
+      else if (e.key === 'Enter') {
+        if (isOpen) {
+          e.preventDefault();
+          const vis = visible();
+          if (activeIdx >= 0 && vis[activeIdx]) choose(vis[activeIdx].value);
+          else if (vis.length === 1) choose(vis[0].value);
+        }
+      } else if (e.key === 'Escape') { close(); }
+    });
+    document.addEventListener('click', (e) => { if (!root.contains(e.target)) close(); });
+  }
+
+  document.querySelectorAll('#quote-widget .combo').forEach(initCombo);
 
   const fromSelect = document.getElementById('quote-from');
   const toSelect = document.getElementById('quote-to');
-  [fromSelect, toSelect].forEach((select) => {
-    LOCATIONS.forEach((loc) => {
-      const opt = document.createElement('option');
-      opt.value = loc;
-      opt.textContent = loc;
-      select.appendChild(opt);
-    });
-  });
 
   // Price for one direction; prefers the exact directional value and falls back
   // to the reverse direction when only one is listed. Returns null if the pair
