@@ -1,6 +1,11 @@
 const yearEl = document.getElementById('year');
 if (yearEl) yearEl.textContent = new Date().getFullYear();
 
+const whatsappFloat = document.getElementById('whatsapp-float');
+if (whatsappFloat) {
+  setTimeout(() => whatsappFloat.classList.add('visible'), 3000);
+}
+
 const siteHeader = document.querySelector('.site-header');
 if (siteHeader) {
   const toggleHeaderBg = () => siteHeader.classList.toggle('scrolled', window.scrollY > 40);
