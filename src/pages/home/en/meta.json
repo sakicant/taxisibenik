@@ -1,0 +1,27 @@
+{
+  "slug": "",
+  "title": "Taxi Šibenik | Local Rides, Transfers & Day Trips | TAXI Antonio",
+  "description": "Local taxi Šibenik available on demand and 24/7 when booked in advance. Airport transfers, city connections and day trips. English-speaking driver. Book directly with TAXI Antonio.",
+  "keywords": "taxi šibenik, taxi sibenik, sibenik airport transfer, taxi transfer sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Taxi Antonio",
+    "url": "https://taxisibenik.hr/",
+    "telephone": "+385994471013",
+    "email": "info@taxisibenik.hr",
+    "areaServed": ["Šibenik", "Skradin", "Split", "Zadar", "Dubrovnik", "Zagreb"],
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Šibenik",
+      "addressCountry": "HR"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "125"
+    },
+    "priceRange": "€€"
+  }
+}

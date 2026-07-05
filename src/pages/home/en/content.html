@@ -1,0 +1,113 @@
+  <section id="hero" class="hero">
+    <div class="hero-bg">
+      <picture>
+        <source media="(max-width: 768px)" srcset="/assets/img/hero-bg-mobile.webp">
+        <img src="/assets/img/hero-bg.webp" alt="Antonio Šakić at the wheel of his taxi in Šibenik" loading="eager">
+      </picture>
+      <div class="hero-overlay"></div>
+    </div>
+    <div class="container hero-content">
+      <h1>Taxi Šibenik You Can Rely On</h1>
+      <p class="hero-tagline">Local City Rides, Transfers &amp; Day Trips. One driver, direct booking, no call center.</p>
+      <div class="hero-actions">
+        <a href="tel:+385994471013" class="btn btn-primary">Call +385 99 447 1013</a>
+        <a href="#contact" class="btn btn-secondary">Book a Transfer</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="about">
+    <div class="container about-inner">
+      <div class="about-image">
+        <img src="/assets/img/about-antonio.webp" alt="Antonio Šakić, your local taxi driver in Šibenik" loading="lazy">
+      </div>
+      <div class="about-text">
+        <span class="eyebrow">About TAXI Antonio</span>
+        <h2>Your Taxi Šibenik Service, Run Personally by Antonio</h2>
+        <p>TAXI Antonio is a locally-operated taxi and transfer service based in Šibenik, run by Antonio Šakić with over a decade of experience on the roads of Dalmatia. When you call, you speak directly with Antonio, not a call center, not a middleman, just clear and direct communication from booking to drop-off.</p>
+        <p>Riding in a comfortable, air-conditioned Škoda Superb with complimentary Wi-Fi, you can count on punctual airport pickups with real-time flight monitoring, safe transfers across the region, and knowledgeable day trips to Croatia's most beautiful national parks.</p>
+        <ul class="about-highlights">
+          <li>Over 10 years of local experience</li>
+          <li>One driver: direct, personal service</li>
+          <li>Škoda Superb, A/C, free Wi-Fi</li>
+          <li>Child &amp; booster seats on request</li>
+          <li>24/7 for advance bookings</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="services" class="services">
+    <div class="container">
+      <span class="eyebrow center">What I Offer</span>
+      <h2 class="section-title">Taxi &amp; Transfer Services in Šibenik</h2>
+      <p class="section-subtitle">From a quick ride across town to a full day exploring Krka National Park, TAXI Antonio covers Šibenik and all of Dalmatia.</p>
+
+      <div class="services-grid">
+        <article class="service-card">
+          <img src="/assets/img/service-airport.webp" alt="Taxi arrivals pickup at Zadar Airport" loading="lazy">
+          <h3>Airport Transfers</h3>
+          <p>Reliable pickups and drop-offs at Split, Zadar and Zagreb airports, with real-time flight monitoring so you're never left waiting.</p>
+        </article>
+        <article class="service-card">
+          <img src="/assets/img/service-transfers.webp" alt="Taxi night hotel drop-off in Split" loading="lazy">
+          <h3>City-to-City Transfers</h3>
+          <p>Comfortable transfers between Šibenik, Split, Zadar, Dubrovnik, Zagreb and everywhere in between, with fixed prices on request.</p>
+        </article>
+        <article class="service-card">
+          <img src="/assets/img/service-daytrips.webp" alt="Krka National Park waterfalls day trip" loading="lazy">
+          <h3>Day Trips</h3>
+          <p>Guided day trips to Krka National Park and Plitvice Lakes, tailored to your schedule and interests.</p>
+        </article>
+        <article class="service-card">
+          <img src="/assets/img/service-childseat.webp" alt="Baby safely secured in a car seat during a taxi transfer" loading="lazy">
+          <h3>Local Rides &amp; Family Travel</h3>
+          <p>On-demand metered rides around Šibenik, with child and booster seats available on request for family travel.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <div class="container contact-inner">
+      <div class="contact-info">
+        <span class="eyebrow">Get in Touch</span>
+        <h2>Book Your Taxi Šibenik Ride</h2>
+        <p>Call, WhatsApp, or send a message below. Antonio replies personally.</p>
+        <ul class="contact-details">
+          <li><strong>Phone:</strong> <a href="tel:+385994471013">+385 99 447 1013</a></li>
+          <li><strong>WhatsApp:</strong> <a href="https://wa.me/385994471013" target="_blank" rel="noopener">Message on WhatsApp</a></li>
+          <li><strong>Email:</strong> <a href="mailto:info@taxisibenik.hr">info@taxisibenik.hr</a></li>
+          <li><strong>Area:</strong> Šibenik &amp; all of Dalmatia</li>
+        </ul>
+        <ul class="contact-hours">
+          <li><strong>Mon&ndash;Fri:</strong> 07:00&ndash;21:00</li>
+          <li><strong>Sat&ndash;Sun:</strong> 06:00&ndash;15:00</li>
+          <li>24/7 available for rides booked in advance</li>
+        </ul>
+        <div class="contact-socials">
+          <a href="https://web.facebook.com/profile.php?id=61579783829997" target="_blank" rel="noopener">Facebook</a>
+          <a href="https://www.instagram.com/taxi_sibenik/" target="_blank" rel="noopener">Instagram</a>
+          <a href="https://www.tiktok.com/@taxisibenik" target="_blank" rel="noopener">TikTok</a>
+        </div>
+      </div>
+
+      <form class="contact-form" id="contact-form" action="/contact.php" method="POST">
+        <h3>Send a Message</h3>
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="phone">Phone (optional)</label>
+        <input type="tel" id="phone" name="phone">
+
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="5" required placeholder="Tell me your pickup location, date, and destination..."></textarea>
+
+        <button type="submit" class="btn btn-primary">Send Message</button>
+        <p class="form-note" id="form-note"></p>
+      </form>
+    </div>
+  </section>
