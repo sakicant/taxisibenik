@@ -148,7 +148,7 @@ h1, h2, h3 { font-family: var(--font-head); color: var(--black); line-height: 1.
   top: 100%;
   left: 50%;
   transform: translateX(-50%);
-  margin-top: 18px;
+  margin-top: 14px;
   background: var(--dark);
   border: 1px solid rgba(255,255,255,0.08);
   border-radius: 8px;
@@ -159,7 +159,18 @@ h1, h2, h3 { font-family: var(--font-head); color: var(--black); line-height: 1.
   gap: 2px;
   box-shadow: 0 16px 36px rgba(0,0,0,0.4);
 }
+/* Transparent bridge across the gap so the dropdown stays open while the
+   cursor travels from the toggle down to the menu items. */
+.nav-dropdown-menu::before {
+  content: '';
+  position: absolute;
+  top: -16px;
+  left: 0;
+  right: 0;
+  height: 16px;
+}
 .nav-dropdown:hover .nav-dropdown-menu,
+.nav-dropdown:focus-within .nav-dropdown-menu,
 .nav-dropdown.open .nav-dropdown-menu { display: flex; }
 .nav-dropdown-menu a {
   color: var(--gray-400);
