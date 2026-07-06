@@ -1,0 +1,56 @@
+{
+  "slug": "airport-transfers-from-sibenik",
+  "title": "Airport Transfers from Šibenik | Fixed Prices | TAXI Antonio",
+  "description": "Private airport transfers from Šibenik to Split, Zadar, Zagreb and Dubrovnik. Fixed prices, flight monitoring included. Book directly with local driver TAXI Antonio.",
+  "keywords": "sibenik airport transfers, šibenik airport transfer, split airport to sibenik, zadar airport to sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Airport transfer",
+      "name": "Airport Transfers from Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+      },
+      "areaServed": ["Šibenik", "Split Airport", "Zadar Airport", "Zagreb Airport", "Dubrovnik Airport"],
+      "url": "https://taxisibenik.hr/airport-transfers-from-sibenik/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I find my driver at the airport?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Antonio waits in the arrivals hall after baggage claim, holding a clear sign with your name." }
+        },
+        {
+          "@type": "Question",
+          "name": "What if my flight is delayed?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Flights are monitored in real time using the flight number you provide at booking. The pickup time is adjusted automatically and there is no extra charge for waiting." }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the airport transfer price fixed?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. Every airport transfer is a fixed price per car for up to 4 passengers, with tolls, fuel and luggage included. No meter, no surprises." }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide child seats for airport transfers?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes, child and booster seats are provided free of charge. Just request them in the booking notes with the child's age." }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I pay for an airport transfer?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A 20% advance payment (minimum 20 euros) confirms the booking, by bank transfer or card. The balance is paid to the driver on the day, in cash or by card." }
+        }
+      ]
+    }
+  ]
+}
