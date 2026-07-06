@@ -117,21 +117,20 @@ LANGUAGE_LABELS = {
     "cs": "CS", "it": "IT", "fr": "FR", "nl": "NL",
 }
 
-LANGUAGE_FLAGS = {
-    "en": "\U0001F1EC\U0001F1E7", "hr": "\U0001F1ED\U0001F1F7",
-    "de": "\U0001F1E9\U0001F1EA", "pl": "\U0001F1F5\U0001F1F1",
-    "cs": "\U0001F1E8\U0001F1FF", "it": "\U0001F1EE\U0001F1F9",
-    "fr": "\U0001F1EB\U0001F1F7", "nl": "\U0001F1F3\U0001F1F1",
-}
+# Emoji flags don't render on Windows desktop browsers, so we self-host SVG
+# flag images instead. One file per language at /assets/img/flags/<lang>.svg.
+def flag_img(lang, label):
+    return (f'<img class="nav-lang-flag" src="/assets/img/flags/{lang}.svg" '
+            f'width="20" height="15" alt="" decoding="async">')
 
 
 def build_lang_switcher(variants, current_lang):
-    current_flag = LANGUAGE_FLAGS[current_lang]
+    current_flag = flag_img(current_lang, LANGUAGE_LABELS[current_lang])
     current_label = LANGUAGE_LABELS[current_lang]
 
     items = []
     for lang in LANGUAGES:
-        flag = LANGUAGE_FLAGS[lang]
+        flag = flag_img(lang, LANGUAGE_LABELS[lang])
         label = LANGUAGE_LABELS[lang]
         if lang in variants:
             url = canonical_url(lang, variants[lang].get("slug", ""))

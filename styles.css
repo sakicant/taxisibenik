@@ -209,6 +209,15 @@ h1, h2, h3 { font-family: var(--font-head); color: var(--black); line-height: 1.
 a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); }
 .nav-lang-item.active { color: var(--gold); font-weight: 700; }
 .nav-lang-item.soon { color: var(--gray-600); cursor: default; }
+.nav-lang-flag {
+  width: 20px;
+  height: 15px;
+  object-fit: cover;
+  border-radius: 2px;
+  flex: 0 0 auto;
+  vertical-align: middle;
+}
+.nav-lang-dropdown .nav-dropdown-toggle .nav-lang-flag { margin-right: 6px; }
 
 .nav-toggle {
   display: none;
