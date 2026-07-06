@@ -1,0 +1,14 @@
+# Prevent directory listing.
+Options -Indexes
+
+# Never allow the browser to fetch credentials, raw config, or the SQL schema,
+# even if PHP is ever misconfigured.
+<FilesMatch "^(config\.php|config\.sample\.php|db\.php|schema\.sql)$">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+  <IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+  </IfModule>
+</FilesMatch>

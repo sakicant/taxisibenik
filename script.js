@@ -967,41 +967,28 @@ if (bookingPageForm) {
       return;
     }
 
-    const phone = document.getElementById('book-phone').value.trim();
-    const flight = document.getElementById('book-flight').value.trim();
-    const notes = document.getElementById('book-notes').value.trim();
-    const rDate = document.getElementById('book-return-date').value;
-    const rTime = document.getElementById('book-return-time').value;
-
-    const lines = [
-      'New booking request from taxisibenik.hr:',
-      '',
-      'From: ' + (from || 'Not specified'),
-      'To: ' + (to || 'Not specified'),
-      'Trip type: ' + (isReturn ? 'Return' : 'One way'),
-      'Passengers: ' + pax,
-      'Luggage: ' + lug,
-      'Quoted price: ' + priceText,
-      'Pickup date: ' + date,
-      'Pickup time: ' + time
-    ];
-    if (isReturn) {
-      lines.push('Return date: ' + (rDate || 'not specified'));
-      lines.push('Return time: ' + (rTime || 'not specified'));
-    }
-    if (flight) lines.push('Flight/vessel: ' + flight);
-    if (notes) lines.push('', 'Notes: ' + notes);
-
     bookingPageNote.textContent = 'Sending...';
 
     try {
       const body = new FormData();
+      body.append('pickup', from);
+      body.append('dropoff', to);
+      body.append('trip', trip);
+      body.append('pickup_date', date);
+      body.append('pickup_time', time);
+      body.append('return_date', document.getElementById('book-return-date').value);
+      body.append('return_time', document.getElementById('book-return-time').value);
+      body.append('passengers', pax);
+      body.append('luggage', lug);
+      body.append('price', priceParam);
       body.append('name', name);
       body.append('email', email);
-      body.append('phone', phone);
-      body.append('message', lines.join('\n'));
+      body.append('phone', document.getElementById('book-phone').value.trim());
+      body.append('flight', document.getElementById('book-flight').value.trim());
+      body.append('notes', document.getElementById('book-notes').value.trim());
+      body.append('company', document.getElementById('book-company').value);
 
-      const response = await fetch('/contact.php', {
+      const response = await fetch('/booking-submit.php', {
         method: 'POST',
         body,
         headers: { Accept: 'application/json' }
