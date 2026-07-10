@@ -1700,7 +1700,7 @@ if (quoteWidget) {
 
   // A small type icon next to each combo option: airport, hotel, marina,
   // national park (nature), city, or town (default for populated places).
-  const COMBO_CITIES = new Set(['Šibenik - center', 'Split', 'Zadar', 'Dubrovnik', 'Zagreb', 'Trogir', 'Makarska']);
+  const COMBO_CITIES = new Set(['Šibenik - center', 'Split', 'Zadar', 'Dubrovnik', 'Zagreb', 'Trogir', 'Makarska', 'Vodice', 'Skradin - center', 'Drniš', 'Knin', 'Primošten']);
   function iconFor(name) {
     let p;
     if (/Airport/.test(name)) {
