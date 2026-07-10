@@ -1,0 +1,66 @@
+{
+  "slug": "day-trip-krka-national-park-primosten",
+  "title": "Day Trip to Krka from Primošten | Private Tour, Fixed €110 | TAXI Antonio",
+  "description": "Private round-trip taxi transfer to Krka from Primošten. Fixed €110 per car, up to 4 passengers, door-to-door from Primošten, Zečevo and Rogoznica hotels and apartments. Not a tour, just the ride there and back.",
+  "keywords": "day trip to krka from primosten, krka from primosten, taxi to krka from primosten, krka transfer primosten, krka from rogoznica, krka from zecevo, primosten to krka national park",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Private Day Trip to Krka from Primošten",
+      "description": "A private day trip to Krka National Park from Primošten with a local English-speaking driver. Fixed price of 110 euros per car for up to 4 passengers, with door-to-door pickup at hotels and apartments in Primošten, the Zečevo area and Rogoznica.",
+      "touristType": "Nature and sightseeing",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "description": "Private vehicle, round trip Primošten to Krka National Park, up to 4 passengers. Park entrance tickets not included."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is this a guided tour or a taxi transfer?",
+          "acceptedAnswer": { "@type": "Answer", "text": "It is a taxi transfer, not a guided tour. Antonio is a local driver providing a private round-trip transfer from Primošten to Krka and back. You get the car and the driving; inside the park you are free to explore on your own, at your own pace." }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you pick up from the Zečevo area and Rogoznica as well as Primošten?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. Pickup from the Zečevo area and Rogoznica is at the same fixed price as Primošten. I collect you door to door from any hotel, apartment or villa, including Marina Frapa in Rogoznica." }
+        },
+        {
+          "@type": "Question",
+          "name": "How much is a taxi to Krka from Primošten?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A private round-trip transfer from Primošten to Krka Lakes is a fixed 110 euros per car for up to 4 passengers, with fuel and the waiting time at the park included. The same price covers pickups in the Zečevo area and Rogoznica." }
+        },
+        {
+          "@type": "Question",
+          "name": "How long do we spend at Krka National Park?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Most guests choose around 3 to 4 hours of free time inside the park, enough to see the main waterfalls and walk the classic boardwalk loop. A shorter or longer stay can be agreed when you book." }
+        },
+        {
+          "@type": "Question",
+          "name": "Are Krka entrance tickets included in the price?",
+          "acceptedAnswer": { "@type": "Answer", "text": "No. Entrance tickets are bought separately, directly from Krka National Park at the Skradin or Lozovac entrance or online. Tickets cost roughly 7 to 40 euros depending on the season." }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book and pay for the day trip from Primošten to Krka?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A 20% advance payment (minimum 20 euros) confirms the booking, by bank transfer or card, and you get an invoice as confirmation. The balance is paid to the driver on the day, in cash or by card." }
+        }
+      ]
+    }
+  ]
+}
