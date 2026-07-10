@@ -197,10 +197,10 @@
         },
         {
           "@type": "Question",
-          "name": "Do you pick up from Šibenik hotels and the bus station?",
+          "name": "Do you pick up from Šibenik hotels, the bus and train stations?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Antonio serves all the local hotels, the bus station and the ferry port, with luggage help and a name sign on request."
+            "text": "Yes. Antonio serves all the local hotels, the bus station, the Šibenik and Perković train stations and the ferry port, with luggage help and a name sign on request."
           }
         },
         {

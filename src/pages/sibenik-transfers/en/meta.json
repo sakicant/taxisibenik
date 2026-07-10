@@ -1,0 +1,56 @@
+{
+  "slug": "sibenik-transfers",
+  "title": "Šibenik Transfers | Fixed Prices to Split, Zadar, Dubrovnik & Zagreb | TAXI Antonio",
+  "description": "Šibenik transfers to and from Split, Zadar, Dubrovnik, Zagreb, Trogir and beyond. Fixed prices, private door to door, one local driver. Book directly with Antonio.",
+  "keywords": "sibenik transfers, šibenik transfer, taxi sibenik split, sibenik to zadar, sibenik to dubrovnik, sibenik to zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "City-to-city taxi transfer",
+      "name": "Šibenik Transfers",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+      },
+      "areaServed": ["Šibenik", "Split", "Zadar", "Dubrovnik", "Zagreb", "Trogir", "Primošten"],
+      "url": "https://taxisibenik.hr/sibenik-transfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a taxi transfer from Šibenik to Split?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A private transfer from Šibenik to Split is a fixed 140 euros per car for up to 4 passengers, with tolls, fuel and luggage included." }
+        },
+        {
+          "@type": "Question",
+          "name": "Are the transfer prices fixed?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. Every city-to-city transfer is a fixed price per car for up to 4 passengers, agreed upfront. No meter and no surprises." }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the transfer private or shared?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Every transfer is private and door to door, in a Škoda Superb. There is no vehicle sharing and no extra stops unless you ask for them." }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you stop along the way?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. On longer transfers I am happy to stop for a coffee, a photo or a quick sight. Just let me know when booking and I will factor it in." }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I pay for a transfer?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A 20% advance payment (minimum 20 euros) confirms the booking, by bank transfer or card. The balance is paid to the driver on the day, in cash or by card." }
+        }
+      ]
+    }
+  ]
+}
