@@ -799,6 +799,7 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
   .daytrip-hero .hero-bg img { object-position: center 50%; }
 }
 .daytrip-price { font-size: 1.05rem; font-weight: 600; color: var(--gold); margin: 0 0 22px; }
+.section-note { max-width: 720px; margin: 14px auto 0; text-align: center; color: var(--gray-600); font-size: 0.95rem; font-style: italic; }
 .daytrip-highlights {
   list-style: none;
   padding: 0;

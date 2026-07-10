@@ -1,8 +1,8 @@
 {
   "slug": "day-trip-krka-national-park-sibenik",
   "title": "Day Trip to Krka from Šibenik | Private Tour, Fixed €100 | TAXI Antonio",
-  "description": "Private day trip to Krka from Šibenik. Fixed €100 per car, up to 4 passengers. Door-to-door pickup at all Šibenik hotels, apartments, the bus and train stations and the ferry port. Book with Antonio.",
-  "keywords": "day trip to krka from sibenik, krka day trip sibenik, sibenik to krka national park, krka waterfalls tour sibenik",
+  "description": "Private round-trip taxi transfer to Krka from Šibenik. Fixed €100 per car, up to 4 passengers, door-to-door from hotels, apartments, stations and the ferry port. Not a tour, just the ride there and back.",
+  "keywords": "day trip to krka from sibenik, round trip transfer to krka, taxi to krka from sibenik, krka transfer sibenik, sibenik to krka national park",
   "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
   "schema": [
     {
@@ -30,6 +30,11 @@
       "@context": "https://schema.org",
       "@type": "FAQPage",
       "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is this a guided tour or a taxi transfer?",
+          "acceptedAnswer": { "@type": "Answer", "text": "It is a taxi transfer, not a guided tour. Antonio is a local Šibenik taxi driver providing a private round-trip transfer to Krka and back. You get the car and the driving; inside the park you are free to explore on your own, at your own pace." }
+        },
         {
           "@type": "Question",
           "name": "Can you pick us up from Amadria Park, D-Resort or Hotel Bellevue?",
