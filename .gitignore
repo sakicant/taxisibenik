@@ -4,3 +4,7 @@ Thumbs.db
 
 # Real DB + admin credentials live only on the server, never in git.
 config.php
+
+# local price-matrix working files
+price-matrix*.xlsx
+price-matrix*.csv
