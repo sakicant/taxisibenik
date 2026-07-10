@@ -1844,7 +1844,9 @@ if (quoteWidget) {
       p = '<path d="M5 4h14a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1v1a1 1 0 0 1-2 0v-1H7v1a1 1 0 0 1-2 0v-1a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1zm1 3v3h5V7H6zm7 0v3h5V7h-5zM7.5 14a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm9 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>';
     } else if (/Hotel|Camp/.test(name)) {
       p = '<path d="M3 19V6a1 1 0 0 1 2 0v5h11a4 4 0 0 1 4 4v4a1 1 0 0 1-2 0v-2H5v2a1 1 0 0 1-2 0zm5-6a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/>';
-    } else if (/Marina/.test(name) || name === 'NP Krka - Skradin entrance' || name === 'Šibenik Ferry Port') {
+    } else if (name === 'Šibenik Ferry Port' || name === 'NP Krka - Skradin entrance') {
+      p = '<path d="M20 21c-1.39 0-2.78-.47-4-1.32-2.44 1.71-5.56 1.71-8 0C6.78 20.53 5.39 21 4 21H2v-2h2c1.38 0 2.74-.35 4-.99 2.52 1.29 5.48 1.29 8 0 1.26.65 2.62.99 4 .99h2v2h-2zM3.95 19H4c1.6 0 3.02-.88 4-2 .98 1.12 2.4 2 4 2s3.02-.88 4-2c.98 1.12 2.4 2 4 2h.05l1.89-6.68c.16-.52-.14-1.06-.66-1.28L20 10.62V6c0-1.1-.9-2-2-2h-3V1H9v3H6c-1.1 0-2 .9-2 2v4.62l-1.28.42c-.52.22-.82.76-.66 1.28L3.95 19zM6 6h12v3.97L12 8 6 9.97z"/>';
+    } else if (/Marina/.test(name)) {
       p = '<path d="M3 18h18l-2.2 3H5.2zM12 2 6.5 15H12zM13 6l5.5 9H13z"/>';
     } else if (/^NP /.test(name)) {
       p = '<path d="M12 2 7 11h3l-4 6h5v3h2v-3h5l-4-6h3z"/>';
