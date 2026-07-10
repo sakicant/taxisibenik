@@ -795,6 +795,9 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 .hub-note a:hover { color: var(--gold-light); }
 
 /* Krka / day-trip page */
+@media (min-width: 769px) {
+  .daytrip-hero .hero-bg img { object-position: center 50%; }
+}
 .daytrip-price { font-size: 1.05rem; font-weight: 600; color: var(--gold); margin: 0 0 22px; }
 .daytrip-highlights {
   list-style: none;
