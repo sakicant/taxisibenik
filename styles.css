@@ -862,7 +862,8 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
   background-repeat: no-repeat;
   background-position: right 14px center;
 }
-.contact-form select option { color: var(--black); }
+.contact-form select { color: var(--white); }
+.contact-form select option { color: var(--white); background: #1f2430; }
 .contact-form input:focus, .contact-form textarea:focus, .contact-form select:focus {
   outline: none;
   border-color: var(--gold);
