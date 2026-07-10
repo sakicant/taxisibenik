@@ -34,7 +34,6 @@ const quoteWidget = document.getElementById('quote-widget');
 if (quoteWidget) {
   const PRICES = {
     "Šibenik - center": {
-      "D-Resort Hotel Šibenik": 15,
       "D-Marin Marina Mandalina Šibenik": 15,
       "Amadria Park Hotel Šibenik": 18,
       "Brodarica - Šibenik": 25,
@@ -78,8 +77,9 @@ if (quoteWidget) {
     },
     "D-Resort Hotel Šibenik": {
       "Šibenik - center": 15,
+      "D-Marin Marina Mandalina Šibenik": 15,
       "Amadria Park Hotel Šibenik": 18,
-      "Brodarica - Šibenik": 20,
+      "Brodarica - Šibenik": 25,
       "Zablaće": 18,
       "Žaborić": 25,
       "Grebaštica": 35,
@@ -89,22 +89,22 @@ if (quoteWidget) {
       "Split Airport (SPU)": 95,
       "Trogir": 95,
       "Split": 140,
-      "Dubrovnik": 480,
+      "Dubrovnik": 485,
       "Dubrovnik Airport (DBV)": 485,
-      "Jadrija": 40,
-      "Zaton": 35,
-      "Marina Zaton": 30,
-      "Srima": 30,
-      "Vodice": 35,
+      "Jadrija": 30,
+      "Zaton": 25,
+      "Marina Zaton": 20,
+      "Srima": 25,
+      "Vodice": 30,
       "Tribunj": 40,
       "Pirovac": 50,
-      "Tisno": 55,
-      "Jezera": 60,
+      "Tisno": 50,
+      "Jezera": 55,
       "Murter": 70,
       "Betina": 70,
       "Zadar": 140,
       "Zadar Airport (ZAD)": 130,
-      "Bilice": 25,
+      "Bilice": 20,
       "Tromilja": 40,
       "NP Krka - Lozovac entrance": 45,
       "Lozovac": 45,
@@ -115,7 +115,51 @@ if (quoteWidget) {
       "NP Krka - Roški Slap entrance": 90,
       "Knin": 95,
       "NP Plitvice Lakes": 310,
-      "Zagreb": 480,
+      "Zagreb": 485,
+      "Zagreb Airport (ZAG)": 485
+    },
+    "Bellevue Superior Hotel Šibenik": {
+      "Šibenik - center": 15,
+      "D-Resort Hotel Šibenik": 15,
+      "D-Marin Marina Mandalina Šibenik": 15,
+      "Amadria Park Hotel Šibenik": 18,
+      "Brodarica - Šibenik": 25,
+      "Zablaće": 18,
+      "Žaborić": 25,
+      "Grebaštica": 35,
+      "Bilo": 40,
+      "Primošten": 50,
+      "Rogoznica": 65,
+      "Split Airport (SPU)": 95,
+      "Trogir": 95,
+      "Split": 140,
+      "Dubrovnik": 485,
+      "Dubrovnik Airport (DBV)": 485,
+      "Jadrija": 30,
+      "Zaton": 25,
+      "Marina Zaton": 20,
+      "Srima": 25,
+      "Vodice": 30,
+      "Tribunj": 40,
+      "Pirovac": 50,
+      "Tisno": 50,
+      "Jezera": 55,
+      "Murter": 70,
+      "Betina": 70,
+      "Zadar": 140,
+      "Zadar Airport (ZAD)": 130,
+      "Bilice": 20,
+      "Tromilja": 40,
+      "NP Krka - Lozovac entrance": 45,
+      "Lozovac": 45,
+      "Skradin - center": 50,
+      "NP Krka - Skradin entrance": 50,
+      "Marina ACI Skradin": 50,
+      "Drniš": 65,
+      "NP Krka - Roški Slap entrance": 90,
+      "Knin": 95,
+      "NP Plitvice Lakes": 310,
+      "Zagreb": 485,
       "Zagreb Airport (ZAG)": 485
     },
     "D-Marin Marina Mandalina Šibenik": {
@@ -162,7 +206,6 @@ if (quoteWidget) {
     },
     "Amadria Park Hotel Šibenik": {
       "Šibenik - center": 18,
-      "D-Resort Hotel Šibenik": 18,
       "D-Marin Marina Mandalina Šibenik": 18,
       "Brodarica - Šibenik": 25,
       "Žaborić": 28,
@@ -204,7 +247,6 @@ if (quoteWidget) {
     },
     "Brodarica - Šibenik": {
       "Šibenik - center": 25,
-      "D-Resort Hotel Šibenik": 20,
       "D-Marin Marina Mandalina Šibenik": 20,
       "Amadria Park Hotel Šibenik": 25,
       "Zablaće": 25,
@@ -243,7 +285,6 @@ if (quoteWidget) {
     },
     "Zablaće": {
       "Šibenik - center": 18,
-      "D-Resort Hotel Šibenik": 18,
       "D-Marin Marina Mandalina Šibenik": 18,
       "Brodarica - Šibenik": 25,
       "Žaborić": 28,
@@ -283,7 +324,6 @@ if (quoteWidget) {
     },
     "Žaborić": {
       "Šibenik - center": 25,
-      "D-Resort Hotel Šibenik": 25,
       "D-Marin Marina Mandalina Šibenik": 25,
       "Amadria Park Hotel Šibenik": 28,
       "Brodarica - Šibenik": 25,
@@ -322,7 +362,6 @@ if (quoteWidget) {
     },
     "Grebaštica": {
       "Šibenik - center": 35,
-      "D-Resort Hotel Šibenik": 35,
       "D-Marin Marina Mandalina Šibenik": 35,
       "Amadria Park Hotel Šibenik": 35,
       "Brodarica - Šibenik": 35,
@@ -361,7 +400,6 @@ if (quoteWidget) {
     },
     "Bilo": {
       "Šibenik - center": 40,
-      "D-Resort Hotel Šibenik": 40,
       "D-Marin Marina Mandalina Šibenik": 40,
       "Amadria Park Hotel Šibenik": 40,
       "Brodarica - Šibenik": 40,
@@ -400,7 +438,6 @@ if (quoteWidget) {
     },
     "Primošten": {
       "Šibenik - center": 50,
-      "D-Resort Hotel Šibenik": 50,
       "D-Marin Marina Mandalina Šibenik": 50,
       "Amadria Park Hotel Šibenik": 50,
       "Brodarica - Šibenik": 50,
@@ -438,7 +475,6 @@ if (quoteWidget) {
     },
     "Rogoznica": {
       "Šibenik - center": 65,
-      "D-Resort Hotel Šibenik": 65,
       "D-Marin Marina Mandalina Šibenik": 65,
       "Amadria Park Hotel Šibenik": 65,
       "Brodarica - Šibenik": 65,
@@ -477,7 +513,6 @@ if (quoteWidget) {
     },
     "Split Airport (SPU)": {
       "Šibenik - center": 95,
-      "D-Resort Hotel Šibenik": 95,
       "D-Marin Marina Mandalina Šibenik": 95,
       "Amadria Park Hotel Šibenik": 95,
       "Brodarica - Šibenik": 95,
@@ -518,7 +553,6 @@ if (quoteWidget) {
     },
     "Trogir": {
       "Šibenik - center": 95,
-      "D-Resort Hotel Šibenik": 95,
       "D-Marin Marina Mandalina Šibenik": 95,
       "Amadria Park Hotel Šibenik": 95,
       "Brodarica - Šibenik": 95,
@@ -554,7 +588,6 @@ if (quoteWidget) {
     },
     "Split": {
       "Šibenik - center": 140,
-      "D-Resort Hotel Šibenik": 140,
       "D-Marin Marina Mandalina Šibenik": 140,
       "Amadria Park Hotel Šibenik": 140,
       "Brodarica - Šibenik": 140,
@@ -591,7 +624,6 @@ if (quoteWidget) {
     },
     "Dubrovnik": {
       "Šibenik - center": 485,
-      "D-Resort Hotel Šibenik": 485,
       "D-Marin Marina Mandalina Šibenik": 485,
       "Amadria Park Hotel Šibenik": 485,
       "Brodarica - Šibenik": 480,
@@ -629,7 +661,6 @@ if (quoteWidget) {
     },
     "Dubrovnik Airport (DBV)": {
       "Šibenik - center": 485,
-      "D-Resort Hotel Šibenik": 485,
       "D-Marin Marina Mandalina Šibenik": 485,
       "Amadria Park Hotel Šibenik": 485,
       "Brodarica - Šibenik": 485,
@@ -667,7 +698,6 @@ if (quoteWidget) {
     },
     "Jadrija": {
       "Šibenik - center": 30,
-      "D-Resort Hotel Šibenik": 40,
       "D-Marin Marina Mandalina Šibenik": 40,
       "Amadria Park Hotel Šibenik": 40,
       "Brodarica - Šibenik": 40,
@@ -703,7 +733,6 @@ if (quoteWidget) {
     },
     "Zaton": {
       "Šibenik - center": 25,
-      "D-Resort Hotel Šibenik": 35,
       "D-Marin Marina Mandalina Šibenik": 35,
       "Amadria Park Hotel Šibenik": 35,
       "Brodarica - Šibenik": 40,
@@ -739,7 +768,6 @@ if (quoteWidget) {
     },
     "Marina Zaton": {
       "Šibenik - center": 20,
-      "D-Resort Hotel Šibenik": 30,
       "D-Marin Marina Mandalina Šibenik": 30,
       "Amadria Park Hotel Šibenik": 30,
       "Brodarica - Šibenik": 40,
@@ -775,7 +803,6 @@ if (quoteWidget) {
     },
     "Srima": {
       "Šibenik - center": 25,
-      "D-Resort Hotel Šibenik": 30,
       "D-Marin Marina Mandalina Šibenik": 30,
       "Amadria Park Hotel Šibenik": 35,
       "Brodarica - Šibenik": 35,
@@ -810,7 +837,6 @@ if (quoteWidget) {
     },
     "Vodice": {
       "Šibenik - center": 30,
-      "D-Resort Hotel Šibenik": 35,
       "D-Marin Marina Mandalina Šibenik": 35,
       "Amadria Park Hotel Šibenik": 40,
       "Brodarica - Šibenik": 40,
@@ -848,7 +874,6 @@ if (quoteWidget) {
     },
     "Tribunj": {
       "Šibenik - center": 40,
-      "D-Resort Hotel Šibenik": 40,
       "D-Marin Marina Mandalina Šibenik": 40,
       "Amadria Park Hotel Šibenik": 45,
       "Brodarica - Šibenik": 45,
@@ -883,7 +908,6 @@ if (quoteWidget) {
     },
     "Pirovac": {
       "Šibenik - center": 50,
-      "D-Resort Hotel Šibenik": 50,
       "D-Marin Marina Mandalina Šibenik": 50,
       "Amadria Park Hotel Šibenik": 55,
       "Brodarica - Šibenik": 55,
@@ -917,7 +941,6 @@ if (quoteWidget) {
     },
     "Tisno": {
       "Šibenik - center": 50,
-      "D-Resort Hotel Šibenik": 55,
       "D-Marin Marina Mandalina Šibenik": 55,
       "Amadria Park Hotel Šibenik": 55,
       "Brodarica - Šibenik": 55,
@@ -955,7 +978,6 @@ if (quoteWidget) {
     },
     "Jezera": {
       "Šibenik - center": 55,
-      "D-Resort Hotel Šibenik": 60,
       "D-Marin Marina Mandalina Šibenik": 60,
       "Amadria Park Hotel Šibenik": 60,
       "Brodarica - Šibenik": 60,
@@ -989,7 +1011,6 @@ if (quoteWidget) {
     },
     "Murter": {
       "Šibenik - center": 70,
-      "D-Resort Hotel Šibenik": 70,
       "D-Marin Marina Mandalina Šibenik": 70,
       "Amadria Park Hotel Šibenik": 80,
       "Brodarica - Šibenik": 80,
@@ -1023,7 +1044,6 @@ if (quoteWidget) {
     },
     "Betina": {
       "Šibenik - center": 70,
-      "D-Resort Hotel Šibenik": 70,
       "D-Marin Marina Mandalina Šibenik": 70,
       "Amadria Park Hotel Šibenik": 80,
       "Brodarica - Šibenik": 80,
@@ -1057,7 +1077,6 @@ if (quoteWidget) {
     },
     "Zadar": {
       "Šibenik - center": 140,
-      "D-Resort Hotel Šibenik": 140,
       "D-Marin Marina Mandalina Šibenik": 140,
       "Amadria Park Hotel Šibenik": 140,
       "Brodarica - Šibenik": 140,
@@ -1096,7 +1115,6 @@ if (quoteWidget) {
     },
     "Zadar Airport (ZAD)": {
       "Šibenik - center": 130,
-      "D-Resort Hotel Šibenik": 130,
       "D-Marin Marina Mandalina Šibenik": 130,
       "Amadria Park Hotel Šibenik": 130,
       "Brodarica - Šibenik": 135,
@@ -1138,7 +1156,6 @@ if (quoteWidget) {
     },
     "Bilice": {
       "Šibenik - center": 20,
-      "D-Resort Hotel Šibenik": 25,
       "D-Marin Marina Mandalina Šibenik": 25,
       "Amadria Park Hotel Šibenik": 30,
       "Brodarica - Šibenik": 30,
@@ -1181,7 +1198,6 @@ if (quoteWidget) {
     },
     "Tromilja": {
       "Šibenik - center": 40,
-      "D-Resort Hotel Šibenik": 40,
       "D-Marin Marina Mandalina Šibenik": 40,
       "Amadria Park Hotel Šibenik": 40,
       "Brodarica - Šibenik": 50,
@@ -1221,7 +1237,6 @@ if (quoteWidget) {
     },
     "NP Krka - Lozovac entrance": {
       "Šibenik - center": 45,
-      "D-Resort Hotel Šibenik": 45,
       "D-Marin Marina Mandalina Šibenik": 45,
       "Amadria Park Hotel Šibenik": 45,
       "Brodarica - Šibenik": 55,
@@ -1262,7 +1277,6 @@ if (quoteWidget) {
     },
     "Lozovac": {
       "Šibenik - center": 45,
-      "D-Resort Hotel Šibenik": 45,
       "D-Marin Marina Mandalina Šibenik": 45,
       "Amadria Park Hotel Šibenik": 45,
       "Brodarica - Šibenik": 55,
@@ -1302,7 +1316,6 @@ if (quoteWidget) {
     },
     "Skradin - center": {
       "Šibenik - center": 50,
-      "D-Resort Hotel Šibenik": 50,
       "D-Marin Marina Mandalina Šibenik": 50,
       "Amadria Park Hotel Šibenik": 50,
       "Brodarica - Šibenik": 55,
@@ -1345,7 +1358,6 @@ if (quoteWidget) {
     },
     "NP Krka - Skradin entrance": {
       "Šibenik - center": 50,
-      "D-Resort Hotel Šibenik": 50,
       "D-Marin Marina Mandalina Šibenik": 50,
       "Amadria Park Hotel Šibenik": 50,
       "Brodarica - Šibenik": 55,
@@ -1388,7 +1400,6 @@ if (quoteWidget) {
     },
     "Marina ACI Skradin": {
       "Šibenik - center": 50,
-      "D-Resort Hotel Šibenik": 50,
       "D-Marin Marina Mandalina Šibenik": 50,
       "Amadria Park Hotel Šibenik": 50,
       "Brodarica - Šibenik": 55,
@@ -1431,7 +1442,6 @@ if (quoteWidget) {
     },
     "Drniš": {
       "Šibenik - center": 65,
-      "D-Resort Hotel Šibenik": 65,
       "D-Marin Marina Mandalina Šibenik": 65,
       "Amadria Park Hotel Šibenik": 65,
       "Brodarica - Šibenik": 65,
@@ -1472,7 +1482,6 @@ if (quoteWidget) {
     },
     "NP Krka - Roški Slap entrance": {
       "Šibenik - center": 90,
-      "D-Resort Hotel Šibenik": 90,
       "D-Marin Marina Mandalina Šibenik": 90,
       "Amadria Park Hotel Šibenik": 90,
       "Brodarica - Šibenik": 80,
@@ -1513,7 +1522,6 @@ if (quoteWidget) {
     },
     "Knin": {
       "Šibenik - center": 95,
-      "D-Resort Hotel Šibenik": 95,
       "D-Marin Marina Mandalina Šibenik": 95,
       "Amadria Park Hotel Šibenik": 95,
       "Brodarica - Šibenik": 95,
@@ -1554,7 +1562,6 @@ if (quoteWidget) {
     },
     "NP Plitvice Lakes": {
       "Šibenik - center": 310,
-      "D-Resort Hotel Šibenik": 310,
       "D-Marin Marina Mandalina Šibenik": 310,
       "Amadria Park Hotel Šibenik": 310,
       "Brodarica - Šibenik": 310,
@@ -1595,7 +1602,6 @@ if (quoteWidget) {
     },
     "Zagreb": {
       "Šibenik - center": 485,
-      "D-Resort Hotel Šibenik": 480,
       "D-Marin Marina Mandalina Šibenik": 480,
       "Amadria Park Hotel Šibenik": 480,
       "Brodarica - Šibenik": 480,
@@ -1636,7 +1642,6 @@ if (quoteWidget) {
     },
     "Zagreb Airport (ZAG)": {
       "Šibenik - center": 485,
-      "D-Resort Hotel Šibenik": 485,
       "D-Marin Marina Mandalina Šibenik": 485,
       "Amadria Park Hotel Šibenik": 485,
       "Brodarica - Šibenik": 485,
@@ -1678,7 +1683,7 @@ if (quoteWidget) {
   };
 
   const GROUPS = [
-    { label: 'Šibenik area', items: ['Šibenik - center', 'Amadria Park Hotel Šibenik', 'D-Resort Hotel Šibenik', 'D-Marin Marina Mandalina Šibenik', 'Brodarica - Šibenik', 'Zablaće', 'Bilice', 'Žaborić', 'Jadrija'] },
+    { label: 'Šibenik area', items: ['Šibenik - center', 'Amadria Park Hotel Šibenik', 'D-Resort Hotel Šibenik', 'Bellevue Superior Hotel Šibenik', 'D-Marin Marina Mandalina Šibenik', 'Brodarica - Šibenik', 'Zablaće', 'Bilice', 'Žaborić', 'Jadrija'] },
     { label: 'Airports', items: ['Split Airport (SPU)', 'Zadar Airport (ZAD)', 'Dubrovnik Airport (DBV)', 'Zagreb Airport (ZAG)'] },
     { label: 'Skradin area & Krka', items: ['Skradin - center', 'Marina ACI Skradin', 'NP Krka - Skradin entrance', 'NP Krka - Lozovac entrance', 'Lozovac', 'NP Krka - Roški Slap entrance'] },
     { label: 'Inland', items: ['Tromilja', 'Drniš', 'Knin'] },
