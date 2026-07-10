@@ -454,6 +454,7 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
   padding: 16px;
   border-radius: 8px;
   background: var(--gray-100);
+  text-align: center;
 }
 .quote-result .quote-price {
   font-family: var(--font-head);

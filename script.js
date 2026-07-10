@@ -1858,7 +1858,7 @@ if (quoteWidget) {
     if (pax >= 9) {
       const url = bookingUrl({ ...base, priceParam: 'custom' });
       quoteResult.innerHTML =
-        '<p>For 9 to 12 passengers I put together a van and my car, and drive you in the car myself. Contact me for a price.</p>' +
+        '<p>For 9 to 12 passengers I put together a van and my car, and drive the car myself. Contact me for a price.</p>' +
         '<a class="btn btn-primary quote-btn" href="' + url + '">Request a Quote</a>';
       return;
     }
