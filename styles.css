@@ -265,6 +265,9 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
   position: absolute; inset: 0;
   background: linear-gradient(180deg, rgba(17,17,17,0.75) 0%, rgba(17,17,17,0.55) 45%, rgba(17,17,17,0.9) 100%);
 }
+/* Photo-hero crops: keep the car (and the IVAN sign) in frame */
+.hero-photo-amadria .hero-bg img { object-position: center 72%; }
+.hero-photo-dresort .hero-bg img { object-position: center 66%; }
 .hero-content {
   position: relative;
   z-index: 1;
