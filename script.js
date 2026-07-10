@@ -1851,6 +1851,24 @@ if (quoteWidget) {
     const passengers = document.getElementById('quote-passengers').dataset.value;
     const luggage = document.getElementById('quote-luggage').dataset.value;
     const base = { from, to, tripType, passengers, luggage };
+    const pax = parseInt(passengers, 10);
+
+    // Fixed prices are per car (Škoda Superb, up to 4). Larger groups need a
+    // van, so no automatic price: they contact Antonio directly for a quote.
+    if (pax >= 9) {
+      const url = bookingUrl({ ...base, priceParam: 'custom' });
+      quoteResult.innerHTML =
+        '<p>For 9 to 12 passengers I put together a van and my car, and drive you in the car myself. Contact me for a price.</p>' +
+        '<a class="btn btn-primary quote-btn" href="' + url + '">Request a Quote</a>';
+      return;
+    }
+    if (pax >= 5) {
+      const url = bookingUrl({ ...base, priceParam: 'custom' });
+      quoteResult.innerHTML =
+        '<p>For 5 to 8 passengers a van is needed. I don\'t run a van myself yet, but contact me and I\'ll do my best to arrange one for you.</p>' +
+        '<a class="btn btn-primary quote-btn" href="' + url + '">Request a Quote</a>';
+      return;
+    }
 
     if (from === to) {
       const url = bookingUrl({ ...base, priceParam: 'meter' });
