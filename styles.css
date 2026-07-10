@@ -1127,4 +1127,10 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
   .footer-grid { grid-template-columns: 1fr; }
   .why-book-grid { grid-template-columns: 1fr; }
   .pricing-card { padding: 24px; }
+
+  /* Center the whole footer on mobile */
+  .site-footer { text-align: center; }
+  .footer-links { justify-items: center; }
+  .footer-socials { justify-content: center; }
+  .footer-col-trust { align-items: center; }
 }
