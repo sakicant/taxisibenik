@@ -1,0 +1,61 @@
+{
+  "slug": "day-trip-plitvice-lakes-national-park-split",
+  "title": "Day Trip to Plitvice from Split | Private Tour, Fixed €650 | TAXI Antonio",
+  "description": "Private round-trip taxi transfer to Plitvice Lakes from Split. Fixed €650 per car, up to 4 passengers, door-to-door from Split hotels, the cruise port and the old town. Not a tour, just the ride there and back.",
+  "keywords": "day trip to plitvice from split, round trip transfer to plitvice, taxi to plitvice from split, plitvice lakes from split, split to plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Private Day Trip to Plitvice Lakes from Split",
+      "description": "A private day trip to Plitvice Lakes National Park from Split with a local English-speaking driver. Fixed price of 650 euros per car for up to 4 passengers, with door-to-door pickup at Split hotels, the cruise port, the bus and train station and the old town.",
+      "touristType": "Nature and sightseeing",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "650",
+        "priceCurrency": "EUR",
+        "description": "Private vehicle, round trip Split to Plitvice Lakes National Park, up to 4 passengers. Park entrance tickets not included."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is this a guided tour or a taxi transfer?",
+          "acceptedAnswer": { "@type": "Answer", "text": "It is a taxi transfer, not a guided tour. Antonio is a local driver providing a private round-trip transfer from Split to Plitvice and back. You get the car and the driving; inside the park you are free to explore on your own, at your own pace." }
+        },
+        {
+          "@type": "Question",
+          "name": "How much is a taxi to Plitvice from Split?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A private round-trip transfer from Split to Plitvice Lakes is a fixed 650 euros per car for up to 4 passengers, with tolls, fuel and the waiting time at the park included." }
+        },
+        {
+          "@type": "Question",
+          "name": "How long is the day trip from Split to Plitvice?",
+          "acceptedAnswer": { "@type": "Answer", "text": "The drive is around two and a half to three hours each way, plus roughly 4 to 6 hours to walk the lakes. It is a long full day out, usually 11 to 12 hours door to door, so an early start is essential." }
+        },
+        {
+          "@type": "Question",
+          "name": "Are Plitvice entrance tickets included in the price?",
+          "acceptedAnswer": { "@type": "Answer", "text": "No. Entrance tickets are bought separately from Plitvice Lakes National Park, at the entrance or online. Tickets cost roughly 10 to 40 euros depending on the season, and include the panoramic train and electric boat inside the park." }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book and pay for the day trip?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A 20% advance payment (minimum 20 euros) confirms the booking, by bank transfer or card, and you get an invoice as confirmation. The balance is paid to the driver on the day, in cash or by card." }
+        }
+      ]
+    }
+  ]
+}
