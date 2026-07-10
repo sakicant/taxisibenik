@@ -27,6 +27,30 @@
     },
     {
       "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi and transfer service",
+      "name": "Taxi Šibenik by TAXI Antonio",
+      "areaServed": { "@type": "City", "name": "Šibenik" },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxi and transfer services",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Local taxi rides in Šibenik" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Airport transfers" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "City-to-city transfers" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Hotel transfers" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Day trips to Krka and Plitvice" } }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
       "@type": "FAQPage",
       "mainEntity": [
         {
