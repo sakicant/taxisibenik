@@ -36,6 +36,7 @@ a { color: inherit; text-decoration: none; }
 }
 
 h1, h2, h3 { font-family: var(--font-head); color: var(--black); line-height: 1.2; }
+h1 { text-align: center; }
 
 .eyebrow {
   display: block;
@@ -294,7 +295,7 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
   align-items: center;
   width: 100%;
 }
-.hero-text { text-align: left; }
+.hero-text { text-align: center; }
 .hero-split .hero-tagline { margin-bottom: 28px; }
 .hero-split .hero-actions { justify-content: center; }
 
@@ -480,7 +481,7 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 
 /* Hero Trustindex badge */
 .hero-trust { margin: 0 0 20px; min-height: 28px; }
-.hero-split .hero-trust :is(a, div) { justify-content: flex-start; }
+.hero-split .hero-trust :is(a, div) { justify-content: center; }
 
 /* Booking page */
 .booking-page {
