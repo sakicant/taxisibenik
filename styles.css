@@ -395,7 +395,9 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
   padding: 10px 10px 4px;
 }
 .combo-option {
-  display: block;
+  display: flex;
+  align-items: center;
+  gap: 8px;
   width: 100%;
   text-align: left;
   border: none;
@@ -409,6 +411,8 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 }
 .combo-option[hidden] { display: none; }
 .combo-option:hover, .combo-option.active { background: var(--gray-100); color: var(--black); }
+.combo-opt-icon { flex: 0 0 auto; color: var(--gold); }
+.combo-opt-label { flex: 1 1 auto; min-width: 0; }
 .combo-empty { padding: 12px 10px; font-size: 0.88rem; color: var(--gray-600); }
 
 .quote-field-row {

@@ -1687,15 +1687,32 @@ if (quoteWidget) {
   const GROUPS = [
     { label: 'Šibenik area', items: ['Šibenik - center', 'Amadria Park Hotel Šibenik', 'D-Resort Hotel Šibenik', 'Bellevue Superior Hotel Šibenik', 'D-Marin Marina Mandalina Šibenik', 'Brodarica - Šibenik', 'Zablaće', 'Bilice', 'Žaborić', 'Jadrija'] },
     { label: 'Airports', items: ['Split Airport (SPU)', 'Zadar Airport (ZAD)', 'Dubrovnik Airport (DBV)', 'Zagreb Airport (ZAG)'] },
-    { label: 'Skradin area & Krka', items: ['Skradin - center', 'Marina ACI Skradin', 'NP Krka - Skradin entrance', 'NP Krka - Lozovac entrance', 'Lozovac', 'NP Krka - Roški Slap entrance'] },
-    { label: 'Inland', items: ['Tromilja', 'Drniš', 'Knin'] },
-    { label: 'Coastal towns & cities', items: ['Vodice', 'Tribunj', 'Zaton', 'Marina Zaton', 'Srima', 'Grebaštica', 'Tisno', 'Murter', 'Betina', 'Jezera', 'Bilo', 'Primošten', 'Rogoznica', 'Pirovac', 'Zadar', 'Split', 'Dubrovnik', 'Zagreb', 'Trogir'] },
+    { label: 'Coastal towns & cities', items: ['Vodice', 'Tribunj', 'Zaton', 'Marina Zaton', 'Srima', 'Skradin - center', 'Marina ACI Skradin', 'Grebaštica', 'Tisno', 'Murter', 'Betina', 'Jezera', 'Bilo', 'Primošten', 'Rogoznica', 'Pirovac', 'Zadar', 'Split', 'Dubrovnik', 'Zagreb', 'Trogir'] },
+    { label: 'NP Krka', items: ['NP Krka - Skradin entrance', 'NP Krka - Lozovac entrance', 'NP Krka - Roški Slap entrance'] },
+    { label: 'Inland', items: ['Tromilja', 'Lozovac', 'Drniš', 'Knin'] },
     { label: 'Plitvice', items: ['NP Plitvice Lakes'] }
   ];
 
   // Diacritic-insensitive normalize so "sibenik" matches "Šibenik", etc.
   function normalize(s) {
     return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  }
+
+  // A small type icon next to each combo option: airport, hotel, city, or a
+  // generic map pin for towns and everything else.
+  const COMBO_CITIES = new Set(['Šibenik - center', 'Split', 'Zadar', 'Dubrovnik', 'Zagreb', 'Trogir', 'Makarska']);
+  function iconFor(name) {
+    let p;
+    if (/Airport/.test(name)) {
+      p = '<path d="M21 15.5v-1.4l-7-4.3V5a1.5 1.5 0 0 0-3 0v4.8l-7 4.3v1.4l7-2.1v3.4l-1.9 1.3v1.1L12 18l3.9 1.2v-1.1L14 16.8v-3.4z"/>';
+    } else if (/Hotel/.test(name)) {
+      p = '<path d="M3 19V6a1 1 0 0 1 2 0v5h11a4 4 0 0 1 4 4v4a1 1 0 0 1-2 0v-2H5v2a1 1 0 0 1-2 0zm5-6a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/>';
+    } else if (COMBO_CITIES.has(name)) {
+      p = '<path d="M3 21V7l5-2.5V7l5-2.5V10h6v11H3zm2.5-3H8v-2H5.5v2zm0-4H8v-2H5.5v2zm0-4H8V8H5.5v2zm7 8H15v-2h-2.5v2zm0-4H15v-2h-2.5v2z"/>';
+    } else {
+      p = '<path d="M12 2a6 6 0 0 0-6 6c0 4.4 6 12 6 12s6-7.6 6-12a6 6 0 0 0-6-6zm0 8.3A2.3 2.3 0 1 1 12 5.7a2.3 2.3 0 0 1 0 4.6z"/>';
+    }
+    return '<svg class="combo-opt-icon" viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true">' + p + '</svg>';
   }
 
   // Searchable, grouped dropdown backed by a hidden input (id kept as
@@ -1719,7 +1736,8 @@ if (quoteWidget) {
         const btn = document.createElement('button');
         btn.type = 'button';
         btn.className = 'combo-option';
-        btn.textContent = name;
+        btn.innerHTML = iconFor(name) + '<span class="combo-opt-label"></span>';
+        btn.querySelector('.combo-opt-label').textContent = name;
         btn.addEventListener('click', () => choose(name));
         g.appendChild(btn);
         options.push({ el: btn, group: g, value: name, norm: normalize(name) });
