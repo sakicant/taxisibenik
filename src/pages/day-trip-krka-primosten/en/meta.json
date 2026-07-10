@@ -1,7 +1,7 @@
 {
   "slug": "day-trip-krka-national-park-primosten",
-  "title": "Day Trip to Krka from Primošten | Private Tour, Fixed €110 | TAXI Antonio",
-  "description": "Private round-trip taxi transfer to Krka from Primošten. Fixed €110 per car, up to 4 passengers, door-to-door from Primošten, Zečevo and Rogoznica hotels and apartments. Not a tour, just the ride there and back.",
+  "title": "Day Trip to Krka from Primošten | Private Tour, Fixed €155 | TAXI Antonio",
+  "description": "Private round-trip taxi transfer to Krka from Primošten. Fixed €155 per car, up to 4 passengers, door-to-door from Primošten, Zečevo and Rogoznica hotels and apartments. Not a tour, just the ride there and back.",
   "keywords": "day trip to krka from primosten, krka from primosten, taxi to krka from primosten, krka transfer primosten, krka from rogoznica, krka from zecevo, primosten to krka national park",
   "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
   "schema": [
@@ -9,7 +9,7 @@
       "@context": "https://schema.org",
       "@type": "TouristTrip",
       "name": "Private Day Trip to Krka from Primošten",
-      "description": "A private day trip to Krka National Park from Primošten with a local English-speaking driver. Fixed price of 110 euros per car for up to 4 passengers, with door-to-door pickup at hotels and apartments in Primošten, the Zečevo area and Rogoznica.",
+      "description": "A private day trip to Krka National Park from Primošten with a local English-speaking driver. Fixed price of 155 euros per car for up to 4 passengers, with door-to-door pickup at hotels and apartments in Primošten, the Zečevo area and Rogoznica.",
       "touristType": "Nature and sightseeing",
       "provider": {
         "@type": "LocalBusiness",
@@ -21,7 +21,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "155",
         "priceCurrency": "EUR",
         "description": "Private vehicle, round trip Primošten to Krka National Park, up to 4 passengers. Park entrance tickets not included."
       }
@@ -43,7 +43,7 @@
         {
           "@type": "Question",
           "name": "How much is a taxi to Krka from Primošten?",
-          "acceptedAnswer": { "@type": "Answer", "text": "A private round-trip transfer from Primošten to Krka Lakes is a fixed 110 euros per car for up to 4 passengers, with fuel and the waiting time at the park included. The same price covers pickups in the Zečevo area and Rogoznica." }
+          "acceptedAnswer": { "@type": "Answer", "text": "A private round-trip transfer from Primošten to Krka Lakes is a fixed 155 euros per car for up to 4 passengers, with fuel and the waiting time at the park included. The same price covers pickups in the Zečevo area and Rogoznica." }
         },
         {
           "@type": "Question",

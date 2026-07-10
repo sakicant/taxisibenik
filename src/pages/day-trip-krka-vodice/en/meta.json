@@ -1,7 +1,7 @@
 {
   "slug": "day-trip-krka-national-park-vodice",
-  "title": "Day Trip to Krka from Vodice | Private Tour, Fixed €100 | TAXI Antonio",
-  "description": "Private round-trip taxi transfer to Krka from Vodice. Fixed €100 per car, up to 4 passengers, door-to-door from Vodice, Srima and Tribunj hotels and apartments. Not a tour, just the ride there and back.",
+  "title": "Day Trip to Krka from Vodice | Private Tour, Fixed €125 | TAXI Antonio",
+  "description": "Private round-trip taxi transfer to Krka from Vodice. Fixed €125 per car, up to 4 passengers, door-to-door from Vodice, Srima and Tribunj hotels and apartments. Not a tour, just the ride there and back.",
   "keywords": "day trip to krka from vodice, krka from vodice, taxi to krka from vodice, krka transfer vodice, krka from srima, krka from tribunj, vodice to krka national park",
   "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
   "schema": [
@@ -9,7 +9,7 @@
       "@context": "https://schema.org",
       "@type": "TouristTrip",
       "name": "Private Day Trip to Krka from Vodice",
-      "description": "A private day trip to Krka National Park from Vodice with a local English-speaking driver. Fixed price of 100 euros per car for up to 4 passengers, with door-to-door pickup at hotels and apartments in Vodice, Srima and Tribunj.",
+      "description": "A private day trip to Krka National Park from Vodice with a local English-speaking driver. Fixed price of 125 euros per car for up to 4 passengers, with door-to-door pickup at hotels and apartments in Vodice, Srima and Tribunj.",
       "touristType": "Nature and sightseeing",
       "provider": {
         "@type": "LocalBusiness",
@@ -21,7 +21,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "100",
+        "price": "125",
         "priceCurrency": "EUR",
         "description": "Private vehicle, round trip Vodice to Krka National Park, up to 4 passengers. Park entrance tickets not included."
       }
@@ -43,7 +43,7 @@
         {
           "@type": "Question",
           "name": "How much is a taxi to Krka from Vodice?",
-          "acceptedAnswer": { "@type": "Answer", "text": "A private round-trip transfer from Vodice to Krka Lakes is a fixed 100 euros per car for up to 4 passengers, with fuel and the waiting time at the park included. The same price covers pickups in Srima and Tribunj." }
+          "acceptedAnswer": { "@type": "Answer", "text": "A private round-trip transfer from Vodice to Krka Lakes is a fixed 125 euros per car for up to 4 passengers, with fuel and the waiting time at the park included. The same price covers pickups in Srima and Tribunj." }
         },
         {
           "@type": "Question",
