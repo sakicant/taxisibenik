@@ -752,6 +752,33 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 .route-name { font-weight: 600; color: var(--black); font-size: 0.98rem; }
 .route-arrow { color: var(--gold); font-weight: 700; margin: 0 2px; }
 .route-price { font-family: var(--font-head); font-size: 1.2rem; color: var(--gold); white-space: nowrap; }
+
+/* Dual-action airport route cards (route details + book on this page) */
+.airport-route-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  max-width: 860px;
+  margin: 0 auto;
+}
+.airport-route {
+  background: var(--white);
+  border: 1px solid var(--gray-200);
+  border-radius: 8px;
+  padding: 16px 20px;
+}
+.ar-info { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+.ar-name { font-weight: 600; color: var(--black); font-size: 0.98rem; }
+.ar-price { font-family: var(--font-head); font-size: 1.2rem; color: var(--gold); white-space: nowrap; }
+.ar-actions { display: flex; gap: 10px; margin-top: 14px; }
+.ar-actions a { flex: 1; text-align: center; padding: 9px 10px; border-radius: 5px; font-size: 0.85rem; font-weight: 600; transition: background 0.2s ease, color 0.2s ease; }
+.ar-details { border: 1px solid var(--gold); color: var(--gold); }
+.ar-details:hover { background: var(--gold); color: var(--black); }
+.ar-book { background: var(--gold); color: var(--black); border: 1px solid var(--gold); }
+.ar-book:hover { background: var(--black); color: var(--white); border-color: var(--black); }
+#book { scroll-margin-top: 90px; }
+@media (max-width: 680px) { .airport-route-grid { grid-template-columns: 1fr; } }
+
 .route-group-title {
   max-width: 860px;
   margin: 34px auto 14px;
