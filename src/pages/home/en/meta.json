@@ -1,8 +1,8 @@
 {
   "slug": "",
-  "title": "Taxi Šibenik | Local Rides, Transfers & Day Trips | TAXI Antonio",
-  "description": "Local taxi Šibenik available on demand and 24/7 when booked in advance. Airport transfers, city connections and day trips. English-speaking driver. Book directly with TAXI Antonio.",
-  "keywords": "taxi šibenik, taxi sibenik, sibenik airport transfer, taxi transfer sibenik",
+  "title": "Taxi Šibenik | Local Rides, Hotels, Hospital & Islands | TAXI Antonio",
+  "description": "Local taxi in Šibenik for on-demand rides, hospital and hotel pickups, the bus station, ferry port, and island connections. English-speaking driver. Book directly with Antonio.",
+  "keywords": "taxi šibenik, taxi sibenik, taxi sibenik hospital, sibenik hotel taxi, sibenik ferry port taxi, taxi zlarin prvic",
   "og_image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
   "schema": [
     {
@@ -67,6 +67,30 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Yes, cards and other contactless payment methods are accepted."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you do hospital pickups in Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Antonio takes passengers to and from Šibenik General Hospital and is allowed to drive into the hospital grounds, so there is no long walk from a car park."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you take me to the ferry for the islands?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Antonio drops off and picks up at the Šibenik ferry and catamaran port for Zlarin, Prvić, Kaprije and Žirje, and the boat to Obonjan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you pick up from Šibenik hotels and the bus station?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Antonio serves all the local hotels, the bus station and the ferry port, with luggage help and a name sign on request."
           }
         },
         {
