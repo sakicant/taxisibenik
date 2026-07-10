@@ -113,7 +113,7 @@ $lines[] = 'Quoted price: ' . ($price !== '' ? $price : 'custom');
 $lines[] = "Name: {$name}";
 $lines[] = "Email: {$email}";
 $lines[] = 'Phone: ' . ($phone !== '' ? $phone : 'not provided');
-if ($flight !== '') $lines[] = "Flight/vessel: {$flight}";
+if ($flight !== '') $lines[] = "Flight: {$flight}";
 if ($notes !== '') $lines[] = "Notes: {$notes}";
 $summary = implode("\n", $lines);
 
