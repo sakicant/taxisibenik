@@ -1466,9 +1466,9 @@ if (quoteWidget) {
       "Skradin - center": 65,
       "NP Krka - Skradin entrance": 65,
       "Marina ACI Skradin": 65,
-      "NP Plitvice Lakes": 280,
-      "Zagreb": 420,
-      "Zagreb Airport (ZAG)": 420
+      "NP Plitvice Lakes": 310,
+      "Zagreb": 450,
+      "Zagreb Airport (ZAG)": 450
     },
     "NP Krka - Roški Slap entrance": {
       "Šibenik - center": 90,
@@ -1589,7 +1589,7 @@ if (quoteWidget) {
       "Skradin - center": 290,
       "NP Krka - Skradin entrance": 290,
       "Marina ACI Skradin": 290,
-      "Drniš": 280,
+      "Drniš": 310,
       "NP Krka - Roški Slap entrance": 290,
       "Knin": 310
     },
@@ -1630,7 +1630,7 @@ if (quoteWidget) {
       "Skradin - center": 480,
       "NP Krka - Skradin entrance": 480,
       "Marina ACI Skradin": 485,
-      "Drniš": 420,
+      "Drniš": 450,
       "NP Krka - Roški Slap entrance": 485,
       "Knin": 450
     },
@@ -1671,7 +1671,7 @@ if (quoteWidget) {
       "Skradin - center": 485,
       "NP Krka - Skradin entrance": 485,
       "Marina ACI Skradin": 485,
-      "Drniš": 420,
+      "Drniš": 450,
       "NP Krka - Roški Slap entrance": 485,
       "Knin": 450
     }
