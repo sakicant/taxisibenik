@@ -1698,8 +1698,8 @@ if (quoteWidget) {
     return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
   }
 
-  // A small type icon next to each combo option: airport, hotel, city, or a
-  // generic map pin for towns and everything else.
+  // A small type icon next to each combo option: airport, hotel, marina,
+  // national park (nature), city, or town (default for populated places).
   const COMBO_CITIES = new Set(['Šibenik - center', 'Split', 'Zadar', 'Dubrovnik', 'Zagreb', 'Trogir', 'Makarska']);
   function iconFor(name) {
     let p;
@@ -1707,10 +1707,14 @@ if (quoteWidget) {
       p = '<path d="M21 15.5v-1.4l-7-4.3V5a1.5 1.5 0 0 0-3 0v4.8l-7 4.3v1.4l7-2.1v3.4l-1.9 1.3v1.1L12 18l3.9 1.2v-1.1L14 16.8v-3.4z"/>';
     } else if (/Hotel/.test(name)) {
       p = '<path d="M3 19V6a1 1 0 0 1 2 0v5h11a4 4 0 0 1 4 4v4a1 1 0 0 1-2 0v-2H5v2a1 1 0 0 1-2 0zm5-6a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/>';
+    } else if (/Marina/.test(name)) {
+      p = '<path d="M3 18h18l-2.2 3H5.2zM12 2 6.5 15H12zM13 6l5.5 9H13z"/>';
+    } else if (/^NP /.test(name)) {
+      p = '<path d="M12 2 7 11h3l-4 6h5v3h2v-3h5l-4-6h3z"/>';
     } else if (COMBO_CITIES.has(name)) {
       p = '<path d="M3 21V7l5-2.5V7l5-2.5V10h6v11H3zm2.5-3H8v-2H5.5v2zm0-4H8v-2H5.5v2zm0-4H8V8H5.5v2zm7 8H15v-2h-2.5v2zm0-4H15v-2h-2.5v2z"/>';
     } else {
-      p = '<path d="M12 2a6 6 0 0 0-6 6c0 4.4 6 12 6 12s6-7.6 6-12a6 6 0 0 0-6-6zm0 8.3A2.3 2.3 0 1 1 12 5.7a2.3 2.3 0 0 1 0 4.6z"/>';
+      p = '<path d="M4 21v-9l8-6 8 6v9h-5v-6H9v6z"/>';
     }
     return '<svg class="combo-opt-icon" viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true">' + p + '</svg>';
   }
