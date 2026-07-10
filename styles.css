@@ -751,7 +751,7 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 .route-item:hover { border-color: var(--gold); transform: translateY(-2px); box-shadow: 0 8px 20px rgba(0,0,0,0.06); }
 .route-name { font-weight: 600; color: var(--black); font-size: 0.98rem; }
 .route-arrow { color: var(--gold); font-weight: 700; margin: 0 2px; }
-.route-price { font-family: var(--font-head); font-size: 1.2rem; color: var(--gold); white-space: nowrap; }
+.route-price { font-family: var(--font-head); font-size: 1.35rem; font-weight: 700; color: var(--gold); white-space: nowrap; }
 
 /* Dual-action airport route cards (route details + book on this page) */
 .airport-route-grid {
@@ -769,7 +769,7 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 }
 .ar-info { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
 .ar-name { font-weight: 600; color: var(--black); font-size: 0.98rem; }
-.ar-price { font-family: var(--font-head); font-size: 1.2rem; color: var(--gold); white-space: nowrap; }
+.ar-price { font-family: var(--font-head); font-size: 1.55rem; font-weight: 700; color: var(--gold); white-space: nowrap; }
 .ar-actions { display: flex; gap: 10px; margin-top: 14px; }
 .ar-actions a { flex: 1; text-align: center; padding: 9px 10px; border-radius: 5px; font-size: 0.85rem; font-weight: 600; transition: background 0.2s ease, color 0.2s ease; }
 .ar-details { border: 1px solid var(--gold); color: var(--gold); }

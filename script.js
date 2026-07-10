@@ -2067,6 +2067,22 @@ if (quoteWidget) {
         '<a class="btn btn-primary quote-btn" href="' + url + '">Request a Quote</a>';
     }
   });
+
+  // "Book this" route cards prefill the widget with the route and show the fare.
+  // The link's href="#book" handles the scroll up to the form.
+  document.querySelectorAll('.ar-book[data-from]').forEach((link) => {
+    link.addEventListener('click', () => {
+      const set = (hidId, visId, val) => {
+        const h = document.getElementById(hidId);
+        const v = document.getElementById(visId);
+        if (h) h.value = val;
+        if (v) v.value = val;
+      };
+      set('quote-from', 'quote-from-input', link.dataset.from);
+      set('quote-to', 'quote-to-input', link.dataset.to);
+      document.getElementById('quote-submit').click();
+    });
+  });
 }
 
 // Booking page: reads the quote from the URL, shows a summary, collects the
