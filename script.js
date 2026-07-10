@@ -622,6 +622,7 @@ if (quoteWidget) {
       "NP Krka - Roški Slap entrance": 150,
       "Knin": 140
     },
+    "Makarska": {},
     "Dubrovnik": {
       "Šibenik - center": 485,
       "D-Marin Marina Mandalina Šibenik": 485,
@@ -1113,6 +1114,7 @@ if (quoteWidget) {
       "Knin": 140,
       "NP Plitvice Lakes": 310
     },
+    "Novalja": {},
     "Zadar Airport (ZAD)": {
       "Šibenik - center": 130,
       "D-Marin Marina Mandalina Šibenik": 130,
