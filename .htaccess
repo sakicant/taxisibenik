@@ -1,6 +1,23 @@
 # Prevent directory listing.
 Options -Indexes
 
+# ---------------------------------------------------------------------------
+# 301 redirects: migrated from the old WordPress redirect plugin, plus URL
+# changes from the rebuild. Same domain, so each rule is old path -> new path.
+# Format:  RewriteRule ^OLD-PATH/?$ /NEW-PATH/ [R=301,L]
+# (no leading slash on the match side; the trailing /? makes the slash optional)
+# ---------------------------------------------------------------------------
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # --- New URL changes from the rebuild ---
+  # Example (fill the real old slug once known):
+  # RewriteRule ^vodice-transferi/?$ /taxi-vodice/ [R=301,L]
+
+  # --- Migrated from the WordPress redirect plugin (~90 rules) ---
+  # (converted rules get pasted here once you export them)
+</IfModule>
+
 # Never allow the browser to fetch credentials, raw config, or the SQL schema,
 # even if PHP is ever misconfigured.
 <FilesMatch "^(config\.php|config\.sample\.php|db\.php|schema\.sql)$">
