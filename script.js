@@ -1707,7 +1707,7 @@ if (quoteWidget) {
       p = '<path d="M21 15.5v-1.4l-7-4.3V5a1.5 1.5 0 0 0-3 0v4.8l-7 4.3v1.4l7-2.1v3.4l-1.9 1.3v1.1L12 18l3.9 1.2v-1.1L14 16.8v-3.4z"/>';
     } else if (/Hotel/.test(name)) {
       p = '<path d="M3 19V6a1 1 0 0 1 2 0v5h11a4 4 0 0 1 4 4v4a1 1 0 0 1-2 0v-2H5v2a1 1 0 0 1-2 0zm5-6a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/>';
-    } else if (/Marina/.test(name)) {
+    } else if (/Marina/.test(name) || name === 'NP Krka - Skradin entrance') {
       p = '<path d="M3 18h18l-2.2 3H5.2zM12 2 6.5 15H12zM13 6l5.5 9H13z"/>';
     } else if (/^NP /.test(name)) {
       p = '<path d="M12 2 7 11h3l-4 6h5v3h2v-3h5l-4-6h3z"/>';
