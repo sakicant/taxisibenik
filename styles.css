@@ -773,7 +773,7 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 .ar-actions { display: flex; gap: 10px; margin-top: 14px; }
 .ar-actions a { flex: 1; text-align: center; padding: 9px 10px; border-radius: 5px; font-size: 0.85rem; font-weight: 600; transition: background 0.2s ease, color 0.2s ease; }
 .ar-details { border: 1px solid var(--gold); color: var(--gold); }
-.ar-details:hover { background: var(--gold); color: var(--black); }
+.ar-details:hover { background: var(--gold-light); border-color: var(--gold-light); color: var(--black); }
 .ar-book { background: var(--gold); color: var(--black); border: 1px solid var(--gold); }
 .ar-book:hover { background: var(--black); color: var(--white); border-color: var(--black); }
 #book { scroll-margin-top: 90px; }
@@ -793,6 +793,38 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 .hub-note { text-align: center; color: var(--gray-600); font-size: 0.92rem; margin-top: 26px; }
 .hub-note a { color: var(--gold); text-decoration: underline; }
 .hub-note a:hover { color: var(--gold-light); }
+
+/* Krka / day-trip page */
+.daytrip-price { font-size: 1.05rem; font-weight: 600; color: var(--gold); margin: 0 0 22px; }
+.daytrip-highlights {
+  list-style: none;
+  padding: 0;
+  max-width: 760px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px 28px;
+}
+.daytrip-highlights li { position: relative; padding-left: 26px; color: var(--gray-800); font-size: 0.95rem; }
+.daytrip-highlights li::before { content: "\2713"; position: absolute; left: 0; color: var(--gold); font-weight: 700; }
+.daytrip-steps { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 900px; margin: 0 auto; }
+.daytrip-step { background: var(--white); border-radius: 8px; padding: 22px 24px; box-shadow: 0 4px 14px rgba(0,0,0,0.05); }
+.daytrip-step h3 { font-size: 1.05rem; margin-bottom: 8px; color: var(--black); }
+.daytrip-step p { color: var(--gray-600); font-size: 0.93rem; }
+.incl-excl-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 900px; margin: 0 auto; }
+.incl-excl-card { background: var(--white); border: 1px solid var(--gray-200); border-radius: 8px; padding: 24px 26px; }
+.incl-excl-card h3 { font-size: 1.05rem; margin-bottom: 14px; color: var(--black); }
+.incl-excl-card ul { list-style: none; padding: 0; margin: 0; }
+.incl-excl-card li { position: relative; padding-left: 24px; margin-bottom: 10px; font-size: 0.92rem; color: var(--gray-800); }
+.incl-excl-card.included li::before { content: "\2713"; position: absolute; left: 0; color: var(--gold); font-weight: 700; }
+.incl-excl-card.excluded li::before { content: "\2715"; position: absolute; left: 0; color: var(--gray-600); font-weight: 700; }
+.daytrip-cta { text-align: center; background: var(--black); color: var(--white); padding: 66px 0; }
+.daytrip-cta h2, .daytrip-cta .section-title { color: var(--white); }
+.daytrip-cta .section-subtitle { color: var(--gray-200); }
+.daytrip-cta .hero-actions { margin-top: 26px; }
+@media (max-width: 720px) {
+  .daytrip-highlights, .daytrip-steps, .incl-excl-grid { grid-template-columns: 1fr; }
+}
 
 .hub-prose-section { padding: 90px 0; background: var(--gray-100); }
 .hub-prose-inner {

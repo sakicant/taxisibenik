@@ -1,0 +1,61 @@
+{
+  "slug": "day-trip-krka-national-park-sibenik",
+  "title": "Day Trip to Krka from Šibenik | Private Tour, Fixed €100 | TAXI Antonio",
+  "description": "Private day trip to Krka from Šibenik. Fixed €100 per car, up to 4 passengers. Door-to-door pickup at all Šibenik hotels, apartments, the bus and train stations and the ferry port. Book with Antonio.",
+  "keywords": "day trip to krka from sibenik, krka day trip sibenik, sibenik to krka national park, krka waterfalls tour sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Private Day Trip to Krka from Šibenik",
+      "description": "A private day trip to Krka National Park from Šibenik with a local English-speaking driver. Fixed price of 100 euros per car for up to 4 passengers, with door-to-door pickup at hotels, apartments, the bus and train stations and the ferry port.",
+      "touristType": "Nature and sightseeing",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Private vehicle, round trip Šibenik to Krka National Park, up to 4 passengers. Park entrance tickets not included."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can you pick us up from Amadria Park, D-Resort or Hotel Bellevue?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. I regularly pick up guests from Amadria Park resort, D-Resort Šibenik, Hotel Bellevue and other Šibenik hotels. Send me your hotel name and I will confirm the exact pickup time and meeting point." }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you pick up from the Šibenik ferry port, bus or train station?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. I collect guests door to door from the Šibenik ferry and cruise port, the bus station and the Šibenik and Perković train stations, with a name sign on request." }
+        },
+        {
+          "@type": "Question",
+          "name": "How long do we spend at Krka National Park?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Most guests choose around 3 to 4 hours of free time inside the park, enough to see the main waterfalls and walk the classic boardwalk loop. A shorter or longer stay can be agreed when you book." }
+        },
+        {
+          "@type": "Question",
+          "name": "Are Krka entrance tickets included in the price?",
+          "acceptedAnswer": { "@type": "Answer", "text": "No. Entrance tickets are bought separately, directly from Krka National Park at the Skradin or Lozovac entrance or online. Tickets cost roughly 7 to 40 euros depending on the season." }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book and pay for the day trip from Šibenik to Krka?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A 50 euro advance payment secures the vehicle for your date, by bank transfer or card, and you get an invoice as confirmation. The remaining 50 euros is paid to the driver on the day, in cash or by card." }
+        }
+      ]
+    }
+  ]
+}
