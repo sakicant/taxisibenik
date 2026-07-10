@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-zablace",
+  "title": "Taxi Zablaće | TAXI Antonio",
+  "description": "Taxi Zablaće: fixed airport transfers to Split (€95) and Zadar for campers and beach guests near Amadria Park, plus runs to Šibenik and Vodice.",
+  "keywords": "taxi zablace, zablace taxi, zablace campsite taxi, zablace airport transfer, amadria park zablace taxi, zablace to split airport",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Local taxi and airport transfers",
+      "name": "Taxi Zablaće",
+      "description": "Private fixed-price taxi from Zablaće, the campsite and Amadria Park area southwest of Šibenik, to Split Airport, Zadar Airport, Šibenik and Vodice.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Zablaće",
+      "url": "https://taxisibenik.hr/taxi-zablace/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxi fares from Zablaće",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće to Šibenik",
+            "price": "18",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Zabla%C4%87e&to=%C5%A0ibenik%20-%20center&price=18"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće to Vodice",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Zabla%C4%87e&to=Vodice&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće to Split Airport",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Zabla%C4%87e&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće to Zadar Airport",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Zabla%C4%87e&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do you pick up from the campsite and the Amadria Park area?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. I collect you at the campsite reception, your apartment or the Amadria Park area nearby, with room for luggage and gear. Send the exact spot when you book."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there space for camping and beach gear?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The Škoda Superb has a large boot for suitcases, camping equipment and beach kit. Tell me if you have bikes or bulky items so I can plan for it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much is Zablaće to Split Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed €95 per car for up to 4 passengers, tolls and luggage included, the same price in both directions."
+          }
+        }
+      ]
+    }
+  ]
+}

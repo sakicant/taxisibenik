@@ -1,8 +1,106 @@
 {
   "slug": "taxi-vodice",
-  "title": "Taxi Vodice | Transfers & Local Rides | TAXI Antonio",
-  "description": "Taxi and private transfers to and from Vodice. Airport transfers, local rides and day trips with a reliable Šibenik-based driver. Book directly with TAXI Antonio.",
-  "keywords": "taxi vodice, vodice transfers, vodice airport transfer",
-  "og_image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
-  "schema": null
+  "title": "Taxi Vodice | TAXI Antonio",
+  "description": "Taxi Vodice: fixed airport transfers to Zadar (€100) and Split, marina and resort pickups, Krka day trips and island-ferry drops. Book direct.",
+  "keywords": "taxi vodice, vodice taxi, vodice airport transfer, vodice to split airport, vodice to zadar airport, vodice marina taxi, vodice to krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Local taxi and airport transfers",
+      "name": "Taxi Vodice",
+      "description": "Private fixed-price taxi in Vodice: airport transfers to Split and Zadar, marina and resort pickups, Krka National Park day trips and island ferry drops.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxi fares from Vodice",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice to Šibenik",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice to Krka NP (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice to Zadar Airport",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice to Split Airport",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can you pick up crews at Vodice marina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. I meet yacht and charter crews right at the marina with space for luggage and provisions, and I can arrange an early or late slot around your charter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you run late at night in Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. If it is booked ahead I can collect you after an evening out and get you back to your accommodation safely at a fixed price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you take me to the Prvić or Zlarin ferry?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Both leave from the Vodice waterfront and I can drop you right at the landing. Ask me for the fare when you book."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much is Vodice to Zadar Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed €100 per car for up to 4 passengers, and Split Airport is €115, tolls and luggage included."
+          }
+        }
+      ]
+    }
+  ]
 }

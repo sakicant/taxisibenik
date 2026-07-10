@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Taxi Perković | TAXI Antonio",
+  "description": "Taxi Perković: platform meet-and-greet at the main railway station serving Šibenik, with onward transfers to Šibenik, Vodice, Krka and beyond.",
+  "keywords": "taxi perkovic, perkovic taxi, perkovic train station taxi, perkovic railway station transfer, perkovic to sibenik, perkovic to krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Local taxi and airport transfers",
+      "name": "Taxi Perković",
+      "description": "Private taxi meeting trains at Perković, the main railway station serving the Šibenik area, with onward transfers to Šibenik, Vodice, Krka, Drniš, Knin and Split Airport.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Where do you meet me at Perković station?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "On the platform, or by the station exit if you prefer. I will have your name ready and help with your bags so you can walk straight to the car."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if my train to Perković is late?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I track your train and adjust the pickup to match, at no extra charge, so I am there whenever it actually arrives."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a taxi rank at Perković?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, there is no rank at the station, so it is best to book ahead. Send me your train time and destination and I will be waiting when you step off."
+          }
+        }
+      ]
+    }
+  ]
+}
