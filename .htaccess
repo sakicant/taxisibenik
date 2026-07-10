@@ -13,6 +13,10 @@ Options -Indexes
   # --- New URL changes from the rebuild ---
   RewriteRule ^airport-transfers/?$ /airport-transfers-from-sibenik/ [R=301,L]
   RewriteRule ^vodice-transfers/?$ /taxi-vodice/ [R=301,L]
+  RewriteRule ^transfers/?$ /sibenik-transfers/ [R=301,L]
+  RewriteRule ^transfers-2/?$ /sibenik-transfers/ [R=301,L]
+  RewriteRule ^taxi-sibenik/?$ / [R=301,L]
+  RewriteRule ^airport-zadar-transfer/?$ /airport-transfers-from-sibenik/ [R=301,L]
   # --- Legacy redirects to sister site taxiskradin.hr (17) ---
   RewriteRule ^taxi-vodice-skradin/?$ https://taxiskradin.hr/taxi-vodice-to-skradin/ [R=301,L]
   RewriteRule ^taxi-skradin-vodice/?$ https://taxiskradin.hr/taxi-skradin-to-vodice/ [R=301,L]
