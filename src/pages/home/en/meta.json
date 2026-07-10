@@ -1,6 +1,6 @@
 {
   "slug": "",
-  "title": "Taxi Šibenik | Local Rides, Hotels, Hospital & Islands | TAXI Antonio",
+  "title": "Taxi Šibenik - Service You Can Rely On | Taxi Antonio",
   "description": "Taxi Šibenik for on-demand local rides, hospital and hotel pickups, the bus and ferry port, and island connections. English-speaking driver. Book directly with Antonio.",
   "keywords": "taxi šibenik, taxi sibenik, taxi sibenik hospital, sibenik hotel taxi, sibenik ferry port taxi, taxi zlarin prvic",
   "og_image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
@@ -8,14 +8,22 @@
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Taxi Antonio",
+      "name": "TAXI Šibenik & Skradin - Antonio",
       "url": "https://taxisibenik.hr/",
       "telephone": "+385994471013",
       "email": "info@taxisibenik.hr",
-      "areaServed": ["Šibenik", "Skradin", "Split", "Zadar", "Dubrovnik", "Zagreb"],
+      "areaServed": [
+        "Šibenik",
+        "Skradin",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb"
+      ],
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Šibenik",
+        "postalCode": "22000",
         "addressCountry": "HR"
       },
       "aggregateRating": {
@@ -23,29 +31,107 @@
         "ratingValue": "4.9",
         "reviewCount": "142"
       },
-      "priceRange": "€€"
+      "priceRange": "€€",
+      "alternateName": "TAXI Antonio",
+      "@id": "https://taxisibenik.hr/#business",
+      "image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
+      "paymentAccepted": "Cash, Credit Card",
+      "currenciesAccepted": "EUR",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6956974,
+        "longitude": 15.7891511
+      },
+      "hasMap": "https://www.google.com/maps?cid=4748268601430744277",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "21:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "06:00",
+          "closes": "15:00"
+        }
+      ],
+      "sameAs": [
+        "https://web.facebook.com/profile.php?id=61579783829997",
+        "https://www.instagram.com/taxi_sibenik/",
+        "https://www.tiktok.com/@taxisibenik",
+        "https://www.tripadvisor.com/Attraction_Review-g295375-d24821165-Reviews-TAXI_Sibenik_Skradin_Antonio-Sibenik_Sibenik_Knin_County_Dalmatia.html",
+        "https://www.google.com/maps?cid=4748268601430744277"
+      ]
     },
     {
       "@context": "https://schema.org",
       "@type": "Service",
       "serviceType": "Taxi and transfer service",
       "name": "Taxi Šibenik by TAXI Antonio",
-      "areaServed": { "@type": "City", "name": "Šibenik" },
+      "areaServed": {
+        "@type": "City",
+        "name": "Šibenik"
+      },
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
         "telephone": "+385994471013",
-        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
       },
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
         "name": "Taxi and transfer services",
         "itemListElement": [
-          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Local taxi rides in Šibenik" } },
-          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Airport transfers" } },
-          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "City-to-city transfers" } },
-          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Hotel transfers" } },
-          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Day trips to Krka and Plitvice" } }
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Local taxi rides in Šibenik"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Airport transfers"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "City-to-city transfers"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Hotel transfers"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Day trips to Krka and Plitvice"
+            }
+          }
         ]
       }
     },
