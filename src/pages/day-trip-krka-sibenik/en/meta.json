@@ -53,7 +53,7 @@
         {
           "@type": "Question",
           "name": "How do I book and pay for the day trip from Šibenik to Krka?",
-          "acceptedAnswer": { "@type": "Answer", "text": "A 50 euro advance payment secures the vehicle for your date, by bank transfer or card, and you get an invoice as confirmation. The remaining 50 euros is paid to the driver on the day, in cash or by card." }
+          "acceptedAnswer": { "@type": "Answer", "text": "A 20% advance payment (minimum 20 euros) confirms the booking, by bank transfer or card, and you get an invoice as confirmation. The balance is paid to the driver on the day, in cash or by card." }
         }
       ]
     }
