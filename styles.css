@@ -800,6 +800,12 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 }
 .daytrip-price { font-size: 1.05rem; font-weight: 600; color: var(--gold); margin: 0 0 22px; }
 .section-note { max-width: 720px; margin: 14px auto 0; text-align: center; color: var(--gray-600); font-size: 0.95rem; font-style: italic; }
+.daytrip-gallery { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; max-width: 980px; margin: 8px auto 0; }
+.daytrip-gallery figure { margin: 0; }
+.daytrip-gallery img { width: 100%; height: 210px; object-fit: cover; border-radius: 8px; display: block; box-shadow: 0 4px 14px rgba(0,0,0,0.06); }
+.daytrip-gallery figcaption { margin-top: 8px; font-size: 0.82rem; color: var(--gray-600); text-align: center; }
+@media (max-width: 720px) { .daytrip-gallery { grid-template-columns: 1fr 1fr; gap: 12px; } .daytrip-gallery img { height: 150px; } }
+@media (max-width: 440px) { .daytrip-gallery { grid-template-columns: 1fr; } .daytrip-gallery img { height: 200px; } }
 .daytrip-highlights {
   list-style: none;
   padding: 0;
