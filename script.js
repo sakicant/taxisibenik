@@ -1685,11 +1685,12 @@ if (quoteWidget) {
   };
 
   const GROUPS = [
-    { label: 'Šibenik area', items: ['Šibenik - center', 'Amadria Park Hotel Šibenik', 'D-Resort Hotel Šibenik', 'Bellevue Superior Hotel Šibenik', 'D-Marin Marina Mandalina Šibenik', 'Brodarica - Šibenik', 'Zablaće', 'Bilice', 'Žaborić', 'Jadrija'] },
+    { label: 'Šibenik area', items: ['Šibenik - center', 'Brodarica - Šibenik', 'Zablaće', 'Bilice', 'Žaborić', 'Jadrija'] },
     { label: 'Airports', items: ['Split Airport (SPU)', 'Zadar Airport (ZAD)', 'Dubrovnik Airport (DBV)', 'Zagreb Airport (ZAG)'] },
-    { label: 'Coastal towns & cities', items: ['Vodice', 'Tribunj', 'Zaton', 'Marina Zaton', 'Srima', 'Skradin - center', 'Marina ACI Skradin', 'Grebaštica', 'Tisno', 'Murter', 'Betina', 'Jezera', 'Bilo', 'Primošten', 'Rogoznica', 'Pirovac', 'Zadar', 'Split', 'Dubrovnik', 'Zagreb', 'Trogir'] },
+    { label: 'Cities and towns', items: ['Vodice', 'Tribunj', 'Zaton', 'Srima', 'Skradin - center', 'Grebaštica', 'Tisno', 'Murter', 'Betina', 'Jezera', 'Bilo', 'Primošten', 'Rogoznica', 'Pirovac', 'Tromilja', 'Lozovac', 'Drniš', 'Knin', 'Zadar', 'Split', 'Dubrovnik', 'Zagreb', 'Trogir'] },
+    { label: 'Hotels', items: ['Amadria Park Hotel Šibenik', 'D-Resort Hotel Šibenik', 'Bellevue Superior Hotel Šibenik'] },
+    { label: 'Marinas', items: ['D-Marin Marina Mandalina Šibenik', 'Marina Zaton', 'Marina ACI Skradin'] },
     { label: 'NP Krka', items: ['NP Krka - Skradin entrance', 'NP Krka - Lozovac entrance', 'NP Krka - Roški Slap entrance'] },
-    { label: 'Inland', items: ['Tromilja', 'Lozovac', 'Drniš', 'Knin'] },
     { label: 'Plitvice', items: ['NP Plitvice Lakes'] }
   ];
 
