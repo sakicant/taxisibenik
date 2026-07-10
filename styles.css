@@ -837,6 +837,7 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 }
 
 .hub-prose-section { padding: 90px 0; background: var(--gray-100); }
+.hub-prose-section.hub-prose-white { background: var(--white); }
 .hub-prose-inner {
   display: grid;
   grid-template-columns: 1.2fr 1fr;
