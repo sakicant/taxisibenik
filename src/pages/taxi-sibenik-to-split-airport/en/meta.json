@@ -1,0 +1,68 @@
+{
+  "slug": "taxi-sibenik-to-split-airport",
+  "title": "Taxi Šibenik to Split Airport | Fixed €95 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Šibenik to Split Airport (SPU). Fixed €95 per car, up to 4 passengers, around 52 km and 50 to 60 minutes to departures. Book direct.",
+  "keywords": "taxi šibenik to split airport, transfer šibenik to split airport, sibenik to split airport taxi, sibenik split airport transfer, taxi sibenik spu, sibenik to split airport",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Airport taxi transfer",
+      "name": "Taxi Šibenik to Split Airport",
+      "description": "Private, fixed-price taxi and airport transfer from Šibenik to Split Airport (SPU). One local driver, door to departures, 95 euros per car for up to 4 passengers.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+      },
+      "areaServed": ["Šibenik", "Split Airport"],
+      "url": "https://taxisibenik.hr/taxi-sibenik-to-split-airport/",
+      "offers": {
+        "@type": "Offer",
+        "price": "95",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Šibenik to Split Airport (SPU), per car for up to 4 passengers. Return trip 190 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How long does the taxi take from Šibenik to Split Airport?",
+          "acceptedAnswer": { "@type": "Answer", "text": "The drive from Šibenik to Split Airport is around 52 kilometres and takes roughly 50 to 60 minutes in normal traffic, with about 10 minutes more at peak times in summer. I plan the pickup around your flight so you arrive with time to check in." }
+        },
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Šibenik to Split Airport?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A fixed 95 euros per car, one way, for up to 4 passengers. The price is per vehicle, not per person, and includes tolls, fuel and luggage. A return trip is 190 euros." }
+        },
+        {
+          "@type": "Question",
+          "name": "What time should I leave Šibenik for my flight from Split Airport?",
+          "acceptedAnswer": { "@type": "Answer", "text": "As a rule I suggest leaving Šibenik about 3 hours before an international flight and 2 hours before a domestic one, which allows around an hour on the road plus check-in and security. Tell me your flight time and I will confirm the exact pickup." }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you collect us very early in the morning?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. Early departures are a big part of what I do. I run at any hour, day or night, for a fixed price agreed in advance, and I am waiting at your door at the agreed time." }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you drop us right at the departures terminal?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. I take you straight to the departures drop-off at Split Airport (SPU) in Resnik, help with your luggage, and see you on your way. No parking walk, no shuttle." }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book and pay?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Book through the form on this page, by WhatsApp or by phone. A 20% advance payment (minimum 20 euros) confirms the booking, and the balance is paid to me on the day, in cash or by card." }
+        }
+      ]
+    }
+  ]
+}

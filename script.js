@@ -2083,6 +2083,25 @@ if (quoteWidget) {
       document.getElementById('quote-submit').click();
     });
   });
+
+  // Route pages: a [data-prefill-from] marker fills the widget with the route
+  // and shows the fixed fare on load, so the visitor lands on a ready quote.
+  const prefill = document.querySelector('[data-prefill-from]');
+  if (prefill) {
+    const set = (hidId, visId, val) => {
+      const h = document.getElementById(hidId);
+      const v = document.getElementById(visId);
+      if (h) h.value = val;
+      if (v) v.value = val;
+    };
+    set('quote-from', 'quote-from-input', prefill.dataset.prefillFrom);
+    set('quote-to', 'quote-to-input', prefill.dataset.prefillTo);
+    if (prefill.dataset.prefillTrip === 'return') {
+      const rb = document.querySelector('.trip-toggle-btn[data-trip="return"]');
+      if (rb) rb.click();
+    }
+    document.getElementById('quote-submit').click();
+  }
 }
 
 // Booking page: reads the quote from the URL, shows a summary, collects the
