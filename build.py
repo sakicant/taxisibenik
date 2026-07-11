@@ -158,9 +158,20 @@ def quote_widget_html():
 _QUOTE_WIDGET = None
 
 
+def related_links_html():
+    global _RELATED_LINKS
+    if _RELATED_LINKS is None:
+        _RELATED_LINKS = read(os.path.join(PARTIALS_DIR, "related-links.html"))
+    return _RELATED_LINKS
+
+
+_RELATED_LINKS = None
+
+
 def build_variant(lang, meta, content_path, base_tpl, header_tpl, footer_html, hreflang_block, variants):
     body = read(content_path)
     body = body.replace("{{QUOTE_WIDGET}}", quote_widget_html())
+    body = body.replace("{{RELATED_LINKS}}", related_links_html())
     slug = meta.get("slug", "")
     canonical = canonical_url(lang, slug)
     header_html = header_tpl.replace("{{LANG_SWITCHER}}", build_lang_switcher(variants, lang))

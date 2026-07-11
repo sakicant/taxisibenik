@@ -2138,6 +2138,16 @@ if (bookingPageForm) {
   }
 
   const bookingPageNote = document.getElementById('booking-page-note');
+
+  // Bookings need at least 2 hours' notice. Block past dates in the picker and
+  // enforce the 2-hour minimum on submit.
+  const MIN_NOTICE_MS = 2 * 60 * 60 * 1000;
+  const todayStr = new Date().toISOString().slice(0, 10);
+  const bookDateEl = document.getElementById('book-date');
+  const bookReturnDateEl = document.getElementById('book-return-date');
+  if (bookDateEl) bookDateEl.min = todayStr;
+  if (bookReturnDateEl) bookReturnDateEl.min = todayStr;
+
   bookingPageForm.addEventListener('submit', async (e) => {
     e.preventDefault();
 
@@ -2148,6 +2158,12 @@ if (bookingPageForm) {
 
     if (!name || !email || !date || !time) {
       bookingPageNote.textContent = 'Please fill in your name, email, pickup date, and time.';
+      return;
+    }
+
+    const pickupAt = new Date(date + 'T' + time);
+    if (isNaN(pickupAt.getTime()) || pickupAt.getTime() - Date.now() < MIN_NOTICE_MS) {
+      bookingPageNote.textContent = 'Please choose a pickup at least 2 hours from now. For a sooner ride, call or WhatsApp me directly.';
       return;
     }
 

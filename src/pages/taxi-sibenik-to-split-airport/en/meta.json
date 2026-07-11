@@ -59,6 +59,11 @@
         },
         {
           "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": { "@type": "Answer", "text": "At least 2 hours ahead, so I can confirm the car and your pickup time. Earlier is better for early-morning flights and high season. For a ride sooner than 2 hours, call or WhatsApp me directly and I will help if I can." }
+        },
+        {
+          "@type": "Question",
           "name": "How do I book and pay?",
           "acceptedAnswer": { "@type": "Answer", "text": "Book through the form on this page, by WhatsApp or by phone. A 20% advance payment (minimum 20 euros) confirms the booking, and the balance is paid to me on the day, in cash or by card." }
         }
