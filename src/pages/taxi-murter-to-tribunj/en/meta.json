@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-murter-to-tribunj",
+  "title": "Taxi Murter to Tribunj | Fixed €60 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Murter to Tribunj. Fixed €60 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi murter to tribunj, transfer murter to tribunj, murter to tribunj taxi, murter to tribunj transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Murter to Tribunj",
+      "description": "Private, fixed-price taxi and transfer from Murter to Tribunj, 60 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Murter",
+        "Tribunj"
+      ],
+      "url": "https://taxisibenik.hr/taxi-murter-to-tribunj/",
+      "offers": {
+        "@type": "Offer",
+        "price": "60",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Murter to Tribunj, per car for up to 4 passengers. Return 120 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Murter to Tribunj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 60 per car for up to 4 passengers, one way, luggage included. A return trip is 120."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do you pick up?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At your exact address in Murter, whether a home, hotel or apartment. Send the address when you book and I will confirm the meeting point."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-zablace-to-betina",
+  "title": "Taxi Zablaće to Betina | Fixed €80 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Zablaće to Betina. Fixed €80 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi zablaće to betina, transfer zablaće to betina, zablaće to betina taxi, zablaće to betina transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Zablaće to Betina",
+      "description": "Private, fixed-price taxi and transfer from Zablaće to Betina, 80 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zablaće",
+        "Betina"
+      ],
+      "url": "https://taxisibenik.hr/taxi-zablace-to-betina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Zablaće to Betina, per car for up to 4 passengers. Return 160 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Zablaće to Betina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 80 per car for up to 4 passengers, one way, luggage included. A return trip is 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do you pick up?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At your exact address in Zablaće, whether a home, hotel or apartment. Send the address when you book and I will confirm the meeting point."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}

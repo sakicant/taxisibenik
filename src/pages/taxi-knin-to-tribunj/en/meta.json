@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-knin-to-tribunj",
+  "title": "Taxi Knin to Tribunj | Fixed €105 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Knin to Tribunj. Fixed €105 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi knin to tribunj, transfer knin to tribunj, knin to tribunj taxi, knin to tribunj transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Knin to Tribunj",
+      "description": "Private, fixed-price taxi and transfer from Knin to Tribunj, 105 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Knin",
+        "Tribunj"
+      ],
+      "url": "https://taxisibenik.hr/taxi-knin-to-tribunj/",
+      "offers": {
+        "@type": "Offer",
+        "price": "105",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Knin to Tribunj, per car for up to 4 passengers. Return 210 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Knin to Tribunj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 105 per car for up to 4 passengers, one way, luggage included. A return trip is 210."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do you pick up?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At your exact address in Knin, whether a home, hotel or apartment. Send the address when you book and I will confirm the meeting point."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}

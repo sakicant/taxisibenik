@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-jezera-to-zaton",
+  "title": "Taxi Jezera to Zaton | Fixed €55 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Jezera to Zaton. Fixed €55 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi jezera to zaton, transfer jezera to zaton, jezera to zaton taxi, jezera to zaton transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Jezera to Zaton",
+      "description": "Private, fixed-price taxi and transfer from Jezera to Zaton, 55 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Jezera",
+        "Zaton"
+      ],
+      "url": "https://taxisibenik.hr/taxi-jezera-to-zaton/",
+      "offers": {
+        "@type": "Offer",
+        "price": "55",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Jezera to Zaton, per car for up to 4 passengers. Return 110 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Jezera to Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 55 per car for up to 4 passengers, one way, luggage included. A return trip is 110."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do you pick up?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At your exact address in Jezera, whether a home, hotel or apartment. Send the address when you book and I will confirm the meeting point."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}

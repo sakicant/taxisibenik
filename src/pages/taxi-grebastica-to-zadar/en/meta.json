@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-grebastica-to-zadar",
+  "title": "Taxi Grebaštica to Zadar | Fixed €155 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Grebaštica to Zadar. Fixed €155 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi grebaštica to zadar, transfer grebaštica to zadar, grebaštica to zadar taxi, grebaštica to zadar transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Grebaštica to Zadar",
+      "description": "Private, fixed-price taxi and transfer from Grebaštica to Zadar, 155 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Grebaštica",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/taxi-grebastica-to-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "155",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Grebaštica to Zadar, per car for up to 4 passengers. Return 310 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Grebaštica to Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 155 per car for up to 4 passengers, one way, with tolls, fuel and luggage included. A return trip is 310."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the transfer private or shared?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Every transfer is private and door to door, in a Škoda Superb. No vehicle sharing and no extra stops unless you ask for them."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you stop along the way?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. On the longer routes I am happy to stop for a coffee, a photo or a quick sight. Just let me know when booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}

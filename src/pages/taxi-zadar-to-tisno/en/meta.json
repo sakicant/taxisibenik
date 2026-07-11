@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zadar-to-tisno",
+  "title": "Taxi Zadar to Tisno | Fixed €110 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Zadar to Tisno. Fixed €110 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi zadar to tisno, transfer zadar to tisno, zadar to tisno taxi, zadar to tisno transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Zadar to Tisno",
+      "description": "Private, fixed-price taxi and transfer from Zadar to Tisno, 110 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Tisno"
+      ],
+      "url": "https://taxisibenik.hr/taxi-zadar-to-tisno/",
+      "offers": {
+        "@type": "Offer",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Zadar to Tisno, per car for up to 4 passengers. Return 220 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Zadar to Tisno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 110 per car for up to 4 passengers, one way, with tolls, fuel and luggage included. A return trip is 220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the transfer private or shared?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Every transfer is private and door to door, in a Škoda Superb. No vehicle sharing and no extra stops unless you ask for them."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you stop along the way?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. On the longer routes I am happy to stop for a coffee, a photo or a quick sight. Just let me know when booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}

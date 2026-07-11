@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-rogoznica-to-zaton",
+  "title": "Taxi Rogoznica to Zaton | Fixed €90 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Rogoznica to Zaton. Fixed €90 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi rogoznica to zaton, transfer rogoznica to zaton, rogoznica to zaton taxi, rogoznica to zaton transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Rogoznica to Zaton",
+      "description": "Private, fixed-price taxi and transfer from Rogoznica to Zaton, 90 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Rogoznica",
+        "Zaton"
+      ],
+      "url": "https://taxisibenik.hr/taxi-rogoznica-to-zaton/",
+      "offers": {
+        "@type": "Offer",
+        "price": "90",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Rogoznica to Zaton, per car for up to 4 passengers. Return 180 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Rogoznica to Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 90 per car for up to 4 passengers, one way, luggage included. A return trip is 180."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do you pick up?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At your exact address in Rogoznica, whether a home, hotel or apartment. Send the address when you book and I will confirm the meeting point."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-drnis-to-tromilja",
+  "title": "Taxi Drniš to Tromilja | Fixed €60 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Drniš to Tromilja. Fixed €60 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi drniš to tromilja, transfer drniš to tromilja, drniš to tromilja taxi, drniš to tromilja transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Drniš to Tromilja",
+      "description": "Private, fixed-price taxi and transfer from Drniš to Tromilja, 60 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Drniš",
+        "Tromilja"
+      ],
+      "url": "https://taxisibenik.hr/taxi-drnis-to-tromilja/",
+      "offers": {
+        "@type": "Offer",
+        "price": "60",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Drniš to Tromilja, per car for up to 4 passengers. Return 120 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Drniš to Tromilja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 60 per car for up to 4 passengers, one way, luggage included. A return trip is 120."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do you pick up?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At your exact address in Drniš, whether a home, hotel or apartment. Send the address when you book and I will confirm the meeting point."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}

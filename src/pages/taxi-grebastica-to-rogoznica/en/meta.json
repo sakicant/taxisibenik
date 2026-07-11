@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-grebastica-to-rogoznica",
+  "title": "Taxi Grebaštica to Rogoznica | Fixed €30 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Grebaštica to Rogoznica. Fixed €30 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi grebaštica to rogoznica, transfer grebaštica to rogoznica, grebaštica to rogoznica taxi, grebaštica to rogoznica transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Grebaštica to Rogoznica",
+      "description": "Private, fixed-price taxi and transfer from Grebaštica to Rogoznica, 30 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Grebaštica",
+        "Rogoznica"
+      ],
+      "url": "https://taxisibenik.hr/taxi-grebastica-to-rogoznica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "30",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Grebaštica to Rogoznica, per car for up to 4 passengers. Return 60 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Grebaštica to Rogoznica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 30 per car for up to 4 passengers, one way, luggage included. A return trip is 60."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do you pick up?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At your exact address in Grebaštica, whether a home, hotel or apartment. Send the address when you book and I will confirm the meeting point."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}

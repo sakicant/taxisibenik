@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-dubrovnik-to-zagreb",
+  "title": "Taxi Dubrovnik to Zagreb | Fixed €795 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Dubrovnik to Zagreb. Fixed €795 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi dubrovnik to zagreb, transfer dubrovnik to zagreb, dubrovnik to zagreb taxi, dubrovnik to zagreb transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Dubrovnik to Zagreb",
+      "description": "Private, fixed-price taxi and transfer from Dubrovnik to Zagreb, 795 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik",
+        "Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/taxi-dubrovnik-to-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "795",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Dubrovnik to Zagreb, per car for up to 4 passengers. Return 1590 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Dubrovnik to Zagreb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 795 per car for up to 4 passengers, one way, with tolls, fuel and luggage included. A return trip is 1590."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the transfer private or shared?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Every transfer is private and door to door, in a Škoda Superb. No vehicle sharing and no extra stops unless you ask for them."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you stop along the way?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. On the longer routes I am happy to stop for a coffee, a photo or a quick sight. Just let me know when booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}
