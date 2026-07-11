@@ -15,6 +15,7 @@ self-referencing hreflang tag until more languages are added alongside it.
 
 Run `python build.py` after editing any partial or page content.
 """
+import datetime
 import hashlib
 import json
 import os
@@ -203,6 +204,37 @@ def build_variant(lang, meta, content_path, base_tpl, header_tpl, footer_html, h
     print(f"built {rel}")
 
 
+def page_priority(slug):
+    if slug == "":
+        return "1.0"
+    if slug in ("airport-transfers-from-sibenik", "sibenik-transfers", "daytrips"):
+        return "0.9"
+    if slug in ("privacy-policy", "terms-and-conditions", "book"):
+        return "0.3"
+    if "-to-" in slug:  # route pages
+        return "0.6"
+    return "0.8"
+
+
+def write_sitemap(pages):
+    today = datetime.date.today().isoformat()
+    urls = []
+    for page_id, variants in sorted(pages.items()):
+        for lang, meta in variants.items():
+            slug = meta.get("slug", "")
+            urls.append((canonical_url(lang, slug), page_priority(slug)))
+    urls.sort()
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for loc, prio in urls:
+        lines.append(
+            f"  <url><loc>{loc}</loc><lastmod>{today}</lastmod>"
+            f"<changefreq>weekly</changefreq><priority>{prio}</priority></url>")
+    lines.append("</urlset>")
+    write(os.path.join(ROOT, "sitemap.xml"), "\n".join(lines) + "\n")
+    print(f"built sitemap.xml ({len(urls)} URLs)")
+
+
 def main():
     base_tpl = read(os.path.join(PARTIALS_DIR, "base.html"))
     header_tpl = read(os.path.join(PARTIALS_DIR, "header.html"))
@@ -215,6 +247,8 @@ def main():
         for lang, meta in variants.items():
             content_path = os.path.join(PAGES_DIR, page_id, lang, "content.html")
             build_variant(lang, meta, content_path, base_tpl, header_tpl, footer_html, hreflang_block, variants)
+
+    write_sitemap(pages)
 
 
 if __name__ == "__main__":
