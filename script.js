@@ -1318,7 +1318,7 @@ if (quoteWidget) {
       "Jezera": 75,
       "Murter": 90,
       "Betina": 90,
-      "Zadar": 160,
+      "Zadar": 140,
       "Zadar Airport (ZAD)": 130,
       "Tromilja": 35,
       "NP Krka - Lozovac entrance": 40,

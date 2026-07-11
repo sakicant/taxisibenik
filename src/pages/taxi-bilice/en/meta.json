@@ -78,9 +78,9 @@
           {
             "@type": "Offer",
             "name": "Taxi Bilice to Zadar",
-            "price": "160",
+            "price": "140",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/book/?from=Bilice&to=Zadar&price=160"
+            "url": "https://taxisibenik.hr/book/?from=Bilice&to=Zadar&price=140"
           }
         ]
       }
