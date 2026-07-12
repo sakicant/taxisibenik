@@ -108,7 +108,8 @@ function fmt_dt($date, $time)
           <div><span>Name</span><strong><?= e($b['customer_name']) ?></strong></div>
           <div><span>Email</span><strong><a href="mailto:<?= e($b['customer_email']) ?>"><?= e($b['customer_email']) ?></a></strong></div>
           <div><span>Phone</span><strong><?= $b['customer_phone'] ? e($b['customer_phone']) : '&mdash;' ?></strong></div>
-          <?php if ($b['flight']): ?><div><span>Flight</span><strong><?= e($b['flight']) ?></strong></div><?php endif; ?>
+          <?php if ($b['flight']): ?><div><span>Pickup details</span><strong><?= e($b['flight']) ?></strong></div><?php endif; ?>
+          <?php if (!empty($b['dropoff_details'])): ?><div><span>Destination details</span><strong><?= e($b['dropoff_details']) ?></strong></div><?php endif; ?>
         </div>
 
         <?php if ($b['notes']): ?><p class="booking-notes"><span>Customer notes:</span> <?= e($b['notes']) ?></p><?php endif; ?>

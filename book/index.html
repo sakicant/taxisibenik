@@ -23,7 +23,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/styles.css?v=e0af23f985">
+<link rel="stylesheet" href="/styles.css?v=299a9f9739">
 
 </head>
 <body>
@@ -184,8 +184,11 @@
         <label for="book-phone">Phone / WhatsApp</label>
         <input type="tel" id="book-phone" name="phone" placeholder="Include country code">
 
-        <label for="book-flight">Flight number (optional)</label>
-        <input type="text" id="book-flight" name="book-flight" placeholder="For airport pickups">
+        <label for="book-flight">Pickup details (arriving flight number or address)</label>
+        <input type="text" id="book-flight" name="book-flight" placeholder="Flight number if you're arriving by air, or your pickup address">
+
+        <label for="book-dropoff-details">Destination details (address or a flight number)</label>
+        <input type="text" id="book-dropoff-details" name="book-dropoff-details" placeholder="Drop-off address, or your flight number if you have a flight to catch">
 
         <label for="book-notes">Anything else? (optional)</label>
         <textarea id="book-notes" name="book-notes" rows="4" placeholder="Child seat, extra stops, oversized luggage, pickup instructions..."></textarea>
@@ -286,6 +289,6 @@
   </svg>
 </a>
 
-<script src="/script.js?v=e0af23f985"></script>
+<script src="/script.js?v=299a9f9739"></script>
 </body>
 </html>

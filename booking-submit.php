@@ -41,7 +41,8 @@ $price       = field('price', 40);
 $name        = field('name', 120);
 $email       = field('email', 160);
 $phone       = field('phone', 60);
-$flight      = field('flight', 80);
+$flight      = field('flight', 120);
+$dropoffDet  = field('dropoff_details', 120);
 $notes       = isset($_POST['notes']) ? mb_substr(trim((string) $_POST['notes']), 0, 2000) : '';
 
 $errors = [];
@@ -68,11 +69,11 @@ try {
         'INSERT INTO bookings
          (created_at, pickup, dropoff, trip_type, pickup_date, pickup_time,
           return_date, return_time, passengers, luggage, quoted_price,
-          customer_name, customer_email, customer_phone, flight, notes)
+          customer_name, customer_email, customer_phone, flight, dropoff_details, notes)
          VALUES
          (NOW(), :pickup, :dropoff, :trip, :pdate, :ptime,
           :rdate, :rtime, :pax, :lug, :price,
-          :name, :email, :phone, :flight, :notes)'
+          :name, :email, :phone, :flight, :dropoff_details, :notes)'
     );
     $stmt->execute([
         ':pickup' => $pickup,
@@ -89,6 +90,7 @@ try {
         ':email' => $email,
         ':phone' => $nn($phone),
         ':flight' => $nn($flight),
+        ':dropoff_details' => $nn($dropoffDet),
         ':notes' => $notes === '' ? null : $notes,
     ]);
     $id = tx_db()->lastInsertId();
@@ -113,7 +115,8 @@ $lines[] = 'Quoted price: ' . ($price !== '' ? $price : 'custom');
 $lines[] = "Name: {$name}";
 $lines[] = "Email: {$email}";
 $lines[] = 'Phone: ' . ($phone !== '' ? $phone : 'not provided');
-if ($flight !== '') $lines[] = "Flight: {$flight}";
+if ($flight !== '') $lines[] = "Pickup details: {$flight}";
+if ($dropoffDet !== '') $lines[] = "Destination details: {$dropoffDet}";
 if ($notes !== '') $lines[] = "Notes: {$notes}";
 $summary = implode("\n", $lines);
 

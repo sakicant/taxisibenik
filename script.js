@@ -2211,6 +2211,7 @@ if (bookingPageForm) {
       body.append('email', email);
       body.append('phone', document.getElementById('book-phone').value.trim());
       body.append('flight', document.getElementById('book-flight').value.trim());
+      body.append('dropoff_details', document.getElementById('book-dropoff-details').value.trim());
       body.append('notes', document.getElementById('book-notes').value.trim());
       body.append('company', document.getElementById('book-company').value);
 
