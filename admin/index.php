@@ -1,6 +1,7 @@
 <?php
 require __DIR__ . '/auth.php';
 tx_require_login();
+tx_auto_complete_bookings();
 
 $STATUSES = ['new', 'confirmed', 'completed', 'cancelled'];
 // Owner-facing labels for the workflow states.

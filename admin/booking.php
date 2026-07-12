@@ -1,6 +1,7 @@
 <?php
 require __DIR__ . '/auth.php';
 tx_require_login();
+tx_auto_complete_bookings();
 
 $id = (int) ($_GET['id'] ?? 0);
 $stmt = tx_db()->prepare('SELECT * FROM bookings WHERE id = ?');

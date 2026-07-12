@@ -27,7 +27,12 @@ if ($id > 0) {
     if ($action === 'set_status' && in_array($_POST['value'] ?? '', $STATUSES, true)) {
         tx_db()->prepare('UPDATE bookings SET status = ? WHERE id = ?')->execute([$_POST['value'], $id]);
     } elseif ($action === 'set_payment' && in_array($_POST['value'] ?? '', $PAYMENTS, true)) {
-        tx_db()->prepare('UPDATE bookings SET payment = ? WHERE id = ?')->execute([$_POST['value'], $id]);
+        $pay = $_POST['value'];
+        tx_db()->prepare('UPDATE bookings SET payment = ? WHERE id = ?')->execute([$pay, $id]);
+        // A deposit or full payment confirms a booking that is still new.
+        if ($pay === 'deposit' || $pay === 'paid') {
+            tx_db()->prepare("UPDATE bookings SET status = 'confirmed' WHERE id = ? AND status = 'new'")->execute([$id]);
+        }
     } elseif ($action === 'set_notes') {
         $notes = mb_substr(trim((string) ($_POST['value'] ?? '')), 0, 2000);
         tx_db()->prepare('UPDATE bookings SET admin_notes = ? WHERE id = ?')->execute([$notes === '' ? null : $notes, $id]);
