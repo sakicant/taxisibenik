@@ -60,7 +60,11 @@ function fmt_dt($date, $time)
 <body class="admin-page">
   <header class="admin-header">
     <strong>TAXI Antonio &mdash; Bookings</strong>
-    <a class="admin-logout" href="logout.php">Log out</a>
+    <nav class="admin-nav">
+      <a href="index.php" class="active">Bookings</a>
+      <a href="offers.php">Offers</a>
+      <a class="admin-logout" href="logout.php">Log out</a>
+    </nav>
   </header>
 
   <div class="admin-wrap">

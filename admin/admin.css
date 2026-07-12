@@ -190,3 +190,28 @@ body {
   .booking-adminnotes { flex-direction: column; }
   .booking-adminnotes textarea { width: 100%; }
 }
+
+/* Admin nav + offers */
+.admin-nav { display: flex; gap: 14px; align-items: center; }
+.admin-nav a { color: #cbd2dc; text-decoration: none; font-size: 0.9rem; }
+.admin-nav a.active { color: #fff; font-weight: 600; }
+.admin-nav a:hover { color: #fff; }
+.offer-form { background: #fff; border: 1px solid #e3e6ea; border-radius: 10px; padding: 20px; margin-bottom: 26px; }
+.offer-form h2 { margin: 0 0 16px; font-size: 1.1rem; }
+.offer-form-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
+.offer-form label { display: flex; flex-direction: column; font-size: 0.8rem; font-weight: 600; color: #555; gap: 5px; }
+.offer-form input, .offer-form select { padding: 9px 10px; border: 1px solid #d5d9de; border-radius: 6px; font-size: 0.92rem; font-weight: 400; }
+.offer-form-wide { grid-column: 1 / -1; }
+.offer-form-actions { margin-top: 16px; display: flex; gap: 10px; }
+.offer-list-title { font-size: 1.05rem; margin: 8px 0 14px; }
+.offer-admin-card { display: flex; justify-content: space-between; align-items: center; gap: 14px; background: #fff; border: 1px solid #e3e6ea; border-radius: 10px; padding: 14px 16px; margin-bottom: 10px; flex-wrap: wrap; }
+.offer-admin-card.is-hidden { opacity: 0.55; }
+.offer-admin-main { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; }
+.offer-admin-route { font-weight: 700; }
+.offer-admin-when { color: #666; font-size: 0.88rem; }
+.offer-admin-price s { color: #aaa; }
+.offer-admin-price strong { color: #b8860b; }
+.offer-admin-price em { color: #666; font-style: normal; font-size: 0.82rem; }
+.offer-admin-note { color: #666; font-size: 0.85rem; width: 100%; }
+.offer-admin-badge { background: #eee; color: #666; font-size: 0.72rem; padding: 2px 8px; border-radius: 20px; }
+.offer-admin-actions { display: flex; gap: 8px; align-items: center; }

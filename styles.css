@@ -1176,3 +1176,36 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
   .footer-socials { justify-content: center; }
   .footer-col-trust { align-items: center; }
 }
+
+/* Special offers page */
+.nav-offers { color: var(--gold); }
+.offers-intro { max-width: 760px; color: var(--gray-600); margin: 0 0 28px; }
+.offers-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 18px; }
+.offers-status { color: var(--gray-600); }
+.offer-card {
+  background: var(--gray-100);
+  border: 1px solid var(--gray-200);
+  border-radius: 14px;
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.offer-when { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; font-size: 0.85rem; }
+.offer-date { font-weight: 600; color: var(--black); }
+.offer-window { color: #b8860b; font-weight: 700; white-space: nowrap; }
+.offer-route { font-family: var(--font-head); font-size: 1.25rem; font-weight: 700; color: var(--black); line-height: 1.2; }
+.offer-route span { color: #999; font-size: 0.85rem; font-family: var(--font-body); font-weight: 400; }
+.offer-note { font-size: 0.88rem; color: var(--gray-600); margin: 0; }
+.offer-price { display: flex; align-items: baseline; gap: 10px; margin-top: 2px; }
+.offer-orig { text-decoration: line-through; color: #999; font-size: 1rem; }
+.offer-now { font-family: var(--font-head); font-size: 1.7rem; font-weight: 700; color: var(--gold); }
+.offer-seats { font-size: 0.8rem; color: var(--gray-600); }
+.offer-actions { display: flex; gap: 10px; margin-top: auto; padding-top: 6px; }
+.offer-actions .btn { padding: 10px 14px; font-size: 0.85rem; flex: 1; text-align: center; }
+/* Readable buttons on the light offers cards */
+.offer-actions .btn-primary[href*="wa.me"] { background: #25d366; border-color: #25d366; color: #fff; }
+.offer-actions .btn-primary[href*="wa.me"]:hover { background: #1fb457; border-color: #1fb457; color: #fff; }
+.offer-actions .btn-secondary { background: var(--black); color: var(--white); border-color: var(--black); }
+.offer-actions .btn-secondary:hover { background: #000; color: var(--white); }
+.offers-empty-cta { margin-top: 28px; color: var(--gray-600); }

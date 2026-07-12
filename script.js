@@ -2281,3 +2281,52 @@ if (form && note) {
     }
   });
 }
+
+// Special offers page: load active empty-leg offers from the PHP feed and render them.
+const offersList = document.getElementById('offers-list');
+if (offersList) {
+  const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, (c) =>
+    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const fmtDate = (d) => {
+    if (!d) return 'Flexible date';
+    const dt = new Date(d + 'T00:00:00');
+    return isNaN(dt) ? esc(d) : dt.toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short' });
+  };
+  const hm = (t) => (t ? String(t).slice(0, 5) : '');
+
+  fetch('/offers-api.php', { headers: { Accept: 'application/json' } })
+    .then((r) => r.json())
+    .then((data) => {
+      const offers = (data && data.offers) || [];
+      if (!offers.length) {
+        offersList.innerHTML = '<p class="offers-status">No special offers right now. Check back soon, or <a href="/contact/">contact me</a> for a fixed price on any route.</p>';
+        return;
+      }
+      offersList.innerHTML = offers.map((o) => {
+        const price = Math.round(Number(o.price));
+        const orig = o.original_price ? Math.round(Number(o.original_price)) : null;
+        const dateStr = fmtDate(o.offer_date);
+        const win = (o.window_start && o.window_end) ? (hm(o.window_start) + ' - ' + hm(o.window_end)) : '';
+        const waMsg = 'Hi Antonio, I would like to grab the special offer: ' + o.route_from + ' to ' + o.route_to +
+          ' on ' + dateStr + (win ? ' (' + win + ')' : '') + ' for €' + price + '.\nMy name: \nPassengers: ';
+        const wa = 'https://wa.me/385994471013?text=' + encodeURIComponent(waMsg);
+        const bookUrl = '/book/?from=' + encodeURIComponent(o.route_from) + '&to=' + encodeURIComponent(o.route_to) +
+          '&price=' + price + '&trip=oneway&pax=1&lug=1';
+        return '<article class="offer-card">' +
+          '<div class="offer-when"><span class="offer-date">' + esc(dateStr) + '</span>' +
+          (win ? '<span class="offer-window">' + esc(win) + '</span>' : '') + '</div>' +
+          '<div class="offer-route">' + esc(o.route_from) + ' <span>to</span> ' + esc(o.route_to) + '</div>' +
+          (o.note ? '<p class="offer-note">' + esc(o.note) + '</p>' : '') +
+          '<div class="offer-price">' + (orig ? '<span class="offer-orig">€' + orig + '</span>' : '') +
+          '<span class="offer-now">€' + price + '</span>' +
+          (o.seats ? '<span class="offer-seats">up to ' + Number(o.seats) + '</span>' : '') + '</div>' +
+          '<div class="offer-actions">' +
+          '<a class="btn btn-primary" href="' + wa + '" target="_blank" rel="noopener">Grab on WhatsApp</a>' +
+          '<a class="btn btn-secondary" href="' + bookUrl + '">Book</a>' +
+          '</div></article>';
+      }).join('');
+    })
+    .catch(() => {
+      offersList.innerHTML = '<p class="offers-status">Could not load offers right now. Please <a href="/contact/">contact me</a> and I\'ll share what\'s available.</p>';
+    });
+}
