@@ -117,18 +117,18 @@ h1 { text-align: center; }
   font-family: var(--font-body);
   color: var(--white);
   font-weight: 600;
-  font-size: 0.92rem;
-  letter-spacing: 0.24em;
+  font-size: 1.25rem;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
 }
 .logo-antonio {
   font-family: 'Dancing Script', cursive;
   color: var(--gold);
   font-weight: 700;
-  font-size: 1rem;
+  font-size: 1.15rem;
   line-height: 1;
 }
-.logo-a { font-size: 2em; }
+.logo-a { font-size: 1.36em; }
 
 /* Main nav */
 .main-nav { display: flex; align-items: center; gap: 26px; }
