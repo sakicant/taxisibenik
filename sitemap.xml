@@ -181,6 +181,7 @@
   <url><loc>https://taxisibenik.hr/taxi-dubrovnik-airport-to-knin/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-dubrovnik-airport-to-lozovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-dubrovnik-airport-to-murter/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-dubrovnik-airport-to-novalja/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-dubrovnik-airport-to-pirovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-dubrovnik-airport-to-primosten/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-dubrovnik-airport-to-rogoznica/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -211,6 +212,7 @@
   <url><loc>https://taxisibenik.hr/taxi-dubrovnik-to-knin/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-dubrovnik-to-lozovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-dubrovnik-to-murter/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-dubrovnik-to-novalja/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-dubrovnik-to-pirovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-dubrovnik-to-primosten/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-dubrovnik-to-rogoznica/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -351,6 +353,11 @@
   <url><loc>https://taxisibenik.hr/taxi-lozovac-to-zagreb/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-lozovac-to-zaton/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-lozovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-makarska-to-novalja/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-makarska-to-sibenik/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-makarska-to-zadar-airport/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-makarska-to-zadar/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-makarska-to-zagreb-airport/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-murter-to-bilice/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-murter-to-bilo/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-murter-to-brodarica/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -378,6 +385,12 @@
   <url><loc>https://taxisibenik.hr/taxi-murter-to-zagreb-airport/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-murter-to-zagreb/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-murter-to-zaton/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-novalja-to-dubrovnik-airport/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-novalja-to-dubrovnik/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-novalja-to-makarska/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-novalja-to-sibenik/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-novalja-to-split-airport/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-novalja-to-split/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-perkovic/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-pirovac-to-bilice/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-pirovac-to-bilo/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -474,7 +487,9 @@
   <url><loc>https://taxisibenik.hr/taxi-sibenik-to-jezera/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-sibenik-to-knin/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-sibenik-to-lozovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-sibenik-to-makarska/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-sibenik-to-murter/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-sibenik-to-novalja/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-sibenik-to-pirovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-sibenik-to-primosten/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-sibenik-to-rogoznica/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -535,6 +550,7 @@
   <url><loc>https://taxisibenik.hr/taxi-split-airport-to-knin/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-split-airport-to-lozovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-split-airport-to-murter/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-split-airport-to-novalja/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-split-airport-to-pirovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-split-airport-to-primosten/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-split-airport-to-rogoznica/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -564,6 +580,7 @@
   <url><loc>https://taxisibenik.hr/taxi-split-to-knin/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-split-to-lozovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-split-to-murter/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-split-to-novalja/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-split-to-pirovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-split-to-primosten/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-split-to-rogoznica/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -825,6 +842,7 @@
   <url><loc>https://taxisibenik.hr/taxi-zadar-airport-to-jezera/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zadar-airport-to-knin/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zadar-airport-to-lozovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-zadar-airport-to-makarska/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zadar-airport-to-murter/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zadar-airport-to-pirovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zadar-airport-to-primosten/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -855,6 +873,7 @@
   <url><loc>https://taxisibenik.hr/taxi-zadar-to-jezera/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zadar-to-knin/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zadar-to-lozovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-zadar-to-makarska/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zadar-to-murter/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zadar-to-pirovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zadar-to-primosten/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -885,6 +904,7 @@
   <url><loc>https://taxisibenik.hr/taxi-zagreb-airport-to-jezera/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zagreb-airport-to-knin/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zagreb-airport-to-lozovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://taxisibenik.hr/taxi-zagreb-airport-to-makarska/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zagreb-airport-to-murter/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zagreb-airport-to-pirovac/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://taxisibenik.hr/taxi-zagreb-airport-to-primosten/</loc><lastmod>2026-07-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>

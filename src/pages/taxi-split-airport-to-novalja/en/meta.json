@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-split-airport-to-novalja",
+  "title": "Taxi Split Airport to Novalja | Fixed €245 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Split Airport to Novalja. Fixed €245 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi split airport to novalja, transfer split airport to novalja, split airport to novalja taxi, split airport to novalja transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Split Airport to Novalja",
+      "description": "Private, fixed-price taxi and transfer from Split Airport to Novalja, 245 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Split Airport",
+        "Novalja"
+      ],
+      "url": "https://taxisibenik.hr/taxi-split-airport-to-novalja/",
+      "offers": {
+        "@type": "Offer",
+        "price": "245",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Split Airport to Novalja, per car for up to 4 passengers. Return 490 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How far is Novalja from Split Airport, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Split Airport to Novalja is around 187 km and takes roughly 2 h 40 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do you meet me at Split Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In the arrivals hall, just after baggage reclaim, holding a sign with your name. I help with the luggage and walk you to the car."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if my flight is delayed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No problem. I track your flight in real time and adjust the pickup to the actual landing, with no extra charge for the wait."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much is the transfer from Split Airport to Novalja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 245 per car for up to 4 passengers, one way, tolls and luggage included. A return trip is 490."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can plan around your flight. For a same-day pickup after a sudden change, call or WhatsApp me and I will help if I can."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zagreb-airport-to-makarska",
+  "title": "Taxi Zagreb Airport to Makarska | Fixed €610 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Zagreb Airport to Makarska. Fixed €610 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi zagreb airport to makarska, transfer zagreb airport to makarska, zagreb airport to makarska taxi, zagreb airport to makarska transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Zagreb Airport to Makarska",
+      "description": "Private, fixed-price taxi and transfer from Zagreb Airport to Makarska, 610 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zagreb Airport",
+        "Makarska"
+      ],
+      "url": "https://taxisibenik.hr/taxi-zagreb-airport-to-makarska/",
+      "offers": {
+        "@type": "Offer",
+        "price": "610",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Zagreb Airport to Makarska, per car for up to 4 passengers. Return 1220 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How far is Makarska from Zagreb Airport, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Zagreb Airport to Makarska is around 467 km and takes roughly 5 h 5 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do you meet me at Zagreb Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In the arrivals hall, just after baggage reclaim, holding a sign with your name. I help with the luggage and walk you to the car."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if my flight is delayed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No problem. I track your flight in real time and adjust the pickup to the actual landing, with no extra charge for the wait."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much is the transfer from Zagreb Airport to Makarska?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 610 per car for up to 4 passengers, one way, tolls and luggage included. A return trip is 1220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can plan around your flight. For a same-day pickup after a sudden change, call or WhatsApp me and I will help if I can."
+          }
+        }
+      ]
+    }
+  ]
+}

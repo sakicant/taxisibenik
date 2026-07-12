@@ -757,7 +757,13 @@ if (quoteWidget) {
       "NP Krka - Roški Slap entrance": 150,
       "Knin": 140
     },
-    "Makarska": {},
+    "Makarska": {
+      "Šibenik - center": 200,
+      "Zadar": 275,
+      "Zadar Airport (ZAD)": 275,
+      "Zagreb Airport (ZAG)": 610,
+      "Novalja": 420
+    },
     "Dubrovnik": {
       "Šibenik - center": 485,
       "D-Marin Marina Mandalina Šibenik": 485,
@@ -995,7 +1001,7 @@ if (quoteWidget) {
       "Zadar": 110,
       "Zadar Airport (ZAD)": 100,
       "Bilice": 35,
-      "Tromilja": 55,
+      "Tromilja": 45,
       "NP Krka - Lozovac entrance": 60,
       "Lozovac": 60,
       "Skradin - center": 60,
@@ -1249,7 +1255,24 @@ if (quoteWidget) {
       "Knin": 140,
       "NP Plitvice Lakes": 310
     },
-    "Novalja": {},
+    "Novalja": {
+      "Šibenik - center": 190,
+      "Split": 280,
+      "Split Airport (SPU)": 245,
+      "Dubrovnik": 680,
+      "Dubrovnik Airport (DBV)": 680,
+      "Makarska": 420
+    },
+    "Perković": {
+      "Šibenik - center": 55,
+      "Skradin - center": 60,
+      "Vodice": 70,
+      "NP Krka - Lozovac entrance": 60,
+      "Split Airport (SPU)": 90,
+      "Zadar Airport (ZAD)": 140,
+      "Drniš": 95,
+      "Knin": 110
+    },
     "Zadar Airport (ZAD)": {
       "Šibenik - center": 130,
       "D-Marin Marina Mandalina Šibenik": 130,
@@ -1352,7 +1375,7 @@ if (quoteWidget) {
       "Zaton": 55,
       "Marina Zaton": 60,
       "Srima": 50,
-      "Vodice": 55,
+      "Vodice": 45,
       "Tribunj": 65,
       "Pirovac": 75,
       "Tisno": 75,
@@ -1824,7 +1847,7 @@ if (quoteWidget) {
     { label: 'Airports', items: ['Split Airport (SPU)', 'Zadar Airport (ZAD)', 'Dubrovnik Airport (DBV)', 'Zagreb Airport (ZAG)'] },
     { label: 'Hotels and marinas', items: ['Amadria Park Hotel Šibenik', 'Amadria Park Camp', 'D-Resort Hotel Šibenik', 'Bellevue Superior Hotel Šibenik', 'D-Marin Marina Mandalina Šibenik', 'Marina Zaton', 'Marina ACI Skradin'] },
     { label: 'NP Krka', items: ['NP Krka - Skradin entrance', 'NP Krka - Lozovac entrance', 'NP Krka - Roški Slap entrance'] },
-    { label: 'Cities and towns', items: ['Vodice', 'Tribunj', 'Zaton', 'Srima', 'Skradin - center', 'Grebaštica', 'Tisno', 'Murter', 'Betina', 'Jezera', 'Bilo', 'Primošten', 'Rogoznica', 'Pirovac', 'Tromilja', 'Lozovac', 'Drniš', 'Knin', 'Zadar', 'Split', 'Dubrovnik', 'Zagreb', 'Trogir'] },
+    { label: 'Cities and towns', items: ['Vodice', 'Tribunj', 'Zaton', 'Srima', 'Skradin - center', 'Grebaštica', 'Tisno', 'Murter', 'Betina', 'Jezera', 'Bilo', 'Primošten', 'Rogoznica', 'Pirovac', 'Tromilja', 'Lozovac', 'Drniš', 'Knin', 'Perković', 'Zadar', 'Split', 'Dubrovnik', 'Zagreb', 'Trogir', 'Makarska', 'Novalja'] },
     { label: 'Plitvice', items: ['NP Plitvice Lakes'] }
   ];
 

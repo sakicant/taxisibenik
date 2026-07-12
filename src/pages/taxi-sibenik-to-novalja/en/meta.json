@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-sibenik-to-novalja",
+  "title": "Taxi Šibenik to Novalja | Fixed €190 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Šibenik to Novalja. Fixed €190 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi šibenik to novalja, transfer šibenik to novalja, šibenik to novalja taxi, šibenik to novalja transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Šibenik to Novalja",
+      "description": "Private, fixed-price taxi and transfer from Šibenik to Novalja, 190 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Novalja"
+      ],
+      "url": "https://taxisibenik.hr/taxi-sibenik-to-novalja/",
+      "offers": {
+        "@type": "Offer",
+        "price": "190",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Šibenik to Novalja, per car for up to 4 passengers. Return 380 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How far is Novalja from Šibenik, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Šibenik to Novalja is around 147 km and takes roughly 2 h 10 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Šibenik to Novalja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 190 per car for up to 4 passengers, one way, luggage included. A return trip is 380."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do you pick up?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At your exact address in Šibenik, whether a home, hotel or apartment. Send the address when you book and I will confirm the meeting point."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}

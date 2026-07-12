@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-sibenik-to-makarska",
+  "title": "Taxi Šibenik to Makarska | Fixed €200 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Šibenik to Makarska. Fixed €200 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi šibenik to makarska, transfer šibenik to makarska, šibenik to makarska taxi, šibenik to makarska transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Šibenik to Makarska",
+      "description": "Private, fixed-price taxi and transfer from Šibenik to Makarska, 200 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Makarska"
+      ],
+      "url": "https://taxisibenik.hr/taxi-sibenik-to-makarska/",
+      "offers": {
+        "@type": "Offer",
+        "price": "200",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Šibenik to Makarska, per car for up to 4 passengers. Return 400 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How far is Makarska from Šibenik, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Šibenik to Makarska is around 129 km and takes roughly 1 h 40 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Šibenik to Makarska?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 200 per car for up to 4 passengers, one way, luggage included. A return trip is 400."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do you pick up?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At your exact address in Šibenik, whether a home, hotel or apartment. Send the address when you book and I will confirm the meeting point."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}
