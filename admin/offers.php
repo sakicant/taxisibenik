@@ -24,6 +24,7 @@ function ev($v) { return $v === null ? '' : e($v); }
 <meta name="robots" content="noindex, nofollow">
 <title>Offers | TAXI Antonio Admin</title>
 <link rel="stylesheet" href="admin.css">
+<script src="prices-data.js?v=<?= @filemtime(__DIR__ . '/prices-data.js') ?>"></script>
 </head>
 <body class="admin-page">
   <header class="admin-header">
@@ -44,10 +45,10 @@ function ev($v) { return $v === null ? '' : e($v); }
 
       <div class="offer-form-grid">
         <label>From (pickup)
-          <input type="text" name="route_from" required value="<?= $edit ? ev($edit['route_from']) : '' ?>" placeholder="Skradin">
+          <input type="text" name="route_from" id="offer-from" list="tx-locations" required value="<?= $edit ? ev($edit['route_from']) : '' ?>" placeholder="Skradin">
         </label>
         <label>To (destination)
-          <input type="text" name="route_to" required value="<?= $edit ? ev($edit['route_to']) : '' ?>" placeholder="Split Airport">
+          <input type="text" name="route_to" id="offer-to" list="tx-locations" required value="<?= $edit ? ev($edit['route_to']) : '' ?>" placeholder="Split Airport">
         </label>
         <label>Date
           <input type="date" name="offer_date" value="<?= $edit ? ev($edit['offer_date']) : '' ?>">
@@ -59,10 +60,10 @@ function ev($v) { return $v === null ? '' : e($v); }
           <input type="time" name="window_end" value="<?= $edit ? ev(substr((string) $edit['window_end'], 0, 5)) : '08:00' ?>">
         </label>
         <label>Offer price (&euro;)
-          <input type="number" name="price" step="1" min="1" required value="<?= $edit ? (int) $edit['price'] : '' ?>">
+          <input type="number" name="price" id="offer-price" step="1" min="1" required value="<?= $edit ? (int) $edit['price'] : '' ?>" placeholder="you set this">
         </label>
-        <label>Normal price (&euro;, optional)
-          <input type="number" name="original_price" step="1" min="1" value="<?= $edit && $edit['original_price'] !== null ? (int) $edit['original_price'] : '' ?>">
+        <label>Normal price (&euro;)
+          <input type="number" name="original_price" id="offer-normal" step="1" min="1" value="<?= $edit && $edit['original_price'] !== null ? (int) $edit['original_price'] : '' ?>" placeholder="auto from price list">
         </label>
         <label>Capacity (passengers)
           <input type="number" name="capacity" step="1" min="1" max="8" value="<?= $edit ? (int) $edit['capacity'] : 4 ?>">
@@ -87,36 +88,83 @@ function ev($v) { return $v === null ? '' : e($v); }
       </fieldset>
       <template id="offer-extra-template">
         <div class="offer-extra-row">
-          <label>Pickup <input type="text" name="extra_from[]" placeholder="Trogir"></label>
-          <label>Price (&euro;) <input type="number" name="extra_price[]" step="1" min="1" placeholder="90"></label>
-          <label>Normal price (&euro;) <input type="number" name="extra_original[]" step="1" min="1" placeholder="optional"></label>
+          <label>Pickup <input type="text" name="extra_from[]" class="js-extra-from" list="tx-locations" placeholder="Trogir"></label>
+          <label>Price (&euro;) <input type="number" name="extra_price[]" step="1" min="1" placeholder="you set this"></label>
+          <label>Normal price (&euro;) <input type="number" name="extra_original[]" class="js-extra-normal" step="1" min="1" placeholder="auto"></label>
           <button type="button" class="offer-extra-remove" aria-label="Remove this pickup">&times;</button>
         </div>
       </template>
       <?php endif; ?>
+      <datalist id="tx-locations"></datalist>
 
       <div class="offer-form-actions">
         <button type="submit" class="admin-btn"><?= $edit ? 'Save changes' : 'Add offers' ?></button>
         <?php if ($edit): ?><a class="admin-btn admin-btn-ghost" href="offers.php">Cancel</a><?php endif; ?>
       </div>
     </form>
-    <?php if (!$edit): ?>
     <script>
       (function () {
+        // Fill the location datalist from the price matrix.
+        var dl = document.getElementById('tx-locations');
+        if (dl && window.TX_LOCATIONS) {
+          window.TX_LOCATIONS.forEach(function (loc) {
+            var o = document.createElement('option');
+            o.value = loc;
+            dl.appendChild(o);
+          });
+        }
+
+        var from = document.getElementById('offer-from');
+        var to = document.getElementById('offer-to');
+        var normal = document.getElementById('offer-normal');
+
+        // Auto-fill the main "Normal price" from the matrix, unless the owner
+        // has typed a value there by hand.
+        var mainManual = false;
+        if (normal) normal.addEventListener('input', function () { mainManual = true; });
+        function fillMain() {
+          if (!from || !to || !normal || mainManual || !window.txPrice) return;
+          var p = window.txPrice(from.value.trim(), to.value.trim());
+          if (p != null) normal.value = p;
+        }
+        if (from) from.addEventListener('change', fillMain);
+        if (to) to.addEventListener('change', fillMain);
+
+        // Extra pickups: add/remove rows and auto-fill each row's normal price.
         var addBtn = document.getElementById('offer-add-pickup');
         var rows = document.getElementById('offer-extra-rows');
         var tpl = document.getElementById('offer-extra-template');
-        if (!addBtn || !rows || !tpl) return;
-        addBtn.addEventListener('click', function () {
-          rows.appendChild(tpl.content.cloneNode(true));
-        });
-        rows.addEventListener('click', function (e) {
-          var btn = e.target.closest('.offer-extra-remove');
-          if (btn) btn.closest('.offer-extra-row').remove();
-        });
+        function fillRow(row) {
+          if (!window.txPrice || !to) return;
+          var f = row.querySelector('.js-extra-from');
+          var n = row.querySelector('.js-extra-normal');
+          if (!f || !n || n.dataset.manual) return;
+          var p = window.txPrice(f.value.trim(), to.value.trim());
+          if (p != null) n.value = p;
+        }
+        if (addBtn && rows && tpl) {
+          addBtn.addEventListener('click', function () {
+            rows.appendChild(tpl.content.cloneNode(true));
+          });
+          rows.addEventListener('click', function (e) {
+            var btn = e.target.closest('.offer-extra-remove');
+            if (btn) btn.closest('.offer-extra-row').remove();
+          });
+          rows.addEventListener('change', function (e) {
+            if (e.target.classList.contains('js-extra-from')) {
+              fillRow(e.target.closest('.offer-extra-row'));
+            }
+          });
+          rows.addEventListener('input', function (e) {
+            if (e.target.classList.contains('js-extra-normal')) e.target.dataset.manual = '1';
+          });
+          // When the shared destination changes, refresh every extra row too.
+          if (to) to.addEventListener('change', function () {
+            rows.querySelectorAll('.offer-extra-row').forEach(fillRow);
+          });
+        }
       })();
     </script>
-    <?php endif; ?>
 
     <h2 class="offer-list-title">Current offers (<?= count($offers) ?>)</h2>
     <?php if (!$offers): ?>
