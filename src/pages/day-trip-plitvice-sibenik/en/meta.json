@@ -1,6 +1,6 @@
 {
   "slug": "day-trip-plitvice-lakes-national-park-sibenik",
-  "title": "Day Trip to Plitvice from Šibenik | Private Tour, Fixed €500 | TAXI Antonio",
+  "title": "Day Trip to Plitvice from Šibenik | Private Transfer, Fixed €500 | TAXI Antonio",
   "description": "Private round-trip taxi transfer to Plitvice Lakes from Šibenik. Fixed €500 per car, up to 4 passengers, door-to-door from Šibenik hotels, apartments, stations and the port. Not a tour, just the ride there and back.",
   "keywords": "day trip to plitvice from sibenik, round trip transfer to plitvice, taxi to plitvice from sibenik, plitvice lakes from sibenik, sibenik to plitvice",
   "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
@@ -16,8 +16,16 @@
         "name": "Taxi Antonio",
         "telephone": "+385994471013",
         "email": "info@taxisibenik.hr",
-        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
-        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
       },
       "offers": {
         "@type": "Offer",
@@ -33,27 +41,42 @@
         {
           "@type": "Question",
           "name": "Is this a guided tour or a taxi transfer?",
-          "acceptedAnswer": { "@type": "Answer", "text": "It is a taxi transfer, not a guided tour. Antonio is a local driver providing a private round-trip transfer from Šibenik to Plitvice and back. You get the car and the driving; inside the park you are free to explore on your own, at your own pace." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It is a taxi transfer, not a guided tour. Antonio is a local driver providing a private round-trip transfer from Šibenik to Plitvice and back. You get the car and the driving; inside the park you are free to explore on your own, at your own pace."
+          }
         },
         {
           "@type": "Question",
           "name": "How much is a taxi to Plitvice from Šibenik?",
-          "acceptedAnswer": { "@type": "Answer", "text": "A private round-trip transfer from Šibenik to Plitvice Lakes is a fixed 500 euros per car for up to 4 passengers, with tolls, fuel and the waiting time at the park included." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A private round-trip transfer from Šibenik to Plitvice Lakes is a fixed 500 euros per car for up to 4 passengers, with tolls, fuel and the waiting time at the park included."
+          }
         },
         {
           "@type": "Question",
           "name": "How long is the day trip from Šibenik to Plitvice?",
-          "acceptedAnswer": { "@type": "Answer", "text": "The drive is around two hours to two hours fifteen each way, plus roughly 4 to 6 hours to walk the lakes. It is a full day out, usually 9 to 10 hours door to door." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive is around two hours to two hours fifteen each way, plus roughly 4 to 6 hours to walk the lakes. It is a full day out, usually 9 to 10 hours door to door."
+          }
         },
         {
           "@type": "Question",
           "name": "Are Plitvice entrance tickets included in the price?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. Entrance tickets are bought separately from Plitvice Lakes National Park, at the entrance or online. Tickets cost roughly 10 to 40 euros depending on the season, and include the panoramic train and electric boat inside the park." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Entrance tickets are bought separately from Plitvice Lakes National Park, at the entrance or online. Tickets cost roughly 10 to 40 euros depending on the season, and include the panoramic train and electric boat inside the park."
+          }
         },
         {
           "@type": "Question",
           "name": "How do I book and pay for the day trip?",
-          "acceptedAnswer": { "@type": "Answer", "text": "A 20% advance payment (minimum 20 euros) confirms the booking, by bank transfer or card, and you get an invoice as confirmation. The balance is paid to the driver on the day, in cash or by card." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 20% advance payment (minimum 20 euros) confirms the booking, by bank transfer or card, and you get an invoice as confirmation. The balance is paid to the driver on the day, in cash or by card."
+          }
         }
       ]
     }

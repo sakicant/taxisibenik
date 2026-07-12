@@ -11,7 +11,7 @@ header('Cache-Control: no-store');
 try {
     $stmt = tx_db()->query(
         "SELECT id, route_from, route_to, offer_date, window_start, window_end,
-                price, original_price, seats, note
+                price, original_price, capacity, note
          FROM offers
          WHERE status = 'active' AND (offer_date IS NULL OR offer_date >= CURDATE())
          ORDER BY (offer_date IS NULL), offer_date ASC, window_start ASC

@@ -2319,7 +2319,7 @@ if (offersList) {
           (o.note ? '<p class="offer-note">' + esc(o.note) + '</p>' : '') +
           '<div class="offer-price">' + (orig ? '<span class="offer-orig">€' + orig + '</span>' : '') +
           '<span class="offer-now">€' + price + '</span>' +
-          (o.seats ? '<span class="offer-seats">up to ' + Number(o.seats) + '</span>' : '') + '</div>' +
+          (o.capacity ? '<span class="offer-seats">up to ' + Number(o.capacity) + '</span>' : '') + '</div>' +
           '<div class="offer-actions">' +
           '<a class="btn btn-primary" href="' + wa + '" target="_blank" rel="noopener">Grab on WhatsApp</a>' +
           '<a class="btn btn-secondary" href="' + bookUrl + '">Book</a>' +

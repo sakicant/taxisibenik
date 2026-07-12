@@ -27,8 +27,8 @@ if ($action === 'delete' && $id > 0) {
     $price  = (float) ($_POST['price'] ?? 0);
     $origIn = trim((string) ($_POST['original_price'] ?? ''));
     $orig   = $origIn === '' ? null : (float) $origIn;
-    $seatIn = trim((string) ($_POST['seats'] ?? ''));
-    $seats  = $seatIn === '' ? null : max(1, min(12, (int) $seatIn));
+    $capIn    = trim((string) ($_POST['capacity'] ?? ''));
+    $capacity = $capIn === '' ? 4 : max(1, min(8, (int) $capIn));
     $note   = mb_substr(trim((string) ($_POST['note'] ?? '')), 0, 255) ?: null;
     $status = ($_POST['status'] ?? 'active') === 'hidden' ? 'hidden' : 'active';
 
@@ -36,13 +36,13 @@ if ($action === 'delete' && $id > 0) {
         if ($id > 0) {
             tx_db()->prepare(
                 'UPDATE offers SET route_from=?, route_to=?, offer_date=?, window_start=?, window_end=?,
-                 price=?, original_price=?, seats=?, note=?, status=? WHERE id=?'
-            )->execute([$from, $to, $date, $ws, $we, $price, $orig, $seats, $note, $status, $id]);
+                 price=?, original_price=?, capacity=?, note=?, status=? WHERE id=?'
+            )->execute([$from, $to, $date, $ws, $we, $price, $orig, $capacity, $note, $status, $id]);
         } else {
             tx_db()->prepare(
                 'INSERT INTO offers (route_from, route_to, offer_date, window_start, window_end,
-                 price, original_price, seats, note, status) VALUES (?,?,?,?,?,?,?,?,?,?)'
-            )->execute([$from, $to, $date, $ws, $we, $price, $orig, $seats, $note, $status]);
+                 price, original_price, capacity, note, status) VALUES (?,?,?,?,?,?,?,?,?,?)'
+            )->execute([$from, $to, $date, $ws, $we, $price, $orig, $capacity, $note, $status]);
         }
     }
 }

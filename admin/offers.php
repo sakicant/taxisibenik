@@ -53,10 +53,10 @@ function ev($v) { return $v === null ? '' : e($v); }
           <input type="date" name="offer_date" value="<?= $edit ? ev($edit['offer_date']) : '' ?>">
         </label>
         <label>Pickup window start
-          <input type="time" name="window_start" value="<?= $edit ? ev(substr((string) $edit['window_start'], 0, 5)) : '' ?>">
+          <input type="time" name="window_start" value="<?= $edit ? ev(substr((string) $edit['window_start'], 0, 5)) : '06:30' ?>">
         </label>
         <label>Pickup window end
-          <input type="time" name="window_end" value="<?= $edit ? ev(substr((string) $edit['window_end'], 0, 5)) : '' ?>">
+          <input type="time" name="window_end" value="<?= $edit ? ev(substr((string) $edit['window_end'], 0, 5)) : '08:00' ?>">
         </label>
         <label>Offer price (&euro;)
           <input type="number" name="price" step="1" min="1" required value="<?= $edit ? (int) $edit['price'] : '' ?>">
@@ -64,8 +64,8 @@ function ev($v) { return $v === null ? '' : e($v); }
         <label>Normal price (&euro;, optional)
           <input type="number" name="original_price" step="1" min="1" value="<?= $edit && $edit['original_price'] !== null ? (int) $edit['original_price'] : '' ?>">
         </label>
-        <label>Seats (optional)
-          <input type="number" name="seats" step="1" min="1" max="12" value="<?= $edit && $edit['seats'] !== null ? (int) $edit['seats'] : '' ?>">
+        <label>Capacity (passengers)
+          <input type="number" name="capacity" step="1" min="1" max="8" value="<?= $edit ? (int) $edit['capacity'] : 4 ?>">
         </label>
         <label>Status
           <select name="status">
@@ -102,7 +102,7 @@ function ev($v) { return $v === null ? '' : e($v); }
           <span class="offer-admin-price">
             <?php if ($o['original_price'] !== null): ?><s>&euro;<?= (int) $o['original_price'] ?></s> <?php endif; ?>
             <strong>&euro;<?= (int) $o['price'] ?></strong>
-            <?php if ($o['seats'] !== null): ?><em>up to <?= (int) $o['seats'] ?></em><?php endif; ?>
+            <?php if ($o['capacity'] !== null): ?><em>up to <?= (int) $o['capacity'] ?></em><?php endif; ?>
           </span>
           <?php if ($o['note']): ?><span class="offer-admin-note"><?= e($o['note']) ?></span><?php endif; ?>
           <?php if ($o['status'] === 'hidden'): ?><span class="offer-admin-badge">Hidden</span><?php endif; ?>

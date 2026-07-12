@@ -11,7 +11,7 @@ CREATE TABLE IF NOT EXISTS offers (
   window_end     TIME NULL,
   price          DECIMAL(8,2) NOT NULL,
   original_price DECIMAL(8,2) NULL,
-  seats          TINYINT UNSIGNED NULL,
+  capacity       TINYINT UNSIGNED NOT NULL DEFAULT 4,
   note           VARCHAR(255) NULL,
   status         ENUM('active','hidden') NOT NULL DEFAULT 'active',
   created_at     TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP

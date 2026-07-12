@@ -1,6 +1,6 @@
 {
   "slug": "day-trip-krka-national-park-zadar",
-  "title": "Day Trip to Krka from Zadar | Private Tour, Fixed €260 | TAXI Antonio",
+  "title": "Day Trip to Krka from Zadar | Private Transfer, Fixed €260 | TAXI Antonio",
   "description": "Private round-trip taxi transfer to Krka from Zadar. Fixed €260 per car, up to 4 passengers, door-to-door from Zadar hotels, the ferry and cruise port and the old town. Not a tour, just the ride there and back.",
   "keywords": "day trip to krka from zadar, round trip transfer to krka from zadar, taxi to krka from zadar, krka from zadar, zadar to krka national park",
   "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
@@ -16,8 +16,16 @@
         "name": "Taxi Antonio",
         "telephone": "+385994471013",
         "email": "info@taxisibenik.hr",
-        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
-        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
       },
       "offers": {
         "@type": "Offer",
@@ -33,27 +41,42 @@
         {
           "@type": "Question",
           "name": "Is this a guided tour or a taxi transfer?",
-          "acceptedAnswer": { "@type": "Answer", "text": "It is a taxi transfer, not a guided tour. Antonio is a local driver providing a private round-trip transfer from Zadar to Krka and back. You get the car and the driving; inside the park you are free to explore on your own, at your own pace." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It is a taxi transfer, not a guided tour. Antonio is a local driver providing a private round-trip transfer from Zadar to Krka and back. You get the car and the driving; inside the park you are free to explore on your own, at your own pace."
+          }
         },
         {
           "@type": "Question",
           "name": "How much is a taxi to Krka from Zadar?",
-          "acceptedAnswer": { "@type": "Answer", "text": "A private round-trip transfer from Zadar to Krka National Park is a fixed 260 euros per car for up to 4 passengers, with tolls, fuel and around 3 to 4 hours of waiting time included." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A private round-trip transfer from Zadar to Krka National Park is a fixed 260 euros per car for up to 4 passengers, with tolls, fuel and around 3 to 4 hours of waiting time included."
+          }
         },
         {
           "@type": "Question",
           "name": "Do you pick up from Zadar hotels and the ferry port?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Yes. I pick up door to door from Zadar hotels and apartments, the old town, the bus station, and directly at the Zadar ferry port and the Gaženica cruise terminal, with a name sign on request." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. I pick up door to door from Zadar hotels and apartments, the old town, the bus station, and directly at the Zadar ferry port and the Gaženica cruise terminal, with a name sign on request."
+          }
         },
         {
           "@type": "Question",
           "name": "How long does the day trip from Zadar to Krka take?",
-          "acceptedAnswer": { "@type": "Answer", "text": "The drive is around one hour each way on the motorway, plus about 3 to 4 hours of free time inside the park. A shorter or longer stay can be agreed when you book." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive is around one hour each way on the motorway, plus about 3 to 4 hours of free time inside the park. A shorter or longer stay can be agreed when you book."
+          }
         },
         {
           "@type": "Question",
           "name": "How do I book and pay for the day trip?",
-          "acceptedAnswer": { "@type": "Answer", "text": "A 20% advance payment (minimum 20 euros) confirms the booking, by bank transfer or card, and you get an invoice as confirmation. The balance is paid to the driver on the day, in cash or by card." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 20% advance payment (minimum 20 euros) confirms the booking, by bank transfer or card, and you get an invoice as confirmation. The balance is paid to the driver on the day, in cash or by card."
+          }
         }
       ]
     }

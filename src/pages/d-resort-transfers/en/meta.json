@@ -1,6 +1,6 @@
 {
   "slug": "d-resort-sibenik-transfers",
-  "title": "D-Resort Šibenik Transfers | Fixed Airport & Hotel Taxi Prices | TAXI Antonio",
+  "title": "D-Resort Šibenik Transfers | Fixed Prices | TAXI Antonio",
   "description": "Private transfers to and from D-Resort Šibenik on the Mandalina peninsula. Fixed prices booked in advance: Split Airport €95, Zadar Airport €130, Krka from €45. Door-to-door, one local driver.",
   "keywords": "d-resort sibenik transfers, d-resort hotel transfer, d-resort sibenik taxi, d-resort airport transfer, taxi d-resort sibenik, mandalina taxi",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
@@ -16,23 +16,74 @@
         "name": "Taxi Antonio",
         "telephone": "+385994471013",
         "email": "info@taxisibenik.hr",
-        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
-        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
       },
-      "areaServed": ["D-Resort Šibenik", "Šibenik"],
+      "areaServed": [
+        "D-Resort Šibenik",
+        "Šibenik"
+      ],
       "url": "https://taxisibenik.hr/d-resort-sibenik-transfers/",
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
         "name": "Fixed transfer prices from D-Resort Šibenik",
         "itemListElement": [
-          { "@type": "Offer", "name": "D-Resort to Split Airport", "price": "95", "priceCurrency": "EUR" },
-          { "@type": "Offer", "name": "D-Resort to Zadar Airport", "price": "130", "priceCurrency": "EUR" },
-          { "@type": "Offer", "name": "D-Resort to Zagreb Airport", "price": "485", "priceCurrency": "EUR" },
-          { "@type": "Offer", "name": "D-Resort to Dubrovnik Airport", "price": "485", "priceCurrency": "EUR" },
-          { "@type": "Offer", "name": "D-Resort to Šibenik center", "price": "15", "priceCurrency": "EUR" },
-          { "@type": "Offer", "name": "D-Resort to Krka National Park (Lozovac)", "price": "45", "priceCurrency": "EUR" },
-          { "@type": "Offer", "name": "D-Resort to Split", "price": "140", "priceCurrency": "EUR" },
-          { "@type": "Offer", "name": "D-Resort to Zadar", "price": "140", "priceCurrency": "EUR" }
+          {
+            "@type": "Offer",
+            "name": "D-Resort to Split Airport",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort to Zadar Airport",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort to Zagreb Airport",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort to Dubrovnik Airport",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort to Šibenik center",
+            "price": "15",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort to Krka National Park (Lozovac)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort to Split",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort to Zadar",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
         ]
       }
     },
@@ -43,32 +94,50 @@
         {
           "@type": "Question",
           "name": "How much is a taxi from D-Resort Šibenik to Split Airport?",
-          "acceptedAnswer": { "@type": "Answer", "text": "A private transfer from D-Resort Šibenik to Split Airport is a fixed 95 euros per car for up to 4 passengers, booked in advance. Tolls, fuel and luggage are included, and the price is the same in both directions." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A private transfer from D-Resort Šibenik to Split Airport is a fixed 95 euros per car for up to 4 passengers, booked in advance. Tolls, fuel and luggage are included, and the price is the same in both directions."
+          }
         },
         {
           "@type": "Question",
           "name": "Where do you pick up at D-Resort?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Right at the hotel's main entrance on the Mandalina peninsula. If you are arriving by yacht at the D-Marin Marina Mandalina next door, I pick up at the marina too, at the same fixed prices." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Right at the hotel's main entrance on the Mandalina peninsula. If you are arriving by yacht at the D-Marin Marina Mandalina next door, I pick up at the marina too, at the same fixed prices."
+          }
         },
         {
           "@type": "Question",
           "name": "Should I book my D-Resort transfer in advance?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Yes. All the prices listed are fixed prices for transfers booked in advance. Booking ahead guarantees the car, the pickup time and the price, which matters most for early flights and high season." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. All the prices listed are fixed prices for transfers booked in advance. Booking ahead guarantees the car, the pickup time and the price, which matters most for early flights and high season."
+          }
         },
         {
           "@type": "Question",
           "name": "Do you meet arriving guests at the airport?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Yes. For arrivals I monitor your flight in real time, wait in the arrivals hall with a name sign, and drive you straight to D-Resort. Waiting for delayed flights is free." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. For arrivals I monitor your flight in real time, wait in the arrivals hall with a name sign, and drive you straight to D-Resort. Waiting for delayed flights is free."
+          }
         },
         {
           "@type": "Question",
           "name": "Can you take us from D-Resort to Krka National Park?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Yes. A one-way transfer to the Krka Lozovac entrance is 45 euros and to the Skradin entrance 50 euros. I also offer a full private day trip with waiting time included, with pickup at the hotel." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. A one-way transfer to the Krka Lozovac entrance is 45 euros and to the Skradin entrance 50 euros. I also offer a full private day trip with waiting time included, with pickup at the hotel."
+          }
         },
         {
           "@type": "Question",
           "name": "How do I pay for the transfer?",
-          "acceptedAnswer": { "@type": "Answer", "text": "A 20% advance payment (minimum 20 euros) confirms the booking, by bank transfer or card. The balance is paid to the driver on the day, in cash or by card." }
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 20% advance payment (minimum 20 euros) confirms the booking, by bank transfer or card. The balance is paid to the driver on the day, in cash or by card."
+          }
         }
       ]
     }
