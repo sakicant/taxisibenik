@@ -149,33 +149,28 @@ def build_lang_switcher(variants, current_lang):
       </div>'''
 
 
-def quote_widget_html():
-    global _QUOTE_WIDGET
-    if _QUOTE_WIDGET is None:
-        _QUOTE_WIDGET = read(os.path.join(PARTIALS_DIR, "quote-widget.html"))
-    return _QUOTE_WIDGET
+_PARTIAL_CACHE = {}
 
 
-_QUOTE_WIDGET = None
+def load_partial(name, lang):
+    """Return the language-specific partial <name>.<lang>.html if it exists,
+    otherwise fall back to the English <name>.html. Cached per (name, lang)."""
+    key = (name, lang)
+    if key not in _PARTIAL_CACHE:
+        localized = os.path.join(PARTIALS_DIR, f"{name}.{lang}.html")
+        path = localized if os.path.isfile(localized) else os.path.join(PARTIALS_DIR, f"{name}.html")
+        _PARTIAL_CACHE[key] = read(path)
+    return _PARTIAL_CACHE[key]
 
 
-def related_links_html():
-    global _RELATED_LINKS
-    if _RELATED_LINKS is None:
-        _RELATED_LINKS = read(os.path.join(PARTIALS_DIR, "related-links.html"))
-    return _RELATED_LINKS
-
-
-_RELATED_LINKS = None
-
-
-def build_variant(lang, meta, content_path, base_tpl, header_tpl, footer_html, hreflang_block, variants):
+def build_variant(lang, meta, content_path, base_tpl, hreflang_block, variants):
     body = read(content_path)
-    body = body.replace("{{QUOTE_WIDGET}}", quote_widget_html())
-    body = body.replace("{{RELATED_LINKS}}", related_links_html())
+    body = body.replace("{{QUOTE_WIDGET}}", load_partial("quote-widget", lang))
+    body = body.replace("{{RELATED_LINKS}}", load_partial("related-links", lang))
     slug = meta.get("slug", "")
     canonical = canonical_url(lang, slug)
-    header_html = header_tpl.replace("{{LANG_SWITCHER}}", build_lang_switcher(variants, lang))
+    footer_html = load_partial("footer", lang)
+    header_html = load_partial("header", lang).replace("{{LANG_SWITCHER}}", build_lang_switcher(variants, lang))
 
     schema = meta.get("schema")
     schema_list = schema if isinstance(schema, list) else ([schema] if schema else [])
@@ -237,8 +232,6 @@ def write_sitemap(pages):
 
 def main():
     base_tpl = read(os.path.join(PARTIALS_DIR, "base.html"))
-    header_tpl = read(os.path.join(PARTIALS_DIR, "header.html"))
-    footer_html = read(os.path.join(PARTIALS_DIR, "footer.html"))
 
     pages = discover_pages()
 
@@ -246,7 +239,7 @@ def main():
         hreflang_block = build_hreflang_block(page_id, variants)
         for lang, meta in variants.items():
             content_path = os.path.join(PAGES_DIR, page_id, lang, "content.html")
-            build_variant(lang, meta, content_path, base_tpl, header_tpl, footer_html, hreflang_block, variants)
+            build_variant(lang, meta, content_path, base_tpl, hreflang_block, variants)
 
     write_sitemap(pages)
 
