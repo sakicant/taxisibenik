@@ -2331,3 +2331,19 @@ if (offersList) {
       offersList.innerHTML = '<p class="offers-status">Could not load offers right now. Please <a href="/contact/">contact me</a> and I\'ll share what\'s available.</p>';
     });
 }
+
+// Cookie consent banner: show once, remember the choice in localStorage.
+const cookieBanner = document.getElementById('cookie-banner');
+if (cookieBanner) {
+  let consent = null;
+  try { consent = localStorage.getItem('cookieConsent'); } catch (e) {}
+  if (!consent) cookieBanner.hidden = false;
+  const setConsent = (value) => {
+    try { localStorage.setItem('cookieConsent', value); } catch (e) {}
+    cookieBanner.hidden = true;
+  };
+  const accept = document.getElementById('cookie-accept');
+  const decline = document.getElementById('cookie-decline');
+  if (accept) accept.addEventListener('click', () => setConsent('accepted'));
+  if (decline) decline.addEventListener('click', () => setConsent('declined'));
+}
