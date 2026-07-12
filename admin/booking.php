@@ -68,44 +68,32 @@ function fmt_dt($date, $time) { if (!$date) return '&mdash;'; return e($date) . 
 
         <?php if ($b['notes']): ?><p class="booking-notes"><span>Customer notes:</span> <?= e($b['notes']) ?></p><?php endif; ?>
 
-        <div class="booking-actions">
-          <form method="POST" action="update.php" class="inline-form">
-            <input type="hidden" name="csrf" value="<?= e($csrf) ?>">
-            <input type="hidden" name="id" value="<?= (int) $b['id'] ?>">
-            <input type="hidden" name="return" value="<?= e($returnUrl) ?>">
-            <input type="hidden" name="action" value="set_status">
+        <form method="POST" action="update.php" class="booking-edit">
+          <input type="hidden" name="csrf" value="<?= e($csrf) ?>">
+          <input type="hidden" name="id" value="<?= (int) $b['id'] ?>">
+          <input type="hidden" name="return" value="<?= e($returnUrl) ?>">
+          <input type="hidden" name="action" value="save_all">
+          <div class="booking-edit-row">
             <label>Status
-              <select name="value" onchange="this.form.submit()">
+              <select name="status">
                 <?php foreach ($STATUSES as $s): ?>
                   <option value="<?= $s ?>" <?= $b['status'] === $s ? 'selected' : '' ?>><?= $STATUS_LABELS[$s] ?></option>
                 <?php endforeach; ?>
               </select>
             </label>
-          </form>
-
-          <form method="POST" action="update.php" class="inline-form">
-            <input type="hidden" name="csrf" value="<?= e($csrf) ?>">
-            <input type="hidden" name="id" value="<?= (int) $b['id'] ?>">
-            <input type="hidden" name="return" value="<?= e($returnUrl) ?>">
-            <input type="hidden" name="action" value="set_payment">
             <label>Payment
-              <select name="value" onchange="this.form.submit()">
+              <select name="payment">
                 <?php foreach ($PAYMENTS as $val => $lbl): ?>
                   <option value="<?= $val ?>" <?= $b['payment'] === $val ? 'selected' : '' ?>><?= $lbl ?></option>
                 <?php endforeach; ?>
               </select>
             </label>
-          </form>
-        </div>
-
-        <form method="POST" action="update.php" class="booking-adminnotes">
-          <input type="hidden" name="csrf" value="<?= e($csrf) ?>">
-          <input type="hidden" name="id" value="<?= (int) $b['id'] ?>">
-          <input type="hidden" name="return" value="<?= e($returnUrl) ?>">
-          <input type="hidden" name="action" value="set_notes">
-          <label>Private notes (only you see these)</label>
-          <textarea name="value" rows="3" placeholder="Add a private note..."><?= e($b['admin_notes']) ?></textarea>
-          <button type="submit" class="admin-btn admin-btn-ghost">Save note</button>
+          </div>
+          <label class="booking-edit-notes">Private notes (only you see these)
+            <textarea name="admin_notes" rows="3" placeholder="Add a private note..."><?= e($b['admin_notes']) ?></textarea>
+          </label>
+          <p class="booking-edit-hint">Marking a deposit or full payment on a new booking moves it to Upcoming automatically.</p>
+          <button type="submit" class="admin-btn">Save changes</button>
         </form>
 
         <form method="POST" action="update.php" class="booking-delete" onsubmit="return confirm('Delete booking #<?= (int) $b['id'] ?>? This cannot be undone.');">

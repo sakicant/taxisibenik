@@ -2332,18 +2332,33 @@ if (offersList) {
     });
 }
 
-// Cookie consent banner: show once, remember the choice in localStorage.
+// Cookie consent banner + Google Analytics gated behind "Accept".
+// Analytics only loads once the visitor accepts; "Reject" leaves it off.
+const GA_ID = 'G-XXXXXXXXXX'; // TODO: replace with your GA4 Measurement ID
+function loadAnalytics() {
+  if (!GA_ID || GA_ID.indexOf('G-XXXX') === 0 || window.__gaLoaded) return;
+  window.__gaLoaded = true;
+  const s = document.createElement('script');
+  s.async = true;
+  s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+  document.head.appendChild(s);
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = function () { window.dataLayer.push(arguments); };
+  window.gtag('js', new Date());
+  window.gtag('config', GA_ID, { anonymize_ip: true });
+}
 const cookieBanner = document.getElementById('cookie-banner');
 if (cookieBanner) {
   let consent = null;
   try { consent = localStorage.getItem('cookieConsent'); } catch (e) {}
+  if (consent === 'accepted') loadAnalytics();
   if (!consent) cookieBanner.hidden = false;
   const setConsent = (value) => {
     try { localStorage.setItem('cookieConsent', value); } catch (e) {}
     cookieBanner.hidden = true;
   };
   const accept = document.getElementById('cookie-accept');
-  const decline = document.getElementById('cookie-decline');
-  if (accept) accept.addEventListener('click', () => setConsent('accepted'));
-  if (decline) decline.addEventListener('click', () => setConsent('declined'));
+  const reject = document.getElementById('cookie-decline');
+  if (accept) accept.addEventListener('click', () => { setConsent('accepted'); loadAnalytics(); });
+  if (reject) reject.addEventListener('click', () => setConsent('rejected'));
 }

@@ -36,6 +36,18 @@ if ($id > 0) {
     } elseif ($action === 'set_notes') {
         $notes = mb_substr(trim((string) ($_POST['value'] ?? '')), 0, 2000);
         tx_db()->prepare('UPDATE bookings SET admin_notes = ? WHERE id = ?')->execute([$notes === '' ? null : $notes, $id]);
+    } elseif ($action === 'save_all') {
+        $status  = in_array($_POST['status'] ?? '', $STATUSES, true) ? $_POST['status'] : null;
+        $payment = in_array($_POST['payment'] ?? '', $PAYMENTS, true) ? $_POST['payment'] : null;
+        $notes   = mb_substr(trim((string) ($_POST['admin_notes'] ?? '')), 0, 2000);
+        if ($status !== null && $payment !== null) {
+            // A deposit or full payment confirms a booking that is still new.
+            if (($payment === 'deposit' || $payment === 'paid') && $status === 'new') {
+                $status = 'confirmed';
+            }
+            tx_db()->prepare('UPDATE bookings SET status = ?, payment = ?, admin_notes = ? WHERE id = ?')
+                ->execute([$status, $payment, $notes === '' ? null : $notes, $id]);
+        }
     } elseif ($action === 'delete') {
         tx_db()->prepare('DELETE FROM bookings WHERE id = ?')->execute([$id]);
     }
