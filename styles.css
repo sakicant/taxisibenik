@@ -111,29 +111,22 @@ h1 { text-align: center; }
   justify-content: space-between;
   height: 76px;
 }
-.logo-link { display: flex; align-items: center; gap: 9px; }
-.logo-mark {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 30px;
-  height: 30px;
-  border-radius: 8px;
-  background: var(--gold);
-  color: var(--black);
-  font-family: var(--font-head);
-  font-weight: 700;
-  font-size: 1.05rem;
-  line-height: 1;
-  flex: 0 0 auto;
-}
-.logo-text {
-  font-family: var(--font-head);
+.logo-link { display: flex; align-items: center; }
+.logo-text { display: inline-flex; align-items: baseline; gap: 8px; line-height: 1; }
+.logo-taxi {
+  font-family: var(--font-body);
   color: var(--white);
-  font-size: 1.15rem;
-  font-weight: 700;
+  font-weight: 600;
+  font-size: 0.92rem;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
 }
-.logo-taxi { color: var(--gold); letter-spacing: 0.06em; }
+.logo-antonio {
+  font-family: var(--font-head);
+  color: var(--gold);
+  font-weight: 700;
+  font-size: 1.5rem;
+}
 
 /* Main nav */
 .main-nav { display: flex; align-items: center; gap: 26px; }
