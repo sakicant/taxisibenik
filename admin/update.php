@@ -11,8 +11,12 @@ tx_check_csrf();
 $id     = (int) ($_POST['id'] ?? 0);
 $action = $_POST['action'] ?? '';
 $return = $_POST['return'] ?? 'index.php';
-// Only allow returning to a local admin URL.
-if (!preg_match('/^index\.php(\?[\w=&%.-]*)?$/', $return)) {
+// Only allow returning to a local admin URL (list or a booking detail page).
+if (!preg_match('/^(index|booking)\.php(\?[\w=&%.-]*)?$/', $return)) {
+    $return = 'index.php';
+}
+// After a delete the detail page is gone; send back to the list.
+if (($_POST['action'] ?? '') === 'delete') {
     $return = 'index.php';
 }
 

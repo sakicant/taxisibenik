@@ -1,0 +1,109 @@
+{
+  "slug": "marina-zaton-transfers",
+  "title": "Marina Zaton Transfers | Fixed Prices | TAXI Antonio",
+  "description": "Private transfers from Marina Zaton near Šibenik to Split, Zadar, Zagreb and Dubrovnik airports and cities. Fixed prices, berth pickup, one local driver.",
+  "keywords": "marina zaton transfer, zaton marina taxi, marina zaton airport transfer, zaton split airport",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Marina taxi and airport transfers",
+      "name": "Marina Zaton Transfers",
+      "description": "Private transfers from Marina Zaton near Šibenik to Split, Zadar, Zagreb and Dubrovnik airports and cities. Fixed prices, berth pickup, one local driver.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/marina-zaton-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fixed transfer prices from Marina Zaton",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton to Split Airport",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton to Zadar Airport",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton to Zagreb Airport",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton to Dubrovnik Airport",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton to Split",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton to Zadar",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton to Dubrovnik",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton to Trogir",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton to Vodice",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton to Krka NP (Lozovac)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton to Šibenik",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    }
+  ]
+}

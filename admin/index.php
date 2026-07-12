@@ -3,7 +3,16 @@ require __DIR__ . '/auth.php';
 tx_require_login();
 
 $STATUSES = ['new', 'confirmed', 'completed', 'cancelled'];
-$PAYMENTS = ['unpaid' => 'Unpaid', 'deposit' => 'Deposit paid', 'paid' => 'Paid in full'];
+// Owner-facing labels for the workflow states.
+$STATUS_LABELS = [
+    'new'       => 'Booking (unpaid)',
+    'confirmed' => 'Upcoming (confirmed)',
+    'completed' => 'Completed',
+    'cancelled' => 'Cancelled',
+];
+$CHIP_LABELS = [
+    'new' => 'Bookings', 'confirmed' => 'Upcoming', 'completed' => 'Completed', 'cancelled' => 'Cancelled',
+];
 
 $statusFilter = $_GET['status'] ?? '';
 $q = trim($_GET['q'] ?? '');
@@ -19,22 +28,18 @@ if ($q !== '') {
     $like = '%' . $q . '%';
     array_push($params, $like, $like, $like, $like);
 }
-$sql = 'SELECT * FROM bookings';
+$sql = 'SELECT id, created_at, pickup, dropoff, pickup_date, pickup_time, customer_name, status, payment FROM bookings';
 if ($where) $sql .= ' WHERE ' . implode(' AND ', $where);
-$sql .= ' ORDER BY created_at DESC LIMIT 500';
+$sql .= ' ORDER BY (pickup_date IS NULL), pickup_date ASC, pickup_time ASC LIMIT 500';
 $stmt = tx_db()->prepare($sql);
 $stmt->execute($params);
 $bookings = $stmt->fetchAll();
 
-// Counts per status for the filter chips.
 $counts = ['all' => 0, 'new' => 0, 'confirmed' => 0, 'completed' => 0, 'cancelled' => 0];
 foreach (tx_db()->query('SELECT status, COUNT(*) c FROM bookings GROUP BY status') as $r) {
     $counts[$r['status']] = (int) $r['c'];
     $counts['all'] += (int) $r['c'];
 }
-
-$csrf = tx_csrf_token();
-$returnUrl = 'index.php' . ($_SERVER['QUERY_STRING'] ? '?' . $_SERVER['QUERY_STRING'] : '');
 
 function chip_url($status)
 {
@@ -42,11 +47,8 @@ function chip_url($status)
     if ($status === '') unset($params['status']); else $params['status'] = $status;
     return 'index.php' . ($params ? '?' . http_build_query($params) : '');
 }
-function fmt_dt($date, $time)
-{
-    if (!$date) return '&mdash;';
-    return e($date) . ($time ? ' ' . e(substr($time, 0, 5)) : '');
-}
+function fmt_date($date) { return $date ? date('j M Y', strtotime($date)) : '&mdash;'; }
+function fmt_time($time) { return $time ? substr($time, 0, 5) : '&mdash;'; }
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -78,90 +80,33 @@ function fmt_dt($date, $time)
     <nav class="admin-chips">
       <a class="admin-chip <?= $statusFilter === '' ? 'active' : '' ?>" href="<?= e(chip_url('')) ?>">All (<?= $counts['all'] ?>)</a>
       <?php foreach ($STATUSES as $s): ?>
-        <a class="admin-chip <?= $statusFilter === $s ? 'active' : '' ?>" href="<?= e(chip_url($s)) ?>"><?= ucfirst($s) ?> (<?= $counts[$s] ?>)</a>
+        <a class="admin-chip status-<?= $s ?> <?= $statusFilter === $s ? 'active' : '' ?>" href="<?= e(chip_url($s)) ?>"><?= $CHIP_LABELS[$s] ?> (<?= $counts[$s] ?>)</a>
       <?php endforeach; ?>
     </nav>
 
     <?php if (!$bookings): ?>
       <p class="admin-empty">No bookings found.</p>
+    <?php else: ?>
+    <div class="admin-table-wrap">
+      <table class="admin-table">
+        <thead>
+          <tr><th>Ref</th><th>Client</th><th>Route</th><th>Date</th><th>Time</th><th>Status</th></tr>
+        </thead>
+        <tbody>
+          <?php foreach ($bookings as $b): $url = 'booking.php?id=' . (int) $b['id']; ?>
+          <tr class="row-link status-<?= e($b['status']) ?>" onclick="if(!window.getSelection().toString())location.href='<?= $url ?>'">
+            <td class="col-ref"><a href="<?= $url ?>">#<?= (int) $b['id'] ?></a></td>
+            <td><?= e($b['customer_name']) ?></td>
+            <td class="col-route"><?= e($b['pickup']) ?> <span>&rarr;</span> <?= e($b['dropoff']) ?></td>
+            <td><?= fmt_date($b['pickup_date']) ?></td>
+            <td><?= fmt_time($b['pickup_time']) ?></td>
+            <td><span class="status-badge status-<?= e($b['status']) ?>"><?= $CHIP_LABELS[$b['status']] ?? ucfirst($b['status']) ?></span></td>
+          </tr>
+          <?php endforeach; ?>
+        </tbody>
+      </table>
+    </div>
     <?php endif; ?>
-
-    <?php foreach ($bookings as $b): ?>
-      <article class="booking-card status-<?= e($b['status']) ?>">
-        <div class="booking-head">
-          <div>
-            <span class="booking-id">#<?= (int) $b['id'] ?></span>
-            <span class="booking-route"><?= e($b['pickup']) ?> &rarr; <?= e($b['dropoff']) ?></span>
-            <span class="booking-trip"><?= $b['trip_type'] === 'return' ? 'Return' : 'One way' ?></span>
-          </div>
-          <span class="booking-received">received <?= e(date('j M Y H:i', strtotime($b['created_at']))) ?></span>
-        </div>
-
-        <div class="booking-grid">
-          <div><span>Pickup</span><strong><?= fmt_dt($b['pickup_date'], $b['pickup_time']) ?></strong></div>
-          <?php if ($b['trip_type'] === 'return'): ?>
-          <div><span>Return</span><strong><?= fmt_dt($b['return_date'], $b['return_time']) ?></strong></div>
-          <?php endif; ?>
-          <div><span>Passengers</span><strong><?= (int) $b['passengers'] ?></strong></div>
-          <div><span>Luggage</span><strong><?= (int) $b['luggage'] ?></strong></div>
-          <div><span>Quoted price</span><strong><?= $b['quoted_price'] ? e($b['quoted_price']) : 'custom' ?></strong></div>
-          <div><span>Name</span><strong><?= e($b['customer_name']) ?></strong></div>
-          <div><span>Email</span><strong><a href="mailto:<?= e($b['customer_email']) ?>"><?= e($b['customer_email']) ?></a></strong></div>
-          <div><span>Phone</span><strong><?= $b['customer_phone'] ? e($b['customer_phone']) : '&mdash;' ?></strong></div>
-          <?php if ($b['flight']): ?><div><span>Pickup details</span><strong><?= e($b['flight']) ?></strong></div><?php endif; ?>
-          <?php if (!empty($b['dropoff_details'])): ?><div><span>Destination details</span><strong><?= e($b['dropoff_details']) ?></strong></div><?php endif; ?>
-        </div>
-
-        <?php if ($b['notes']): ?><p class="booking-notes"><span>Customer notes:</span> <?= e($b['notes']) ?></p><?php endif; ?>
-
-        <div class="booking-actions">
-          <form method="POST" action="update.php" class="inline-form">
-            <input type="hidden" name="csrf" value="<?= e($csrf) ?>">
-            <input type="hidden" name="id" value="<?= (int) $b['id'] ?>">
-            <input type="hidden" name="return" value="<?= e($returnUrl) ?>">
-            <input type="hidden" name="action" value="set_status">
-            <label>Status
-              <select name="value" onchange="this.form.submit()">
-                <?php foreach ($STATUSES as $s): ?>
-                  <option value="<?= $s ?>" <?= $b['status'] === $s ? 'selected' : '' ?>><?= ucfirst($s) ?></option>
-                <?php endforeach; ?>
-              </select>
-            </label>
-          </form>
-
-          <form method="POST" action="update.php" class="inline-form">
-            <input type="hidden" name="csrf" value="<?= e($csrf) ?>">
-            <input type="hidden" name="id" value="<?= (int) $b['id'] ?>">
-            <input type="hidden" name="return" value="<?= e($returnUrl) ?>">
-            <input type="hidden" name="action" value="set_payment">
-            <label>Payment
-              <select name="value" onchange="this.form.submit()">
-                <?php foreach ($PAYMENTS as $val => $lbl): ?>
-                  <option value="<?= $val ?>" <?= $b['payment'] === $val ? 'selected' : '' ?>><?= $lbl ?></option>
-                <?php endforeach; ?>
-              </select>
-            </label>
-          </form>
-        </div>
-
-        <form method="POST" action="update.php" class="booking-adminnotes">
-          <input type="hidden" name="csrf" value="<?= e($csrf) ?>">
-          <input type="hidden" name="id" value="<?= (int) $b['id'] ?>">
-          <input type="hidden" name="return" value="<?= e($returnUrl) ?>">
-          <input type="hidden" name="action" value="set_notes">
-          <textarea name="value" rows="2" placeholder="Private notes (only you see these)..."><?= e($b['admin_notes']) ?></textarea>
-          <button type="submit" class="admin-btn admin-btn-ghost">Save note</button>
-        </form>
-
-        <form method="POST" action="update.php" class="booking-delete" onsubmit="return confirm('Delete booking #<?= (int) $b['id'] ?>? This cannot be undone.');">
-          <input type="hidden" name="csrf" value="<?= e($csrf) ?>">
-          <input type="hidden" name="id" value="<?= (int) $b['id'] ?>">
-          <input type="hidden" name="return" value="<?= e($returnUrl) ?>">
-          <input type="hidden" name="action" value="delete">
-          <button type="submit" class="admin-link-danger">Delete</button>
-        </form>
-      </article>
-    <?php endforeach; ?>
   </div>
 </body>
 </html>

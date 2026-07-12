@@ -215,3 +215,29 @@ body {
 .offer-admin-note { color: #666; font-size: 0.85rem; width: 100%; }
 .offer-admin-badge { background: #eee; color: #666; font-size: 0.72rem; padding: 2px 8px; border-radius: 20px; }
 .offer-admin-actions { display: flex; gap: 8px; align-items: center; }
+
+/* Overview table */
+.admin-table-wrap { overflow-x: auto; background: #fff; border: 1px solid #e3e6ea; border-radius: 10px; }
+.admin-table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+.admin-table thead th { text-align: left; padding: 12px 14px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; color: #8a919b; border-bottom: 1px solid #e3e6ea; white-space: nowrap; }
+.admin-table td { padding: 13px 14px; border-bottom: 1px solid #eef1f4; vertical-align: middle; }
+.admin-table tbody tr:last-child td { border-bottom: none; }
+.admin-table tbody tr.row-link { cursor: pointer; }
+.admin-table tbody tr.row-link:hover { background: #f6f8fa; }
+.admin-table .col-ref a { font-weight: 700; color: #1f6feb; text-decoration: none; }
+.admin-table .col-route span { color: #b0b6bf; }
+.status-badge { display: inline-block; padding: 3px 10px; border-radius: 20px; font-size: 0.76rem; font-weight: 600; white-space: nowrap; }
+.status-badge.status-new { background: #fdf0d5; color: #9a6b00; }
+.status-badge.status-confirmed { background: #d8f0df; color: #1a7a3a; }
+.status-badge.status-completed { background: #e6e8eb; color: #555; }
+.status-badge.status-cancelled { background: #fbe0e0; color: #b02525; }
+.admin-chip.status-new.active { background: #9a6b00; }
+.admin-chip.status-confirmed.active { background: #1a7a3a; }
+.admin-chip.status-completed.active { background: #555; }
+.admin-chip.status-cancelled.active { background: #b02525; }
+
+/* Detail page */
+.admin-back { margin-bottom: 14px; }
+.admin-back a { color: #1f6feb; text-decoration: none; font-size: 0.9rem; }
+.booking-detail { max-width: 720px; }
+.booking-adminnotes label { display: block; font-size: 0.8rem; font-weight: 600; color: #555; margin-bottom: 6px; }
