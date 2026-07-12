@@ -75,9 +75,17 @@ h1 { text-align: center; }
   padding: 10px 20px;
 }
 .btn-call:hover { background: var(--gold-light); color: var(--black); }
-.header-cta { display: flex; gap: 8px; align-items: center; flex-shrink: 0; }
-.btn-compact { padding: 8px 13px; font-size: 0.8rem; display: inline-flex; align-items: center; gap: 5px; }
+.header-cta { display: flex; gap: 7px; align-items: center; flex-shrink: 0; }
+.btn-compact { padding: 6px 11px; font-size: 0.74rem; display: inline-flex; align-items: center; gap: 4px; }
 .btn-compact .btn-icon { flex-shrink: 0; }
+
+/* WhatsApp buttons: subtle WhatsApp-green tint so they read as WhatsApp anywhere */
+.btn[href*="wa.me"] {
+  background: rgba(37, 211, 102, 0.2);
+  border-color: #25d366;
+  color: var(--white);
+}
+.btn[href*="wa.me"]:hover { background: rgba(37, 211, 102, 0.34); border-color: #25d366; color: var(--white); }
 
 /* Header */
 .site-header {

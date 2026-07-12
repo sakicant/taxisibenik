@@ -1,7 +1,7 @@
 {
   "slug": "taxi-vodice-to-tromilja",
-  "title": "Taxi Vodice to Tromilja | Fixed €45 Transfer | TAXI Antonio",
-  "description": "Private taxi and transfer from Vodice to Tromilja. Fixed €45 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "title": "Taxi Vodice to Tromilja | Fixed €50 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Vodice to Tromilja. Fixed €50 per car, up to 4 passengers, door to door. Book direct with Antonio.",
   "keywords": "taxi vodice to tromilja, transfer vodice to tromilja, vodice to tromilja taxi, vodice to tromilja transfer",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Private taxi transfer",
       "name": "Taxi Vodice to Tromilja",
-      "description": "Private, fixed-price taxi and transfer from Vodice to Tromilja, 45 euros per car for up to 4 passengers, door to door.",
+      "description": "Private, fixed-price taxi and transfer from Vodice to Tromilja, 50 euros per car for up to 4 passengers, door to door.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/taxi-vodice-to-tromilja/",
       "offers": {
         "@type": "Offer",
-        "price": "45",
+        "price": "50",
         "priceCurrency": "EUR",
-        "description": "One-way private transfer from Vodice to Tromilja, per car for up to 4 passengers. Return 90 euros."
+        "description": "One-way private transfer from Vodice to Tromilja, per car for up to 4 passengers. Return 100 euros."
       }
     },
     {
@@ -56,7 +56,7 @@
           "name": "How much is a taxi from Vodice to Tromilja?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A fixed 45 per car for up to 4 passengers, one way, luggage included. A return trip is 90."
+            "text": "A fixed 50 per car for up to 4 passengers, one way, luggage included. A return trip is 100."
           }
         },
         {
