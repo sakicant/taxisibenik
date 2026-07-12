@@ -563,7 +563,8 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 }
 .booking-form .quote-field label { margin-top: 0; }
 .booking-form input,
-.booking-form textarea {
+.booking-form textarea,
+.booking-form select {
   width: 100%;
   padding: 12px 14px;
   background: var(--white);
@@ -573,6 +574,14 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
   font-family: var(--font-body);
   font-size: 0.95rem;
 }
+.booking-price-line {
+  margin: 18px 0 4px;
+  font-size: 1.05rem;
+  color: var(--black);
+}
+.booking-price-line strong { font-family: var(--font-head); color: var(--gold); font-size: 1.2rem; }
+.booking-price-line .booking-price-sub { color: var(--gray-600); font-size: 0.85rem; }
+.booking-form select:focus,
 .booking-form input:focus,
 .booking-form textarea:focus { outline: none; border-color: var(--gold); }
 .booking-form .quote-field-row { margin: 16px 0 0; }

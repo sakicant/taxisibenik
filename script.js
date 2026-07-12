@@ -2132,33 +2132,34 @@ if (quoteWidget) {
 const bookingPageForm = document.getElementById('booking-page-form');
 if (bookingPageForm) {
   const params = new URLSearchParams(location.search);
-  const from = params.get('from') || '';
-  const to = params.get('to') || '';
-  const trip = params.get('trip') || 'oneway';
-  const pax = params.get('pax') || '1';
-  const lug = params.get('lug') || '0';
+  const fromEl = document.getElementById('book-from');
+  const toEl = document.getElementById('book-to');
+  const tripEl = document.getElementById('book-trip');
+  const paxEl = document.getElementById('book-pax');
+  const lugEl = document.getElementById('book-lug');
   const priceParam = params.get('price') || '';
-  const isReturn = trip === 'return';
 
-  document.getElementById('book-return-fields').hidden = !isReturn;
+  // Prefill the trip fields from the URL (from a route or service-area "Book now").
+  if (params.get('from')) fromEl.value = params.get('from');
+  if (params.get('to')) toEl.value = params.get('to');
+  if (params.get('trip') === 'return') tripEl.value = 'return';
+  if (params.get('pax')) paxEl.value = params.get('pax');
+  if (params.get('lug')) lugEl.value = params.get('lug');
 
-  let priceText;
+  // Show the fixed price when we have one.
+  let priceText = '';
   if (priceParam === 'meter') priceText = 'Taxi meter (from €10)';
-  else if (priceParam === 'custom' || priceParam === '') priceText = 'Custom quote';
-  else priceText = '€' + priceParam;
-
-  if (from && to) {
-    document.getElementById('booking-summary').hidden = false;
-    document.getElementById('sum-from').textContent = from;
-    document.getElementById('sum-to').textContent = to;
-    document.getElementById('sum-trip').textContent = isReturn ? 'Return' : 'One way';
-    document.getElementById('sum-passengers').textContent = pax;
-    document.getElementById('sum-luggage').textContent = lug;
+  else if (priceParam && priceParam !== 'custom') priceText = '€' + priceParam;
+  if (priceText) {
     document.getElementById('sum-price').textContent = priceText;
-    if (priceParam === 'meter' || priceParam === 'custom' || priceParam === '') {
-      document.getElementById('sum-note').textContent = 'This route is priced individually. I\'ll confirm your exact fare by email.';
-    }
+    document.getElementById('booking-price-line').hidden = false;
   }
+
+  // Return date/time only when a return trip is chosen.
+  const returnFields = document.getElementById('book-return-fields');
+  const syncReturn = () => { returnFields.hidden = tripEl.value !== 'return'; };
+  tripEl.addEventListener('change', syncReturn);
+  syncReturn();
 
   const bookingPageNote = document.getElementById('booking-page-note');
 
@@ -2174,13 +2175,15 @@ if (bookingPageForm) {
   bookingPageForm.addEventListener('submit', async (e) => {
     e.preventDefault();
 
+    const from = fromEl.value.trim();
+    const to = toEl.value.trim();
     const name = document.getElementById('book-name').value.trim();
     const email = document.getElementById('book-email').value.trim();
     const date = document.getElementById('book-date').value;
     const time = document.getElementById('book-time').value;
 
-    if (!name || !email || !date || !time) {
-      bookingPageNote.textContent = 'Please fill in your name, email, pickup date, and time.';
+    if (!from || !to || !name || !email || !date || !time) {
+      bookingPageNote.textContent = 'Please fill in the pickup and drop-off, your name, email, pickup date and time.';
       return;
     }
 
@@ -2196,13 +2199,13 @@ if (bookingPageForm) {
       const body = new FormData();
       body.append('pickup', from);
       body.append('dropoff', to);
-      body.append('trip', trip);
+      body.append('trip', tripEl.value);
       body.append('pickup_date', date);
       body.append('pickup_time', time);
       body.append('return_date', document.getElementById('book-return-date').value);
       body.append('return_time', document.getElementById('book-return-time').value);
-      body.append('passengers', pax);
-      body.append('luggage', lug);
+      body.append('passengers', paxEl.value);
+      body.append('luggage', lugEl.value);
       body.append('price', priceParam);
       body.append('name', name);
       body.append('email', email);

@@ -19,7 +19,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/styles.css?v=cca2e18986">
+<link rel="stylesheet" href="/styles.css?v=4dcab2fb32">
 
 </head>
 <body>
@@ -117,21 +117,35 @@
 
   <section class="page-content">
     <div class="container booking-page">
-      <div class="booking-summary" id="booking-summary" hidden>
-        <h2>Your Trip</h2>
-        <ul class="booking-summary-list">
-          <li><span>From</span><strong id="sum-from">&mdash;</strong></li>
-          <li><span>To</span><strong id="sum-to">&mdash;</strong></li>
-          <li><span>Trip type</span><strong id="sum-trip">&mdash;</strong></li>
-          <li><span>Passengers</span><strong id="sum-passengers">&mdash;</strong></li>
-          <li><span>Luggage</span><strong id="sum-luggage">&mdash;</strong></li>
-          <li class="booking-summary-price"><span>Price</span><strong id="sum-price">&mdash;</strong></li>
-        </ul>
-        <p class="booking-summary-note" id="sum-note"></p>
-        <a href="/#quote-widget" class="booking-change-link">Change trip</a>
-      </div>
-
       <form class="booking-form" id="booking-page-form" action="/booking-submit.php" method="POST">
+        <h3>Your Trip</h3>
+
+        <label for="book-from">Pickup location (from)</label>
+        <input type="text" id="book-from" name="from" required placeholder="Šibenik - center, your hotel or address">
+
+        <label for="book-to">Drop-off location (to)</label>
+        <input type="text" id="book-to" name="to" required placeholder="Split Airport (SPU), a town or address">
+
+        <div class="quote-field-row">
+          <div class="quote-field">
+            <label for="book-trip">Trip</label>
+            <select id="book-trip" name="trip">
+              <option value="oneway">One way</option>
+              <option value="return">Return</option>
+            </select>
+          </div>
+          <div class="quote-field">
+            <label for="book-pax">Passengers</label>
+            <input type="number" id="book-pax" name="passengers" min="1" max="12" value="1" required>
+          </div>
+          <div class="quote-field">
+            <label for="book-lug">Luggage</label>
+            <input type="number" id="book-lug" name="luggage" min="0" max="12" value="1" required>
+          </div>
+        </div>
+
+        <p class="booking-price-line" id="booking-price-line" hidden>Fixed price: <strong id="sum-price">&mdash;</strong> <span class="booking-price-sub">per car, up to 4 passengers</span></p>
+
         <h3>Travel Details</h3>
 
         <div class="quote-field-row">
@@ -267,6 +281,6 @@
   </svg>
 </a>
 
-<script src="/script.js?v=cca2e18986"></script>
+<script src="/script.js?v=4dcab2fb32"></script>
 </body>
 </html>

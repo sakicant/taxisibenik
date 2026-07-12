@@ -19,7 +19,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/styles.css?v=cca2e18986">
+<link rel="stylesheet" href="/styles.css?v=4dcab2fb32">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -182,70 +182,25 @@
 </header>
 
 <main>
-  <section id="hero" class="hero hero-split">
+  <section id="hero" class="hero daytrip-hero">
     <div class="hero-bg">
       <img src="/assets/img/hero-transfers.webp" alt="Taxi Pirovac to Tromilja: TAXI Antonio's Škoda Superb on the Dalmatian coast" loading="eager">
       <div class="hero-overlay"></div>
     </div>
-    <div class="container hero-split-inner" id="book" data-prefill-from="Pirovac" data-prefill-to="Tromilja">
-      <div class="hero-text">
-        <h1>Taxi Pirovac to<br>Tromilja</h1>
+    <div class="container" id="book">
+      <div class="hero-content">
+        <h1>Taxi Pirovac to Tromilja</h1>
+        <p class="hero-tagline">Fixed-price private taxi and transfer from Pirovac to Tromilja, door to door.</p>
+        <p class="daytrip-price">&euro;75 per car &middot; up to 4 passengers</p>
         <div class="hero-trust">
           <script defer async src='https://cdn.trustindex.io/loader.js?3d034c475d3887585236cfe8dbc'></script>
         </div>
-        <p class="hero-tagline">Fixed-price private taxi and transfer from Pirovac to Tromilja. &euro;75 per car, up to 4 passengers, door to door.</p>
         <div class="hero-actions">
-          <a href="tel:+385994471013" class="btn btn-primary">Call +385 99 447 1013</a>
+          <a class="btn btn-primary" href="/book/?from=Pirovac&to=Tromilja&price=75&trip=oneway&pax=1&lug=1">Book now</a>
+          <a class="btn btn-secondary" href="https://wa.me/385994471013?text=Hi%20Antonio%2C%20I%20would%20like%20to%20book%20the%20Pirovac%20to%20Tromilja%20transfer%20%28%E2%82%AC75%29.">Book through WhatsApp</a>
         </div>
+        <p class="hero-trust-line">Instant confirmation by email &middot; No hidden fees &middot; Fixed price, no meter</p>
       </div>
-
-      <div class="quote-widget" id="quote-widget">
-        <div class="quote-trip-toggle">
-          <button type="button" class="trip-toggle-btn active" data-trip="oneway">One Way</button>
-          <button type="button" class="trip-toggle-btn" data-trip="return">Return</button>
-        </div>
-
-        <div class="quote-field">
-          <label for="quote-from-input">From</label>
-          <div class="combo" data-placeholder="Pickup location">
-            <input type="text" class="combo-input" id="quote-from-input" placeholder="Pickup location" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list">
-            <input type="hidden" id="quote-from">
-            <div class="combo-panel" hidden></div>
-          </div>
-        </div>
-        <div class="quote-field">
-          <label for="quote-to-input">To</label>
-          <div class="combo" data-placeholder="Destination">
-            <input type="text" class="combo-input" id="quote-to-input" placeholder="Destination" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list">
-            <input type="hidden" id="quote-to">
-            <div class="combo-panel" hidden></div>
-          </div>
-        </div>
-
-        <div class="quote-field-row">
-          <div class="quote-stepper">
-            <label>Passengers</label>
-            <div class="stepper-control">
-              <button type="button" class="stepper-btn" data-target="quote-passengers" data-delta="-1" aria-label="Decrease passengers">&minus;</button>
-              <span id="quote-passengers" data-value="1" data-min="1" data-max="12">1</span>
-              <button type="button" class="stepper-btn" data-target="quote-passengers" data-delta="1" aria-label="Increase passengers">+</button>
-            </div>
-          </div>
-          <div class="quote-stepper">
-            <label>Luggage</label>
-            <div class="stepper-control">
-              <button type="button" class="stepper-btn" data-target="quote-luggage" data-delta="-1" aria-label="Decrease luggage">&minus;</button>
-              <span id="quote-luggage" data-value="1" data-min="0" data-max="6">1</span>
-              <button type="button" class="stepper-btn" data-target="quote-luggage" data-delta="1" aria-label="Increase luggage">+</button>
-            </div>
-          </div>
-        </div>
-
-        <button type="button" id="quote-submit" class="btn btn-primary quote-btn">See fixed price</button>
-
-        <div id="quote-result" class="quote-result" hidden></div>
-      </div>
-
     </div>
   </section>
 
@@ -350,9 +305,8 @@
       <h2 class="section-title">Reserve Your Pirovac to Tromilja Transfer</h2>
       <p class="section-subtitle">Fixed &euro;75 per car, up to 4 passengers. Confirm in a couple of taps.</p>
       <div class="hero-actions">
-        <a href="/book/?from=Pirovac&to=Tromilja&price=75&trip=oneway&pax=1&lug=1" class="btn btn-primary">Book This Transfer</a>
-        <a href="https://wa.me/385994471013" target="_blank" rel="noopener" class="btn btn-secondary">WhatsApp Me</a>
-        <a href="#book" class="btn btn-secondary">Get the Quote</a>
+        <a href="/book/?from=Pirovac&to=Tromilja&price=75&trip=oneway&pax=1&lug=1" class="btn btn-primary">Book now</a>
+        <a href="https://wa.me/385994471013?text=Hi%20Antonio%2C%20I%20would%20like%20to%20book%20the%20Pirovac%20to%20Tromilja%20transfer%20%28%E2%82%AC75%29." class="btn btn-secondary">Book through WhatsApp</a>
       </div>
     </div>
   </section>
@@ -469,6 +423,6 @@
   </svg>
 </a>
 
-<script src="/script.js?v=cca2e18986"></script>
+<script src="/script.js?v=4dcab2fb32"></script>
 </body>
 </html>

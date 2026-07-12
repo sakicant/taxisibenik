@@ -204,24 +204,31 @@ def build(frm, to, slug):
         '        <div class="why-book-item">\n          <h3>%s</h3>\n          <p>%s</p>\n        </div>' % (h, t)
         for h, t in whys)
 
-    content = '''  <section id="hero" class="hero hero-split">
+    tagline = re.sub(r'\. &euro;\d+ per car, up to 4(?: passengers)?,', ',', tagline)
+    wa = "https://wa.me/385994471013?text=" + quote("Hi Antonio, I would like to book the %s to %s transfer (€%d)." % (frm, to, p))
+    trust_line = ("Instant confirmation by email &middot; No hidden fees &middot; Flight monitoring included"
+                  if typ in ("to_airport", "from_airport")
+                  else "Instant confirmation by email &middot; No hidden fees &middot; Fixed price, no meter")
+
+    content = '''  <section id="hero" class="hero daytrip-hero">
     <div class="hero-bg">
       <img src="/assets/img/hero-transfers.webp" alt="Taxi %s to %s: TAXI Antonio's Škoda Superb on the Dalmatian coast" loading="eager">
       <div class="hero-overlay"></div>
     </div>
-    <div class="container hero-split-inner" id="book" data-prefill-from="%s" data-prefill-to="%s">
-      <div class="hero-text">
-        <h1>Taxi %s to<br>%s</h1>
+    <div class="container" id="book">
+      <div class="hero-content">
+        <h1>Taxi %s to %s</h1>
+        <p class="hero-tagline">%s</p>
+        <p class="daytrip-price">&euro;%d per car &middot; up to 4 passengers</p>
         <div class="hero-trust">
           <script defer async src='https://cdn.trustindex.io/loader.js?3d034c475d3887585236cfe8dbc'></script>
         </div>
-        <p class="hero-tagline">%s</p>
         <div class="hero-actions">
-          <a href="tel:+385994471013" class="btn btn-primary">Call +385 99 447 1013</a>
+          <a class="btn btn-primary" href="%s">Book now</a>
+          <a class="btn btn-secondary" href="%s">Book through WhatsApp</a>
         </div>
+        <p class="hero-trust-line">%s</p>
       </div>
-
-{{QUOTE_WIDGET}}
     </div>
   </section>
 
@@ -293,20 +300,20 @@ def build(frm, to, slug):
       <h2 class="section-title">Reserve Your %s to %s Transfer</h2>
       <p class="section-subtitle">Fixed &euro;%d per car, up to 4 passengers. Confirm in a couple of taps.</p>
       <div class="hero-actions">
-        <a href="%s" class="btn btn-primary">Book This Transfer</a>
-        <a href="https://wa.me/385994471013" target="_blank" rel="noopener" class="btn btn-secondary">WhatsApp Me</a>
-        <a href="#book" class="btn btn-secondary">Get the Quote</a>
+        <a href="%s" class="btn btn-primary">Book now</a>
+        <a href="%s" class="btn btn-secondary">Book through WhatsApp</a>
       </div>
     </div>
   </section>
 
 {{RELATED_LINKS}}
-''' % (frm, to, key(frm), key(to), frm, to, tagline, facts_html,
+''' % (frm, to,
+       frm, to, tagline, p, book, wa, trust_line, facts_html,
        frm, to, heading, intro,
        frm, to, why_html,
        frm, to, p, rp, revlink,
        frm, to, faq_html(faqs),
-       frm, to, p, book)
+       frm, to, p, book, wa)
 
     # meta
     desc = ("Private taxi and transfer from %s to %s. Fixed &euro;%d per car, up to 4 passengers, door to door. Book direct with Antonio." % (frm, to, p))
