@@ -78,11 +78,45 @@ function ev($v) { return $v === null ? '' : e($v); }
         </label>
       </div>
 
+      <?php if (!$edit): ?>
+      <fieldset class="offer-extra">
+        <legend>More pickups for the same trip (optional)</legend>
+        <p class="offer-extra-hint">Same destination, date and time window as above &mdash; just a different pickup point and price. Each line is saved as its own offer.</p>
+        <div id="offer-extra-rows"></div>
+        <button type="button" class="admin-btn admin-btn-ghost" id="offer-add-pickup">+ Add another pickup</button>
+      </fieldset>
+      <template id="offer-extra-template">
+        <div class="offer-extra-row">
+          <label>Pickup <input type="text" name="extra_from[]" placeholder="Trogir"></label>
+          <label>Price (&euro;) <input type="number" name="extra_price[]" step="1" min="1" placeholder="90"></label>
+          <label>Normal price (&euro;) <input type="number" name="extra_original[]" step="1" min="1" placeholder="optional"></label>
+          <button type="button" class="offer-extra-remove" aria-label="Remove this pickup">&times;</button>
+        </div>
+      </template>
+      <?php endif; ?>
+
       <div class="offer-form-actions">
-        <button type="submit" class="admin-btn"><?= $edit ? 'Save changes' : 'Add offer' ?></button>
+        <button type="submit" class="admin-btn"><?= $edit ? 'Save changes' : 'Add offers' ?></button>
         <?php if ($edit): ?><a class="admin-btn admin-btn-ghost" href="offers.php">Cancel</a><?php endif; ?>
       </div>
     </form>
+    <?php if (!$edit): ?>
+    <script>
+      (function () {
+        var addBtn = document.getElementById('offer-add-pickup');
+        var rows = document.getElementById('offer-extra-rows');
+        var tpl = document.getElementById('offer-extra-template');
+        if (!addBtn || !rows || !tpl) return;
+        addBtn.addEventListener('click', function () {
+          rows.appendChild(tpl.content.cloneNode(true));
+        });
+        rows.addEventListener('click', function (e) {
+          var btn = e.target.closest('.offer-extra-remove');
+          if (btn) btn.closest('.offer-extra-row').remove();
+        });
+      })();
+    </script>
+    <?php endif; ?>
 
     <h2 class="offer-list-title">Current offers (<?= count($offers) ?>)</h2>
     <?php if (!$offers): ?>

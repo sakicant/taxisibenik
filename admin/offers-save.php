@@ -39,10 +39,28 @@ if ($action === 'delete' && $id > 0) {
                  price=?, original_price=?, capacity=?, note=?, status=? WHERE id=?'
             )->execute([$from, $to, $date, $ws, $we, $price, $orig, $capacity, $note, $status, $id]);
         } else {
-            tx_db()->prepare(
+            $ins = tx_db()->prepare(
                 'INSERT INTO offers (route_from, route_to, offer_date, window_start, window_end,
                  price, original_price, capacity, note, status) VALUES (?,?,?,?,?,?,?,?,?,?)'
-            )->execute([$from, $to, $date, $ws, $we, $price, $orig, $capacity, $note, $status]);
+            );
+            // The main offer.
+            $ins->execute([$from, $to, $date, $ws, $we, $price, $orig, $capacity, $note, $status]);
+
+            // Extra pickups: same trip (destination, date, window, capacity, note,
+            // status), each with its own pickup point and price = its own offer.
+            $exFrom  = (array) ($_POST['extra_from'] ?? []);
+            $exPrice = (array) ($_POST['extra_price'] ?? []);
+            $exOrig  = (array) ($_POST['extra_original'] ?? []);
+            foreach ($exFrom as $i => $rawFrom) {
+                $ef = mb_substr(trim((string) $rawFrom), 0, 120);
+                $ep = (float) ($exPrice[$i] ?? 0);
+                if ($ef === '' || $ep <= 0) {
+                    continue;
+                }
+                $eoIn = trim((string) ($exOrig[$i] ?? ''));
+                $eo   = $eoIn === '' ? null : (float) $eoIn;
+                $ins->execute([$ef, $to, $date, $ws, $we, $ep, $eo, $capacity, $note, $status]);
+            }
         }
     }
 }

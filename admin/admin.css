@@ -230,6 +230,17 @@ body {
 .offer-form label { display: flex; flex-direction: column; font-size: 0.8rem; font-weight: 600; color: #555; gap: 5px; }
 .offer-form input, .offer-form select { padding: 9px 10px; border: 1px solid #d5d9de; border-radius: 6px; font-size: 0.92rem; font-weight: 400; }
 .offer-form-wide { grid-column: 1 / -1; }
+
+/* Extra pickups: add several offers (same trip, different pickup + price) at once */
+.offer-extra { border: 1px dashed #d5d9de; border-radius: 8px; padding: 14px 16px; margin-top: 16px; }
+.offer-extra legend { font-size: 0.85rem; font-weight: 700; color: #555; padding: 0 6px; }
+.offer-extra-hint { font-size: 0.8rem; color: #777; margin: 0 0 12px; }
+.offer-extra-row { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 10px; margin-bottom: 10px; }
+.offer-extra-row label { flex: 1 1 130px; }
+.offer-extra-remove { flex: 0 0 auto; width: 34px; height: 38px; border: 1px solid #d5d9de; border-radius: 6px; background: #fff; color: #c0392b; font-size: 1.2rem; line-height: 1; cursor: pointer; }
+.offer-extra-remove:hover { background: #fbeceb; }
+#offer-extra-rows:empty { display: none; }
+
 .offer-form-actions { margin-top: 16px; display: flex; gap: 10px; }
 .offer-list-title { font-size: 1.05rem; margin: 8px 0 14px; }
 .offer-admin-card { display: flex; justify-content: space-between; align-items: center; gap: 14px; background: #fff; border: 1px solid #e3e6ea; border-radius: 10px; padding: 14px 16px; margin-bottom: 10px; flex-wrap: wrap; }
