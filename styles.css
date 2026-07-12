@@ -75,6 +75,9 @@ h1 { text-align: center; }
   padding: 10px 20px;
 }
 .btn-call:hover { background: var(--gold-light); color: var(--black); }
+.header-cta { display: flex; gap: 8px; align-items: center; flex-shrink: 0; }
+.btn-compact { padding: 8px 13px; font-size: 0.8rem; display: inline-flex; align-items: center; gap: 5px; }
+.btn-compact .btn-icon { flex-shrink: 0; }
 
 /* Header */
 .site-header {
@@ -300,6 +303,7 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
   color: var(--gray-200);
   margin-bottom: 36px;
 }
+.hero-trust-line { margin-top: 16px; font-size: 0.85rem; color: rgba(255,255,255,0.72); }
 .hero-actions { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
 
 /* Hero split layout with quote widget */

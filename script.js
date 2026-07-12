@@ -2211,6 +2211,26 @@ const form = document.getElementById('contact-form');
 const note = document.getElementById('form-note');
 
 if (form && note) {
+  // Pre-fill from URL params, e.g. /contact/?topic=booking&message=...&route=...
+  // (used by the header "Book a Transfer" and route-page "Book this route" buttons).
+  const cparams = new URLSearchParams(window.location.search);
+  const topicParam = cparams.get('topic');
+  const messageParam = cparams.get('message');
+  const routeParam = cparams.get('route');
+  const topicSel = form.querySelector('#topic');
+  if (topicParam && topicSel) {
+    const opt = Array.from(topicSel.options).find((o) => o.value.toLowerCase() === topicParam.toLowerCase());
+    if (opt) topicSel.value = opt.value;
+  }
+  const msgEl = form.querySelector('#message');
+  if (msgEl && !msgEl.value) {
+    if (messageParam) {
+      msgEl.value = messageParam;
+    } else if (routeParam) {
+      msgEl.value = 'I would like to book the ' + routeParam + ' transfer. Please confirm availability for my travel date.';
+    }
+  }
+
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
     note.textContent = 'Sending...';

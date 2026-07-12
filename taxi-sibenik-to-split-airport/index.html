@@ -19,7 +19,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/styles.css?v=fb1d87c85e">
+<link rel="stylesheet" href="/styles.css?v=c6f487d241">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -198,75 +198,33 @@
       </div>
     </nav>
 
-    <a href="tel:+385994471013" class="btn btn-call">Call Taxi Now</a>
+    <div class="header-cta">
+      <a href="/contact/?topic=booking" class="btn btn-primary btn-compact">Book a Transfer</a>
+      <a href="tel:+385994471013" class="btn btn-secondary btn-compact" aria-label="Call Antonio"><svg class="btn-icon" viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.2.2 2.4.6 3.6.1.4 0 .7-.2 1l-2.3 2.2z"/></svg>Call</a>
+    </div>
   </div>
 </header>
 
 <main>
-  <section id="hero" class="hero hero-split">
+  <section id="hero" class="hero daytrip-hero">
     <div class="hero-bg">
       <img src="/assets/img/hero-airport.webp" alt="Taxi Šibenik to Split Airport: TAXI Antonio's Škoda Superb at Split Airport at sunset" loading="eager">
       <div class="hero-overlay"></div>
     </div>
-    <div class="container hero-split-inner" id="book" data-prefill-from="Šibenik - center" data-prefill-to="Split Airport (SPU)">
-      <div class="hero-text">
-        <h1>Taxi Šibenik to<br>Split Airport</h1>
+    <div class="container" id="book">
+      <div class="hero-content">
+        <h1>Taxi Šibenik to Split Airport</h1>
+        <p class="hero-tagline">Fixed-price private taxi and transfer from Šibenik to Split Airport (SPU), straight to departures.</p>
+        <p class="daytrip-price">&euro;95 per car &middot; up to 4 passengers</p>
         <div class="hero-trust">
           <script defer async src='https://cdn.trustindex.io/loader.js?3d034c475d3887585236cfe8dbc'></script>
         </div>
-        <p class="hero-tagline">Fixed-price private taxi and transfer from Šibenik to Split Airport (SPU). &euro;95 per car, up to 4 passengers, straight to departures.</p>
         <div class="hero-actions">
-          <a href="tel:+385994471013" class="btn btn-primary">Call +385 99 447 1013</a>
+          <a class="btn btn-primary" href="/contact/?topic=booking&amp;route=%C5%A0ibenik%20to%20Split%20Airport&amp;price=95&amp;message=I%20would%20like%20to%20book%20the%20%C5%A0ibenik%20to%20Split%20Airport%20transfer%20%28%E2%82%AC95%29.%20Please%20confirm%20availability%20for%20my%20travel%20date.">Book this route</a>
+          <a class="btn btn-secondary" href="https://wa.me/385994471013?text=Hi%20Antonio%2C%20I%20would%20like%20to%20book%20the%20%C5%A0ibenik%20to%20Split%20Airport%20transfer%20%28%E2%82%AC95%29.">Book on WhatsApp</a>
         </div>
+        <p class="hero-trust-line">Instant confirmation by email &middot; No hidden fees &middot; Flight monitoring included</p>
       </div>
-
-      <div class="quote-widget" id="quote-widget">
-        <div class="quote-trip-toggle">
-          <button type="button" class="trip-toggle-btn active" data-trip="oneway">One Way</button>
-          <button type="button" class="trip-toggle-btn" data-trip="return">Return</button>
-        </div>
-
-        <div class="quote-field">
-          <label for="quote-from-input">From</label>
-          <div class="combo" data-placeholder="Pickup location">
-            <input type="text" class="combo-input" id="quote-from-input" placeholder="Pickup location" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list">
-            <input type="hidden" id="quote-from">
-            <div class="combo-panel" hidden></div>
-          </div>
-        </div>
-        <div class="quote-field">
-          <label for="quote-to-input">To</label>
-          <div class="combo" data-placeholder="Destination">
-            <input type="text" class="combo-input" id="quote-to-input" placeholder="Destination" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list">
-            <input type="hidden" id="quote-to">
-            <div class="combo-panel" hidden></div>
-          </div>
-        </div>
-
-        <div class="quote-field-row">
-          <div class="quote-stepper">
-            <label>Passengers</label>
-            <div class="stepper-control">
-              <button type="button" class="stepper-btn" data-target="quote-passengers" data-delta="-1" aria-label="Decrease passengers">&minus;</button>
-              <span id="quote-passengers" data-value="1" data-min="1" data-max="12">1</span>
-              <button type="button" class="stepper-btn" data-target="quote-passengers" data-delta="1" aria-label="Increase passengers">+</button>
-            </div>
-          </div>
-          <div class="quote-stepper">
-            <label>Luggage</label>
-            <div class="stepper-control">
-              <button type="button" class="stepper-btn" data-target="quote-luggage" data-delta="-1" aria-label="Decrease luggage">&minus;</button>
-              <span id="quote-luggage" data-value="1" data-min="0" data-max="6">1</span>
-              <button type="button" class="stepper-btn" data-target="quote-luggage" data-delta="1" aria-label="Increase luggage">+</button>
-            </div>
-          </div>
-        </div>
-
-        <button type="button" id="quote-submit" class="btn btn-primary quote-btn">Get Quote</button>
-
-        <div id="quote-result" class="quote-result" hidden></div>
-      </div>
-
     </div>
   </section>
 
@@ -529,6 +487,6 @@
   </svg>
 </a>
 
-<script src="/script.js?v=fb1d87c85e"></script>
+<script src="/script.js?v=c6f487d241"></script>
 </body>
 </html>

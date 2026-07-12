@@ -34,6 +34,16 @@
         <label for="phone">WhatsApp number (optional)</label>
         <input type="tel" id="phone" name="phone" placeholder="Include country code">
 
+        <label for="topic">Topic</label>
+        <select id="topic" name="topic" required>
+          <option value="General inquiry">General inquiry</option>
+          <option value="Booking">Booking</option>
+          <option value="Quote request">Quote request</option>
+          <option value="Day trip">Day trip</option>
+          <option value="Complaint">Complaint</option>
+          <option value="Other">Other</option>
+        </select>
+
         <label for="message">Message</label>
         <textarea id="message" name="message" rows="5" required placeholder="Tell me your pickup location, date, and destination..."></textarea>
 
