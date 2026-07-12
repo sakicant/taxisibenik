@@ -45,6 +45,14 @@
       "mainEntity": [
         {
           "@type": "Question",
+          "name": "How far is Zablaće from Split, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Split to Zablaće is around 88 km and takes roughly 80 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "How much is a taxi from Split to Zablaće?",
           "acceptedAnswer": {
             "@type": "Answer",

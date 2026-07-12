@@ -45,6 +45,14 @@
       "mainEntity": [
         {
           "@type": "Question",
+          "name": "How far is Tromilja from Drniš, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Drniš to Tromilja is around 23 km and takes roughly 25 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "How much is a taxi from Drniš to Tromilja?",
           "acceptedAnswer": {
             "@type": "Answer",

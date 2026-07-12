@@ -45,6 +45,14 @@
       "mainEntity": [
         {
           "@type": "Question",
+          "name": "How far is Rogoznica from Tisno, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Tisno to Rogoznica is around 58 km and takes roughly 75 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "How much is a taxi from Tisno to Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",

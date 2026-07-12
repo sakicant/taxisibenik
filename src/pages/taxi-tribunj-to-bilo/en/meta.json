@@ -45,6 +45,14 @@
       "mainEntity": [
         {
           "@type": "Question",
+          "name": "How far is Bilo from Tribunj, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Tribunj to Bilo is around 40 km and takes roughly 50 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "How much is a taxi from Tribunj to Bilo?",
           "acceptedAnswer": {
             "@type": "Answer",

@@ -45,6 +45,14 @@
       "mainEntity": [
         {
           "@type": "Question",
+          "name": "How far is Skradin from Vodice, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Vodice to Skradin is around 32 km and takes roughly 35 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "How much is a taxi from Vodice to Skradin?",
           "acceptedAnswer": {
             "@type": "Answer",

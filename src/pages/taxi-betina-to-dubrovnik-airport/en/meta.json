@@ -45,6 +45,14 @@
       "mainEntity": [
         {
           "@type": "Question",
+          "name": "How far is Dubrovnik Airport from Betina, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Betina to Dubrovnik Airport is around 337 km and takes roughly 4 h 45 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "How much is a taxi from Betina to Dubrovnik Airport?",
           "acceptedAnswer": {
             "@type": "Answer",

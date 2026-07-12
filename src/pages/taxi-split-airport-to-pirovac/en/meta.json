@@ -45,6 +45,14 @@
       "mainEntity": [
         {
           "@type": "Question",
+          "name": "How far is Pirovac from Split Airport, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Split Airport to Pirovac is around 87 km and takes roughly 75 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Where do you meet me at Split Airport?",
           "acceptedAnswer": {
             "@type": "Answer",

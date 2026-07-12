@@ -45,6 +45,14 @@
       "mainEntity": [
         {
           "@type": "Question",
+          "name": "How far is Jezera from Zagreb Airport, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Zagreb Airport to Jezera is around 346 km and takes roughly 3 h 50 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Where do you meet me at Zagreb Airport?",
           "acceptedAnswer": {
             "@type": "Answer",

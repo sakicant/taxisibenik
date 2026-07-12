@@ -45,6 +45,14 @@
       "mainEntity": [
         {
           "@type": "Question",
+          "name": "How far is Dubrovnik Airport from Split, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Split to Dubrovnik Airport is around 252 km and takes roughly 3 h 50 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "How much is a taxi from Split to Dubrovnik Airport?",
           "acceptedAnswer": {
             "@type": "Answer",

@@ -45,6 +45,14 @@
       "mainEntity": [
         {
           "@type": "Question",
+          "name": "How far is Lozovac from Zadar Airport, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Zadar Airport to Lozovac is around 76 km and takes roughly 60 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Where do you meet me at Zadar Airport?",
           "acceptedAnswer": {
             "@type": "Answer",

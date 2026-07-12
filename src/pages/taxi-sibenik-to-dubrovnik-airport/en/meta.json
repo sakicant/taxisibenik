@@ -45,6 +45,14 @@
       "mainEntity": [
         {
           "@type": "Question",
+          "name": "How far is Dubrovnik Airport from Šibenik, and how long is the drive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Šibenik to Dubrovnik Airport is around 296 km and takes roughly 4 h 15 min in normal traffic, a little longer at busy times in summer. I plan the pickup so a slow patch never leaves you rushed."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "How much is a taxi from Šibenik to Dubrovnik Airport?",
           "acceptedAnswer": {
             "@type": "Answer",
