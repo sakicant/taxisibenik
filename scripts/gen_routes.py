@@ -205,7 +205,9 @@ def build(frm, to, slug):
         for h, t in whys)
 
     tagline = re.sub(r'\. &euro;\d+ per car, up to 4(?: passengers)?,', ',', tagline)
-    wa = "https://wa.me/385994471013?text=" + quote("Hi Antonio, I would like to book the %s to %s transfer (€%d)." % (frm, to, p))
+    wa = "https://wa.me/385994471013?text=" + quote(
+        "Hi Antonio, I would like to book the %s to %s transfer (€%d).\n"
+        "My details:\n- Pickup date: \n- Pickup time: \n- Passengers: \n- Pickup address: \n- My name: " % (frm, to, p))
     trust_line = ("Instant confirmation by email &middot; No hidden fees &middot; Flight monitoring included"
                   if typ in ("to_airport", "from_airport")
                   else "Instant confirmation by email &middot; No hidden fees &middot; Fixed price, no meter")
