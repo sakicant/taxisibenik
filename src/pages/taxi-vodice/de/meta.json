@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "Taxi Vodice | TAXI Antonio",
+  "description": "Taxi Vodice: feste Flughafentransfers nach Zadar (100 €) und Split, Abholung an Marina und Resort, Krka-Tagesausflüge und Absetzen an der Inselfähre. Direkt buchen.",
+  "keywords": "taxi vodice, vodice taxi, vodice flughafentransfer, vodice nach flughafen split, vodice nach flughafen zadar, vodice marina taxi, vodice nach krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokales Taxi und Flughafentransfers",
+      "name": "Taxi Vodice",
+      "description": "Privates Taxi zum Festpreis in Vodice: Flughafentransfers nach Split und Zadar, Abholung an Marina und Resort, Tagesausflüge in den Nationalpark Krka und Absetzen an der Inselfähre.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/de/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxipreise ab Vodice",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice nach Šibenik",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/de/buchen/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice nach Krka NP (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/de/buchen/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice nach Flughafen Zadar",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/de/buchen/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice nach Flughafen Split",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/de/buchen/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Können Sie Crews an der Marina Vodice abholen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ich treffe Yacht- und Chartercrews direkt an der Marina, mit Platz für Gepäck und Proviant, und ich kann einen frühen oder späten Termin passend zu Ihrem Charter einrichten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fahren Sie in Vodice auch spät in der Nacht?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Bei Buchung im Voraus hole ich Sie nach einem Abend aus und bringe Sie zum Festpreis sicher zurück zu Ihrer Unterkunft."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie mich zur Fähre nach Prvić oder Zlarin bringen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Beide legen an der Uferpromenade von Vodice ab, und ich setze Sie direkt am Anleger ab. Fragen Sie mich bei der Buchung nach dem Preis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel kostet Vodice zum Flughafen Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fest 100 € pro Fahrzeug für bis zu 4 Personen, und der Flughafen Split kostet 115 €, Maut und Gepäck inklusive."
+          }
+        }
+      ]
+    }
+  ]
+}

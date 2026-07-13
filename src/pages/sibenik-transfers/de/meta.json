@@ -1,0 +1,87 @@
+{
+  "slug": "staedtetransfers",
+  "title": "Šibenik Städtetransfers | Festpreise | TAXI Antonio",
+  "description": "Städtetransfers von und nach Šibenik zu Split, Zadar, Dubrovnik, Zagreb, Trogir und darüber hinaus. Festpreise, privat von Tür zu Tür, ein lokaler Fahrer. Buchen Sie direkt bei Antonio.",
+  "keywords": "sibenik transfers, šibenik transfer, taxi sibenik split, sibenik nach zadar, sibenik nach dubrovnik, sibenik nach zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxitransfer von Stadt zu Stadt",
+      "name": "Šibenik Städtetransfers",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/de/staedtetransfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie viel kostet ein Taxitransfer von Šibenik nach Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein privater Transfer von Šibenik nach Split kostet einen Festpreis von 140 Euro pro Fahrzeug für bis zu 4 Personen, inklusive Maut, Kraftstoff und Gepäck."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind die Transferpreise Festpreise?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeder Städtetransfer hat einen Festpreis pro Fahrzeug für bis zu 4 Personen, vorab vereinbart. Kein Taxameter und keine Überraschungen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Transfer privat oder geteilt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jeder Transfer ist privat und von Tür zu Tür, in einem Škoda Superb. Es gibt kein Teilen des Fahrzeugs und keine zusätzlichen Stopps, es sei denn, Sie wünschen sie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie unterwegs anhalten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Auf längeren Transfers halte ich gerne für einen Kaffee, ein Foto oder eine kurze Sehenswürdigkeit an. Sagen Sie mir einfach bei der Buchung Bescheid, und ich plane es ein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie bezahle ich einen Transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine Anzahlung von 20% (mindestens 20 Euro) bestätigt die Buchung, per Überweisung oder Karte. Den Restbetrag zahlen Sie am Tag der Fahrt an den Fahrer, bar oder mit Karte."
+          }
+        }
+      ]
+    }
+  ]
+}

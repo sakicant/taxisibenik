@@ -1,0 +1,84 @@
+{
+  "slug": "ausflug-krka-zadar",
+  "title": "Tagesausflug nach Krka ab Zadar | Privattransfer, Festpreis 260 € | TAXI Antonio",
+  "description": "Privater Hin- und Rücktransfer nach Krka ab Zadar. Festpreis 260 € pro Fahrzeug, bis zu 4 Personen, von Tür zu Tür ab Hotels in Zadar, dem Fähr- und Kreuzfahrthafen und der Altstadt. Keine Tour, nur die Fahrt hin und zurück.",
+  "keywords": "tagesausflug nach krka ab zadar, hin- und rücktransfer nach krka ab zadar, taxi nach krka ab zadar, krka ab zadar, zadar nationalpark krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privater Tagesausflug nach Krka ab Zadar",
+      "description": "Ein privater Tagesausflug in den Nationalpark Krka ab Zadar mit einem lokalen, Englisch sprechenden Fahrer. Festpreis von 260 Euro pro Fahrzeug für bis zu 4 Personen, mit Abholung von Tür zu Tür an Hotels in Zadar, dem Fähr- und Kreuzfahrthafen, dem Busbahnhof sowie der Altstadt.",
+      "touristType": "Natur und Sightseeing",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "260",
+        "priceCurrency": "EUR",
+        "description": "Privatfahrzeug, Hin- und Rückfahrt Zadar zum Nationalpark Krka, bis zu 4 Personen. Eintrittskarten für den Park nicht inbegriffen."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ist das eine geführte Tour oder ein Taxitransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es ist ein Taxitransfer, keine geführte Tour. Antonio ist ein lokaler Fahrer, der einen privaten Hin- und Rücktransfer von Zadar nach Krka und zurück anbietet. Sie bekommen das Fahrzeug und die Fahrt; im Park sind Sie frei, alles auf eigene Faust und in Ihrem eigenen Tempo zu erkunden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel kostet ein Taxi nach Krka ab Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein privater Hin- und Rücktransfer von Zadar zum Nationalpark Krka kostet einen Festpreis von 260 Euro pro Fahrzeug für bis zu 4 Personen, inklusive Maut, Kraftstoff und rund 3 bis 4 Stunden Wartezeit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Holen Sie an Hotels in Zadar und am Fährhafen ab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ich hole von Tür zu Tür an Hotels und Apartments in Zadar, der Altstadt, dem Busbahnhof sowie direkt am Fährhafen von Zadar und dem Kreuzfahrtterminal Gaženica ab, auf Wunsch mit Namensschild."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie lange dauert der Tagesausflug von Zadar nach Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Fahrt dauert je Richtung etwa eine Stunde über die Autobahn, plus rund 3 bis 4 Stunden freie Zeit im Park. Ein kürzerer oder längerer Aufenthalt kann bei der Buchung vereinbart werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie buche und bezahle ich den Tagesausflug?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine Anzahlung von 20 % (mindestens 20 Euro) bestätigt die Buchung, per Banküberweisung oder Karte, und Sie erhalten eine Rechnung als Bestätigung. Der Restbetrag wird am Tag der Fahrt an den Fahrer bezahlt, bar oder mit Karte."
+          }
+        }
+      ]
+    }
+  ]
+}

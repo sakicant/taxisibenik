@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-lozovac",
+  "title": "Taxi Lozovac | TAXI Antonio",
+  "description": "Taxi Lozovac: Transfers am Eingang des Nationalparks Krka (Skradinski Buk), Krka-Tagesausflüge und Festpreisfahrten zum Flughafen Split (95 €). Direkt buchen.",
+  "keywords": "taxi lozovac, lozovac taxi, taxi zum nationalpark krka, lozovac krka eingang, taxi krka wasserfälle, lozovac zum flughafen split, lozovac nach sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokales Taxi und Flughafentransfers",
+      "name": "Taxi Lozovac",
+      "description": "Privates Taxi in Lozovac, dem Haupteingang zum Nationalpark Krka für die Wasserfälle von Skradinski Buk: Park-Tagesausflüge, Ausflüge und Flughafentransfers zum Festpreis.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Lozovac",
+      "url": "https://taxisibenik.hr/de/taxi-lozovac/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxitarife ab Lozovac",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Lozovac nach Šibenik",
+            "price": "45",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Lozovac&to=%C5%A0ibenik%20-%20center&price=45"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Lozovac nach Vodice",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Lozovac&to=Vodice&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Lozovac zum Nationalpark Krka (Eingang Skradin)",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Lozovac&to=NP%20Krka%20-%20Skradin%20entrance&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Lozovac zum Flughafen Split",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Lozovac&to=Split%20Airport%20%28SPU%29&price=95"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie weit ist Lozovac vom Krka-Eingang entfernt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lozovac ist der Straßeneingang zum Nationalpark Krka selbst, Sie sind also bereits am Tor zu den Wasserfällen von Skradinski Buk. Ich setze Sie direkt am Eingang ab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie warten, während ich den Park besuche?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ich biete einen privaten Krka-Tagesausflug mit inbegriffener Wartezeit an, ich bringe Sie also zu den Wasserfällen, warte, während Sie in Ihrem eigenen Tempo erkunden, und fahre Sie zurück. Siehe meine Seite mit Tagesausflügen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fahren Sie auch zum Eingang Skradin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ein Transfer zum Krka-Eingang Skradin, wo Sie das Boot zu den Wasserfällen nehmen, ist ein Festpreis von 25 € pro Fahrzeug."
+          }
+        }
+      ]
+    }
+  ]
+}

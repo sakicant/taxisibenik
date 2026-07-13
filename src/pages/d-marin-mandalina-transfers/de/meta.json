@@ -1,0 +1,109 @@
+{
+  "slug": "d-marin-mandalina-transfers",
+  "title": "D-Marin Marina Mandalina Transfers | Festpreise | TAXI Antonio",
+  "description": "Privattransfers von der D-Marin Marina Mandalina in Šibenik zu den Flughäfen und Städten Split, Zadar, Zagreb und Dubrovnik. Festpreise, Abholung am Liegeplatz, ein einheimischer Fahrer.",
+  "keywords": "d-marin mandalina transfer, marina mandalina taxi, d-marin šibenik flughafentransfer, mandalina marina flughafen split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Marina-Taxi- und Flughafentransfers",
+      "name": "D-Marin Marina Mandalina Transfers",
+      "description": "Privattransfers von der D-Marin Marina Mandalina in Šibenik zu den Flughäfen und Städten Split, Zadar, Zagreb und Dubrovnik. Festpreise, Abholung am Liegeplatz, ein einheimischer Fahrer.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "D-Marin Marina Mandalina",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/de/d-marin-mandalina-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Festpreise für Transfers ab der D-Marin Marina Mandalina",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina zum Flughafen Split",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina zum Flughafen Zadar",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina zum Flughafen Zagreb",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina zum Flughafen Dubrovnik",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina nach Split",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina nach Zadar",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina nach Dubrovnik",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina nach Trogir",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina nach Vodice",
+            "price": "35",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina zum NP Krka (Lozovac)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina nach Šibenik",
+            "price": "15",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    }
+  ]
+}

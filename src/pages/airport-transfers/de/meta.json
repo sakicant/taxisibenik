@@ -1,0 +1,85 @@
+{
+  "slug": "flughafentransfers",
+  "title": "Šibenik Flughafentransfers | Festpreise | TAXI Antonio",
+  "description": "Flughafentransfers von und nach Šibenik zu den Flughäfen Split, Zadar, Zagreb und Dubrovnik. Festpreise, Flugüberwachung, von Tür zu Tür. Auch ab Vodice, Primošten und Skradin. Buchen Sie bei Antonio.",
+  "keywords": "sibenik flughafentransfer, šibenik flughafentransfer, flughafen split nach sibenik, flughafen zadar nach sibenik, vodice flughafentransfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Flughafentransfer",
+      "name": "Flughafentransfers ab Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Flughafen Split",
+        "Flughafen Zadar",
+        "Flughafen Zagreb",
+        "Flughafen Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/de/flughafentransfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie finde ich meinen Fahrer am Flughafen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio wartet in der Ankunftshalle hinter der Gepäckausgabe und hält ein gut sichtbares Schild mit Ihrem Namen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was passiert, wenn mein Flug Verspätung hat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ich überwache die Flüge in Echtzeit anhand der Flugnummer, die Sie bei der Buchung angeben. Die Abholzeit wird automatisch angepasst, und für die Wartezeit fallen keine zusätzlichen Kosten an."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Preis für den Flughafentransfer ein Festpreis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeder Flughafentransfer hat einen Festpreis pro Fahrzeug für bis zu 4 Personen, inklusive Maut, Kraftstoff und Gepäck. Kein Taxameter, keine Überraschungen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Stellen Sie Kindersitze für Flughafentransfers bereit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Kindersitze und Sitzerhöhungen stelle ich kostenlos bereit. Geben Sie sie einfach in den Buchungshinweisen zusammen mit dem Alter des Kindes an."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie bezahle ich einen Flughafentransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine Anzahlung von 20% (mindestens 20 Euro) bestätigt die Buchung, per Überweisung oder Karte. Den Restbetrag zahlen Sie am Tag der Fahrt an den Fahrer, bar oder mit Karte."
+          }
+        }
+      ]
+    }
+  ]
+}

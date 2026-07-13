@@ -1,0 +1,92 @@
+{
+  "slug": "ausflug-krka-primosten",
+  "title": "Tagesausflug nach Krka ab Primošten | Privattransfer, Festpreis 155 € | TAXI Antonio",
+  "description": "Privater Hin- und Rücktransfer nach Krka ab Primošten. Festpreis 155 € pro Fahrzeug, bis zu 4 Personen, von Tür zu Tür ab Hotels und Apartments in Primošten, Zečevo und Rogoznica. Keine Tour, nur die Fahrt hin und zurück.",
+  "keywords": "tagesausflug nach krka ab primosten, krka ab primosten, taxi nach krka ab primosten, transfer krka primosten, krka ab rogoznica, krka ab zecevo, primosten nationalpark krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privater Tagesausflug nach Krka ab Primošten",
+      "description": "Ein privater Tagesausflug in den Nationalpark Krka ab Primošten mit einem lokalen, Englisch sprechenden Fahrer. Festpreis von 155 Euro pro Fahrzeug für bis zu 4 Personen, mit Abholung von Tür zu Tür an Hotels und Apartments in Primošten, dem Gebiet Zečevo und Rogoznica.",
+      "touristType": "Natur und Sightseeing",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "155",
+        "priceCurrency": "EUR",
+        "description": "Privatfahrzeug, Hin- und Rückfahrt Primošten zum Nationalpark Krka, bis zu 4 Personen. Eintrittskarten für den Park nicht inbegriffen."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ist das eine geführte Tour oder ein Taxitransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es ist ein Taxitransfer, keine geführte Tour. Antonio ist ein lokaler Fahrer, der einen privaten Hin- und Rücktransfer von Primošten nach Krka und zurück anbietet. Sie bekommen das Fahrzeug und die Fahrt; im Park sind Sie frei, alles auf eigene Faust und in Ihrem eigenen Tempo zu erkunden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Holen Sie neben Primošten auch im Gebiet Zečevo und in Rogoznica ab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Die Abholung im Gebiet Zečevo und in Rogoznica erfolgt zum gleichen Festpreis wie in Primošten. Ich hole Sie von Tür zu Tür an jedem Hotel, Apartment oder jeder Villa ab, einschließlich der Marina Frapa in Rogoznica."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel kostet ein Taxi nach Krka ab Primošten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein privater Hin- und Rücktransfer von Primošten zu den Seen von Krka kostet einen Festpreis von 155 Euro pro Fahrzeug für bis zu 4 Personen, inklusive Kraftstoff und der Wartezeit am Park. Der gleiche Preis gilt für Abholungen im Gebiet Zečevo und in Rogoznica."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie lange bleiben wir im Nationalpark Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die meisten Gäste wählen rund 3 bis 4 Stunden freie Zeit im Park, genug, um die wichtigsten Wasserfälle zu sehen und die klassische Rundwanderung über die Holzstege zu gehen. Ein kürzerer oder längerer Aufenthalt kann bei der Buchung vereinbart werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind die Eintrittskarten für Krka im Preis inbegriffen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Die Eintrittskarten werden separat gekauft, direkt beim Nationalpark Krka am Eingang Skradin oder Lozovac oder online. Die Tickets kosten je nach Saison etwa 7 bis 40 Euro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie buche und bezahle ich den Tagesausflug von Primošten nach Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine Anzahlung von 20 % (mindestens 20 Euro) bestätigt die Buchung, per Banküberweisung oder Karte, und Sie erhalten eine Rechnung als Bestätigung. Der Restbetrag wird am Tag der Fahrt an den Fahrer bezahlt, bar oder mit Karte."
+          }
+        }
+      ]
+    }
+  ]
+}

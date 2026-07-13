@@ -1,0 +1,84 @@
+{
+  "slug": "ausflug-plitvice-split",
+  "title": "Tagesausflug nach Plitvice ab Split | Privattransfer, Festpreis 650 € | TAXI Antonio",
+  "description": "Privater Hin- und Rücktransfer per Taxi zu den Plitvicer Seen ab Split. Festpreis 650 € pro Fahrzeug, bis zu 4 Personen, von Tür zu Tür ab Hotels, dem Kreuzfahrthafen und der Altstadt in Split. Keine Tour, nur die Fahrt hin und zurück.",
+  "keywords": "tagesausflug plitvice ab split, hin- und rücktransfer plitvice, taxi nach plitvice ab split, plitvicer seen ab split, split nach plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privater Tagesausflug zu den Plitvicer Seen ab Split",
+      "description": "Ein privater Tagesausflug zum Nationalpark Plitvicer Seen ab Split mit einem einheimischen, Englisch sprechenden Fahrer. Festpreis von 650 Euro pro Fahrzeug für bis zu 4 Personen, mit Abholung von Tür zu Tür an Hotels, dem Kreuzfahrthafen, dem Bus- und Bahnhof und der Altstadt in Split.",
+      "touristType": "Natur und Sightseeing",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "650",
+        "priceCurrency": "EUR",
+        "description": "Privatfahrzeug, Hin- und Rückfahrt Split zum Nationalpark Plitvicer Seen, bis zu 4 Personen. Eintrittskarten für den Park nicht inbegriffen."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ist das eine geführte Tour oder ein Taxitransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es ist ein Taxitransfer, keine geführte Tour. Antonio ist ein einheimischer Fahrer, der einen privaten Hin- und Rücktransfer von Split nach Plitvice und zurück anbietet. Sie bekommen das Fahrzeug und die Fahrt; im Park sind Sie frei, alles auf eigene Faust und im eigenen Tempo zu erkunden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet ein Taxi nach Plitvice ab Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein privater Hin- und Rücktransfer von Split zu den Plitvicer Seen kostet einen Festpreis von 650 Euro pro Fahrzeug für bis zu 4 Personen, inklusive Maut, Kraftstoff und Wartezeit am Park."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie lange dauert der Tagesausflug von Split nach Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Fahrt dauert etwa zweieinhalb bis drei Stunden pro Richtung, dazu ungefähr 4 bis 6 Stunden für den Rundgang an den Seen. Es ist ein langer, ganzer Tagesausflug, meist 11 bis 12 Stunden von Tür zu Tür, deshalb ist ein früher Start unerlässlich."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind die Eintrittskarten für Plitvice im Preis inbegriffen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Die Eintrittskarten werden separat beim Nationalpark Plitvicer Seen gekauft, am Eingang oder online. Die Karten kosten je nach Saison ungefähr 10 bis 40 Euro und beinhalten den Panoramazug und das Elektroboot im Park."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie buche und bezahle ich den Tagesausflug?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine Anzahlung von 20 % (mindestens 20 Euro) bestätigt die Buchung, per Banküberweisung oder Karte, und Sie erhalten eine Rechnung als Bestätigung. Der Restbetrag wird am Tag selbst beim Fahrer bezahlt, bar oder mit Karte."
+          }
+        }
+      ]
+    }
+  ]
+}

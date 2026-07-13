@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-flughafen-zadar-lozovac",
+  "title": "Taxi Flughafen Zadar - Lozovac | Festpreis €120 | TAXI Antonio",
+  "description": "Privates Taxi und Transfer, Strecke Flughafen Zadar - Lozovac. Festpreis €120 pro Fahrzeug, bis zu 4 Fahrgäste, Tür zu Tür. Direkt bei Antonio buchen.",
+  "keywords": "taxi flughafen zadar - lozovac, transfer flughafen zadar - lozovac, flughafentransfer flughafen zadar - lozovac",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privater Taxitransfer",
+      "name": "Taxi Flughafen Zadar - Lozovac",
+      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Flughafen Zadar - Lozovac, 120 Euro pro Fahrzeug für bis zu 4 Fahrgäste, Tür zu Tür.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Flughafen Zadar",
+        "Lozovac"
+      ],
+      "url": "https://taxisibenik.hr/de/taxi-flughafen-zadar-lozovac/",
+      "offers": {
+        "@type": "Offer",
+        "price": "120",
+        "priceCurrency": "EUR",
+        "description": "Einfache private Fahrt, Strecke Flughafen Zadar - Lozovac, pro Fahrzeug für bis zu 4 Fahrgäste. Hin und zurück 240 Euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie weit ist die Strecke und wie lange dauert die Fahrt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Fahrt auf der Strecke Flughafen Zadar - Lozovac ist rund 76 km lang und dauert etwa 60 min bei normalem Verkehr, in der Sommerhauptzeit etwas länger. Ich plane die Abholung so, dass eine langsame Strecke Sie nie in Eile bringt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo empfangen Sie mich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In der Ankunftshalle, direkt nach der Gepäckausgabe, mit einem Schild mit Ihrem Namen. Ich helfe mit dem Gepäck und begleite Sie zum Fahrzeug."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was, wenn mein Flug Verspätung hat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kein Problem. Ich verfolge Ihren Flug in Echtzeit und passe die Abholung an die tatsächliche Landung an, ohne Aufpreis für die Wartezeit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel kostet der Transfer auf der Strecke Flughafen Zadar - Lozovac?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fest 120 pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, Maut und Gepäck inklusive. Eine Hin- und Rückfahrt kostet 240."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie weit im Voraus sollte ich buchen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindestens 2 Stunden vorher, damit ich um Ihren Flug herum planen kann. Für eine Abholung am selben Tag nach einer kurzfristigen Änderung rufen Sie an oder schreiben auf WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

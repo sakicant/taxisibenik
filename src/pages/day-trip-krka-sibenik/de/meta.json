@@ -1,0 +1,92 @@
+{
+  "slug": "ausflug-krka-sibenik",
+  "title": "Tagesausflug nach Krka ab Šibenik | Privattransfer, Festpreis 100 € | TAXI Antonio",
+  "description": "Privater Hin- und Rücktransfer nach Krka ab Šibenik. Festpreis 100 € pro Fahrzeug, bis zu 4 Personen, von Tür zu Tür ab Hotels, Apartments, Bahnhöfen und dem Fährhafen. Keine Tour, nur die Fahrt hin und zurück.",
+  "keywords": "tagesausflug nach krka ab sibenik, hin- und rücktransfer nach krka, taxi nach krka ab sibenik, transfer krka sibenik, sibenik nationalpark krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privater Tagesausflug nach Krka ab Šibenik",
+      "description": "Ein privater Tagesausflug in den Nationalpark Krka ab Šibenik mit einem lokalen, Englisch sprechenden Fahrer. Festpreis von 100 Euro pro Fahrzeug für bis zu 4 Personen, mit Abholung von Tür zu Tür an Hotels, Apartments, dem Bus- und Bahnhof sowie dem Fährhafen.",
+      "touristType": "Natur und Sightseeing",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Privatfahrzeug, Hin- und Rückfahrt Šibenik zum Nationalpark Krka, bis zu 4 Personen. Eintrittskarten für den Park nicht inbegriffen."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ist das eine geführte Tour oder ein Taxitransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es ist ein Taxitransfer, keine geführte Tour. Antonio ist ein lokaler Taxifahrer aus Šibenik, der einen privaten Hin- und Rücktransfer nach Krka und zurück anbietet. Sie bekommen das Fahrzeug und die Fahrt; im Park sind Sie frei, alles auf eigene Faust und in Ihrem eigenen Tempo zu erkunden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie uns vom Amadria Park, D-Resort oder Hotel Bellevue abholen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ich hole regelmäßig Gäste vom Amadria Park Resort, D-Resort Šibenik, Hotel Bellevue und anderen Hotels in Šibenik ab. Senden Sie mir den Namen Ihres Hotels und ich bestätige Ihnen die genaue Abholzeit und den Treffpunkt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Holen Sie am Fährhafen, Busbahnhof oder Bahnhof von Šibenik ab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ich hole Gäste von Tür zu Tür vom Fähr- und Kreuzfahrthafen Šibenik, vom Busbahnhof sowie von den Bahnhöfen Šibenik und Perković ab, auf Wunsch mit Namensschild."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie lange bleiben wir im Nationalpark Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die meisten Gäste wählen rund 3 bis 4 Stunden freie Zeit im Park, genug, um die wichtigsten Wasserfälle zu sehen und die klassische Rundwanderung über die Holzstege zu gehen. Ein kürzerer oder längerer Aufenthalt kann bei der Buchung vereinbart werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind die Eintrittskarten für Krka im Preis inbegriffen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Die Eintrittskarten werden separat gekauft, direkt beim Nationalpark Krka am Eingang Skradin oder Lozovac oder online. Die Tickets kosten je nach Saison etwa 7 bis 40 Euro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie buche und bezahle ich den Tagesausflug von Šibenik nach Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine Anzahlung von 20 % (mindestens 20 Euro) bestätigt die Buchung, per Banküberweisung oder Karte, und Sie erhalten eine Rechnung als Bestätigung. Der Restbetrag wird am Tag der Fahrt an den Fahrer bezahlt, bar oder mit Karte."
+          }
+        }
+      ]
+    }
+  ]
+}

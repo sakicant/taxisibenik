@@ -1,0 +1,145 @@
+{
+  "slug": "amadria-park-transfers",
+  "title": "Amadria Park Transfers | Festpreise | TAXI Antonio",
+  "description": "Privattransfers zum und vom Amadria Park Šibenik, allen Hotels und dem Camp. Festpreise bei Buchung im Voraus: Flughafen Split €95, Flughafen Zadar €130, Krka ab €45. Von Tür zu Tür, ein einheimischer Fahrer.",
+  "keywords": "amadria park transfers, amadria park taxi, amadria park šibenik transfer, amadria park flughafentransfer, taxi amadria park, solaris šibenik taxi",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Hotel-, Flughafen- und Stadttaxitransfers",
+      "name": "Amadria Park Šibenik Transfers",
+      "description": "Private Taxitransfers zum Festpreis zum und vom Amadria Park Resort in Šibenik, einschließlich aller Resort-Hotels und des Camps. Flughafentransfers, Städtetransfers und Krka-Tagesausflüge, im Voraus zu einem vorab vereinbarten Preis gebucht.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Amadria Park Šibenik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/de/amadria-park-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Festpreise für Transfers ab Amadria Park",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Amadria Park zum Flughafen Split",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park zum Flughafen Zadar",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park zum Flughafen Zagreb",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park zum Flughafen Dubrovnik",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park ins Zentrum von Šibenik",
+            "price": "18",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park zum Nationalpark Krka (Lozovac)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park nach Split",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park nach Zadar",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie viel kostet ein Taxi von Amadria Park zum Flughafen Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Privattransfer von Amadria Park zum Flughafen Split kostet fixe 95 Euro pro Fahrzeug für bis zu 4 Personen, im Voraus gebucht. Maut, Kraftstoff und Gepäck sind inbegriffen, und der Preis ist in beide Richtungen gleich."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Holen Sie Gäste von allen Amadria Park Hotels und dem Camp ab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ich hole Sie vor der Tür jedes Hotels im Resort und an der Rezeption des Amadria Park Camps ab, zu den gleichen Festpreisen. Nennen Sie mir bei der Buchung den Namen Ihres Hotels, und ich bestätige den genauen Treffpunkt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sollte ich meinen Amadria Park Transfer im Voraus buchen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Alle aufgeführten Preise sind Festpreise für im Voraus gebuchte Transfers. Eine Buchung im Voraus garantiert das Fahrzeug, die Abholzeit und den Preis, was besonders bei frühen Flügen und in der Hochsaison wichtig ist."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Empfangen Sie ankommende Gäste am Flughafen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Bei Ankünften verfolge ich Ihren Flug in Echtzeit, warte in der Ankunftshalle mit einem Namensschild und fahre Sie direkt zu Ihrem Amadria Park Hotel oder zum Camp. Das Warten bei verspäteten Flügen ist kostenlos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie uns von Amadria Park zum Nationalpark Krka bringen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ein Transfer in eine Richtung zum Eingang Lozovac kostet 45 Euro und zum Eingang Skradin 50 Euro. Ich biete auch einen kompletten privaten Tagesausflug mit inbegriffener Wartezeit an, mit Abholung an Ihrem Amadria Park Hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie bezahle ich den Transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine Anzahlung von 20 % (mindestens 20 Euro) bestätigt die Buchung, per Banküberweisung oder Karte. Der Restbetrag wird am Tag der Fahrt an den Fahrer gezahlt, bar oder per Karte."
+          }
+        }
+      ]
+    }
+  ]
+}

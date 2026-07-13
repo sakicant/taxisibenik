@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Taxi Perković | TAXI Antonio",
+  "description": "Taxi Perković: Empfang am Bahnsteig des wichtigsten Bahnhofs für die Region Šibenik, mit Anschlusstransfers nach Šibenik, Vodice, Krka und darüber hinaus.",
+  "keywords": "taxi perkovic, perkovic taxi, perkovic bahnhof taxi, perkovic bahnhoftransfer, perkovic nach sibenik, perkovic nach krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokales Taxi und Flughafentransfers",
+      "name": "Taxi Perković",
+      "description": "Privates Taxi, das Züge in Perković empfängt, dem wichtigsten Bahnhof für die Region Šibenik, mit Anschlusstransfers nach Šibenik, Vodice, Krka, Drniš, Knin und zum Flughafen Split.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/de/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wo treffen wir uns am Bahnhof Perković?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Am Bahnsteig oder, wenn Sie möchten, am Bahnhofsausgang. Ich habe ein Schild mit Ihrem Namen bereit und helfe Ihnen mit dem Gepäck, sodass Sie direkt zum Auto gehen können."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was passiert, wenn mein Zug nach Perković Verspätung hat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ich verfolge Ihren Zug und passe die Abholung ohne Aufpreis entsprechend an, sodass ich da bin, wann immer er tatsächlich ankommt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es einen Taxistand in Perković?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, am Bahnhof gibt es keinen Taxistand, daher ist es am besten, im Voraus zu buchen. Senden Sie mir Ihre Zugzeit und Ihr Ziel, und ich warte auf Sie, wenn Sie aussteigen."
+          }
+        }
+      ]
+    }
+  ]
+}
