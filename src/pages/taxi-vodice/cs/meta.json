@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "Taxi Vodice | TAXI Antonio",
+  "description": "Taxi Vodice: pevné letištní transfery do Zadaru (€100) a Splitu, vyzvednutí u mariny a resortů, výlety do Krky a odvoz na trajekt. Rezervujte přímo.",
+  "keywords": "taxi vodice, vodice taxi, letištní transfer vodice, vodice na letiště split, vodice na letiště zadar, taxi marina vodice, vodice do krky",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Místní taxi a letištní transfery",
+      "name": "Taxi Vodice",
+      "description": "Soukromé taxi s pevnou cenou ve Vodicích: letištní transfery do Splitu a Zadaru, vyzvednutí u mariny a resortů, celodenní výlety do Národního parku Krka a odvoz na trajekt na ostrovy.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/cs/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ceny taxi z Vodic",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice do Šibeniku",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice do NP Krka (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice na letiště Zadar",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice na letiště Split",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Můžete vyzvednout posádky v marině Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Posádky jachet a charterů vítám přímo v marině s místem na zavazadla a zásoby a mohu domluvit časný nebo pozdní termín podle vašeho charteru."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jezdíte ve Vodicích i pozdě v noci?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Pokud je to domluvené předem, mohu vás vyzvednout po večerní zábavě a bezpečně vás dovézt zpět do ubytování za pevnou cenu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete mě odvézt na trajekt na Prvić nebo Zlarin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Oba odjíždějí z nábřeží ve Vodicích a mohu vás odvézt přímo na přístaviště. Při rezervaci se mě zeptejte na cenu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kolik stojí Vodice na letiště Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných €100 za auto pro až 4 cestující, a letiště Split je €115, mýtné a zavazadla v ceně."
+          }
+        }
+      ]
+    }
+  ]
+}

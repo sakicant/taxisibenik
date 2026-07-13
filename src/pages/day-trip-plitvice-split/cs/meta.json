@@ -1,0 +1,84 @@
+{
+  "slug": "vylet-plitvice-split",
+  "title": "Výlet na Plitvice ze Splitu | Soukromý transfer, pevných €650 | TAXI Antonio",
+  "description": "Soukromý zpáteční taxi transfer na Plitvická jezera ze Splitu. Pevná cena €650 za auto, až 4 cestující, ode dveří ke dveřím ze splitských hotelů, výletního přístavu a starého města. Není to prohlídka s průvodcem, jen cesta tam a zpět.",
+  "keywords": "výlet na plitvice ze splitu, zpáteční transfer na plitvice, taxi na plitvice ze splitu, plitvická jezera ze splitu, split na plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Soukromý výlet na Plitvická jezera ze Splitu",
+      "description": "Soukromý celodenní výlet do národního parku Plitvická jezera ze Splitu s místním anglicky mluvícím řidičem. Pevná cena 650 eur za auto pro až 4 cestující, s vyzvednutím ode dveří ke dveřím u splitských hotelů, výletního přístavu, autobusového a vlakového nádraží a starého města.",
+      "touristType": "Příroda a poznávání",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "650",
+        "priceCurrency": "EUR",
+        "description": "Soukromé vozidlo, zpáteční cesta Split do národního parku Plitvická jezera, až 4 cestující. Vstupenky do parku nejsou zahrnuty."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je to prohlídka s průvodcem, nebo taxi transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Je to taxi transfer, ne prohlídka s průvodcem. Antonio je místní řidič, který zajišťuje soukromý zpáteční transfer ze Splitu na Plitvice a zpět. Dostanete auto a řidiče; uvnitř parku se můžete volně procházet sami, vlastním tempem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kolik stojí taxi na Plitvice ze Splitu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Soukromý zpáteční transfer ze Splitu na Plitvická jezera je za pevných 650 eur za auto pro až 4 cestující, včetně mýtného, paliva a čekání u parku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jak dlouho trvá výlet ze Splitu na Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cesta trvá zhruba dvě a půl až tři hodiny jedním směrem, plus přibližně 4 až 6 hodin na procházku kolem jezer. Je to dlouhý celodenní výlet, obvykle 11 až 12 hodin ode dveří ke dveřím, takže časný start je nezbytný."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jsou vstupenky na Plitvice zahrnuty v ceně?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ne. Vstupenky se kupují zvlášť u národního parku Plitvická jezera, u vchodu nebo online. Vstupenky stojí zhruba 10 až 40 eur podle sezóny a zahrnují panoramatický vláček a elektrickou loďku uvnitř parku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jak si výlet zarezervuji a zaplatím?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zálohu 20 % (minimálně 20 eur) potvrdíte rezervaci, bankovním převodem nebo kartou, a jako potvrzení dostanete fakturu. Zbytek se platí řidiči v den výletu, hotově nebo kartou."
+          }
+        }
+      ]
+    }
+  ]
+}

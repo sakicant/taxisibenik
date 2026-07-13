@@ -1,0 +1,75 @@
+{
+  "slug": "vylety",
+  "title": "Výlety ze Šibeniku | Soukromé výlety do Krky a na Plitvice | TAXI Antonio",
+  "description": "Soukromé výlety ze Šibeniku a z celé Dalmácie do národního parku Krka a na Plitvická jezera. Zpáteční transfery za pevnou cenu, ode dveří ke dveřím, s místním řidičem. Není to tour, jen odvoz tam a zpět.",
+  "keywords": "výlety ze šibeniku, výlety šibenik, soukromý výlet chorvatsko, výlet krka, výlet plitvice, výlet do krky, výlet na plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromé výlety a exkurze",
+      "name": "Výlety ze Šibeniku a z Dalmácie",
+      "description": "Soukromé výlety za pevnou cenu do národního parku Krka a na Plitvická jezera s místním řidičem ze Šibeniku. Zpáteční transfery ode dveří ke dveřím ze Šibeniku, Vodic, Primoštenu, Splitu a Zadaru, až 4 cestující ve voze.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+      },
+      "areaServed": ["Šibenik", "Vodice", "Primošten", "Split", "Zadar"],
+      "url": "https://taxisibenik.hr/cs/vylety/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Soukromé výlety z Dalmácie",
+        "itemListElement": [
+          { "@type": "Offer", "name": "Výlet do Krky ze Šibeniku", "price": "100", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/cs/vylet-krka-sibenik/" },
+          { "@type": "Offer", "name": "Výlet do Krky z Vodic", "price": "125", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/cs/vylet-krka-vodice/" },
+          { "@type": "Offer", "name": "Výlet do Krky z Primoštenu", "price": "155", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/cs/vylet-krka-primosten/" },
+          { "@type": "Offer", "name": "Výlet do Krky ze Zadaru", "price": "260", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/cs/vylet-krka-zadar/" },
+          { "@type": "Offer", "name": "Výlet do Krky ze Splitu", "price": "290", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/cs/vylet-krka-split/" },
+          { "@type": "Offer", "name": "Výlet na Plitvice ze Šibeniku", "price": "500", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/cs/vylet-plitvice-sibenik/" },
+          { "@type": "Offer", "name": "Výlet na Plitvice ze Splitu", "price": "650", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/cs/vylet-plitvice-split/" }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jaké výlety si mohu rezervovat ze Šibeniku?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Dva nejoblíbenější výlety jsou do národního parku Krka a na Plitvická jezera. Oba jsou soukromé zpáteční transfery za pevnou cenu ode dveří ke dveřím od vašeho hotelu nebo apartmánu, s volným časem uvnitř parku, abyste ho prozkoumali vlastním tempem." }
+        },
+        {
+          "@type": "Question",
+          "name": "Jsou to výlety s průvodcem, nebo taxi transfery?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Jsou to soukromé taxi transfery, ne skupinové výlety s průvodcem. Antonio je místní řidič, který vás odveze tam a zpět v pohodlné Škodě Superb. Uvnitř parku se pohybujete volně sami, bez průvodce a bez sdílené skupiny." }
+        },
+        {
+          "@type": "Question",
+          "name": "Kolik stojí výlet do Krky nebo na Plitvice?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Soukromý výlet do Krky začíná na pevných 100 eurech za vozidlo ze Šibeniku. Výlet na Plitvická jezera stojí 500 eur za vozidlo ze Šibeniku. Ceny jsou za vozidlo až pro 4 cestující a závisí na vašem městě vyzvednutí." }
+        },
+        {
+          "@type": "Question",
+          "name": "Vyzvedáváte i z jiných měst, nejen ze Šibeniku?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Ano. Výlety do Krky jezdí ze Šibeniku, Vodic, Primoštenu, Zadaru a Splitu a výlety na Plitvice ze Šibeniku a Splitu. Každé město má svou pevnou cenu a vlastní stránku se všemi podrobnostmi." }
+        },
+        {
+          "@type": "Question",
+          "name": "Je vstupné do parku zahrnuto v ceně?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Ne. Cena pokrývá pouze soukromý transfer a čas čekání. Vstupenky do Krky a na Plitvice se kupují zvlášť u vstupu nebo online a stojí přibližně 7 až 40 eur podle sezóny." }
+        },
+        {
+          "@type": "Question",
+          "name": "Jak si výlet rezervuji?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Napište mi na WhatsApp, zavolejte nebo použijte kontaktní stránku. Termín potvrdí záloha ve výši 20 % (minimálně 20 eur) a zbytek zaplatíte řidiči v den výletu." }
+        }
+      ]
+    }
+  ]
+}

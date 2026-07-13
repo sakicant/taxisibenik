@@ -1,0 +1,109 @@
+{
+  "slug": "marina-zaton-transfer",
+  "title": "Marina Zaton transfery | Pevné ceny | TAXI Antonio",
+  "description": "Soukromé transfery z Marina Zaton u Šibeniku na letiště a do měst Split, Zadar, Záhřeb a Dubrovník. Pevné ceny, vyzvednutí u stání, jeden místní řidič.",
+  "keywords": "marina zaton transfer, zaton marina taxi, marina zaton transfer na letiště, zaton letiště split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfery z mariny a na letiště",
+      "name": "Marina Zaton transfery",
+      "description": "Soukromé transfery z Marina Zaton u Šibeniku na letiště a do měst Split, Zadar, Záhřeb a Dubrovník. Pevné ceny, vyzvednutí u stání, jeden místní řidič.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/cs/marina-zaton-transfer/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Pevné ceny transferů z Marina Zaton",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton na letiště Split",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton na letiště Zadar",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton na letiště Záhřeb",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton na letiště Dubrovník",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Splitu",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Zadaru",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Dubrovníku",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Trogiru",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Vodic",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do NP Krka (Lozovac)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Šibeniku",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    }
+  ]
+}

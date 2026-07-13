@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadar-zagreb",
+  "title": "Taxi Zadar - Zagreb | Pevná cena €450 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Zadar - Zagreb. Pevná cena €450 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "keywords": "taxi zadar - zagreb, transfer zadar - zagreb, letištní transfer zadar - zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromý taxi transfer",
+      "name": "Taxi Zadar - Zagreb",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Zadar - Zagreb, 450 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/cs/taxi-zadar-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "450",
+        "priceCurrency": "EUR",
+        "description": "Soukromá jednosměrná jízda, trasa Zadar - Zagreb, za vozidlo až pro 4 cestující. Zpáteční 900 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jak dlouhá je trasa a jak dlouho trvá jízda?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jízda na trase Zadar - Zagreb je zhruba 286 km a trvá přibližně 3 h 20 min při běžném provozu, o něco déle ve špičce letní sezony. Vyzvednutí plánuji tak, aby vás pomalejší úsek nikdy netlačil."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kolik stojí taxi na trase Zadar - Zagreb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevně 450 za vozidlo až pro 4 cestující, jednosměrná, s mýtným, palivem a zavazadly. Zpáteční jízda je 900."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je transfer soukromý nebo sdílený?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Každý transfer je soukromý a ode dveří ke dveřím, ve Škodě Superb. Žádné sdílení vozidla a žádné zastávky navíc, pokud o ně nepožádáte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete zastavit po cestě?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Na delších trasách se rád zastavím na kávu, fotku nebo krátkou zajímavost. Stačí říct při rezervaci."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S jakým předstihem rezervovat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alespoň 2 hodiny předem, abych potvrdil vozidlo a čas vyzvednutí. Pro rychlou jízdu zavolejte nebo napište na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

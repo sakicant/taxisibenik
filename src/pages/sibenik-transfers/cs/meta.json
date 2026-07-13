@@ -1,0 +1,87 @@
+{
+  "slug": "mezimestske-transfery",
+  "title": "Transfery Šibenik | Pevné ceny | TAXI Antonio",
+  "description": "Transfery ze Šibeniku do Splitu, Zadaru, Dubrovniku, Zagrebu, Trogiru a dále a zpět. Pevné ceny, soukromě ode dveří ke dveřím, jeden místní řidič. Rezervujte přímo u Antonia.",
+  "keywords": "transfery šibenik, transfer šibenik, taxi šibenik split, šibenik zadar, šibenik dubrovnik, šibenik zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Meziměstský taxi transfer",
+      "name": "Transfery Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/cs/mezimestske-transfery/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolik stojí taxi transfer ze Šibeniku do Splitu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Soukromý transfer ze Šibeniku do Splitu má pevnou cenu 140 eur za vozidlo až pro 4 cestující, včetně mýtného, paliva a zavazadel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jsou ceny transferů pevné?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Každý meziměstský transfer má pevnou cenu za vozidlo až pro 4 cestující, dohodnutou předem. Žádný taxametr, žádná překvapení."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je transfer soukromý, nebo sdílený?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Každý transfer je soukromý a ode dveří ke dveřím, ve voze Škoda Superb. Žádné sdílení vozidla a žádné zastávky navíc, pokud si o ně nepožádáte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete cestou zastavit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. U delších transferů rád zastavím na kávu, na fotku nebo u nějaké zajímavosti. Stačí mi to říct při rezervaci a započítám to."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jak zaplatím za transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervaci potvrdí záloha ve výši 20 % (minimálně 20 eur) uhrazená bankovním převodem nebo kartou. Zbytek zaplatíte řidiči v den jízdy, hotově nebo kartou."
+          }
+        }
+      ]
+    }
+  ]
+}

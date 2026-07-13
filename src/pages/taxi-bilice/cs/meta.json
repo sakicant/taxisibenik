@@ -1,0 +1,119 @@
+{
+  "slug": "taxi-bilice",
+  "title": "Taxi Bilice | TAXI Antonio",
+  "description": "Taxi Bilice: letištní transfery za pevnou cenu do Splitu (€100) a Zadaru, plus rychlé jízdy do Šibeniku. Vyzvednutí přímo u dveří pro hosty apartmánů a vil.",
+  "keywords": "taxi bilice, bilice taxi, bilice letištní transfer, bilice na letiště split, bilice do šibeniku, taxi bilice šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Místní taxi a letištní transfery",
+      "name": "Taxi Bilice",
+      "description": "Soukromé taxi a letištní transfery za pevnou cenu z Bilic, severně od Šibeniku, na letiště Split, letiště Zadar, do Šibeniku, Vodic a národního parku Krka.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Bilice",
+      "url": "https://taxisibenik.hr/cs/taxi-bilice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ceny taxi z Bilic",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice do Šibeniku",
+            "price": "20",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/cs/rezervace/?from=Bilice&to=%C5%A0ibenik%20-%20center&price=20"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice do Vodic",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/cs/rezervace/?from=Bilice&to=Vodice&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice do NP Krka (Lozovac)",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/cs/rezervace/?from=Bilice&to=NP%20Krka%20-%20Lozovac%20entrance&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice na letiště Split",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/cs/rezervace/?from=Bilice&to=Split%20Airport%20%28SPU%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice na letiště Zadar",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/cs/rezervace/?from=Bilice&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice do Splitu",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/cs/rezervace/?from=Bilice&to=Split&price=140"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice do Zadaru",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/cs/rezervace/?from=Bilice&to=Zadar&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vyzvedáváte u apartmánů a vil v Bilicích?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Vyzvednu vás přímo u dveří vašeho ubytování v Bilicích, naložím zavazadla a odvezu vás ode dveří ke dveřím. Stačí mi při rezervaci poslat adresu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jak brzy dokážete zajistit letištní transfer z Bilic?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "V kteroukoli hodinu, ve dne i v noci, pokud je to rezervováno předem. U časných letů ze Splitu nebo Zadaru potvrdím čas vyzvednutí, abyste dorazili k terminálu s časovou rezervou."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je cena na letiště opravdu pevná?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Každá cena zde je pevná za auto pro až 4 cestující, včetně mýtného, paliva a zavazadel. Žádný taxametr."
+          }
+        }
+      ]
+    }
+  ]
+}

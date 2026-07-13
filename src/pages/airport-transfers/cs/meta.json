@@ -1,0 +1,85 @@
+{
+  "slug": "letistni-transfery",
+  "title": "Letištní transfery Šibenik | Pevné ceny | TAXI Antonio",
+  "description": "Letištní transfery ze Šibeniku na letiště Split, Zadar, Zagreb a Dubrovnik a zpět. Pevné ceny, sledování letů, ode dveří ke dveřím. Obsluhuji také Vodice, Primošten a Skradin. Rezervujte u Antonia.",
+  "keywords": "letištní transfery šibenik, transfer letiště šibenik, letiště split šibenik, letiště zadar šibenik, transfer letiště vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Letištní transfer",
+      "name": "Letištní transfery ze Šibeniku",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Letiště Split",
+        "Letiště Zadar",
+        "Letiště Zagreb",
+        "Letiště Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/cs/letistni-transfery/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jak najdu svého řidiče na letišti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio na vás čeká v příletové hale za výdejem zavazadel a drží ceduli s vaším jménem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Co když má můj let zpoždění?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lety sleduji v reálném čase podle čísla letu, které uvedete při rezervaci. Čas vyzvednutí se automaticky upraví a za čekání neúčtuji žádný příplatek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je cena letištního transferu pevná?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Každý letištní transfer má pevnou cenu za vozidlo až pro 4 cestující, včetně mýtného, paliva a zavazadel. Žádný taxametr, žádná překvapení."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Poskytujete dětské sedačky pro letištní transfery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano, dětské i podsedákové sedačky poskytuji zdarma. Stačí si je vyžádat v poznámce k rezervaci a uvést věk dítěte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jak zaplatím za letištní transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervaci potvrdí záloha ve výši 20 % (minimálně 20 eur) uhrazená bankovním převodem nebo kartou. Zbytek zaplatíte řidiči v den jízdy, hotově nebo kartou."
+          }
+        }
+      ]
+    }
+  ]
+}

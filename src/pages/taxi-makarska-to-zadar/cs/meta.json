@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-makarska-zadar",
+  "title": "Taxi Makarska - Zadar | Pevná cena €275 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Makarska - Zadar. Pevná cena €275 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "keywords": "taxi makarska - zadar, transfer makarska - zadar, letištní transfer makarska - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromý taxi transfer",
+      "name": "Taxi Makarska - Zadar",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Makarska - Zadar, 275 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Makarska",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/cs/taxi-makarska-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "275",
+        "priceCurrency": "EUR",
+        "description": "Soukromá jednosměrná jízda, trasa Makarska - Zadar, za vozidlo až pro 4 cestující. Zpáteční 550 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jak dlouhá je trasa a jak dlouho trvá jízda?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jízda na trase Makarska - Zadar je zhruba 205 km a trvá přibližně 2 h 25 min při běžném provozu, o něco déle ve špičce letní sezony. Vyzvednutí plánuji tak, aby vás pomalejší úsek nikdy netlačil."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kolik stojí taxi na trase Makarska - Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevně 275 za vozidlo až pro 4 cestující, jednosměrná, s mýtným, palivem a zavazadly. Zpáteční jízda je 550."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je transfer soukromý nebo sdílený?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Každý transfer je soukromý a ode dveří ke dveřím, ve Škodě Superb. Žádné sdílení vozidla a žádné zastávky navíc, pokud o ně nepožádáte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete zastavit po cestě?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Na delších trasách se rád zastavím na kávu, fotku nebo krátkou zajímavost. Stačí říct při rezervaci."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S jakým předstihem rezervovat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alespoň 2 hodiny předem, abych potvrdil vozidlo a čas vyzvednutí. Pro rychlou jízdu zavolejte nebo napište na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

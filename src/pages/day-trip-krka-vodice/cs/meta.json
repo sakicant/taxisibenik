@@ -1,0 +1,92 @@
+{
+  "slug": "vylet-krka-vodice",
+  "title": "Výlet na Krku z Vodic | Privátní transfer, pevných €125 | TAXI Antonio",
+  "description": "Privátní zpáteční taxi transfer na Krku z Vodic. Pevná cena €125 za vůz, až 4 cestující, ode dveří ke dveřím z hotelů a apartmánů ve Vodicích, Srimě a Tribunji. Není to zájezd, jen cesta tam a zpět.",
+  "keywords": "výlet na krku z vodic, krka z vodic, taxi na krku z vodic, transfer krka vodice, krka ze srimy, krka z tribunje, vodice do národního parku krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privátní výlet na Krku z Vodic",
+      "description": "Privátní celodenní výlet do Národního parku Krka z Vodic s místním řidičem, který mluví anglicky. Pevná cena 125 eur za vůz pro až 4 cestující, s vyzvednutím ode dveří ke dveřím u hotelů a apartmánů ve Vodicích, Srimě a Tribunji.",
+      "touristType": "Příroda a prohlídka pamětihodností",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Privátní vozidlo, zpáteční cesta Vodice do Národního parku Krka, až 4 cestující. Vstupné do parku není zahrnuto."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jde o organizovaný zájezd s průvodcem, nebo o taxi transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jde o taxi transfer, ne o zájezd s průvodcem. Antonio je místní řidič, který zajišťuje privátní zpáteční transfer z Vodic na Krku a zpět. Dostanete vůz a odvoz; uvnitř parku se můžete volně procházet sami, vlastním tempem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vyzvedáváte kromě Vodic i ze Srimy a Tribunje?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Vyzvednutí ze Srimy a Tribunje je za stejnou pevnou cenu jako z Vodic. Vyzvednu vás ode dveří ke dveřím z jakéhokoli hotelu, apartmánu či vily ve Vodicích, Srimě nebo Tribunji, včetně vodické mariny a Rivy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kolik stojí taxi na Krku z Vodic?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privátní zpáteční transfer z Vodic na Krku je za pevných 125 eur za vůz pro až 4 cestující, včetně paliva a čekání u parku. Stejná cena platí i pro vyzvednutí ve Srimě a Tribunji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kolik času strávíme v Národním parku Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Většina hostů volí zhruba 3 až 4 hodiny volného času uvnitř parku, což stačí na hlavní vodopády a klasický okruh po dřevěných chodnících. Kratší nebo delší pobyt lze domluvit při rezervaci."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je vstupné na Krku zahrnuto v ceně?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ne. Vstupenky se kupují zvlášť, přímo od Národního parku Krka u vstupu Skradin nebo Lozovac, případně online. Vstupenky stojí přibližně 7 až 40 eur v závislosti na sezóně."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jak si výlet z Vodic na Krku zarezervuji a zaplatím?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervaci potvrzuje záloha 20 % (minimálně 20 eur), bankovním převodem nebo kartou, a jako potvrzení dostanete fakturu. Zbytek se platí řidiči v den výletu, hotově nebo kartou."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-pirovac-trogir",
+  "title": "Taxi Pirovac - Trogir | Pevná cena €125 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Pirovac - Trogir. Pevná cena €125 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "keywords": "taxi pirovac - trogir, transfer pirovac - trogir, letištní transfer pirovac - trogir",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromý taxi transfer",
+      "name": "Taxi Pirovac - Trogir",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Pirovac - Trogir, 125 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Pirovac",
+        "Trogir"
+      ],
+      "url": "https://taxisibenik.hr/cs/taxi-pirovac-trogir/",
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Soukromá jednosměrná jízda, trasa Pirovac - Trogir, za vozidlo až pro 4 cestující. Zpáteční 250 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jak dlouhá je trasa a jak dlouho trvá jízda?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jízda na trase Pirovac - Trogir je zhruba 87 km a trvá přibližně 80 min při běžném provozu, o něco déle ve špičce letní sezony. Vyzvednutí plánuji tak, aby vás pomalejší úsek nikdy netlačil."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kolik stojí taxi na trase Pirovac - Trogir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevně 125 za vozidlo až pro 4 cestující, jednosměrná, s mýtným, palivem a zavazadly. Zpáteční jízda je 250."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je transfer soukromý nebo sdílený?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Každý transfer je soukromý a ode dveří ke dveřím, ve Škodě Superb. Žádné sdílení vozidla a žádné zastávky navíc, pokud o ně nepožádáte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete zastavit po cestě?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Na delších trasách se rád zastavím na kávu, fotku nebo krátkou zajímavost. Stačí říct při rezervaci."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S jakým předstihem rezervovat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alespoň 2 hodiny předem, abych potvrdil vozidlo a čas vyzvednutí. Pro rychlou jízdu zavolejte nebo napište na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

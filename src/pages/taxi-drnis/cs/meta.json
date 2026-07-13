@@ -1,0 +1,84 @@
+{
+  "slug": "taxi-drnis",
+  "title": "Taxi Drniš | TAXI Antonio",
+  "description": "Taxi Drniš: meziměstské transfery do Šibeniku (€65) a na letiště Split (€80) z vnitrozemského města proslulého pršutem. Pevné ceny, rezervujte napřímo.",
+  "keywords": "taxi drnis, drnis taxi, letištní transfer drnis, drnis na letiště split, drnis do šibeniku, meziměstský transfer drnis",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Místní taxi a letištní transfery",
+      "name": "Taxi Drniš",
+      "description": "Soukromé meziměstské taxi s pevnou cenou z Drniše, vnitrozemského města v údolí Krky, do Šibeniku a na letiště Split, s navazujícími vnitrozemskými trasami na vyžádání.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Drniš",
+      "url": "https://taxisibenik.hr/cs/taxi-drnis/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ceny taxi z Drniše",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Drniš do Šibeniku",
+            "price": "65",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/cs/rezervace/?from=Drni%C5%A1&to=%C5%A0ibenik%20-%20center&price=65"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Drniš na letiště Split",
+            "price": "80",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/cs/rezervace/?from=Drni%C5%A1&to=Split%20Airport%20%28SPU%29&price=80"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je cena na letiště Split z Drniše pevná?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Trasa z Drniše na letiště Split je za pevných €80 za vozidlo pro až 4 cestující, včetně mýtného a zavazadel, dohodnutá předem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Nabízíte zpáteční a firemní jízdy z Drniše?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Zajišťuji zpáteční transfery i firemní cesty na pobřeží a na letiště. Sdělte mi časy a potvrdím vám pevnou cenu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete mě zavézt dále do vnitrozemí do Kninu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano, pokrývám vnitrozemské trasy do Kninu a k železniční stanici Perković. Protože nejsou v mém online ceníku, napište mi a potvrdím vám cenu."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-letiste-split-srima",
+  "title": "Taxi Letiště Split - Srima | Pevná cena €115 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Letiště Split - Srima. Pevná cena €115 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "keywords": "taxi letiště split - srima, transfer letiště split - srima, letištní transfer letiště split - srima",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromý taxi transfer",
+      "name": "Taxi Letiště Split - Srima",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Letiště Split - Srima, 115 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Letiště Split",
+        "Srima"
+      ],
+      "url": "https://taxisibenik.hr/cs/taxi-letiste-split-srima/",
+      "offers": {
+        "@type": "Offer",
+        "price": "115",
+        "priceCurrency": "EUR",
+        "description": "Soukromá jednosměrná jízda, trasa Letiště Split - Srima, za vozidlo až pro 4 cestující. Zpáteční 230 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jak dlouhá je trasa a jak dlouho trvá jízda?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jízda na trase Letiště Split - Srima je zhruba 64 km a trvá přibližně 65 min při běžném provozu, o něco déle ve špičce letní sezony. Vyzvednutí plánuji tak, aby vás pomalejší úsek nikdy netlačil."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kde mě přivítáte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "V příletové hale, hned za výdejem zavazadel, s cedulkou s vaším jménem. Pomůžu se zavazadly a doprovodím vás k vozidlu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Co když má můj let zpoždění?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Žádný problém. Váš let sleduji v reálném čase a přizpůsobím vyzvednutí skutečnému přistání, bez příplatku za čekání."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kolik stojí transfer na trase Letiště Split - Srima?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevně 115 za vozidlo až pro 4 cestující, jednosměrná, mýtné a zavazadla v ceně. Zpáteční jízda je 230."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S jakým předstihem rezervovat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alespoň 2 hodiny předem, abych naplánoval podle vašeho letu. Pro vyzvednutí týž den po náhlé změně zavolejte nebo napište na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}
