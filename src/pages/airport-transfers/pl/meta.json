@@ -1,0 +1,85 @@
+{
+  "slug": "transfery-lotniskowe",
+  "title": "Transfery lotniskowe Šibenik | Stałe ceny | TAXI Antonio",
+  "description": "Transfery lotniskowe z i do Šibenika na lotniska w Splicie, Zadarze, Zagrzebiu i Dubrowniku. Stałe ceny, monitorowanie lotów, od drzwi do drzwi. Obsługuję też Vodice, Primošten i Skradin. Rezerwuj u Antonia.",
+  "keywords": "transfery lotniskowe sibenik, transfer lotniskowy šibenik, lotnisko split do sibenika, lotnisko zadar do sibenika, transfer lotniskowy vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Airport transfer",
+      "name": "Transfery lotniskowe z Šibenika",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split Airport",
+        "Zadar Airport",
+        "Zagreb Airport",
+        "Dubrovnik Airport"
+      ],
+      "url": "https://taxisibenik.hr/pl/transfery-lotniskowe/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jak znajdę kierowcę na lotnisku?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio czeka w hali przylotów za odbiorem bagażu, trzymając czytelną tabliczkę z Twoim nazwiskiem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Co jeśli mój lot jest opóźniony?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Loty są monitorowane na bieżąco na podstawie numeru lotu, który podajesz przy rezerwacji. Godzina odbioru jest dostosowywana automatycznie i nie ma żadnej dopłaty za oczekiwanie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy cena transferu lotniskowego jest stała?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Każdy transfer lotniskowy ma stałą cenę za samochód dla maksymalnie 4 pasażerów, z opłatami drogowymi, paliwem i bagażem w cenie. Bez taksometru, bez niespodzianek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy zapewniasz foteliki dziecięce do transferów lotniskowych?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak, foteliki dziecięce i podstawki zapewniam bezpłatnie. Wystarczy zaznaczyć to w uwagach do rezerwacji wraz z wiekiem dziecka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jak płacę za transfer lotniskowy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zaliczka w wysokości 20% (minimum 20 euro) potwierdza rezerwację, przelewem lub kartą. Resztę płacisz kierowcy w dniu przejazdu, gotówką lub kartą."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "taxi-drnis",
+  "title": "Taxi Drniš | TAXI Antonio",
+  "description": "Taxi Drniš: transfery międzymiastowe do Šibenika (€65) i na lotnisko Split (€80) z położonego w głębi lądu miasteczka słynącego z pršuta. Stałe ceny, rezerwuj bezpośrednio.",
+  "keywords": "taxi drnis, taksówka drnis, transfer z lotniska drnis, drnis na lotnisko split, drnis do sibenika, transfer międzymiastowy drnis",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokalna taksówka i transfery lotniskowe",
+      "name": "Taxi Drniš",
+      "description": "Prywatna taksówka o stałej cenie z Drniša, miasteczka w głębi lądu w dolinie Krki, do Šibenika i na lotnisko Split, z dalszymi trasami w głąb lądu na życzenie.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Drniš",
+      "url": "https://taxisibenik.hr/pl/taxi-drnis/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ceny taxi z Drniša",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Drniš do Šibenika",
+            "price": "65",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/pl/rezerwacja/?from=Drni%C5%A1&to=%C5%A0ibenik%20-%20center&price=65"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Drniš na lotnisko Split",
+            "price": "80",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/pl/rezerwacja/?from=Drni%C5%A1&to=Split%20Airport%20%28SPU%29&price=80"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Czy lotnisko Split ma stałą cenę z Drniša?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Drniš na lotnisko Split to stała cena €80 za samochód dla maksymalnie 4 pasażerów, z opłatami drogowymi i bagażem w cenie, ustalona przed podróżą."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy realizujesz przejazdy powrotne i służbowe z Drniša?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Obsługuję transfery powrotne i podróże służbowe na wybrzeże oraz na lotnisko. Podaj mi godziny, a potwierdzę stałą cenę."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy możesz zawieźć mnie dalej w głąb lądu do Knina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak, obsługuję trasy w głąb lądu do Knina i na stację kolejową Perković. Ponieważ nie ma ich w moim cenniku online, napisz do mnie, a potwierdzę cenę."
+          }
+        }
+      ]
+    }
+  ]
+}

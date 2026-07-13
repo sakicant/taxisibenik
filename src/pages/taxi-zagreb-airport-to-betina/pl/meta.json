@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-lotnisko-zagreb-betina",
+  "title": "Taxi Lotnisko Zagreb - Betina | Stała cena €485 | TAXI Antonio",
+  "description": "Taxi i prywatny transfer, trasa Lotnisko Zagreb - Betina. Stała cena €485 za pojazd, do 4 pasażerów, od drzwi do drzwi. Rezerwuj bezpośrednio u Antonio.",
+  "keywords": "taxi lotnisko zagreb - betina, transfer lotnisko zagreb - betina, transfer lotniskowy lotnisko zagreb - betina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Prywatny transfer taxi",
+      "name": "Taxi Lotnisko Zagreb - Betina",
+      "description": "Taxi i prywatny transfer w stałej cenie, trasa Lotnisko Zagreb - Betina, 485 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Lotnisko Zagreb",
+        "Betina"
+      ],
+      "url": "https://taxisibenik.hr/pl/taxi-lotnisko-zagreb-betina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Prywatny przejazd w jedną stronę, trasa Lotnisko Zagreb - Betina, za pojazd do 4 pasażerów. W obie strony 970 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jak długa jest trasa i ile trwa przejazd?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Przejazd na trasie Lotnisko Zagreb - Betina to około 348 km i trwa mniej więcej 3 h 55 min przy normalnym ruchu, nieco dłużej w szczycie sezonu latem. Planuję odbiór tak, żeby wolniejszy odcinek nigdy Cię nie poganiał."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gdzie mnie witasz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "W hali przylotów, zaraz za odbiorem bagażu, z tabliczką z Twoim imieniem. Pomagam z bagażem i odprowadzam do pojazdu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Co jeśli mój lot jest opóźniony?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Żaden problem. Monitoruję Twój lot na bieżąco i dostosowuję odbiór do faktycznego lądowania, bez dopłaty za oczekiwanie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje transfer na trasie Lotnisko Zagreb - Betina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stałe 485 za pojazd do 4 pasażerów, w jedną stronę, opłaty drogowe i bagaż w cenie. W obie strony 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Z jakim wyprzedzeniem rezerwować?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Co najmniej 2 godziny wcześniej, żebym zaplanował pod Twój lot. Na odbiór tego samego dnia po nagłej zmianie zadzwoń lub napisz na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

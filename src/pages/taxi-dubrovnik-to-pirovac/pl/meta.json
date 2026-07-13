@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-dubrovnik-pirovac",
+  "title": "Taxi Dubrovnik - Pirovac | Stała cena €520 | TAXI Antonio",
+  "description": "Taxi i prywatny transfer, trasa Dubrovnik - Pirovac. Stała cena €520 za pojazd, do 4 pasażerów, od drzwi do drzwi. Rezerwuj bezpośrednio u Antonio.",
+  "keywords": "taxi dubrovnik - pirovac, transfer dubrovnik - pirovac, transfer lotniskowy dubrovnik - pirovac",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Prywatny transfer taxi",
+      "name": "Taxi Dubrovnik - Pirovac",
+      "description": "Taxi i prywatny transfer w stałej cenie, trasa Dubrovnik - Pirovac, 520 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik",
+        "Pirovac"
+      ],
+      "url": "https://taxisibenik.hr/pl/taxi-dubrovnik-pirovac/",
+      "offers": {
+        "@type": "Offer",
+        "price": "520",
+        "priceCurrency": "EUR",
+        "description": "Prywatny przejazd w jedną stronę, trasa Dubrovnik - Pirovac, za pojazd do 4 pasażerów. W obie strony 1040 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jak długa jest trasa i ile trwa przejazd?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Przejazd na trasie Dubrovnik - Pirovac to około 311 km i trwa mniej więcej 4 h 5 min przy normalnym ruchu, nieco dłużej w szczycie sezonu latem. Planuję odbiór tak, żeby wolniejszy odcinek nigdy Cię nie poganiał."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje taxi na trasie Dubrovnik - Pirovac?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stałe 520 za pojazd do 4 pasażerów, w jedną stronę, z opłatami drogowymi, paliwem i bagażem. W obie strony 1040."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Transfer jest prywatny czy współdzielony?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Każdy transfer jest prywatny i od drzwi do drzwi, Škodą Superb. Bez dzielenia pojazdu i bez dodatkowych postojów, chyba że o nie poprosisz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy możesz zatrzymać się po drodze?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Na dłuższych trasach chętnie zatrzymam się na kawę, zdjęcie albo krótką atrakcję. Wystarczy powiedzieć przy rezerwacji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Z jakim wyprzedzeniem rezerwować?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Co najmniej 2 godziny wcześniej, żebym potwierdził pojazd i godzinę odbioru. Na szybki kurs zadzwoń lub napisz na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "wycieczki",
+  "title": "Wycieczki z Šibenika | Prywatne wyjazdy do Krki i Plitwic | TAXI Antonio",
+  "description": "Prywatne wycieczki z Šibenika i całej Dalmacji do Parku Narodowego Krka i Jezior Plitwickich. Transfery w obie strony w stałej cenie, od drzwi do drzwi, z lokalnym kierowcą. To nie wycieczka z przewodnikiem, tylko przejazd tam i z powrotem.",
+  "keywords": "wycieczki z sibenika, wycieczki sibenik, prywatna wycieczka chorwacja, wycieczka do krki, wycieczka na plitwice, wyjazd do krki, wyjazd na plitwice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private day trips and excursions",
+      "name": "Wycieczki z Šibenika i Dalmacji",
+      "description": "Prywatne wycieczki w stałej cenie do Parku Narodowego Krka i Jezior Plitwickich z lokalnym kierowcą z Šibenika. Transfery w obie strony od drzwi do drzwi z Šibenika, Vodic, Primoštenu, Splitu i Zadaru, do 4 pasażerów na samochód.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+      },
+      "areaServed": ["Šibenik", "Vodice", "Primošten", "Split", "Zadar"],
+      "url": "https://taxisibenik.hr/pl/wycieczki/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Prywatne wycieczki z Dalmacji",
+        "itemListElement": [
+          { "@type": "Offer", "name": "Wycieczka do Krki z Šibenika", "price": "100", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/pl/wycieczka-krka-sibenik/" },
+          { "@type": "Offer", "name": "Wycieczka do Krki z Vodic", "price": "125", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/pl/wycieczka-krka-vodice/" },
+          { "@type": "Offer", "name": "Wycieczka do Krki z Primoštenu", "price": "155", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/pl/wycieczka-krka-primosten/" },
+          { "@type": "Offer", "name": "Wycieczka do Krki z Zadaru", "price": "260", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/pl/wycieczka-krka-zadar/" },
+          { "@type": "Offer", "name": "Wycieczka do Krki ze Splitu", "price": "290", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/pl/wycieczka-krka-split/" },
+          { "@type": "Offer", "name": "Wycieczka na Plitwice z Šibenika", "price": "500", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/pl/wycieczka-plitwice-sibenik/" },
+          { "@type": "Offer", "name": "Wycieczka na Plitwice ze Splitu", "price": "650", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/pl/wycieczka-plitwice-split/" }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jakie wycieczki mogę zarezerwować z Šibenika?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Dwie najpopularniejsze wycieczki to Park Narodowy Krka i Park Narodowy Jeziora Plitwickie. Obie to prywatne transfery w obie strony w stałej cenie, od drzwi do drzwi z Twojego hotelu lub apartamentu, z wolnym czasem w parku na zwiedzanie we własnym tempie." }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy to wycieczki z przewodnikiem, czy transfery taxi?",
+          "acceptedAnswer": { "@type": "Answer", "text": "To prywatne transfery taxi, a nie grupowe wycieczki z przewodnikiem. Antonio jest lokalnym kierowcą, który zawozi Cię tam i z powrotem komfortową Škoda Superb. W parku możesz zwiedzać na własną rękę, bez przewodnika i bez grupy." }
+        },
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje wycieczka do Krki lub na Plitwice?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Prywatna wycieczka do Krki zaczyna się od stałej ceny 100 euro za samochód z Šibenika. Wycieczka na Jeziora Plitwickie to 500 euro za samochód z Šibenika. Ceny są za samochód dla maksymalnie 4 pasażerów i zależą od miejscowości odbioru." }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy odbierasz z innych miejscowości, nie tylko z Šibenika?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Tak. Wycieczki do Krki realizuję z Šibenika, Vodic, Primoštenu, Zadaru i Splitu, a wycieczki na Plitwice z Šibenika i Splitu. Każda miejscowość ma własną stałą cenę i własną stronę z pełnymi szczegółami." }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy bilety wstępu do parku są wliczone w cenę?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Nie. Cena obejmuje tylko prywatny transfer i czas oczekiwania. Bilety do Krki i na Plitwice kupuje się osobno przy wejściu lub online i kosztują mniej więcej od 7 do 40 euro w zależności od sezonu." }
+        },
+        {
+          "@type": "Question",
+          "name": "Jak zarezerwować wycieczkę?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Napisz do mnie na WhatsApp, zadzwoń lub skorzystaj ze strony kontaktowej. Zaliczka w wysokości 20% (minimum 20 euro) potwierdza termin, a resztę płacisz kierowcy w dniu wyjazdu." }
+        }
+      ]
+    }
+  ]
+}

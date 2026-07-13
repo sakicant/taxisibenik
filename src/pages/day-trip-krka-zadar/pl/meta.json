@@ -1,0 +1,84 @@
+{
+  "slug": "wycieczka-krka-zadar",
+  "title": "Wycieczka do Krka z Zadaru | Prywatny transfer, stała cena €260 | TAXI Antonio",
+  "description": "Prywatny transfer taxi w obie strony do Krka z Zadaru. Stała cena €260 za samochód, do 4 pasażerów, od drzwi do drzwi z hoteli w Zadarze, portu promowego i wycieczkowego oraz starego miasta. To nie wycieczka z przewodnikiem, tylko przejazd tam i z powrotem.",
+  "keywords": "wycieczka do krka z zadaru, transfer w obie strony do krka z zadaru, taxi do krka z zadaru, krka z zadaru, zadar do parku narodowego krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Prywatna wycieczka do Krka z Zadaru",
+      "description": "Prywatna wycieczka do Parku Narodowego Krka z Zadaru z lokalnym kierowcą mówiącym po angielsku. Stała cena 260 euro za samochód dla maksymalnie 4 pasażerów, z odbiorem od drzwi do drzwi przy hotelach w Zadarze, porcie promowym i wycieczkowym, dworcu autobusowym oraz starym mieście.",
+      "touristType": "Przyroda i zwiedzanie",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "260",
+        "priceCurrency": "EUR",
+        "description": "Prywatny samochód, przejazd w obie strony Zadar do Parku Narodowego Krka, do 4 pasażerów. Bilety wstępu do parku nie są wliczone."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Czy to wycieczka z przewodnikiem, czy transfer taxi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To transfer taxi, a nie wycieczka z przewodnikiem. Antonio jest lokalnym kierowcą, który zapewnia prywatny transfer w obie strony z Zadaru do Krka i z powrotem. Dostajesz samochód i przejazd; wewnątrz parku możesz zwiedzać na własną rękę, we własnym tempie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje taxi do Krka z Zadaru?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Prywatny transfer w obie strony z Zadaru do Parku Narodowego Krka to stała cena 260 euro za samochód dla maksymalnie 4 pasażerów, z wliczonymi opłatami drogowymi, paliwem i około 3 do 4 godzinami czasu oczekiwania."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy odbierasz z hoteli w Zadarze i z portu promowego?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Odbieram od drzwi do drzwi z hoteli i apartamentów w Zadarze, ze starego miasta, z dworca autobusowego oraz bezpośrednio z portu promowego w Zadarze i terminalu wycieczkowego Gaženica, z tabliczką z nazwiskiem na życzenie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ile trwa wycieczka z Zadaru do Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Przejazd zajmuje około godziny w jedną stronę autostradą, plus około 3 do 4 godzin wolnego czasu wewnątrz parku. Krótszy lub dłuższy pobyt można ustalić przy rezerwacji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jak zarezerwować i zapłacić za wycieczkę?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zaliczka w wysokości 20% (minimum 20 euro) potwierdza rezerwację, przelewem lub kartą, a jako potwierdzenie otrzymujesz fakturę. Resztę płacisz kierowcy w dniu wyjazdu, gotówką lub kartą."
+          }
+        }
+      ]
+    }
+  ]
+}

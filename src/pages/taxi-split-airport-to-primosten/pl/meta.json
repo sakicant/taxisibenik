@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-lotnisko-split-primosten",
+  "title": "Taxi Lotnisko Split - Primošten | Stała cena €80 | TAXI Antonio",
+  "description": "Taxi i prywatny transfer, trasa Lotnisko Split - Primošten. Stała cena €80 za pojazd, do 4 pasażerów, od drzwi do drzwi. Rezerwuj bezpośrednio u Antonio.",
+  "keywords": "taxi lotnisko split - primošten, transfer lotnisko split - primošten, transfer lotniskowy lotnisko split - primošten",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Prywatny transfer taxi",
+      "name": "Taxi Lotnisko Split - Primošten",
+      "description": "Taxi i prywatny transfer w stałej cenie, trasa Lotnisko Split - Primošten, 80 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Lotnisko Split",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/pl/taxi-lotnisko-split-primosten/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Prywatny przejazd w jedną stronę, trasa Lotnisko Split - Primošten, za pojazd do 4 pasażerów. W obie strony 160 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jak długa jest trasa i ile trwa przejazd?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Przejazd na trasie Lotnisko Split - Primošten to około 38 km i trwa mniej więcej 45 min przy normalnym ruchu, nieco dłużej w szczycie sezonu latem. Planuję odbiór tak, żeby wolniejszy odcinek nigdy Cię nie poganiał."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gdzie mnie witasz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "W hali przylotów, zaraz za odbiorem bagażu, z tabliczką z Twoim imieniem. Pomagam z bagażem i odprowadzam do pojazdu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Co jeśli mój lot jest opóźniony?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Żaden problem. Monitoruję Twój lot na bieżąco i dostosowuję odbiór do faktycznego lądowania, bez dopłaty za oczekiwanie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje transfer na trasie Lotnisko Split - Primošten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stałe 80 za pojazd do 4 pasażerów, w jedną stronę, opłaty drogowe i bagaż w cenie. W obie strony 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Z jakim wyprzedzeniem rezerwować?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Co najmniej 2 godziny wcześniej, żebym zaplanował pod Twój lot. Na odbiór tego samego dnia po nagłej zmianie zadzwoń lub napisz na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

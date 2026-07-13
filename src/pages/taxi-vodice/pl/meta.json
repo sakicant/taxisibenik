@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "Taxi Vodice | TAXI Antonio",
+  "description": "Taxi Vodice: stałe transfery lotniskowe do Zadaru (100 €) i Splitu, odbiór z mariny i ośrodków, wycieczki nad Krkę i podwiezienie na prom na wyspy. Rezerwuj bezpośrednio.",
+  "keywords": "taxi vodice, vodice taksówka, vodice transfer lotniskowy, vodice na lotnisko split, vodice na lotnisko zadar, vodice marina taksówka, vodice do krki",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokalna taksówka i transfery lotniskowe",
+      "name": "Taxi Vodice",
+      "description": "Prywatna taksówka w stałej cenie w Vodicach: transfery lotniskowe do Splitu i Zadaru, odbiór z mariny i ośrodków, wycieczki jednodniowe do Parku Narodowego Krka oraz podwiezienie na prom na wyspy.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/pl/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ceny taksówki z Vodic",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice do Šibenika",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/pl/rezerwacja/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice do PN Krka (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/pl/rezerwacja/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice na lotnisko w Zadarze",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/pl/rezerwacja/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice na lotnisko w Splicie",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/pl/rezerwacja/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Czy możesz odebrać załogi z mariny w Vodicach?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Spotykam załogi jachtów i czarterów prosto przy marinie, z miejscem na bagaż i prowiant, i mogę ustalić wczesny lub późny termin wokół Twojego czarteru."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy jeździsz późno w nocy w Vodicach?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Jeśli jest to zarezerwowane z wyprzedzeniem, mogę odebrać Cię po wieczornym wyjściu i bezpiecznie odwieźć do zakwaterowania w stałej cenie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy możesz mnie zawieźć na prom na Prvić lub Zlarin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Oba odpływają z nabrzeża w Vodicach i mogę Cię podwieźć prosto na przystań. Zapytaj mnie o cenę przy rezerwacji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje przejazd z Vodic na lotnisko w Zadarze?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stałe 100 € za auto dla maksymalnie 4 pasażerów, a lotnisko w Splicie to 115 €, z opłatami drogowymi i bagażem w cenie."
+          }
+        }
+      ]
+    }
+  ]
+}

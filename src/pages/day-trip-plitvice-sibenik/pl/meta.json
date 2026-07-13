@@ -1,0 +1,84 @@
+{
+  "slug": "wycieczka-plitwice-sibenik",
+  "title": "Wycieczka nad Jeziora Plitwickie z Šibenika | Prywatny transfer, stała cena €500 | TAXI Antonio",
+  "description": "Prywatny transfer taksówką w obie strony nad Jeziora Plitwickie z Šibenika. Stała cena €500 za samochód, do 4 pasażerów, od drzwi do drzwi z hoteli, apartamentów, dworców i portu w Šibeniku. To nie wycieczka z przewodnikiem, tylko przejazd tam i z powrotem.",
+  "keywords": "wycieczka nad plitwice z sibenika, transfer w obie strony nad plitwice, taksówka nad plitwice z sibenika, jeziora plitwickie z sibenika, sibenik plitwice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Prywatna wycieczka nad Jeziora Plitwickie z Šibenika",
+      "description": "Prywatna wycieczka do Parku Narodowego Jeziora Plitwickie z Šibenika z lokalnym, anglojęzycznym kierowcą. Stała cena 500 euro za samochód dla maksymalnie 4 pasażerów, z odbiorem od drzwi do drzwi z hoteli, apartamentów, dworca autobusowego i kolejowego oraz portu promowego w Šibeniku.",
+      "touristType": "Przyroda i zwiedzanie",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "500",
+        "priceCurrency": "EUR",
+        "description": "Prywatny samochód, przejazd w obie strony Šibenik - Park Narodowy Jeziora Plitwickie, do 4 pasażerów. Bilety wstępu do parku nie są wliczone."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Czy to wycieczka z przewodnikiem, czy transfer taksówką?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To transfer taksówką, a nie wycieczka z przewodnikiem. Antonio jest lokalnym kierowcą, który zapewnia prywatny transfer w obie strony z Šibenika nad Plitwice i z powrotem. Dostajesz samochód i przejazd; w parku zwiedzasz na własną rękę, we własnym tempie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje taksówka nad Plitwice z Šibenika?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Prywatny transfer w obie strony z Šibenika nad Jeziora Plitwickie to stała cena 500 euro za samochód dla maksymalnie 4 pasażerów, z wliczonymi opłatami drogowymi, paliwem i czasem oczekiwania przy parku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ile trwa wycieczka z Šibenika nad Plitwice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Przejazd trwa około dwóch do dwóch i kwadrans godzin w jedną stronę, plus mniej więcej 4 do 6 godzin na spacer wokół jezior. To całodniowy wypad, zwykle 9 do 10 godzin od drzwi do drzwi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy bilety wstępu na Plitwice są wliczone w cenę?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nie. Bilety wstępu kupuje się osobno w Parku Narodowym Jeziora Plitwickie, przy wejściu lub online. Bilety kosztują około 10 do 40 euro w zależności od sezonu i obejmują pociąg panoramiczny oraz elektryczną łódź na terenie parku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jak zarezerwować i zapłacić za wycieczkę?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zaliczka w wysokości 20% (minimum 20 euro) potwierdza rezerwację, przelewem bankowym lub kartą, a jako potwierdzenie otrzymujesz fakturę. Resztę płacisz kierowcy w dniu przejazdu, gotówką lub kartą."
+          }
+        }
+      ]
+    }
+  ]
+}

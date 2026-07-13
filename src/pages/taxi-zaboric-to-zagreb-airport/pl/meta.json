@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zaboric-lotnisko-zagreb",
+  "title": "Taxi Žaborić - Lotnisko Zagreb | Stała cena €490 | TAXI Antonio",
+  "description": "Taxi i prywatny transfer, trasa Žaborić - Lotnisko Zagreb. Stała cena €490 za pojazd, do 4 pasażerów, od drzwi do drzwi. Rezerwuj bezpośrednio u Antonio.",
+  "keywords": "taxi žaborić - lotnisko zagreb, transfer žaborić - lotnisko zagreb, transfer lotniskowy žaborić - lotnisko zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Prywatny transfer taxi",
+      "name": "Taxi Žaborić - Lotnisko Zagreb",
+      "description": "Taxi i prywatny transfer w stałej cenie, trasa Žaborić - Lotnisko Zagreb, 490 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Žaborić",
+        "Lotnisko Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/pl/taxi-zaboric-lotnisko-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "490",
+        "priceCurrency": "EUR",
+        "description": "Prywatny przejazd w jedną stronę, trasa Žaborić - Lotnisko Zagreb, za pojazd do 4 pasażerów. W obie strony 980 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jak długa jest trasa i ile trwa przejazd?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Przejazd na trasie Žaborić - Lotnisko Zagreb to około 356 km i trwa mniej więcej 3 h 55 min przy normalnym ruchu, nieco dłużej w szczycie sezonu latem. Planuję odbiór tak, żeby wolniejszy odcinek nigdy Cię nie poganiał."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje taxi na trasie Žaborić - Lotnisko Zagreb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stałe 490 za pojazd, w jedną stronę, do 4 pasażerów. Cena jest za pojazd, nie za osobę, i obejmuje opłaty drogowe, paliwo i bagaż. W obie strony 980."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O której wyjechać na lot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zwykle około 3 godzin przed lotem międzynarodowym i 2 godzin przed krajowym. Podaj godzinę lotu, a potwierdzę dokładny odbiór."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Podwozisz pod sam terminal odlotów?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Wiozę Cię prosto pod terminal odlotów i pomagam z bagażem. Bez spaceru z parkingu i bez shuttle busa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Z jakim wyprzedzeniem rezerwować?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Co najmniej 2 godziny wcześniej, żebym potwierdził pojazd i odbiór, a wcześniej dla porannych lotów i w sezonie. Na szybki kurs zadzwoń lub napisz na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

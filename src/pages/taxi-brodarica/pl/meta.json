@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-brodarica",
+  "title": "Taxi Brodarica | TAXI Antonio",
+  "description": "Taxi Brodarica: odbiór przy promie na Krapanj i wzdłuż nabrzeża, a także transfery lotniskowe w stałej cenie do Splitu (€95) i Zadaru oraz kursy do Šibenika.",
+  "keywords": "taxi brodarica, taksówka brodarica, brodarica prom krapanj, transfer lotniskowy brodarica, brodarica na lotnisko w splicie, taxi brodarica sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokalna taksówka i transfery lotniskowe",
+      "name": "Taxi Brodarica",
+      "description": "Prywatna taksówka w stałej cenie z Brodaricy, na południe od Šibenika i przeprawy promowej na Krapanj, na lotnisko w Splicie, lotnisko w Zadarze i do Šibenika.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Brodarica",
+      "url": "https://taxisibenik.hr/pl/taxi-brodarica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ceny taksówki z Brodaricy",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Brodarica do Šibenika",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/pl/rezerwacja/?from=Brodarica%20-%20%C5%A0ibenik&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Brodarica na lotnisko w Splicie",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/pl/rezerwacja/?from=Brodarica%20-%20%C5%A0ibenik&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Brodarica na lotnisko w Zadarze",
+            "price": "135",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/pl/rezerwacja/?from=Brodarica%20-%20%C5%A0ibenik&to=Zadar%20Airport%20%28ZAD%29&price=135"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Czy możesz podwieźć mnie do promu na Krapanj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Zawożę Cię prosto na nabrzeże Brodaricy przy przystani promowej na przeprawę na Krapanj, a w drodze powrotnej mogę Cię tam też odebrać."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy obsługujesz całe nabrzeże Brodaricy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak, wzdłuż nabrzeża i uliczek za nim. Prześlij swój adres lub nazwę zakwaterowania, a potwierdzę dokładne miejsce spotkania."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy transfer lotniskowy ma stałą cenę?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Lotnisko w Splicie to €95, a lotnisko w Zadarze €135 za samochód dla maksymalnie 4 pasażerów, z wliczonymi opłatami drogowymi i bagażem."
+          }
+        }
+      ]
+    }
+  ]
+}

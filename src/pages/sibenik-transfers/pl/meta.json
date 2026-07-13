@@ -1,0 +1,87 @@
+{
+  "slug": "transfery-miedzymiastowe",
+  "title": "Transfery Šibenik | Stałe ceny | TAXI Antonio",
+  "description": "Transfery z i do Šibenika na trasach do Splitu, Zadaru, Dubrownika, Zagrzebia, Trogiru i dalej. Stałe ceny, prywatnie od drzwi do drzwi, jeden lokalny kierowca. Rezerwuj bezpośrednio u Antonia.",
+  "keywords": "transfery sibenik, transfer šibenik, taxi sibenik split, sibenik do zadaru, sibenik do dubrownika, sibenik do zagrzebia",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "City-to-city taxi transfer",
+      "name": "Transfery Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/pl/transfery-miedzymiastowe/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje transfer taxi z Šibenika do Splitu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Prywatny transfer z Šibenika do Splitu to stała cena 140 euro za samochód dla maksymalnie 4 pasażerów, z opłatami drogowymi, paliwem i bagażem w cenie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy ceny transferów są stałe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Każdy transfer międzymiastowy ma stałą cenę za samochód dla maksymalnie 4 pasażerów, ustaloną z góry. Bez taksometru i bez niespodzianek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy transfer jest prywatny czy współdzielony?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Każdy transfer jest prywatny i od drzwi do drzwi, w Škoda Superb. Nie ma współdzielenia pojazdu ani dodatkowych postojów, chyba że o nie poprosisz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy możesz zatrzymać się po drodze?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Na dłuższych transferach chętnie zatrzymam się na kawę, zdjęcie lub krótkie zwiedzanie. Daj mi tylko znać przy rezerwacji, a to uwzględnię."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jak płacę za transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zaliczka w wysokości 20% (minimum 20 euro) potwierdza rezerwację, przelewem lub kartą. Resztę płacisz kierowcy w dniu przejazdu, gotówką lub kartą."
+          }
+        }
+      ]
+    }
+  ]
+}

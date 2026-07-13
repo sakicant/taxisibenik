@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-grebastica",
+  "title": "Taxi Grebaštica | TAXI Antonio",
+  "description": "Taxi Grebaštica: odbiór z kempingu i plaży ze stałymi transferami na lotnisko Split (€90), do Šibenika i Vodic. Rezerwuj z wyprzedzeniem, odbiór pod drzwiami.",
+  "keywords": "taxi grebastica, taksówka grebastica, taksówka kemping grebastica, transfer z lotniska grebastica, grebastica na lotnisko split, grebastica do sibenika",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokalna taksówka i transfery lotniskowe",
+      "name": "Taxi Grebaštica",
+      "description": "Prywatna taksówka o stałej cenie z Grebašticy, nadmorskiej wsi kempingowej i plażowej na południe od Šibenika, na lotnisko Split, do Šibenika i Vodic.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Grebaštica",
+      "url": "https://taxisibenik.hr/pl/taxi-grebastica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ceny taxi z Grebašticy",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Grebaštica do Šibenika",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/pl/rezerwacja/?from=Greba%C5%A1tica&to=%C5%A0ibenik%20-%20center&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Grebaštica do Vodic",
+            "price": "55",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/pl/rezerwacja/?from=Greba%C5%A1tica&to=Vodice&price=55"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Grebaštica na lotnisko Split",
+            "price": "90",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/pl/rezerwacja/?from=Greba%C5%A1tica&to=Split%20Airport%20%28SPU%29&price=90"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Czy odbierasz z kempingów w Grebašticy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Odbieram Cię przy recepcji kempingu lub przy Twoim apartamencie, z miejscem na sprzęt kempingowy i plażowy. Wyślij dokładne miejsce przy rezerwacji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy w Grebašticy jest postój taksówek?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nie, dlatego najlepiej zarezerwować z wyprzedzeniem. Przyjeżdżam do Ciebie o umówionej porze, zamiast zostawiać Cię z szukaniem taksówki we wsi."
+          }
+        }
+      ]
+    }
+  ]
+}

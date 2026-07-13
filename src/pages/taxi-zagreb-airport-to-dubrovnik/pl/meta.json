@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-lotnisko-zagreb-dubrovnik",
+  "title": "Taxi Lotnisko Zagreb - Dubrovnik | Stała cena €795 | TAXI Antonio",
+  "description": "Taxi i prywatny transfer, trasa Lotnisko Zagreb - Dubrovnik. Stała cena €795 za pojazd, do 4. Rezerwuj u Antonio.",
+  "keywords": "taxi lotnisko zagreb - dubrovnik, transfer lotnisko zagreb - dubrovnik, transfer lotniskowy lotnisko zagreb - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Prywatny transfer taxi",
+      "name": "Taxi Lotnisko Zagreb - Dubrovnik",
+      "description": "Taxi i prywatny transfer w stałej cenie, trasa Lotnisko Zagreb - Dubrovnik, 795 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Lotnisko Zagreb",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/pl/taxi-lotnisko-zagreb-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "795",
+        "priceCurrency": "EUR",
+        "description": "Prywatny przejazd w jedną stronę, trasa Lotnisko Zagreb - Dubrovnik, za pojazd do 4 pasażerów. W obie strony 1590 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jak długa jest trasa i ile trwa przejazd?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Przejazd na trasie Lotnisko Zagreb - Dubrovnik to około 616 km i trwa mniej więcej 7 h 10 min przy normalnym ruchu, nieco dłużej w szczycie sezonu latem. Planuję odbiór tak, żeby wolniejszy odcinek nigdy Cię nie poganiał."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gdzie mnie witasz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "W hali przylotów, zaraz za odbiorem bagażu, z tabliczką z Twoim imieniem. Pomagam z bagażem i odprowadzam do pojazdu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Co jeśli mój lot jest opóźniony?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Żaden problem. Monitoruję Twój lot na bieżąco i dostosowuję odbiór do faktycznego lądowania, bez dopłaty za oczekiwanie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje transfer na trasie Lotnisko Zagreb - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stałe 795 za pojazd do 4 pasażerów, w jedną stronę, opłaty drogowe i bagaż w cenie. W obie strony 1590."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Z jakim wyprzedzeniem rezerwować?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Co najmniej 2 godziny wcześniej, żebym zaplanował pod Twój lot. Na odbiór tego samego dnia po nagłej zmianie zadzwoń lub napisz na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

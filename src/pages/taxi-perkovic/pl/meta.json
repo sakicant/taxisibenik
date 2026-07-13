@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Taxi Perković | TAXI Antonio",
+  "description": "Taxi Perković: powitanie na peronie głównej stacji kolejowej obsługującej Šibenik, z dalszymi transferami do Šibenika, Vodic, Krki i dalej.",
+  "keywords": "taxi perkovic, perkovic taksówka, taksówka stacja kolejowa perkovic, transfer z dworca perkovic, perkovic do sibenika, perkovic do krki",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokalna taksówka i transfery lotniskowe",
+      "name": "Taxi Perković",
+      "description": "Prywatna taksówka witająca pociągi w Perković, głównej stacji kolejowej obsługującej rejon Šibenika, z dalszymi transferami do Šibenika, Vodic, Krki, Drniša, Kninu i lotniska w Splicie.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/pl/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Gdzie się ze mną spotkasz na stacji Perković?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na peronie albo przy wyjściu ze stacji, jeśli tak wolisz. Będę miał gotowe Twoje nazwisko i pomogę z bagażami, żebyś mógł od razu przejść do samochodu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Co jeśli mój pociąg do Perković się spóźni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Śledzę Twój pociąg i dopasowuję odbiór, bez dodatkowej opłaty, więc jestem na miejscu, kiedy pociąg rzeczywiście przyjedzie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy w Perković jest postój taksówek?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nie, na stacji nie ma postoju, dlatego najlepiej zarezerwować wcześniej. Wyślij mi godzinę pociągu i cel podróży, a będę czekał, gdy wysiądziesz."
+          }
+        }
+      ]
+    }
+  ]
+}
