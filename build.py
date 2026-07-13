@@ -57,12 +57,19 @@ def write(path, content):
         f.write(content)
 
 
-def canonical_url(lang, slug):
+def url_path(lang, slug):
+    """Root-relative path (no domain) for a page, e.g. /hr/ or /fr/offres/.
+    Used for clickable in-page links so they stay on whatever host serves them."""
     if lang == DEFAULT_LANG:
         path = f"{slug}/" if slug else ""
     else:
         path = f"{lang}/{slug}/" if slug else f"{lang}/"
-    return f"{SITE_URL}/{path}"
+    return f"/{path}"
+
+
+def canonical_url(lang, slug):
+    # Absolute URL, required for SEO tags (canonical, hreflang, og:url, schema).
+    return f"{SITE_URL}{url_path(lang, slug)}"
 
 
 def output_path(lang, slug):
@@ -134,7 +141,7 @@ def build_lang_switcher(variants, current_lang):
         flag = flag_img(lang, LANGUAGE_LABELS[lang])
         label = LANGUAGE_LABELS[lang]
         if lang in variants:
-            url = canonical_url(lang, variants[lang].get("slug", ""))
+            url = url_path(lang, variants[lang].get("slug", ""))
             cls = "nav-lang-item active" if lang == current_lang else "nav-lang-item"
             items.append(f'<a href="{url}" class="{cls}">{flag} {label}</a>')
         else:
