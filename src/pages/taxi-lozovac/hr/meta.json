@@ -1,0 +1,98 @@
+{
+  "slug": "taksi-lozovac",
+  "title": "Taksi Lozovac | TAXI Antonio",
+  "description": "Taksi Lozovac: transferi na glavnom ulazu u Nacionalni park Krka (Skradinski buk), izleti u Krku i fiksni transferi do zračne luke Split (95 €). Rezervirajte izravno.",
+  "keywords": "taksi lozovac, lozovac taksi, taksi do nacionalnog parka krka, lozovac ulaz u krku, taksi slapovi krke, lozovac do zračne luke split, lozovac do šibenika",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokalni taksi i transferi do zračnih luka",
+      "name": "Taksi Lozovac",
+      "description": "Privatni taksi u Lozovcu, na glavnom ulazu u Nacionalni park Krka za slapove Skradinskog buka: cjelodnevni izleti u park, izleti i fiksni transferi do zračnih luka.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Lozovac",
+      "url": "https://taxisibenik.hr/hr/taksi-lozovac/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Cijene taksija iz Lozovca",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksi Lozovac do Šibenika",
+            "price": "45",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hr/rezervacija/?from=Lozovac&to=%C5%A0ibenik%20-%20center&price=45"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Lozovac do Vodica",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hr/rezervacija/?from=Lozovac&to=Vodice&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Lozovac do NP Krka (ulaz Skradin)",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hr/rezervacija/?from=Lozovac&to=NP%20Krka%20-%20Skradin%20entrance&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Lozovac do zračne luke Split",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hr/rezervacija/?from=Lozovac&to=Split%20Airport%20%28SPU%29&price=95"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko je Lozovac udaljen od ulaza u Krku?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lozovac je sam cestovni ulaz u Nacionalni park Krka, pa ste već kod ulaza za slapove Skradinskog buka. Ostavim vas točno na ulazu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Možete li pričekati dok razgledavam park?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Nudim privatni cjelodnevni izlet u Krku s uključenim vremenom čekanja, pa vas dovezem do slapova, pričekam dok istražujete svojim tempom i odvezem vas natrag. Pogledajte moju stranicu s izletima."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vozite li i do ulaza u Skradin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Transfer do ulaza u Krku u Skradinu, odakle brodom idete do slapova, fiksno je 25 € po vozilu."
+          }
+        }
+      ]
+    }
+  ]
+}

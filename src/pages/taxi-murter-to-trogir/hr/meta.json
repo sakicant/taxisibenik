@@ -1,0 +1,89 @@
+{
+  "slug": "taksi-murter-trogir",
+  "title": "Taksi Murter - Trogir | Fiksna cijena €150 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Murter - Trogir. Fiksno €150 po vozilu, do 4 putnika, od vrata do vrata. Rezervirajte izravno kod Antonija.",
+  "keywords": "taksi murter - trogir, transfer murter - trogir, prijevoz murter - trogir",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Murter - Trogir",
+      "description": "Privatni taksi i transfer po fiksnoj cijeni, relacija Murter - Trogir, 150 eura po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Murter",
+        "Trogir"
+      ],
+      "url": "https://taxisibenik.hr/hr/taksi-murter-trogir/",
+      "offers": {
+        "@type": "Offer",
+        "price": "150",
+        "priceCurrency": "EUR",
+        "description": "Jednosmjerni privatni transfer, relacija Murter - Trogir, po vozilu za do 4 putnika. Povratno 300 eura."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolika je udaljenost i koliko traje vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Murter - Trogir duga je oko 97 km i traje otprilike 1 h 35 min u uobičajenom prometu, nešto duže u ljetnim gužvama. Polazak planiram tako da vas usporeni dio nikad ne požuri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Murter - Trogir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 150 po vozilu za do 4 putnika, jedan smjer, s cestarinama, gorivom i prtljagom. Povratna vožnja je 300."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je li transfer privatan ili dijeljen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Svaki je transfer privatan i od vrata do vrata, u Škodi Superb. Bez dijeljenja vozila i bez dodatnih zaustavljanja osim ako ih zatražite."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Možete li stati usput?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Na duljim rutama rado stanem za kavu, fotografiju ili kratku znamenitost. Samo javite pri rezervaciji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unaprijed trebam rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unaprijed da potvrdim vozilo i vrijeme preuzimanja. Za brži termin nazovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

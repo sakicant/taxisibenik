@@ -1,0 +1,87 @@
+{
+  "slug": "medugradski-transferi",
+  "title": "Šibenski transferi | Fiksne cijene | TAXI Antonio",
+  "description": "Šibenski transferi prema i od Splita, Zadra, Dubrovnika, Zagreba, Trogira i dalje. Fiksne cijene, privatno od vrata do vrata, jedan lokalni vozač. Rezervirajte izravno kod Antonija.",
+  "keywords": "šibenski transferi, transfer šibenik, taksi šibenik split, šibenik zadar, šibenik dubrovnik, šibenik zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Međugradski taksi transfer",
+      "name": "Šibenski transferi",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/hr/medugradski-transferi/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi transfer od Šibenika do Splita?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privatni transfer od Šibenika do Splita ima fiksnu cijenu od 140 eura po vozilu za do 4 putnika, s uključenim cestarinama, gorivom i prtljagom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jesu li cijene transfera fiksne?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Svaki međugradski transfer ima fiksnu cijenu po vozilu za do 4 putnika, dogovorenu unaprijed. Bez taksimetra i bez iznenađenja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je li transfer privatni ili zajednički?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Svaki transfer je privatan i od vrata do vrata, u Škoda Superbu. Nema dijeljenja vozila i nema dodatnih zaustavljanja osim ako ih zatražite."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Možete li se zaustaviti usput?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Na duljim transferima rado se zaustavim za kavu, fotografiju ili kratki obilazak. Samo mi javite pri rezervaciji i uračunat ću to."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako plaćam transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Predujam od 20% (najmanje 20 eura) potvrđuje rezervaciju, bankovnim prijenosom ili karticom. Ostatak plaćate vozaču na dan vožnje, gotovinom ili karticom."
+          }
+        }
+      ]
+    }
+  ]
+}

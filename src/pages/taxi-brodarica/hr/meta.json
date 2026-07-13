@@ -1,0 +1,91 @@
+{
+  "slug": "taksi-brodarica",
+  "title": "Taksi Brodarica | TAXI Antonio",
+  "description": "Taksi Brodarica: preuzimanje kod trajekta za Krapanj i uz rivu, uz fiksne transfere do zračne luke Split (€95) i Zadra te vožnje u Šibenik.",
+  "keywords": "taksi brodarica, brodarica taksi, brodarica trajekt krapanj, brodarica transfer zračna luka, brodarica do zračne luke split, taksi brodarica šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokalni taksi i transferi do zračnih luka",
+      "name": "Taksi Brodarica",
+      "description": "Privatni taksi po fiksnoj cijeni iz Brodarice, južno od Šibenika i trajektne linije za Krapanj, do zračne luke Split, zračne luke Zadar i Šibenika.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Brodarica",
+      "url": "https://taxisibenik.hr/hr/taksi-brodarica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Cijene taksija iz Brodarice",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksi Brodarica do Šibenika",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hr/rezervacija/?from=Brodarica%20-%20%C5%A0ibenik&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Brodarica do zračne luke Split",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hr/rezervacija/?from=Brodarica%20-%20%C5%A0ibenik&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Brodarica do zračne luke Zadar",
+            "price": "135",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hr/rezervacija/?from=Brodarica%20-%20%C5%A0ibenik&to=Zadar%20Airport%20%28ZAD%29&price=135"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Možete li me odvesti do trajekta za Krapanj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Odvezem vas do same rive u Brodarici, do trajektnog pristaništa za prijelaz na Krapanj, a mogu vas pokupiti tamo i na povratku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pokrivate li cijelu rivu u Brodarici?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, uz obalu i ulice iza nje. Pošaljite mi svoju adresu ili naziv smještaja i potvrdit ću točno mjesto susreta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je li transfer do zračne luke po fiksnoj cijeni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Zračna luka Split je €95, a zračna luka Zadar €135 po vozilu za do 4 putnika, uključujući cestarine i prtljagu."
+          }
+        }
+      ]
+    }
+  ]
+}

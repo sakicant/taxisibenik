@@ -1,0 +1,64 @@
+{
+  "slug": "taksi-perkovic",
+  "title": "Taksi Perković | TAXI Antonio",
+  "description": "Taksi Perković: doček na peronu glavnog željezničkog kolodvora koji opslužuje Šibenik, s daljnjim transferima do Šibenika, Vodica, Krke i dalje.",
+  "keywords": "taksi perković, perković taksi, taksi željeznički kolodvor perković, transfer kolodvor perković, perković do šibenika, perković do krke",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokalni taksi i transferi do zračnih luka",
+      "name": "Taksi Perković",
+      "description": "Privatni taksi koji dočekuje vlakove u Perkoviću, glavnom željezničkom kolodvoru koji opslužuje šibensko područje, s daljnjim transferima do Šibenika, Vodica, Krke, Drniša, Knina i zračne luke Split.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/hr/taksi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Gdje me dočekujete na kolodvoru u Perkoviću?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na peronu, ili kod izlaza s kolodvora ako vam je tako draže. Spreman ću imati vaše ime i pomoći s torbama kako biste mogli odmah do auta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Što ako mi vlak do Perkovića kasni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pratim vaš vlak i prilagodim preuzimanje, bez dodatne naplate, pa sam tu kad god stvarno stigne."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Postoji li taksi stajalište u Perkoviću?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ne, na kolodvoru nema stajališta, pa je najbolje rezervirati unaprijed. Pošaljite mi vrijeme vlaka i odredište i čekat ću vas kad izađete."
+          }
+        }
+      ]
+    }
+  ]
+}

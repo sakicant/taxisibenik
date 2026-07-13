@@ -1,0 +1,85 @@
+{
+  "slug": "transferi-zracne-luke",
+  "title": "Transferi do zračnih luka iz Šibenika | Fiksne cijene | TAXI Antonio",
+  "description": "Transferi do zračnih luka iz Šibenika prema i od zračnih luka Split, Zadar, Zagreb i Dubrovnik. Fiksne cijene, praćenje letova, od vrata do vrata. Vozim i iz Vodica, Primoštena i Skradina. Rezervirajte kod Antonija.",
+  "keywords": "transferi zračna luka šibenik, transfer zračne luke šibenik, zračna luka split šibenik, zračna luka zadar šibenik, transfer zračne luke vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer do zračne luke",
+      "name": "Transferi do zračnih luka iz Šibenika",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Zračna luka Split",
+        "Zračna luka Zadar",
+        "Zračna luka Zagreb",
+        "Zračna luka Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/hr/transferi-zracne-luke/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako ću pronaći svog vozača u zračnoj luci?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio vas čeka u dolaznoj dvorani nakon preuzimanja prtljage, s jasno ispisanim natpisom s vašim imenom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Što ako mi let kasni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Letove pratim u stvarnom vremenu pomoću broja leta koji navedete pri rezervaciji. Vrijeme preuzimanja prilagođava se automatski i za čekanje ne naplaćujem ništa dodatno."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je li cijena transfera do zračne luke fiksna?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Svaki transfer do zračne luke ima fiksnu cijenu po vozilu za do 4 putnika, s uključenim cestarinama, gorivom i prtljagom. Bez taksimetra, bez iznenađenja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Nudite li dječje sjedalice za transfere do zračne luke?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, dječje sjedalice i podsjedače nudim besplatno. Samo ih zatražite u napomeni pri rezervaciji uz dob djeteta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako plaćam transfer do zračne luke?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Predujam od 20% (najmanje 20 eura) potvrđuje rezervaciju, bankovnim prijenosom ili karticom. Ostatak plaćate vozaču na dan vožnje, gotovinom ili karticom."
+          }
+        }
+      ]
+    }
+  ]
+}

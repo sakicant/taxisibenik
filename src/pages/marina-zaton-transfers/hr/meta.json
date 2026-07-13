@@ -1,0 +1,109 @@
+{
+  "slug": "marina-zaton-transferi",
+  "title": "Transferi Marina Zaton | Fiksne cijene | TAXI Antonio",
+  "description": "Privatni transferi od Marina Zaton kod Šibenika do zračnih luka i gradova Split, Zadar, Zagreb i Dubrovnik. Fiksne cijene, preuzimanje na vezu, jedan lokalni vozač.",
+  "keywords": "transfer marina zaton, taksi marina zaton, marina zaton transfer zračna luka, zaton zračna luka split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taksi za marinu i transferi do zračnih luka",
+      "name": "Transferi Marina Zaton",
+      "description": "Privatni transferi od Marina Zaton kod Šibenika do zračnih luka i gradova Split, Zadar, Zagreb i Dubrovnik. Fiksne cijene, preuzimanje na vezu, jedan lokalni vozač.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/hr/marina-zaton-transferi/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fiksne cijene transfera od Marina Zaton",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Zračne luke Split",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Zračne luke Zadar",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Zračne luke Zagreb",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Zračne luke Dubrovnik",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Splita",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Zadra",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Dubrovnika",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Trogira",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Vodica",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do NP Krka (Lozovac)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Šibenika",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    }
+  ]
+}

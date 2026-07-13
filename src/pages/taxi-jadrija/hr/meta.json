@@ -1,0 +1,90 @@
+{
+  "slug": "taksi-jadrija",
+  "title": "Taksi Jadrija | TAXI Antonio",
+  "description": "Taksi Jadrija: kratke lokalne vožnje do Šibenika te autobusnog i željezničkog kolodvora, plus fiksni transferi do zračnih luka Split i Zadar. Preuzimanje pred vratima.",
+  "keywords": "taksi jadrija, jadrija taksi, jadrija plaža taksi, jadrija do šibenika, jadrija transfer zračna luka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokalni taksi i transferi do zračnih luka",
+      "name": "Taksi Jadrija",
+      "description": "Privatni taksi po fiksnoj cijeni s plaže Jadrija na šibenskom poluotoku do Šibenika, autobusnog i željezničkog kolodvora, zračne luke Split i zračne luke Zadar.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Jadrija",
+      "url": "https://taxisibenik.hr/hr/taksi-jadrija/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Cijene taksija iz Jadrije",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksi Jadrija do Šibenika",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hr/rezervacija/?from=Jadrija&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Jadrija do šibenskog autobusnog i željezničkog kolodvora",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hr/rezervacija/?from=Jadrija&to=%C5%A0ibenik%20Bus%20Station&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Jadrija do zračne luke Split",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hr/rezervacija/?from=Jadrija&to=Split%20Airport%20%28SPU%29&price=115"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Jadrija do zračne luke Zadar",
+            "price": "125",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hr/rezervacija/?from=Jadrija&to=Zadar%20Airport%20%28ZAD%29&price=125"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jesu li vožnje iz Jadrije uglavnom kratke i lokalne?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, većina vožnji su kratki skokovi do Šibenika ili do kolodvora, ali vozim i dulje transfere do zračnih luka Split i Zadar kada vam zatrebaju."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Možete li me odvesti do autobusnog ili željezničkog kolodvora?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Šibenski autobusni i željeznički kolodvor nalaze se jedan do drugoga, a transfer iz Jadrije fiksnih je €30 po vozilu."
+          }
+        }
+      ]
+    }
+  ]
+}

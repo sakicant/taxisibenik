@@ -1,0 +1,21 @@
+{
+  "slug": "posebne-ponude",
+  "title": "Posebne ponude i last-minute transferi | TAXI Antonio",
+  "description": "Last-minute i prazne povratne vožnje taksi transfera oko Šibenika po sniženoj cijeni. Rezervirajte fiksni termin preuzimanja i putujte jeftinije. Redovito ažurirano.",
+  "keywords": "ponude taksi šibenik, last minute transfer šibenik, jeftini transfer zračna luka šibenik, prazna vožnja taksi hrvatska, sniženi transfer zračna luka split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Posebne ponude i last-minute transferi",
+    "description": "Last-minute i prazne povratne vožnje taksi transfera oko Šibenika po sniženoj cijeni.",
+    "url": "https://taxisibenik.hr/hr/posebne-ponude/",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Taxi Antonio",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" }
+    }
+  }
+}

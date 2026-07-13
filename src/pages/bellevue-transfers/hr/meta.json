@@ -1,0 +1,145 @@
+{
+  "slug": "bellevue-transferi",
+  "title": "Transferi hotela Bellevue Superior Šibenik | Fiksne cijene | TAXI Antonio",
+  "description": "Privatni transferi do i od hotela Bellevue Superior u Šibeniku. Fiksne cijene uz rezervaciju unaprijed: zračna luka Split €95, zračna luka Zadar €130, Krka od €45. Od vrata do vrata, jedan lokalni vozač.",
+  "keywords": "bellevue šibenik transferi, bellevue superior hotel transfer, bellevue šibenik taksi, bellevue transfer zračna luka, taksi bellevue šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Hotelski transferi do zračne luke i grada",
+      "name": "Transferi hotela Bellevue Superior Šibenik",
+      "description": "Privatni taksi transferi po fiksnoj cijeni do i od hotela Bellevue Superior u srcu Šibenika. Transferi do zračnih luka, međugradski transferi i izleti na Krku, rezervirani unaprijed po cijeni dogovorenoj prije vožnje.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Bellevue Superior Hotel Šibenik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/hr/bellevue-transferi/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fiksne cijene transfera iz hotela Bellevue Superior",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Bellevue do zračne luke Split",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue do zračne luke Zadar",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue do zračne luke Zagreb",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue do zračne luke Dubrovnik",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue do Nacionalnog parka Krka (Lozovac)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue do Vodica",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue do Splita",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue do Zadra",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi od hotela Bellevue Superior do zračne luke Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privatni transfer od hotela Bellevue Superior do zračne luke Split je fiksnih 95 eura po vozilu za do 4 putnika, uz rezervaciju unaprijed. Cestarine, gorivo i prtljaga su uključeni, a cijena je ista u oba smjera."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gdje preuzimate goste kod hotela Bellevue Superior?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Točno ispred hotela. Bellevue je u srcu Šibenika, a točno mjesto preuzimanja potvrdim kad rezervirate kako ne biste čekali na rubu ceste."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Trebam li rezervirati svoj transfer iz Bellevuea unaprijed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Sve navedene cijene su fiksne cijene za transfere rezervirane unaprijed. Rezervacija unaprijed jamči vozilo, vrijeme preuzimanja i cijenu, što je najvažnije za rane letove i visoku sezonu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dočekujete li goste u dolasku na zračnoj luci?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Za dolaske pratim vaš let u stvarnom vremenu, čekam u dolaznoj dvorani s natpisom s vašim imenom i vozim vas ravno do Bellevuea. Čekanje zbog kašnjenja leta je besplatno."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Možete li nas odvesti iz Bellevuea do Nacionalnog parka Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Transfer u jednom smjeru do ulaza Lozovac je 45 eura, a do ulaza Skradin 50 eura. Nudim i cjelodnevni privatni izlet s uključenim vremenom čekanja, uz preuzimanje pred hotelom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako plaćam transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Predujam od 20% (najmanje 20 eura) potvrđuje rezervaciju, bankovnom uplatom ili karticom. Ostatak se plaća vozaču na dan vožnje, gotovinom ili karticom."
+          }
+        }
+      ]
+    }
+  ]
+}

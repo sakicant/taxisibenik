@@ -1,0 +1,84 @@
+{
+  "slug": "izlet-plitvice-split",
+  "title": "Izlet na Plitvice iz Splita | Privatni prijevoz, fiksno €650 | TAXI Antonio",
+  "description": "Privatni povratni taksi prijevoz do Plitvičkih jezera iz Splita. Fiksno €650 po vozilu, do 4 putnika, od vrata do vrata iz splitskih hotela, kruzerske luke i stare jezgre. Nije tura, samo vožnja tamo i natrag.",
+  "keywords": "izlet na plitvice iz splita, povratni prijevoz do plitvica, taksi do plitvica iz splita, plitvicka jezera iz splita, split plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privatni izlet na Plitvička jezera iz Splita",
+      "description": "Privatni cjelodnevni izlet na Nacionalni park Plitvička jezera iz Splita s lokalnim vozačem koji govori engleski. Fiksna cijena od 650 eura po vozilu za do 4 putnika, s preuzimanjem od vrata do vrata na splitskim hotelima, kruzerskoj luci, autobusnom i željezničkom kolodvoru te u staroj jezgri.",
+      "touristType": "Priroda i razgledavanje",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "650",
+        "priceCurrency": "EUR",
+        "description": "Privatno vozilo, povratna vožnja Split do Nacionalnog parka Plitvička jezera, do 4 putnika. Ulaznice za park nisu uključene."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je li ovo vođena tura ili taksi prijevoz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ovo je taksi prijevoz, ne vođena tura. Antonio je lokalni vozač koji nudi privatni povratni prijevoz iz Splita na Plitvice i natrag. Dobivate vozilo i vožnju; unutar parka slobodno istražujete sami, svojim tempom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi do Plitvica iz Splita?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privatni povratni prijevoz iz Splita do Plitvičkih jezera fiksno je 650 eura po vozilu za do 4 putnika, s uključenim cestarinama, gorivom i vremenom čekanja kod parka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko traje izlet iz Splita na Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja traje oko dva i pol do tri sata u jednom smjeru, plus otprilike 4 do 6 sati za obilazak jezera. To je dug cjelodnevni izlet, obično 11 do 12 sati od vrata do vrata, pa je rani polazak neophodan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jesu li ulaznice za Plitvice uključene u cijenu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ne. Ulaznice se kupuju zasebno od Nacionalnog parka Plitvička jezera, na ulazu ili online. Ulaznice koštaju otprilike 10 do 40 eura ovisno o sezoni i uključuju panoramski vlak i električni brod unutar parka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako rezerviram i plaćam izlet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Predujam od 20% (najmanje 20 eura) potvrđuje rezervaciju, bankovnom uplatom ili karticom, a dobivate račun kao potvrdu. Ostatak se plaća vozaču na dan izleta, gotovinom ili karticom."
+          }
+        }
+      ]
+    }
+  ]
+}
