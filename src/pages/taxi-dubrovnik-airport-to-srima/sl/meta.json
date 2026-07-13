@@ -1,0 +1,89 @@
+{
+  "slug": "taksi-letalisce-dubrovnik-srima",
+  "title": "Taksi Letališče Dubrovnik - Srima | Fiksna cena €499 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Letališče Dubrovnik - Srima. Fiksna cena €499 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "keywords": "taksi letališče dubrovnik - srima, prevoz letališče dubrovnik - srima, letališki prevoz letališče dubrovnik - srima",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Letališče Dubrovnik - Srima",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Letališče Dubrovnik - Srima, 499 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Letališče Dubrovnik",
+        "Srima"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-letalisce-dubrovnik-srima/",
+      "offers": {
+        "@type": "Offer",
+        "price": "499",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Letališče Dubrovnik - Srima, na vozilo do 4 potnike. Povratno 998 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako dolga je relacija in koliko traja vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Letališče Dubrovnik - Srima je približno 306 km in traja okoli 4 h 25 min pri običajnem prometu, nekoliko dlje v poletni konici. Prevzem načrtujem tako, da vas počasnejši odsek nikoli ne priganja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kje me pričakate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "V prihodni dvorani, takoj za prevzemom prtljage, s tablico z vašim imenom. Pomagam s prtljago in vas pospremim do vozila."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kaj če ima moj let zamudo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brez težav. Vaš let spremljam v realnem času in prevzem prilagodim dejanskemu pristanku, brez pribitka za čakanje."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane prevoz na relaciji Letališče Dubrovnik - Srima?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 499 na vozilo do 4 potnike, enosmerno, cestnine in prtljaga vključeni. Povratna vožnja je 998."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da načrtujem glede na vaš let. Za prevzem isti dan po nenadni spremembi pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

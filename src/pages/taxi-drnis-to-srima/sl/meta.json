@@ -1,0 +1,81 @@
+{
+  "slug": "taksi-drnis-srima",
+  "title": "Taksi Drniš - Srima | Fiksna cena €69 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Drniš - Srima. Fiksna cena €69 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "keywords": "taksi drniš - srima, prevoz drniš - srima, letališki prevoz drniš - srima",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Drniš - Srima",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Drniš - Srima, 69 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Drniš",
+        "Srima"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-drnis-srima/",
+      "offers": {
+        "@type": "Offer",
+        "price": "69",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Drniš - Srima, na vozilo do 4 potnike. Povratno 138 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako dolga je relacija in koliko traja vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Drniš - Srima je približno 40 km in traja okoli 45 min pri običajnem prometu, nekoliko dlje v poletni konici. Prevzem načrtujem tako, da vas počasnejši odsek nikoli ne priganja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Drniš - Srima?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 69 na vozilo do 4 potnike, enosmerno, prtljaga vključena. Povratna vožnja je 138."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kje me poberete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašem točnem naslovu, naj bo to hiša, hotel ali apartma. Pošljite naslov ob rezervaciji in potrdim mesto srečanja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in uro prevzema. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

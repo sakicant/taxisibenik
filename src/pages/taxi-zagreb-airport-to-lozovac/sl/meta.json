@@ -1,0 +1,89 @@
+{
+  "slug": "taksi-letalisce-zagreb-lozovac",
+  "title": "Taksi Letališče Zagreb - Lozovac | Fiksna cena €485 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Letališče Zagreb - Lozovac. Fiksna cena €485 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "keywords": "taksi letališče zagreb - lozovac, prevoz letališče zagreb - lozovac, letališki prevoz letališče zagreb - lozovac",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Letališče Zagreb - Lozovac",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Letališče Zagreb - Lozovac, 485 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Letališče Zagreb",
+        "Lozovac"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-letalisce-zagreb-lozovac/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Letališče Zagreb - Lozovac, na vozilo do 4 potnike. Povratno 970 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako dolga je relacija in koliko traja vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Letališče Zagreb - Lozovac je približno 352 km in traja okoli 3 h 50 min pri običajnem prometu, nekoliko dlje v poletni konici. Prevzem načrtujem tako, da vas počasnejši odsek nikoli ne priganja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kje me pričakate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "V prihodni dvorani, takoj za prevzemom prtljage, s tablico z vašim imenom. Pomagam s prtljago in vas pospremim do vozila."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kaj če ima moj let zamudo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brez težav. Vaš let spremljam v realnem času in prevzem prilagodim dejanskemu pristanku, brez pribitka za čakanje."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane prevoz na relaciji Letališče Zagreb - Lozovac?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 485 na vozilo do 4 potnike, enosmerno, cestnine in prtljaga vključeni. Povratna vožnja je 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da načrtujem glede na vaš let. Za prevzem isti dan po nenadni spremembi pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

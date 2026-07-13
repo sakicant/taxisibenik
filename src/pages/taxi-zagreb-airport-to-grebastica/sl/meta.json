@@ -1,0 +1,89 @@
+{
+  "slug": "taksi-letalisce-zagreb-grebastica",
+  "title": "Taksi Letališče Zagreb - Grebaštica | Fiksna cena €495 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Letališče Zagreb - Grebaštica. Fiksna cena €495 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "keywords": "taksi letališče zagreb - grebaštica, prevoz letališče zagreb - grebaštica, letališki prevoz letališče zagreb - grebaštica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Letališče Zagreb - Grebaštica",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Letališče Zagreb - Grebaštica, 495 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Letališče Zagreb",
+        "Grebaštica"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-letalisce-zagreb-grebastica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "495",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Letališče Zagreb - Grebaštica, na vozilo do 4 potnike. Povratno 990 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako dolga je relacija in koliko traja vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Letališče Zagreb - Grebaštica je približno 367 km in traja okoli 4 h pri običajnem prometu, nekoliko dlje v poletni konici. Prevzem načrtujem tako, da vas počasnejši odsek nikoli ne priganja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kje me pričakate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "V prihodni dvorani, takoj za prevzemom prtljage, s tablico z vašim imenom. Pomagam s prtljago in vas pospremim do vozila."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kaj če ima moj let zamudo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brez težav. Vaš let spremljam v realnem času in prevzem prilagodim dejanskemu pristanku, brez pribitka za čakanje."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane prevoz na relaciji Letališče Zagreb - Grebaštica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 495 na vozilo do 4 potnike, enosmerno, cestnine in prtljaga vključeni. Povratna vožnja je 990."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da načrtujem glede na vaš let. Za prevzem isti dan po nenadni spremembi pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

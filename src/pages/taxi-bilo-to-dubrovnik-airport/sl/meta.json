@@ -1,0 +1,89 @@
+{
+  "slug": "taksi-bilo-letalisce-dubrovnik",
+  "title": "Taksi Bilo - Letališče Dubrovnik | Fiksna cena €445 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Bilo - Letališče Dubrovnik. Fiksna cena €445 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "keywords": "taksi bilo - letališče dubrovnik, prevoz bilo - letališče dubrovnik, letališki prevoz bilo - letališče dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Bilo - Letališče Dubrovnik",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Bilo - Letališče Dubrovnik, 445 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Bilo",
+        "Letališče Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-bilo-letalisce-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "445",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Bilo - Letališče Dubrovnik, na vozilo do 4 potnike. Povratno 890 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako dolga je relacija in koliko traja vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Bilo - Letališče Dubrovnik je približno 308 km in traja okoli 4 h 25 min pri običajnem prometu, nekoliko dlje v poletni konici. Prevzem načrtujem tako, da vas počasnejši odsek nikoli ne priganja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Bilo - Letališče Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 445 na vozilo, enosmerno, do 4 potnike. Cena je na vozilo, ne na osebo, in vključuje cestnine, gorivo in prtljago. Povratna vožnja je 890."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kdaj naj se odpravim na let?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Praviloma približno 3 ure pred mednarodnim letom in 2 uri pred domačim. Povejte mi uro leta in potrdim natančen prevzem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Me odpeljete do samega odhodnega terminala?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Odpeljem vas naravnost do odhodnega terminala in pomagam s prtljago. Brez hoje s parkirišča in brez shuttle avtobusa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in prevzem, in prej za jutranje lete in v visoki sezoni. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

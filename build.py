@@ -30,7 +30,7 @@ DEFAULT_OG_IMAGE = f"{SITE_URL}/assets/img/hero-bg.webp"
 DEFAULT_LANG = "en"
 
 # Supported languages. Codes must be valid ISO 639-1 for correct hreflang.
-LANGUAGES = ["en", "hr", "de", "pl", "cs", "it", "fr", "nl"]
+LANGUAGES = ["en", "hr", "de", "pl", "cs", "it", "fr", "nl", "sl", "hu", "sk"]
 
 
 def compute_asset_version():
@@ -122,7 +122,10 @@ def build_hreflang_block(page_id, variants):
 
 LANGUAGE_LABELS = {
     "en": "EN", "hr": "HR", "de": "DE", "pl": "PL",
-    "cs": "CS", "it": "IT", "fr": "FR", "nl": "NL",
+    # "cs" is the ISO 639-1 code (used for hreflang and the /cs/ path); the
+    # switcher shows "CZ" because visitors recognise the country code.
+    "cs": "CZ", "it": "IT", "fr": "FR", "nl": "NL",
+    "sl": "SL", "hu": "HU", "sk": "SK",
 }
 
 # Emoji flags don't render on Windows desktop browsers, so we self-host SVG

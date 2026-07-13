@@ -1,0 +1,89 @@
+{
+  "slug": "taksi-novalja-letalisce-split",
+  "title": "Taksi Novalja - Letališče Split | Fiksna cena €245 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Novalja - Letališče Split. Fiksna cena €245 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "keywords": "taksi novalja - letališče split, prevoz novalja - letališče split, letališki prevoz novalja - letališče split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Novalja - Letališče Split",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Novalja - Letališče Split, 245 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Novalja",
+        "Letališče Split"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-novalja-letalisce-split/",
+      "offers": {
+        "@type": "Offer",
+        "price": "245",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Novalja - Letališče Split, na vozilo do 4 potnike. Povratno 490 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako dolga je relacija in koliko traja vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Novalja - Letališče Split je približno 187 km in traja okoli 2 h 40 min pri običajnem prometu, nekoliko dlje v poletni konici. Prevzem načrtujem tako, da vas počasnejši odsek nikoli ne priganja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Novalja - Letališče Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 245 na vozilo, enosmerno, do 4 potnike. Cena je na vozilo, ne na osebo, in vključuje cestnine, gorivo in prtljago. Povratna vožnja je 490."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kdaj naj se odpravim na let?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Praviloma približno 3 ure pred mednarodnim letom in 2 uri pred domačim. Povejte mi uro leta in potrdim natančen prevzem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Me odpeljete do samega odhodnega terminala?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Odpeljem vas naravnost do odhodnega terminala in pomagam s prtljago. Brez hoje s parkirišča in brez shuttle avtobusa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in prevzem, in prej za jutranje lete in v visoki sezoni. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

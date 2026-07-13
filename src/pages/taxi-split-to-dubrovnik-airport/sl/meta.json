@@ -1,0 +1,89 @@
+{
+  "slug": "taksi-split-letalisce-dubrovnik",
+  "title": "Taksi Split - Letališče Dubrovnik | Fiksna cena €360 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Split - Letališče Dubrovnik. Fiksna cena €360 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "keywords": "taksi split - letališče dubrovnik, prevoz split - letališče dubrovnik, letališki prevoz split - letališče dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Split - Letališče Dubrovnik",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Split - Letališče Dubrovnik, 360 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Split",
+        "Letališče Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-split-letalisce-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "360",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Split - Letališče Dubrovnik, na vozilo do 4 potnike. Povratno 720 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako dolga je relacija in koliko traja vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Split - Letališče Dubrovnik je približno 252 km in traja okoli 3 h 50 min pri običajnem prometu, nekoliko dlje v poletni konici. Prevzem načrtujem tako, da vas počasnejši odsek nikoli ne priganja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Split - Letališče Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 360 na vozilo, enosmerno, do 4 potnike. Cena je na vozilo, ne na osebo, in vključuje cestnine, gorivo in prtljago. Povratna vožnja je 720."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kdaj naj se odpravim na let?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Praviloma približno 3 ure pred mednarodnim letom in 2 uri pred domačim. Povejte mi uro leta in potrdim natančen prevzem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Me odpeljete do samega odhodnega terminala?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Odpeljem vas naravnost do odhodnega terminala in pomagam s prtljago. Brez hoje s parkirišča in brez shuttle avtobusa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in prevzem, in prej za jutranje lete in v visoki sezoni. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

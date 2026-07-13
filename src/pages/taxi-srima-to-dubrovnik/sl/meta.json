@@ -1,0 +1,89 @@
+{
+  "slug": "taksi-srima-dubrovnik",
+  "title": "Taksi Srima - Dubrovnik | Fiksna cena €499 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Srima - Dubrovnik. Fiksna cena €499 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "keywords": "taksi srima - dubrovnik, prevoz srima - dubrovnik, letališki prevoz srima - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Srima - Dubrovnik",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Srima - Dubrovnik, 499 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Srima",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-srima-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "499",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Srima - Dubrovnik, na vozilo do 4 potnike. Povratno 998 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako dolga je relacija in koliko traja vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Srima - Dubrovnik je približno 288 km in traja okoli 4 h pri običajnem prometu, nekoliko dlje v poletni konici. Prevzem načrtujem tako, da vas počasnejši odsek nikoli ne priganja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Srima - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 499 na vozilo do 4 potnike, enosmerno, s cestninami, gorivom in prtljago. Povratna vožnja je 998."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je prevoz zaseben ali deljen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsak prevoz je zaseben in od vrat do vrat, v Škodi Superb. Brez deljenja vozila in brez dodatnih postankov, razen če jih zahtevate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Se lahko ustavite po poti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Na daljših relacijah se rad ustavim za kavo, fotografijo ali kratko znamenitost. Samo povejte ob rezervaciji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in uro prevzema. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "izlet-plitvice-sibenik",
+  "title": "Izlet na Plitvice iz Šibenika | Zasebni prevoz, fiksna cena 500 € | TAXI Antonio",
+  "description": "Zasebni povratni taksi prevoz do Plitviških jezer iz Šibenika. Fiksna cena 500 € na vozilo, do 4 potnike, od vrat do vrat iz šibenških hotelov, apartmajev, postaj in pristanišča. Ni vodeni izlet, samo prevoz tja in nazaj.",
+  "keywords": "izlet na plitvice iz šibenika, povratni prevoz do plitvic, taksi do plitvic iz šibenika, plitviška jezera iz šibenika, šibenik do plitvic",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Zasebni izlet do Plitviških jezer iz Šibenika",
+      "description": "Zasebni izlet do Narodnega parka Plitviška jezera iz Šibenika z lokalnim, angleško govorečim voznikom. Fiksna cena 500 evrov na vozilo za do 4 potnike, s prevzemom od vrat do vrat pri šibenških hotelih, apartmajih, avtobusni in železniški postaji ter trajektnem pristanišču.",
+      "touristType": "Narava in ogledi znamenitosti",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "500",
+        "priceCurrency": "EUR",
+        "description": "Zasebno vozilo, povratna vožnja Šibenik do Narodnega parka Plitviška jezera, do 4 potnike. Vstopnice za park niso vključene."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je to vodeni izlet ali taksi prevoz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gre za taksi prevoz, ne za vodeni izlet. Antonio je lokalni voznik, ki nudi zasebni povratni prevoz iz Šibenika do Plitvic in nazaj. Dobite vozilo in vožnjo; v parku ga raziskujete sami, v svojem tempu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi do Plitvic iz Šibenika?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zasebni povratni prevoz iz Šibenika do Plitviških jezer je fiksnih 500 evrov na vozilo za do 4 potnike, z vključenimi cestninami, gorivom in časom čakanja pri parku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo traja izlet iz Šibenika do Plitvic?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja traja približno dve uri do dve uri in petnajst minut v vsako smer, poleg tega pa še približno 4 do 6 ur za ogled jezer. Gre za cel dan, običajno 9 do 10 ur od vrat do vrat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "So vstopnice za Plitvice vključene v ceno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ne. Vstopnice kupite ločeno pri Narodnem parku Plitviška jezera, na vhodu ali prek spleta. Vstopnice stanejo približno 10 do 40 evrov glede na sezono in vključujejo panoramski vlak ter električni čoln v parku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako rezerviram in plačam izlet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "20 % predplačilo (najmanj 20 evrov) potrdi rezervacijo, z bančnim nakazilom ali kartico, in dobite račun kot potrdilo. Preostanek plačate vozniku na dan izleta, v gotovini ali s kartico."
+          }
+        }
+      ]
+    }
+  ]
+}

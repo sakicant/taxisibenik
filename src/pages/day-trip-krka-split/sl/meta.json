@@ -1,0 +1,84 @@
+{
+  "slug": "izlet-krka-split",
+  "title": "Izlet v Krko iz Splita | Zasebni prevoz, fiksno €290 | TAXI Antonio",
+  "description": "Zasebni povratni taksi prevoz v Krko iz Splita. Fiksno €290 na avto, do 4 potnike, od vrat do vrat iz splitskih hotelov, križarskega pristanišča in starega mestnega jedra. Ni organiziran izlet, le prevoz tja in nazaj.",
+  "keywords": "izlet v krko iz splita, povratni prevoz v krko iz splita, taksi v krko iz splita, krka iz splita, split v narodni park krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Zasebni izlet v Krko iz Splita",
+      "description": "Zasebni izlet v Narodni park Krka iz Splita z lokalnim angleško govorečim voznikom. Fiksna cena 290 evrov na avto za do 4 potnike, s prevzemom od vrat do vrat pri splitskih hotelih, križarskem pristanišču, avtobusni in železniški postaji ter starem mestnem jedru.",
+      "touristType": "Narava in ogledi znamenitosti",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "290",
+        "priceCurrency": "EUR",
+        "description": "Zasebno vozilo, povratna vožnja Split–Narodni park Krka, do 4 potnike. Vstopnice za park niso vključene."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je to izlet z vodičem ali taksi prevoz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To je taksi prevoz, ne izlet z vodičem. Antonio je lokalni voznik, ki nudi zasebni povratni prevoz iz Splita v Krko in nazaj. Dobite avto in prevoz; v parku pa lahko raziskujete sami, v svojem tempu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi v Krko iz Splita?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zasebni povratni prevoz iz Splita v Narodni park Krka je fiksnih 290 evrov na avto za do 4 potnike, z vključenimi cestninami, gorivom in okoli 3 do 4 urami čakalnega časa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Prevzamete goste pri splitskih hotelih in na križarskem pristanišču?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Prevzamem od vrat do vrat pri splitskih hotelih in apartmajih, v starem mestnem jedru, na avtobusni in železniški postaji ter neposredno na splitskem križarskem pristanišču in trajektnem terminalu, po želji z napisom z imenom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo traja izlet iz Splita v Krko?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja traja približno uro do uro in petnajst minut v vsako smer, poleg tega pa okoli 3 do 4 ure prostega časa v parku. Krajše ali daljše bivanje se lahko dogovori ob rezervaciji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako rezerviram in plačam izlet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervacijo potrdi 20-odstotno predplačilo (najmanj 20 evrov), z bančnim nakazilom ali kartico, kot potrdilo pa prejmete račun. Preostanek plačate vozniku na dan izleta, v gotovini ali s kartico."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "izlet-krka-primosten",
+  "title": "Izlet v Krko iz Primoštena | Zasebni prevoz, fiksno €155 | TAXI Antonio",
+  "description": "Zasebni povratni taksi prevoz v Krko iz Primoštena. Fiksno €155 na avto, do 4 potnike, od vrat do vrat iz hotelov in apartmajev v Primoštenu, Zečevu in Rogoznici. Ni organiziran izlet, le prevoz tja in nazaj.",
+  "keywords": "izlet v krko iz primoštena, krka iz primoštena, taksi v krko iz primoštena, prevoz krka primošten, krka iz rogoznice, krka iz zečeva, primošten v narodni park krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Zasebni izlet v Krko iz Primoštena",
+      "description": "Zasebni izlet v Narodni park Krka iz Primoštena z lokalnim angleško govorečim voznikom. Fiksna cena 155 evrov na avto za do 4 potnike, s prevzemom od vrat do vrat pri hotelih in apartmajih v Primoštenu, na območju Zečeva in v Rogoznici.",
+      "touristType": "Narava in ogledi znamenitosti",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "155",
+        "priceCurrency": "EUR",
+        "description": "Zasebno vozilo, povratna vožnja Primošten–Narodni park Krka, do 4 potnike. Vstopnice za park niso vključene."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je to izlet z vodičem ali taksi prevoz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To je taksi prevoz, ne izlet z vodičem. Antonio je lokalni voznik, ki nudi zasebni povratni prevoz iz Primoštena v Krko in nazaj. Dobite avto in prevoz; v parku pa lahko raziskujete sami, v svojem tempu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Prevzamete goste tudi na območju Zečeva in v Rogoznici, ne le v Primoštenu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Prevzem na območju Zečeva in v Rogoznici je po enaki fiksni ceni kot v Primoštenu. Prevzamem vas od vrat do vrat pri katerem koli hotelu, apartmaju ali vili, vključno z marino Frapa v Rogoznici."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi v Krko iz Primoštena?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zasebni povratni prevoz iz Primoštena v Krko je fiksnih 155 evrov na avto za do 4 potnike, z vključenim gorivom in čakalnim časom pri parku. Ista cena velja za prevzeme na območju Zečeva in v Rogoznici."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko časa ostanemo v Narodnem parku Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Večina gostov izbere okoli 3 do 4 ure prostega časa v parku, kar zadošča za ogled glavnih slapov in sprehod po klasični krožni poti po lesenih pomolih. Krajše ali daljše bivanje se lahko dogovori ob rezervaciji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "So vstopnice za Krko vključene v ceno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ne. Vstopnice se kupijo ločeno, neposredno pri Narodnem parku Krka na vhodu Skradin ali Lozovac ali prek spleta. Vstopnice stanejo približno od 7 do 40 evrov, odvisno od sezone."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako rezerviram in plačam izlet iz Primoštena v Krko?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervacijo potrdi 20-odstotno predplačilo (najmanj 20 evrov), z bančnim nakazilom ali kartico, kot potrdilo pa prejmete račun. Preostanek plačate vozniku na dan izleta, v gotovini ali s kartico."
+          }
+        }
+      ]
+    }
+  ]
+}

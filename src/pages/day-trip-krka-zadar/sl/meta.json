@@ -1,0 +1,84 @@
+{
+  "slug": "izlet-krka-zadar",
+  "title": "Izlet v Krko iz Zadra | Zasebni prevoz, fiksno €260 | TAXI Antonio",
+  "description": "Zasebni povratni taksi prevoz v Krko iz Zadra. Fiksno €260 na avto, do 4 potnike, od vrat do vrat iz zadrskih hotelov, trajektnega in križarskega pristanišča ter starega mestnega jedra. Ni organiziran izlet, le prevoz tja in nazaj.",
+  "keywords": "izlet v krko iz zadra, povratni prevoz v krko iz zadra, taksi v krko iz zadra, krka iz zadra, zadar v narodni park krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Zasebni izlet v Krko iz Zadra",
+      "description": "Zasebni izlet v Narodni park Krka iz Zadra z lokalnim angleško govorečim voznikom. Fiksna cena 260 evrov na avto za do 4 potnike, s prevzemom od vrat do vrat pri zadrskih hotelih, trajektnem in križarskem pristanišču, avtobusni postaji ter starem mestnem jedru.",
+      "touristType": "Narava in ogledi znamenitosti",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "260",
+        "priceCurrency": "EUR",
+        "description": "Zasebno vozilo, povratna vožnja Zadar–Narodni park Krka, do 4 potnike. Vstopnice za park niso vključene."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je to izlet z vodičem ali taksi prevoz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To je taksi prevoz, ne izlet z vodičem. Antonio je lokalni voznik, ki nudi zasebni povratni prevoz iz Zadra v Krko in nazaj. Dobite avto in prevoz; v parku pa lahko raziskujete sami, v svojem tempu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi v Krko iz Zadra?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zasebni povratni prevoz iz Zadra v Narodni park Krka je fiksnih 260 evrov na avto za do 4 potnike, z vključenimi cestninami, gorivom in okoli 3 do 4 urami čakalnega časa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Prevzamete goste pri zadrskih hotelih in na trajektnem pristanišču?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Prevzamem od vrat do vrat pri zadrskih hotelih in apartmajih, v starem mestnem jedru, na avtobusni postaji ter neposredno na zadrskem trajektnem pristanišču in križarskem terminalu Gaženica, po želji z napisom z imenom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo traja izlet iz Zadra v Krko?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja traja približno uro v vsako smer po avtocesti, poleg tega pa okoli 3 do 4 ure prostega časa v parku. Krajše ali daljše bivanje se lahko dogovori ob rezervaciji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako rezerviram in plačam izlet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervacijo potrdi 20-odstotno predplačilo (najmanj 20 evrov), z bančnim nakazilom ali kartico, kot potrdilo pa prejmete račun. Preostanek plačate vozniku na dan izleta, v gotovini ali s kartico."
+          }
+        }
+      ]
+    }
+  ]
+}

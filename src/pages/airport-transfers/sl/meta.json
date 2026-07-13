@@ -1,0 +1,85 @@
+{
+  "slug": "letaliski-prevozi",
+  "title": "Letališki prevozi Šibenik | Fiksne cene | TAXI Antonio",
+  "description": "Letališki prevozi iz Šibenika do letališč Split, Zadar, Zagreb in Dubrovnik ter nazaj. Fiksne cene, spremljanje letov, od vrat do vrat. Prevozi tudi za Vodice, Primošten in Skradin. Rezervirajte pri Antoniu.",
+  "keywords": "letališki prevozi šibenik, letališki prevoz šibenik, letališče split šibenik, letališče zadar šibenik, letališki prevoz vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Letališki prevoz",
+      "name": "Letališki prevozi iz Šibenika",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Letališče Split",
+        "Letališče Zadar",
+        "Letališče Zagreb",
+        "Letališče Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/sl/letaliski-prevozi/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako najdem svojega voznika na letališču?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio vas počaka v prihodni dvorani po prevzemu prtljage, z jasno tablo z vašim imenom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kaj se zgodi, če ima moj let zamudo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lete spremljam v realnem času s pomočjo številke leta, ki jo navedete ob rezervaciji. Čas prevzema se samodejno prilagodi in za čakanje ni dodatnih stroškov."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ali je cena letališkega prevoza fiksna?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Vsak letališki prevoz ima fiksno ceno na avtomobil za največ 4 potnike, vključno s cestninami, gorivom in prtljago. Brez taksimetra, brez presenečenj."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ali za letališke prevoze zagotavljate otroške sedeže?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, otroški sedeži in jahači so na voljo brezplačno. Preprosto jih navedite v opombah pri rezervaciji skupaj s starostjo otroka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako plačam letališki prevoz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "20-odstotni predujem (najmanj 20 evrov) potrdi rezervacijo, in sicer z bančnim nakazilom ali kartico. Preostanek plačate vozniku na dan prevoza, v gotovini ali s kartico."
+          }
+        }
+      ]
+    }
+  ]
+}

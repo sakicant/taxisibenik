@@ -1,0 +1,92 @@
+{
+  "slug": "izlet-krka-sibenik",
+  "title": "Izlet v Krko iz Šibenika | Zasebni prevoz, fiksno €100 | TAXI Antonio",
+  "description": "Zasebni povratni taksi prevoz v Krko iz Šibenika. Fiksno €100 na avto, do 4 potnike, od vrat do vrat iz hotelov, apartmajev, postaj in trajektnega pristanišča. Ni organiziran izlet, le prevoz tja in nazaj.",
+  "keywords": "izlet v krko iz šibenika, povratni prevoz v krko, taksi v krko iz šibenika, prevoz krka šibenik, šibenik v narodni park krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Zasebni izlet v Krko iz Šibenika",
+      "description": "Zasebni izlet v Narodni park Krka iz Šibenika z lokalnim angleško govorečim voznikom. Fiksna cena 100 evrov na avto za do 4 potnike, s prevzemom od vrat do vrat pri hotelih, apartmajih, avtobusni in železniški postaji ter trajektnem pristanišču.",
+      "touristType": "Narava in ogledi znamenitosti",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Zasebno vozilo, povratna vožnja Šibenik–Narodni park Krka, do 4 potnike. Vstopnice za park niso vključene."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je to izlet z vodičem ali taksi prevoz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To je taksi prevoz, ne izlet z vodičem. Antonio je lokalni šibeniški taksist, ki nudi zasebni povratni prevoz do Krke in nazaj. Dobite avto in prevoz; v parku pa lahko raziskujete sami, v svojem tempu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Me lahko prevzamete pri Amadria Parku, D-Resortu ali hotelu Bellevue?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Goste redno prevzamem v naselju Amadria Park, D-Resortu Šibenik, hotelu Bellevue in drugih šibeniških hotelih. Pošljite mi ime svojega hotela in potrdil vam bom točen čas in mesto prevzema."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Prevzamete goste tudi na šibeniškem trajektnem pristanišču, avtobusni ali železniški postaji?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Goste prevzamem od vrat do vrat na šibeniškem trajektnem in križarskem pristanišču, na avtobusni postaji ter na železniških postajah Šibenik in Perković, po želji z napisom z imenom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko časa ostanemo v Narodnem parku Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Večina gostov izbere okoli 3 do 4 ure prostega časa v parku, kar zadošča za ogled glavnih slapov in sprehod po klasični krožni poti po lesenih pomolih. Krajše ali daljše bivanje se lahko dogovori ob rezervaciji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "So vstopnice za Krko vključene v ceno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ne. Vstopnice se kupijo ločeno, neposredno pri Narodnem parku Krka na vhodu Skradin ali Lozovac ali prek spleta. Vstopnice stanejo približno od 7 do 40 evrov, odvisno od sezone."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako rezerviram in plačam izlet iz Šibenika v Krko?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervacijo potrdi 20-odstotno predplačilo (najmanj 20 evrov), z bančnim nakazilom ali kartico, kot potrdilo pa prejmete račun. Preostanek plačate vozniku na dan izleta, v gotovini ali s kartico."
+          }
+        }
+      ]
+    }
+  ]
+}

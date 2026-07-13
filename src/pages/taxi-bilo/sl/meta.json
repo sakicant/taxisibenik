@@ -1,0 +1,83 @@
+{
+  "slug": "taksi-bilo",
+  "title": "Taksi Bilo | TAXI Antonio",
+  "description": "Taksi Bilo: prevozi pred vrati do letališča Split (80 €), Šibenika in Vodic za tiho obmorsko naselje stran od glavnih taksi poti.",
+  "keywords": "taksi bilo, bilo taksi, bilo letališki prevoz, bilo do letališča split, bilo do šibenika, bilo do vodic",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokalni taksi in letališki prevozi",
+      "name": "Taksi Bilo",
+      "description": "Zasebni taksi po fiksni ceni iz Bila, majhnega obmorskega naselja med Grebaštico in Primoštenom, do letališča Split, Šibenika in Vodic.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Bilo",
+      "url": "https://taxisibenik.hr/sl/taksi-bilo/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Cene taksija iz Bila",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksi Bilo do Šibenika",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sl/rezervacija/?from=Bilo&to=%C5%A0ibenik%20-%20center&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Bilo do Vodic",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sl/rezervacija/?from=Bilo&to=Vodice&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Bilo do letališča Split",
+            "price": "80",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sl/rezervacija/?from=Bilo&to=Split%20Airport%20%28SPU%29&price=80"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kje prevzamete v Bilu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pred vrati vašega apartmaja ali počitniške hiše. Ob rezervaciji pošljite naslov ali lokacijo in potrdil vam bom mesto srečanja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane Bilo do letališča Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksnih 80 € na vozilo za do 4 potnike, z vključenimi cestninami, gorivom in prtljago."
+          }
+        }
+      ]
+    }
+  ]
+}

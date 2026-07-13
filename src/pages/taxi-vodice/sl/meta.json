@@ -1,0 +1,106 @@
+{
+  "slug": "taksi-vodice",
+  "title": "Taksi Vodice | TAXI Antonio",
+  "description": "Taksi Vodice: fiksni letališki prevozi v Zadar (€100) in Split, prevzemi v marini in letoviščih, izleti na Krko in prevozi do otoškega trajekta. Rezervirajte neposredno.",
+  "keywords": "taksi vodice, vodice taksi, letališki prevoz vodice, vodice letališče split, vodice letališče zadar, taksi marina vodice, vodice krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokalni taksi in letališki prevozi",
+      "name": "Taksi Vodice",
+      "description": "Zasebni taksi s fiksno ceno v Vodicah: letališki prevozi v Split in Zadar, prevzemi v marini in letoviščih, celodnevni izleti v narodni park Krka in prevozi do otoškega trajekta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/sl/taksi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Cene taksija iz Vodic",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksi Vodice–Šibenik",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sl/rezervacija/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Vodice–NP Krka (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sl/rezervacija/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Vodice–letališče Zadar",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sl/rezervacija/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Vodice–letališče Split",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sl/rezervacija/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ali lahko posadke prevzamete v marini Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Posadke jaht in čarterjev pričakam kar v marini, s prostorom za prtljago in zaloge, in lahko uredim zgoden ali pozen termin glede na vaš čarter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ali v Vodicah vozite pozno ponoči?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Če je rezervirano vnaprej, vas lahko poberem po večernem izhodu in vas varno pripeljem nazaj do nastanitve po fiksni ceni."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Me lahko odpeljete do trajekta za Prvić ali Zlarin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Oba odplujeta z vodiške obale in odložim vas lahko kar na pristanu. Ob rezervaciji me vprašajte za ceno."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane prevoz iz Vodic na letališče Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksnih €100 na avto za do 4 potnike, letališče Split pa je €115, s cestninami in prtljago vključeno."
+          }
+        }
+      ]
+    }
+  ]
+}

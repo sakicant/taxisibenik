@@ -1,0 +1,89 @@
+{
+  "slug": "taksi-dubrovnik-tisno",
+  "title": "Taksi Dubrovnik - Tisno | Fiksna cena €495 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Dubrovnik - Tisno. Fiksna cena €495 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "keywords": "taksi dubrovnik - tisno, prevoz dubrovnik - tisno, letališki prevoz dubrovnik - tisno",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Dubrovnik - Tisno",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Dubrovnik - Tisno, 495 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik",
+        "Tisno"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-dubrovnik-tisno/",
+      "offers": {
+        "@type": "Offer",
+        "price": "495",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Dubrovnik - Tisno, na vozilo do 4 potnike. Povratno 990 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako dolga je relacija in koliko traja vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Dubrovnik - Tisno je približno 314 km in traja okoli 4 h 10 min pri običajnem prometu, nekoliko dlje v poletni konici. Prevzem načrtujem tako, da vas počasnejši odsek nikoli ne priganja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Dubrovnik - Tisno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 495 na vozilo do 4 potnike, enosmerno, s cestninami, gorivom in prtljago. Povratna vožnja je 990."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je prevoz zaseben ali deljen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsak prevoz je zaseben in od vrat do vrat, v Škodi Superb. Brez deljenja vozila in brez dodatnih postankov, razen če jih zahtevate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Se lahko ustavite po poti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Na daljših relacijah se rad ustavim za kavo, fotografijo ali kratko znamenitost. Samo povejte ob rezervaciji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in uro prevzema. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

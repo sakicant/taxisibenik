@@ -1,0 +1,92 @@
+{
+  "slug": "izlet-krka-vodice",
+  "title": "Izlet v Krko iz Vodic | Zasebni prevoz, fiksno €125 | TAXI Antonio",
+  "description": "Zasebni povratni taksi prevoz v Krko iz Vodic. Fiksno €125 na avto, do 4 potnike, od vrat do vrat iz hotelov in apartmajev v Vodicah, Srimi in Tribunju. Ni organiziran izlet, le prevoz tja in nazaj.",
+  "keywords": "izlet v krko iz vodic, krka iz vodic, taksi v krko iz vodic, prevoz krka vodice, krka iz srime, krka iz tribunja, vodice v narodni park krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Zasebni izlet v Krko iz Vodic",
+      "description": "Zasebni izlet v Narodni park Krka iz Vodic z lokalnim angleško govorečim voznikom. Fiksna cena 125 evrov na avto za do 4 potnike, s prevzemom od vrat do vrat pri hotelih in apartmajih v Vodicah, Srimi in Tribunju.",
+      "touristType": "Narava in ogledi znamenitosti",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Zasebno vozilo, povratna vožnja Vodice–Narodni park Krka, do 4 potnike. Vstopnice za park niso vključene."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je to izlet z vodičem ali taksi prevoz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To je taksi prevoz, ne izlet z vodičem. Antonio je lokalni voznik, ki nudi zasebni povratni prevoz iz Vodic v Krko in nazaj. Dobite avto in prevoz; v parku pa lahko raziskujete sami, v svojem tempu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Prevzamete goste tudi v Srimi in Tribunju, ne le v Vodicah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Prevzem v Srimi in Tribunju je po enaki fiksni ceni kot v Vodicah. Prevzamem vas od vrat do vrat pri katerem koli hotelu, apartmaju ali vili v Vodicah, Srimi ali Tribunju, vključno z vodiško marino in Rivo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi v Krko iz Vodic?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zasebni povratni prevoz iz Vodic v Krko je fiksnih 125 evrov na avto za do 4 potnike, z vključenim gorivom in čakalnim časom pri parku. Ista cena velja za prevzeme v Srimi in Tribunju."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko časa ostanemo v Narodnem parku Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Večina gostov izbere okoli 3 do 4 ure prostega časa v parku, kar zadošča za ogled glavnih slapov in sprehod po klasični krožni poti po lesenih pomolih. Krajše ali daljše bivanje se lahko dogovori ob rezervaciji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "So vstopnice za Krko vključene v ceno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ne. Vstopnice se kupijo ločeno, neposredno pri Narodnem parku Krka na vhodu Skradin ali Lozovac ali prek spleta. Vstopnice stanejo približno od 7 do 40 evrov, odvisno od sezone."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako rezerviram in plačam izlet iz Vodic v Krko?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervacijo potrdi 20-odstotno predplačilo (najmanj 20 evrov), z bančnim nakazilom ali kartico, kot potrdilo pa prejmete račun. Preostanek plačate vozniku na dan izleta, v gotovini ali s kartico."
+          }
+        }
+      ]
+    }
+  ]
+}

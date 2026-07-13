@@ -1,0 +1,81 @@
+{
+  "slug": "taksi-bilo-tribunj",
+  "title": "Taksi Bilo - Tribunj | Fiksna cena €80 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Bilo - Tribunj. Fiksna cena €80 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "keywords": "taksi bilo - tribunj, prevoz bilo - tribunj, letališki prevoz bilo - tribunj",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Bilo - Tribunj",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Bilo - Tribunj, 80 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Bilo",
+        "Tribunj"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-bilo-tribunj/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Bilo - Tribunj, na vozilo do 4 potnike. Povratno 160 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako dolga je relacija in koliko traja vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Bilo - Tribunj je približno 40 km in traja okoli 50 min pri običajnem prometu, nekoliko dlje v poletni konici. Prevzem načrtujem tako, da vas počasnejši odsek nikoli ne priganja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Bilo - Tribunj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 80 na vozilo do 4 potnike, enosmerno, prtljaga vključena. Povratna vožnja je 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kje me poberete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašem točnem naslovu, naj bo to hiša, hotel ali apartma. Pošljite naslov ob rezervaciji in potrdim mesto srečanja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in uro prevzema. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

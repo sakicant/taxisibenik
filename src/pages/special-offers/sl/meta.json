@@ -1,0 +1,21 @@
+{
+  "slug": "ponudbe",
+  "title": "Ponudbe in prevozi v zadnjem trenutku | TAXI Antonio",
+  "description": "Ponudbe taksi prevozov v zadnjem trenutku in praznih voženj v okolici Šibenika po znižani ceni. Ujemite fiksni termin prevzema in potujte ceneje. Redno posodobljeno.",
+  "keywords": "ponudbe taksi sibenik, prevoz zadnji trenutek sibenik, poceni letaliski prevoz sibenik, prazna voznja taksi hrvaska, znizan letaliski prevoz split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Ponudbe in prevozi v zadnjem trenutku",
+    "description": "Ponudbe taksi prevozov v zadnjem trenutku in praznih voženj v okolici Šibenika po znižani ceni.",
+    "url": "https://taxisibenik.hr/sl/ponudbe/",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Taxi Antonio",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" }
+    }
+  }
+}

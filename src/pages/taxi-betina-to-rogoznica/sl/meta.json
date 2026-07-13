@@ -1,0 +1,81 @@
+{
+  "slug": "taksi-betina-rogoznica",
+  "title": "Taksi Betina - Rogoznica | Fiksna cena €135 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Betina - Rogoznica. Fiksna cena €135 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "keywords": "taksi betina - rogoznica, prevoz betina - rogoznica, letališki prevoz betina - rogoznica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Betina - Rogoznica",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Betina - Rogoznica, 135 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Betina",
+        "Rogoznica"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-betina-rogoznica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "135",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Betina - Rogoznica, na vozilo do 4 potnike. Povratno 270 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako dolga je relacija in koliko traja vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Betina - Rogoznica je približno 64 km in traja okoli 85 min pri običajnem prometu, nekoliko dlje v poletni konici. Prevzem načrtujem tako, da vas počasnejši odsek nikoli ne priganja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Betina - Rogoznica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 135 na vozilo do 4 potnike, enosmerno, prtljaga vključena. Povratna vožnja je 270."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kje me poberete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašem točnem naslovu, naj bo to hiša, hotel ali apartma. Pošljite naslov ob rezervaciji in potrdim mesto srečanja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in uro prevzema. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

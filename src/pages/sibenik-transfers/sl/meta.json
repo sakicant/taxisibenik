@@ -1,0 +1,87 @@
+{
+  "slug": "medmestni-prevozi",
+  "title": "Prevozi iz Šibenika | Fiksne cene | TAXI Antonio",
+  "description": "Prevozi iz Šibenika do Splita, Zadra, Dubrovnika, Zagreba, Trogirja in širše ter nazaj. Fiksne cene, zasebno od vrat do vrat, en lokalni voznik. Rezervirajte neposredno pri Antoniu.",
+  "keywords": "prevozi šibenik, prevoz šibenik, taksi šibenik split, šibenik do zadra, šibenik do dubrovnika, šibenik do zagreba",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Medmestni taksi prevoz",
+      "name": "Prevozi iz Šibenika",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/sl/medmestni-prevozi/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi prevoz iz Šibenika do Splita?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zasebni prevoz iz Šibenika do Splita je fiksnih 140 evrov na avtomobil za največ 4 potnike, vključno s cestninami, gorivom in prtljago."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ali so cene prevozov fiksne?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Vsak medmestni prevoz ima fiksno ceno na avtomobil za največ 4 potnike, dogovorjeno vnaprej. Brez taksimetra in brez presenečenj."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ali je prevoz zaseben ali deljen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsak prevoz je zaseben in od vrat do vrat, v vozilu Škoda Superb. Ni deljenja vozila in ni dodatnih postankov, razen če jih zahtevate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ali se lahko ustavite med potjo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Na daljših prevozih se z veseljem ustavim za kavo, fotografijo ali kratek ogled znamenitosti. Samo sporočite mi ob rezervaciji in to bom upošteval."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako plačam prevoz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "20-odstotni predujem (najmanj 20 evrov) potrdi rezervacijo, in sicer z bančnim nakazilom ali kartico. Preostanek plačate vozniku na dan prevoza, v gotovini ali s kartico."
+          }
+        }
+      ]
+    }
+  ]
+}
