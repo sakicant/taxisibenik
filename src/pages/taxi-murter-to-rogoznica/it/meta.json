@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-murter-rogoznica",
+  "title": "Taxi Murter - Rogoznica | Prezzo fisso €135 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Murter - Rogoznica. Prezzo fisso €135 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi murter - rogoznica, transfer murter - rogoznica, transfer aeroporto murter - rogoznica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Murter - Rogoznica",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Murter - Rogoznica, 135 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Murter",
+        "Rogoznica"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-murter-rogoznica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "135",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Murter - Rogoznica, per veicolo fino a 4 passeggeri. Andata e ritorno 270 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Murter - Rogoznica è di circa 66 km e dura all'incirca 1 h 30 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Murter - Rogoznica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 135 per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Andata e ritorno 270."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove effettui il ritiro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al tuo indirizzo esatto, che sia casa, hotel o appartamento. Invia l'indirizzo alla prenotazione e confermo il punto d'incontro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

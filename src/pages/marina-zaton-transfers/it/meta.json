@@ -1,0 +1,109 @@
+{
+  "slug": "marina-zaton-transfer",
+  "title": "Transfer Marina Zaton | Prezzi fissi | TAXI Antonio",
+  "description": "Transfer privati dalla Marina Zaton vicino a Šibenik verso gli aeroporti e le città di Spalato, Zara, Zagabria e Dubrovnik. Prezzi fissi, ritiro all'ormeggio, un solo autista locale.",
+  "keywords": "transfer marina zaton, taxi marina zaton, transfer aeroporto marina zaton, zaton aeroporto spalato",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi per marina e transfer aeroporto",
+      "name": "Transfer Marina Zaton",
+      "description": "Transfer privati dalla Marina Zaton vicino a Šibenik verso gli aeroporti e le città di Spalato, Zara, Zagabria e Dubrovnik. Prezzi fissi, ritiro all'ormeggio, un solo autista locale.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/it/marina-zaton-transfer/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Prezzi fissi dei transfer dalla Marina Zaton",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton verso Aeroporto di Spalato",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton verso Aeroporto di Zara",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton verso Aeroporto di Zagabria",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton verso Aeroporto di Dubrovnik",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton verso Spalato",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton verso Zara",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton verso Dubrovnik",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton verso Traù",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton verso Vodice",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton verso PN Krka (Lozovac)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton verso Šibenik",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    }
+  ]
+}

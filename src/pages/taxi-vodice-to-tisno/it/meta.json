@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-vodice-tisno",
+  "title": "Taxi Vodice - Tisno | Prezzo fisso €50 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Vodice - Tisno. Prezzo fisso €50 per veicolo, fino a 4 passeggeri, porta a porta. Prenota direttamente con Antonio.",
+  "keywords": "taxi vodice - tisno, transfer vodice - tisno, transfer aeroporto vodice - tisno",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Vodice - Tisno",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Vodice - Tisno, 50 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Vodice",
+        "Tisno"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-vodice-tisno/",
+      "offers": {
+        "@type": "Offer",
+        "price": "50",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Vodice - Tisno, per veicolo fino a 4 passeggeri. Andata e ritorno 100 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Vodice - Tisno è di circa 15 km e dura all'incirca 20 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Vodice - Tisno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 50 per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Andata e ritorno 100."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove effettui il ritiro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al tuo indirizzo esatto, che sia casa, hotel o appartamento. Invia l'indirizzo alla prenotazione e confermo il punto d'incontro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

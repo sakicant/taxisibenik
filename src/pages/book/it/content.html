@@ -1,0 +1,89 @@
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Prenotazione</span>
+      <h1>Prenota il tuo transfer</h1>
+      <p class="page-hero-sub">Inserisci qui sotto i dettagli del viaggio e ti confermerò la corsa direttamente, di solito entro poche ore.</p>
+    </div>
+  </section>
+
+  <section class="page-content">
+    <div class="container booking-page">
+      <form class="booking-form" id="booking-page-form" action="/booking-submit.php" method="POST">
+        <h3>Il tuo viaggio</h3>
+
+        <label for="book-from">Luogo di partenza (da)</label>
+        <input type="text" id="book-from" name="from" required placeholder="Šibenik - centro, il tuo hotel o indirizzo">
+
+        <label for="book-to">Luogo di destinazione (a)</label>
+        <input type="text" id="book-to" name="to" required placeholder="Aeroporto di Split (SPU), una città o un indirizzo">
+
+        <div class="quote-field-row">
+          <div class="quote-field">
+            <label for="book-trip">Viaggio</label>
+            <select id="book-trip" name="trip">
+              <option value="oneway">Solo andata</option>
+              <option value="return">Andata e ritorno</option>
+            </select>
+          </div>
+          <div class="quote-field">
+            <label for="book-pax">Passeggeri</label>
+            <input type="number" id="book-pax" name="passengers" min="1" max="12" value="1" required>
+          </div>
+          <div class="quote-field">
+            <label for="book-lug">Bagagli</label>
+            <input type="number" id="book-lug" name="luggage" min="0" max="12" value="1" required>
+          </div>
+        </div>
+
+        <p class="booking-price-line" id="booking-price-line" hidden>Prezzo fisso: <strong id="sum-price">&mdash;</strong> <span class="booking-price-sub">per auto, fino a 4 passeggeri</span></p>
+
+        <h3>Dettagli del viaggio</h3>
+
+        <div class="quote-field-row">
+          <div class="quote-field">
+            <label for="book-date">Data di partenza</label>
+            <input type="date" id="book-date" name="book-date" required>
+          </div>
+          <div class="quote-field">
+            <label for="book-time">Ora di partenza</label>
+            <input type="time" id="book-time" name="book-time" required>
+          </div>
+        </div>
+        <p class="form-hint">Prenota almeno 2 ore prima così posso confermare l'auto e il tuo prelievo. Ti serve una corsa prima? <a href="tel:+385994471013">Chiamami</a> o <a href="https://wa.me/385994471013?text=Ciao%20Antonio%2C%20ti%20ho%20trovato%20tramite%20il%20tuo%20sito%20web%20taxisibenik.hr%20e%20ho%20una%20richiesta%3A%20" target="_blank" rel="noopener">scrivimi su WhatsApp</a>.</p>
+
+        <div class="quote-field-row" id="book-return-fields" hidden>
+          <div class="quote-field">
+            <label for="book-return-date">Data di ritorno</label>
+            <input type="date" id="book-return-date" name="book-return-date">
+          </div>
+          <div class="quote-field">
+            <label for="book-return-time">Ora di ritorno</label>
+            <input type="time" id="book-return-time" name="book-return-time">
+          </div>
+        </div>
+
+        <label for="book-name">Nome</label>
+        <input type="text" id="book-name" name="name" required>
+
+        <label for="book-email">Email</label>
+        <input type="email" id="book-email" name="email" required>
+
+        <label for="book-phone">Telefono / WhatsApp</label>
+        <input type="tel" id="book-phone" name="phone" placeholder="Includi il prefisso internazionale">
+
+        <label for="book-flight">Dettagli di partenza (numero del volo in arrivo o indirizzo)</label>
+        <input type="text" id="book-flight" name="book-flight" placeholder="Numero del volo se arrivi in aereo, oppure il tuo indirizzo di prelievo">
+
+        <label for="book-dropoff-details">Dettagli di destinazione (indirizzo o numero del volo)</label>
+        <input type="text" id="book-dropoff-details" name="book-dropoff-details" placeholder="Indirizzo di destinazione, oppure il numero del volo se devi prendere un aereo">
+
+        <label for="book-notes">Qualcos'altro? (facoltativo)</label>
+        <textarea id="book-notes" name="book-notes" rows="4" placeholder="Seggiolino per bambini, fermate extra, bagagli fuori misura, istruzioni per il prelievo..."></textarea>
+
+        <input type="text" id="book-company" name="company" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+        <button type="submit" class="btn btn-primary">Invia richiesta di prenotazione</button>
+        <p class="form-note" id="booking-page-note"></p>
+      </form>
+    </div>
+  </section>

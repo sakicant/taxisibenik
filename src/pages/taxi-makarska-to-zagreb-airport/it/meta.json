@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-makarska-aeroporto-zagreb",
+  "title": "Taxi Makarska - Aeroporto di Zagreb | Prezzo fisso €610 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Makarska - Aeroporto di Zagreb. Prezzo fisso €610 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi makarska - aeroporto di zagreb, transfer makarska - aeroporto di zagreb, transfer aeroporto makarska - aeroporto di zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Makarska - Aeroporto di Zagreb",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Makarska - Aeroporto di Zagreb, 610 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Makarska",
+        "Aeroporto di Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-makarska-aeroporto-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "610",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Makarska - Aeroporto di Zagreb, per veicolo fino a 4 passeggeri. Andata e ritorno 1220 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Makarska - Aeroporto di Zagreb è di circa 467 km e dura all'incirca 5 h 5 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Makarska - Aeroporto di Zagreb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 610 per veicolo, solo andata, fino a 4 passeggeri. Il prezzo è per veicolo, non per persona, e include pedaggi, carburante e bagagli. Andata e ritorno 1220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A che ora devo partire per il volo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Di norma circa 3 ore prima di un volo internazionale e 2 ore prima di uno nazionale. Dimmi l'orario del volo e confermo il ritiro esatto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi porti fino al terminal partenze?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Ti porto direttamente al terminal partenze e ti aiuto con i bagagli. Nessuna camminata dal parcheggio e nessuna navetta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e ritiro, e prima per i voli mattutini e in alta stagione. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

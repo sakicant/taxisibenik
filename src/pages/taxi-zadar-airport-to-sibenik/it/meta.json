@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-aeroporto-zadar-sibenik",
+  "title": "Taxi Aeroporto di Zadar - Šibenik | Prezzo fisso €130 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Aeroporto di Zadar - Šibenik. Prezzo fisso €130 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi aeroporto di zadar - šibenik, transfer aeroporto di zadar - šibenik, transfer aeroporto aeroporto di zadar - šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Aeroporto di Zadar - Šibenik",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Aeroporto di Zadar - Šibenik, 130 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Aeroporto di Zadar",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-aeroporto-zadar-sibenik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Aeroporto di Zadar - Šibenik, per veicolo fino a 4 passeggeri. Andata e ritorno 260 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Aeroporto di Zadar - Šibenik è di circa 75 km e dura all'incirca 60 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove mi accogli?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nell'area arrivi, subito dopo il ritiro bagagli, con un cartello con il tuo nome. Ti aiuto con i bagagli e ti accompagno al veicolo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "E se il mio volo è in ritardo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nessun problema. Monitoro il tuo volo in tempo reale e adatto il ritiro all'atterraggio effettivo, senza sovrapprezzo per l'attesa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa il transfer sulla tratta Aeroporto di Zadar - Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 130 per veicolo fino a 4 passeggeri, solo andata, pedaggi e bagagli inclusi. Andata e ritorno 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così pianifico in base al tuo volo. Per un ritiro in giornata dopo un cambio improvviso, chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

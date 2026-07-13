@@ -1,0 +1,84 @@
+{
+  "slug": "escursione-krka-split",
+  "title": "Escursione a Krka da Split | Transfer privato, €290 fisso | TAXI Antonio",
+  "description": "Transfer taxi privato andata e ritorno a Krka da Split. Prezzo fisso €290 per auto, fino a 4 passeggeri, da porta a porta da hotel di Split, dal porto delle crociere e dal centro storico. Non è un tour, solo il viaggio di andata e ritorno.",
+  "keywords": "escursione a krka da split, transfer andata e ritorno a krka da split, taxi per krka da split, krka da split, da split al parco nazionale di krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Escursione privata a Krka da Split",
+      "description": "Un'escursione privata al Parco Nazionale di Krka da Split con un autista locale che parla inglese. Prezzo fisso di 290 euro per auto per un massimo di 4 passeggeri, con prelievo da porta a porta presso gli hotel di Split, il porto delle crociere, la stazione degli autobus e dei treni e il centro storico.",
+      "touristType": "Natura e visite turistiche",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "290",
+        "priceCurrency": "EUR",
+        "description": "Veicolo privato, andata e ritorno da Split al Parco Nazionale di Krka, fino a 4 passeggeri. Biglietti d'ingresso al parco non inclusi."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "È un tour guidato o un transfer in taxi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "È un transfer in taxi, non un tour guidato. Antonio è un autista locale che offre un transfer privato andata e ritorno da Split a Krka. Hai l'auto e la guida; dentro il parco sei libero di esplorare da solo, al tuo ritmo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi per Krka da Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un transfer privato andata e ritorno da Split al Parco Nazionale di Krka costa 290 euro fissi per auto per un massimo di 4 passeggeri, con pedaggi, carburante e circa 3-4 ore di attesa inclusi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Venite a prendere agli hotel di Split e al porto delle crociere?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Prendo da porta a porta dagli hotel e appartamenti di Split, dal centro storico, dalla stazione degli autobus e dei treni, e direttamente al porto delle crociere e al terminal dei traghetti di Split, con un cartello col nome su richiesta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto dura l'escursione da Split a Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il tragitto dura circa un'ora o un'ora e un quarto per tratta, più circa 3-4 ore di tempo libero dentro il parco. Una sosta più breve o più lunga si può concordare al momento della prenotazione."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Come prenoto e pago l'escursione?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un anticipo del 20% (minimo 20 euro) conferma la prenotazione, con bonifico bancario o carta, e ricevi una fattura come conferma. Il saldo si paga all'autista il giorno stesso, in contanti o con carta."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "Taxi Vodice | TAXI Antonio",
+  "description": "Taxi Vodice: transfer aeroportuali a prezzo fisso per Zara (100 €) e Spalato, ritiri alla marina e nei resort, escursioni a Krka e passaggi ai traghetti per le isole. Prenota diretto.",
+  "keywords": "taxi vodice, vodice taxi, transfer aeroporto vodice, vodice aeroporto spalato, vodice aeroporto zara, taxi marina vodice, vodice krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi locale e transfer aeroporto",
+      "name": "Taxi Vodice",
+      "description": "Taxi privato a prezzo fisso a Vodice: transfer aeroportuali per Spalato e Zara, ritiri alla marina e nei resort, escursioni al Parco Nazionale di Krka e passaggi ai traghetti per le isole.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/it/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Tariffe taxi da Vodice",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice a Šibenik",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/it/prenota/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice a Krka NP (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/it/prenota/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice all'aeroporto di Zara",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/it/prenota/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice all'aeroporto di Spalato",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/it/prenota/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Puoi prendere gli equipaggi alla marina di Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Incontro gli equipaggi di yacht e charter direttamente alla marina, con spazio per bagagli e provviste, e posso organizzare uno slot mattutino o serale in base al tuo charter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fai servizio a tarda notte a Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Se prenotato in anticipo posso venire a prenderti dopo una serata fuori e riportarti al tuo alloggio in sicurezza a un prezzo fisso."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puoi portarmi al traghetto per Prvić o Zlarin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Entrambi partono dal lungomare di Vodice e posso lasciarti proprio all'imbarcadero. Chiedimi la tariffa quando prenoti."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa da Vodice all'aeroporto di Zara?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un prezzo fisso di 100 € per auto fino a 4 passeggeri, e l'aeroporto di Spalato è 115 €, pedaggi e bagagli inclusi."
+          }
+        }
+      ]
+    }
+  ]
+}

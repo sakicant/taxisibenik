@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-makarska-novalja",
+  "title": "Taxi Makarska - Novalja | Prezzo fisso €420 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Makarska - Novalja. Prezzo fisso €420 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi makarska - novalja, transfer makarska - novalja, transfer aeroporto makarska - novalja",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Makarska - Novalja",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Makarska - Novalja, 420 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Makarska",
+        "Novalja"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-makarska-novalja/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Makarska - Novalja, per veicolo fino a 4 passeggeri. Andata e ritorno 840 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Makarska - Novalja è di circa 262 km e dura all'incirca 3 h 20 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Makarska - Novalja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 420 per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Andata e ritorno 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove effettui il ritiro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al tuo indirizzo esatto, che sia casa, hotel o appartamento. Invia l'indirizzo alla prenotazione e confermo il punto d'incontro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

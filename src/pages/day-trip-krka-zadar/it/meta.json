@@ -1,0 +1,84 @@
+{
+  "slug": "escursione-krka-zadar",
+  "title": "Escursione a Krka da Zadar | Transfer privato, €260 fisso | TAXI Antonio",
+  "description": "Transfer taxi privato andata e ritorno a Krka da Zadar. Prezzo fisso €260 per auto, fino a 4 passeggeri, da porta a porta da hotel di Zadar, dal porto dei traghetti e delle crociere e dal centro storico. Non è un tour, solo il viaggio di andata e ritorno.",
+  "keywords": "escursione a krka da zadar, transfer andata e ritorno a krka da zadar, taxi per krka da zadar, krka da zadar, da zadar al parco nazionale di krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Escursione privata a Krka da Zadar",
+      "description": "Un'escursione privata al Parco Nazionale di Krka da Zadar con un autista locale che parla inglese. Prezzo fisso di 260 euro per auto per un massimo di 4 passeggeri, con prelievo da porta a porta presso gli hotel di Zadar, il porto dei traghetti e delle crociere, la stazione degli autobus e il centro storico.",
+      "touristType": "Natura e visite turistiche",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "260",
+        "priceCurrency": "EUR",
+        "description": "Veicolo privato, andata e ritorno da Zadar al Parco Nazionale di Krka, fino a 4 passeggeri. Biglietti d'ingresso al parco non inclusi."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "È un tour guidato o un transfer in taxi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "È un transfer in taxi, non un tour guidato. Antonio è un autista locale che offre un transfer privato andata e ritorno da Zadar a Krka. Hai l'auto e la guida; dentro il parco sei libero di esplorare da solo, al tuo ritmo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi per Krka da Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un transfer privato andata e ritorno da Zadar al Parco Nazionale di Krka costa 260 euro fissi per auto per un massimo di 4 passeggeri, con pedaggi, carburante e circa 3-4 ore di attesa inclusi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Venite a prendere agli hotel di Zadar e al porto dei traghetti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Prendo da porta a porta dagli hotel e appartamenti di Zadar, dal centro storico, dalla stazione degli autobus, e direttamente al porto dei traghetti di Zadar e al terminal crociere di Gaženica, con un cartello col nome su richiesta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto dura l'escursione da Zadar a Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il tragitto dura circa un'ora per tratta in autostrada, più circa 3-4 ore di tempo libero dentro il parco. Una sosta più breve o più lunga si può concordare al momento della prenotazione."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Come prenoto e pago l'escursione?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un anticipo del 20% (minimo 20 euro) conferma la prenotazione, con bonifico bancario o carta, e ricevi una fattura come conferma. Il saldo si paga all'autista il giorno stesso, in contanti o con carta."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Taxi Perković | TAXI Antonio",
+  "description": "Taxi Perković: ti accolgo sul binario della principale stazione ferroviaria che serve Šibenik, con transfer verso Šibenik, Vodice, Krka e oltre.",
+  "keywords": "taxi perkovic, perkovic taxi, taxi stazione ferroviaria perkovic, transfer stazione perkovic, perkovic sibenik, perkovic krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi locale e transfer aeroporto",
+      "name": "Taxi Perković",
+      "description": "Taxi privato che ti aspetta ai treni a Perković, la principale stazione ferroviaria che serve la zona di Šibenik, con transfer verso Šibenik, Vodice, Krka, Drniš, Knin e l'aeroporto di Spalato.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/it/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Dove mi vieni a prendere alla stazione di Perković?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sul binario, oppure all'uscita della stazione se preferisci. Avrò pronto il tuo nome e ti aiuto con le valigie, così vai dritto alla macchina."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "E se il mio treno per Perković è in ritardo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Seguo il tuo treno e adatto l'orario di ritiro senza costi aggiuntivi, così sono lì quando arriva davvero."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "C'è un posteggio taxi a Perković?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, alla stazione non c'è un posteggio, quindi è meglio prenotare in anticipo. Mandami l'orario del treno e la destinazione e sarò lì ad aspettarti quando scendi."
+          }
+        }
+      ]
+    }
+  ]
+}

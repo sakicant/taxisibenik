@@ -1,0 +1,85 @@
+{
+  "slug": "transfer-aeroporto",
+  "title": "Transfer aeroporto Šibenik | Prezzi fissi | TAXI Antonio",
+  "description": "Transfer aeroporto da e per Šibenik verso gli aeroporti di Split, Zadar, Zagabria e Dubrovnik. Prezzi fissi, monitoraggio dei voli, da porta a porta. Servizio anche da Vodice, Primošten e Skradin. Prenota con Antonio.",
+  "keywords": "transfer aeroporto sibenik, transfer aeroporto šibenik, aeroporto split sibenik, aeroporto zadar sibenik, transfer aeroporto vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Airport transfer",
+      "name": "Transfer aeroporto da Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Aeroporto di Split",
+        "Aeroporto di Zadar",
+        "Aeroporto di Zagabria",
+        "Aeroporto di Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/it/transfer-aeroporto/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Come trovo il mio autista in aeroporto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio ti aspetta nella sala arrivi dopo il ritiro bagagli, con un cartello ben visibile con il tuo nome."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "E se il mio volo è in ritardo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I voli vengono monitorati in tempo reale usando il numero di volo che indichi al momento della prenotazione. L'orario di ritiro viene adattato automaticamente e non c'è nessun costo aggiuntivo per l'attesa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Il prezzo del transfer aeroporto è fisso?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Ogni transfer aeroporto ha un prezzo fisso per auto, fino a 4 passeggeri, con pedaggi, carburante e bagagli inclusi. Nessun tassametro, nessuna sorpresa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fornisci seggiolini per bambini per i transfer aeroporto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, i seggiolini per bambini e i rialzi sono gratuiti. Basta richiederli nelle note della prenotazione indicando l'età del bambino."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Come si paga un transfer aeroporto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un acconto del 20% (minimo 20 euro) conferma la prenotazione, tramite bonifico bancario o carta. Il saldo si paga all'autista il giorno stesso, in contanti o con carta."
+          }
+        }
+      ]
+    }
+  ]
+}

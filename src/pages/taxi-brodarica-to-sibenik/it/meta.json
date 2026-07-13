@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-brodarica-sibenik",
+  "title": "Taxi Brodarica - Šibenik | Prezzo fisso €25 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Brodarica - Šibenik. Prezzo fisso €25 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi brodarica - šibenik, transfer brodarica - šibenik, transfer aeroporto brodarica - šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Brodarica - Šibenik",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Brodarica - Šibenik, 25 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Brodarica",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-brodarica-sibenik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "25",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Brodarica - Šibenik, per veicolo fino a 4 passeggeri. Andata e ritorno 50 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Brodarica - Šibenik è di circa 7 km e dura all'incirca 10 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Brodarica - Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 25 per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Andata e ritorno 50."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove effettui il ritiro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al tuo indirizzo esatto, che sia casa, hotel o appartamento. Invia l'indirizzo alla prenotazione e confermo il punto d'incontro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

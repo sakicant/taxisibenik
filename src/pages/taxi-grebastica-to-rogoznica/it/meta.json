@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-grebastica-rogoznica",
+  "title": "Taxi Grebaštica - Rogoznica | Prezzo fisso €30 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Grebaštica - Rogoznica. Prezzo fisso €30 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi grebaštica - rogoznica, transfer grebaštica - rogoznica, transfer aeroporto grebaštica - rogoznica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Grebaštica - Rogoznica",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Grebaštica - Rogoznica, 30 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Grebaštica",
+        "Rogoznica"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-grebastica-rogoznica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "30",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Grebaštica - Rogoznica, per veicolo fino a 4 passeggeri. Andata e ritorno 60 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Grebaštica - Rogoznica è di circa 17 km e dura all'incirca 20 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Grebaštica - Rogoznica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 30 per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Andata e ritorno 60."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove effettui il ritiro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al tuo indirizzo esatto, che sia casa, hotel o appartamento. Invia l'indirizzo alla prenotazione e confermo il punto d'incontro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

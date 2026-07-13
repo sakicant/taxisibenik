@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-tromilja",
+  "title": "Taxi Tromilja | TAXI Antonio",
+  "description": "Taxi Tromilja: transfer aeroportuali a prezzo fisso per Spalato (90 €) e Zara e corse per Šibenik da questo tranquillo abitato dell'entroterra vicino a Bilice.",
+  "keywords": "taxi tromilja, tromilja taxi, transfer aeroporto tromilja, tromilja aeroporto spalato, tromilja sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi locale e transfer aeroporto",
+      "name": "Taxi Tromilja",
+      "description": "Taxi privato a prezzo fisso da Tromilja, un tranquillo abitato dell'entroterra vicino a Bilice, verso l'aeroporto di Spalato, l'aeroporto di Zara e Šibenik.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Tromilja",
+      "url": "https://taxisibenik.hr/it/taxi-tromilja/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Tariffe taxi da Tromilja",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Tromilja a Šibenik",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/it/prenota/?from=Tromilja&to=%C5%A0ibenik%20-%20center&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Tromilja all'aeroporto di Spalato",
+            "price": "90",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/it/prenota/?from=Tromilja&to=Split%20Airport%20%28SPU%29&price=90"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Tromilja all'aeroporto di Zara",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/it/prenota/?from=Tromilja&to=Zadar%20Airport%20%28ZAD%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Puoi portarmi alle cascate di Krka da Tromilja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Tromilja è vicina al Parco Nazionale di Krka, e faccio gite di un giorno con tempo di attesa mentre esplori. Guarda la mia pagina delle escursioni per i dettagli e ti confermo il prezzo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa da Tromilja all'aeroporto di Spalato?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un prezzo fisso di 90 € per auto fino a 4 passeggeri, con pedaggi, carburante e bagagli inclusi."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zaton-aeroporto-dubrovnik",
+  "title": "Taxi Zaton - Aeroporto di Dubrovnik | Prezzo fisso €490 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Zaton - Aeroporto di Dubrovnik. Prezzo fisso €490 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi zaton - aeroporto di dubrovnik, transfer zaton - aeroporto di dubrovnik, transfer aeroporto zaton - aeroporto di dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Zaton - Aeroporto di Dubrovnik",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Zaton - Aeroporto di Dubrovnik, 490 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zaton",
+        "Aeroporto di Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-zaton-aeroporto-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "490",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Zaton - Aeroporto di Dubrovnik, per veicolo fino a 4 passeggeri. Andata e ritorno 980 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Zaton - Aeroporto di Dubrovnik è di circa 305 km e dura all'incirca 4 h 25 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Zaton - Aeroporto di Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 490 per veicolo, solo andata, fino a 4 passeggeri. Il prezzo è per veicolo, non per persona, e include pedaggi, carburante e bagagli. Andata e ritorno 980."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A che ora devo partire per il volo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Di norma circa 3 ore prima di un volo internazionale e 2 ore prima di uno nazionale. Dimmi l'orario del volo e confermo il ritiro esatto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi porti fino al terminal partenze?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Ti porto direttamente al terminal partenze e ti aiuto con i bagagli. Nessuna camminata dal parcheggio e nessuna navetta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e ritiro, e prima per i voli mattutini e in alta stagione. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-rogoznica-jezera",
+  "title": "Taxi Rogoznica - Jezera | Prezzo fisso €120 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Rogoznica - Jezera. Prezzo fisso €120 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi rogoznica - jezera, transfer rogoznica - jezera, transfer aeroporto rogoznica - jezera",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Rogoznica - Jezera",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Rogoznica - Jezera, 120 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Rogoznica",
+        "Jezera"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-rogoznica-jezera/",
+      "offers": {
+        "@type": "Offer",
+        "price": "120",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Rogoznica - Jezera, per veicolo fino a 4 passeggeri. Andata e ritorno 240 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Rogoznica - Jezera è di circa 63 km e dura all'incirca 85 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Rogoznica - Jezera?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 120 per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Andata e ritorno 240."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove effettui il ritiro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al tuo indirizzo esatto, che sia casa, hotel o appartamento. Invia l'indirizzo alla prenotazione e confermo il punto d'incontro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

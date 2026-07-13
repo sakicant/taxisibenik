@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-betina-dubrovnik",
+  "title": "Taxi Betina - Dubrovnik | Prezzo fisso €535 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Betina - Dubrovnik. Prezzo fisso €535 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi betina - dubrovnik, transfer betina - dubrovnik, transfer aeroporto betina - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Betina - Dubrovnik",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Betina - Dubrovnik, 535 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Betina",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-betina-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "535",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Betina - Dubrovnik, per veicolo fino a 4 passeggeri. Andata e ritorno 1070 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Betina - Dubrovnik è di circa 319 km e dura all'incirca 4 h 20 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Betina - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 535 per veicolo fino a 4 passeggeri, solo andata, con pedaggi, carburante e bagagli. Andata e ritorno 1070."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Il transfer è privato o condiviso?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ogni transfer è privato e porta a porta, in una Škoda Superb. Nessun veicolo condiviso e nessuna sosta extra, a meno che tu non la chieda."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puoi fermarti lungo il percorso?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Sulle tratte più lunghe mi fermo volentieri per un caffè, una foto o una breve visita. Basta dirlo alla prenotazione."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

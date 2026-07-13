@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-split-drnis",
+  "title": "Taxi Split - Drniš | Prezzo fisso €110 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Split - Drniš. Prezzo fisso €110 per veicolo, fino a 4 passeggeri, porta a porta. Prenota direttamente con Antonio.",
+  "keywords": "taxi split - drniš, transfer split - drniš, transfer aeroporto split - drniš",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Split - Drniš",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Split - Drniš, 110 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Split",
+        "Drniš"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-split-drnis/",
+      "offers": {
+        "@type": "Offer",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Split - Drniš, per veicolo fino a 4 passeggeri. Andata e ritorno 220 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Split - Drniš è di circa 107 km e dura all'incirca 1 h 30 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Split - Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 110 per veicolo fino a 4 passeggeri, solo andata, con pedaggi, carburante e bagagli. Andata e ritorno 220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Il transfer è privato o condiviso?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ogni transfer è privato e porta a porta, in una Škoda Superb. Nessun veicolo condiviso e nessuna sosta extra, a meno che tu non la chieda."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puoi fermarti lungo il percorso?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Sulle tratte più lunghe mi fermo volentieri per un caffè, una foto o una breve visita. Basta dirlo alla prenotazione."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

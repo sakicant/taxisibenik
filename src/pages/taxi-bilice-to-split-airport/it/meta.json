@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-bilice-aeroporto-split",
+  "title": "Taxi Bilice - Aeroporto di Split | Prezzo fisso €100 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Bilice - Aeroporto di Split. Prezzo fisso €100 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi bilice - aeroporto di split, transfer bilice - aeroporto di split, transfer aeroporto bilice - aeroporto di split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Bilice - Aeroporto di Split",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Bilice - Aeroporto di Split, 100 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Bilice",
+        "Aeroporto di Split"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-bilice-aeroporto-split/",
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Bilice - Aeroporto di Split, per veicolo fino a 4 passeggeri. Andata e ritorno 200 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Bilice - Aeroporto di Split è di circa 52 km e dura all'incirca 55 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Bilice - Aeroporto di Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 100 per veicolo, solo andata, fino a 4 passeggeri. Il prezzo è per veicolo, non per persona, e include pedaggi, carburante e bagagli. Andata e ritorno 200."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A che ora devo partire per il volo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Di norma circa 3 ore prima di un volo internazionale e 2 ore prima di uno nazionale. Dimmi l'orario del volo e confermo il ritiro esatto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi porti fino al terminal partenze?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Ti porto direttamente al terminal partenze e ti aiuto con i bagagli. Nessuna camminata dal parcheggio e nessuna navetta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e ritiro, e prima per i voli mattutini e in alta stagione. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

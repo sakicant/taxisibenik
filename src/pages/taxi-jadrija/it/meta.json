@@ -1,0 +1,90 @@
+{
+  "slug": "taxi-jadrija",
+  "title": "Taxi Jadrija | TAXI Antonio",
+  "description": "Taxi Jadrija: brevi corse locali verso Šibenik e la stazione di autobus e treni, più transfer fissi all'aeroporto di Split e Zadar. Ritiro sotto casa.",
+  "keywords": "taxi jadrija, taxi a jadrija, taxi spiaggia jadrija, jadrija sibenik, transfer aeroporto jadrija",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi locale e transfer aeroporto",
+      "name": "Taxi Jadrija",
+      "description": "Taxi privato a prezzo fisso dalla spiaggia di Jadrija sulla penisola di Šibenik verso Šibenik, la stazione di autobus e treni, l'aeroporto di Split e l'aeroporto di Zadar.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Jadrija",
+      "url": "https://taxisibenik.hr/it/taxi-jadrija/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Tariffe taxi da Jadrija",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Jadrija verso Šibenik",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/it/prenota/?from=Jadrija&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Jadrija verso la stazione autobus e treni di Šibenik",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/it/prenota/?from=Jadrija&to=%C5%A0ibenik%20Bus%20Station&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Jadrija verso l'aeroporto di Split",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/it/prenota/?from=Jadrija&to=Split%20Airport%20%28SPU%29&price=115"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Jadrija verso l'aeroporto di Zadar",
+            "price": "125",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/it/prenota/?from=Jadrija&to=Zadar%20Airport%20%28ZAD%29&price=125"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "A Jadrija sono soprattutto brevi corse locali?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, la maggior parte dei viaggi sono brevi salti verso Šibenik o la stazione, ma faccio anche i transfer aeroporto più lunghi verso Split e Zadar quando ti servono."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puoi portarmi alla stazione degli autobus o dei treni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. La stazione degli autobus e quella dei treni di Šibenik sono una accanto all'altra, e un transfer da Jadrija è un prezzo fisso di €30 a vettura."
+          }
+        }
+      ]
+    }
+  ]
+}

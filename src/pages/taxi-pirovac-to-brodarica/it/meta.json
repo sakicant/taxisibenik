@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-pirovac-brodarica",
+  "title": "Taxi Pirovac - Brodarica | Prezzo fisso €55 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Pirovac - Brodarica. Prezzo fisso €55 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi pirovac - brodarica, transfer pirovac - brodarica, transfer aeroporto pirovac - brodarica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Pirovac - Brodarica",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Pirovac - Brodarica, 55 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Pirovac",
+        "Brodarica"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-pirovac-brodarica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "55",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Pirovac - Brodarica, per veicolo fino a 4 passeggeri. Andata e ritorno 110 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Pirovac - Brodarica è di circa 30 km e dura all'incirca 35 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Pirovac - Brodarica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 55 per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Andata e ritorno 110."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove effettui il ritiro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al tuo indirizzo esatto, che sia casa, hotel o appartamento. Invia l'indirizzo alla prenotazione e confermo il punto d'incontro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

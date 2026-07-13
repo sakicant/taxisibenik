@@ -1,0 +1,84 @@
+{
+  "slug": "escursione-plitvice-sibenik",
+  "title": "Escursione a Plitvice da Šibenik | Transfer privato, prezzo fisso €500 | TAXI Antonio",
+  "description": "Transfer taxi privato di andata e ritorno ai Laghi di Plitvice da Šibenik. Prezzo fisso €500 per auto, fino a 4 passeggeri, porta a porta da hotel, appartamenti, stazioni e porto di Šibenik. Non è un tour, solo il viaggio andata e ritorno.",
+  "keywords": "escursione a plitvice da sibenik, transfer andata e ritorno a plitvice, taxi per plitvice da sibenik, laghi di plitvice da sibenik, sibenik plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Escursione privata ai Laghi di Plitvice da Šibenik",
+      "description": "Un'escursione privata di un giorno al Parco Nazionale dei Laghi di Plitvice da Šibenik con un autista locale che parla inglese. Prezzo fisso di 500 euro per auto per un massimo di 4 passeggeri, con prelievo porta a porta presso hotel, appartamenti, stazione degli autobus e dei treni e porto dei traghetti di Šibenik.",
+      "touristType": "Natura e visite turistiche",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "500",
+        "priceCurrency": "EUR",
+        "description": "Veicolo privato, andata e ritorno da Šibenik al Parco Nazionale dei Laghi di Plitvice, fino a 4 passeggeri. Biglietti d'ingresso al parco non inclusi."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "È un tour guidato o un transfer in taxi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "È un transfer in taxi, non un tour guidato. Antonio è un autista locale che offre un transfer privato di andata e ritorno da Šibenik a Plitvice. Hai l'auto e la guida; dentro il parco sei libero di esplorare da solo, al tuo ritmo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi per Plitvice da Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un transfer privato di andata e ritorno da Šibenik ai Laghi di Plitvice è a prezzo fisso di 500 euro per auto per un massimo di 4 passeggeri, con pedaggi, carburante e il tempo di attesa al parco inclusi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto dura l'escursione da Šibenik a Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio dura circa due ore o due ore e un quarto per tratta, più circa 4-6 ore per camminare intorno ai laghi. È un'intera giornata fuori, di solito 9-10 ore porta a porta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "I biglietti d'ingresso a Plitvice sono inclusi nel prezzo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. I biglietti d'ingresso si acquistano separatamente dal Parco Nazionale dei Laghi di Plitvice, all'ingresso o online. I biglietti costano circa 10-40 euro a seconda della stagione, e includono il trenino panoramico e il battello elettrico all'interno del parco."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Come prenoto e pago l'escursione?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un anticipo del 20% (minimo 20 euro) conferma la prenotazione, tramite bonifico bancario o carta, e ricevi una fattura come conferma. Il saldo si paga all'autista il giorno stesso, in contanti o con carta."
+          }
+        }
+      ]
+    }
+  ]
+}

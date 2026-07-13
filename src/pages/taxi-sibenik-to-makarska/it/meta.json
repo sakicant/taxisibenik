@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-sibenik-makarska",
+  "title": "Taxi Šibenik - Makarska | Prezzo fisso €200 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Šibenik - Makarska. Prezzo fisso €200 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi šibenik - makarska, transfer šibenik - makarska, transfer aeroporto šibenik - makarska",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Šibenik - Makarska",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Šibenik - Makarska, 200 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Makarska"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-sibenik-makarska/",
+      "offers": {
+        "@type": "Offer",
+        "price": "200",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Šibenik - Makarska, per veicolo fino a 4 passeggeri. Andata e ritorno 400 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Šibenik - Makarska è di circa 129 km e dura all'incirca 1 h 40 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Šibenik - Makarska?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 200 per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Andata e ritorno 400."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove effettui il ritiro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al tuo indirizzo esatto, che sia casa, hotel o appartamento. Invia l'indirizzo alla prenotazione e confermo il punto d'incontro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

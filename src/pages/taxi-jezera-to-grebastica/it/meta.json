@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-jezera-grebastica",
+  "title": "Taxi Jezera - Grebaštica | Prezzo fisso €90 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Jezera - Grebaštica. Prezzo fisso €90 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi jezera - grebaštica, transfer jezera - grebaštica, transfer aeroporto jezera - grebaštica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Jezera - Grebaštica",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Jezera - Grebaštica, 90 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Jezera",
+        "Grebaštica"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-jezera-grebastica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "90",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Jezera - Grebaštica, per veicolo fino a 4 passeggeri. Andata e ritorno 180 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Jezera - Grebaštica è di circa 48 km e dura all'incirca 60 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Jezera - Grebaštica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 90 per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Andata e ritorno 180."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove effettui il ritiro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al tuo indirizzo esatto, che sia casa, hotel o appartamento. Invia l'indirizzo alla prenotazione e confermo il punto d'incontro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

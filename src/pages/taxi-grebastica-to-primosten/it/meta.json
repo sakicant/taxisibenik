@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-grebastica-primosten",
+  "title": "Taxi Grebaštica - Primošten | Prezzo fisso €45 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Grebaštica - Primošten. Prezzo fisso €45 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi grebaštica - primošten, transfer grebaštica - primošten, transfer aeroporto grebaštica - primošten",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Grebaštica - Primošten",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Grebaštica - Primošten, 45 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Grebaštica",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-grebastica-primosten/",
+      "offers": {
+        "@type": "Offer",
+        "price": "45",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Grebaštica - Primošten, per veicolo fino a 4 passeggeri. Andata e ritorno 90 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Grebaštica - Primošten è di circa 9 km e dura all'incirca 10 min con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Grebaštica - Primošten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 45 per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Andata e ritorno 90."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove effettui il ritiro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al tuo indirizzo esatto, che sia casa, hotel o appartamento. Invia l'indirizzo alla prenotazione e confermo il punto d'incontro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

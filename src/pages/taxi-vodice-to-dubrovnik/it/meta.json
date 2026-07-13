@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-vodice-dubrovnik",
+  "title": "Taxi Vodice - Dubrovnik | Prezzo fisso €499 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Vodice - Dubrovnik. Prezzo fisso €499 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi vodice - dubrovnik, transfer vodice - dubrovnik, transfer aeroporto vodice - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Vodice - Dubrovnik",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Vodice - Dubrovnik, 499 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Vodice",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-vodice-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "499",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Vodice - Dubrovnik, per veicolo fino a 4 passeggeri. Andata e ritorno 998 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto è lunga la tratta e quanto dura il viaggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il viaggio sulla tratta Vodice - Dubrovnik è di circa 290 km e dura all'incirca 4 h con traffico normale, un po' di più nei periodi di punta estivi. Pianifico il ritiro in modo che un tratto lento non ti metta mai fretta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Vodice - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 499 per veicolo fino a 4 passeggeri, solo andata, con pedaggi, carburante e bagagli. Andata e ritorno 998."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Il transfer è privato o condiviso?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ogni transfer è privato e porta a porta, in una Škoda Superb. Nessun veicolo condiviso e nessuna sosta extra, a meno che tu non la chieda."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puoi fermarti lungo il percorso?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Sulle tratte più lunghe mi fermo volentieri per un caffè, una foto o una breve visita. Basta dirlo alla prenotazione."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}
