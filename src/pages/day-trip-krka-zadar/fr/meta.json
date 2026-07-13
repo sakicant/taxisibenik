@@ -1,0 +1,84 @@
+{
+  "slug": "excursion-krka-zadar",
+  "title": "Excursion à Krka depuis Zadar | Transfert privé, prix fixe €260 | TAXI Antonio",
+  "description": "Transfert taxi privé aller-retour vers Krka depuis Zadar. Prix fixe €260 par voiture, jusqu'à 4 passagers, porte-à-porte depuis les hôtels de Zadar, le port de ferry et de croisière et la vieille ville. Pas une excursion guidée, juste le trajet aller et retour.",
+  "keywords": "excursion à krka depuis zadar, transfert aller-retour vers krka depuis zadar, taxi vers krka depuis zadar, krka depuis zadar, zadar vers le parc national de krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Excursion privée à Krka depuis Zadar",
+      "description": "Une excursion privée au Parc national de Krka depuis Zadar avec un chauffeur local anglophone. Prix fixe de 260 euros par voiture pour jusqu'à 4 passagers, avec prise en charge porte-à-porte aux hôtels de Zadar, au port de ferry et de croisière, à la gare routière et dans la vieille ville.",
+      "touristType": "Nature et tourisme",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "260",
+        "priceCurrency": "EUR",
+        "description": "Véhicule privé, aller-retour Zadar au Parc national de Krka, jusqu'à 4 passagers. Billets d'entrée du parc non inclus."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Est-ce une visite guidée ou un transfert en taxi ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "C'est un transfert en taxi, pas une visite guidée. Antonio est un chauffeur local qui propose un transfert privé aller-retour de Zadar à Krka. Vous avez la voiture et le chauffeur ; à l'intérieur du parc, vous êtes libre d'explorer à votre rythme."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien coûte un taxi vers Krka depuis Zadar ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un transfert privé aller-retour de Zadar au Parc national de Krka est à un prix fixe de 260 euros par voiture pour jusqu'à 4 passagers, péages, carburant et environ 3 à 4 heures de temps d'attente inclus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Prenez-vous en charge aux hôtels de Zadar et au port de ferry ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Je prends en charge en porte-à-porte aux hôtels et appartements de Zadar, dans la vieille ville, à la gare routière, et directement au port de ferry de Zadar et au terminal de croisière de Gaženica, avec une pancarte à votre nom sur demande."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de temps dure l'excursion de Zadar à Krka ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le trajet dure environ une heure dans chaque sens sur l'autoroute, plus environ 3 à 4 heures de temps libre à l'intérieur du parc. Un séjour plus court ou plus long peut être convenu lors de la réservation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment réserver et payer l'excursion ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un acompte de 20 % (minimum 20 euros) confirme la réservation, par virement bancaire ou carte, et vous recevez une facture comme confirmation. Le solde est réglé au chauffeur le jour même, en espèces ou par carte."
+          }
+        }
+      ]
+    }
+  ]
+}

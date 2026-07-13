@@ -1,0 +1,21 @@
+{
+  "slug": "offres",
+  "title": "Offres spéciales et transferts de dernière minute | TAXI Antonio",
+  "description": "Offres de transfert en taxi de dernière minute et en trajet à vide autour de Šibenik à prix réduit. Réservez un créneau de prise en charge fixe et voyagez pour moins cher. Mises à jour régulièrement.",
+  "keywords": "offres taxi sibenik, transfert dernière minute sibenik, transfert aéroport pas cher sibenik, trajet à vide taxi croatie, transfert aéroport split à prix réduit",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Offres spéciales et transferts de dernière minute",
+    "description": "Offres de transfert en taxi de dernière minute et en trajet à vide autour de Šibenik à prix réduit.",
+    "url": "https://taxisibenik.hr/fr/offres/",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Taxi Antonio",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" }
+    }
+  }
+}

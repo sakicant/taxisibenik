@@ -1,0 +1,84 @@
+{
+  "slug": "excursion-plitvice-sibenik",
+  "title": "Excursion à Plitvice depuis Šibenik | Transfert privé, prix fixe 500 € | TAXI Antonio",
+  "description": "Transfert taxi privé aller-retour vers les Lacs de Plitvice depuis Šibenik. Prix fixe de 500 € par voiture, jusqu'à 4 passagers, de porte à porte depuis les hôtels, appartements, gares et le port de Šibenik. Ce n'est pas une excursion guidée, juste le trajet aller et retour.",
+  "keywords": "excursion à plitvice depuis sibenik, transfert aller-retour vers plitvice, taxi pour plitvice depuis sibenik, lacs de plitvice depuis sibenik, sibenik plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Excursion privée aux Lacs de Plitvice depuis Šibenik",
+      "description": "Une excursion privée au parc national des Lacs de Plitvice depuis Šibenik avec un chauffeur local anglophone. Prix fixe de 500 euros par voiture pour jusqu'à 4 passagers, avec prise en charge de porte à porte dans les hôtels et appartements de Šibenik, aux gares routière et ferroviaire et au port des ferries.",
+      "touristType": "Nature et tourisme",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "500",
+        "priceCurrency": "EUR",
+        "description": "Véhicule privé, aller-retour de Šibenik au parc national des Lacs de Plitvice, jusqu'à 4 passagers. Billets d'entrée du parc non inclus."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "S'agit-il d'une excursion guidée ou d'un transfert taxi ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "C'est un transfert taxi, pas une excursion guidée. Antonio est un chauffeur local qui assure un transfert privé aller-retour de Šibenik à Plitvice. Vous disposez de la voiture et du chauffeur ; à l'intérieur du parc, vous êtes libre d'explorer par vous-même, à votre rythme."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien coûte un taxi pour Plitvice depuis Šibenik ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un transfert privé aller-retour de Šibenik aux Lacs de Plitvice coûte un prix fixe de 500 euros par voiture pour jusqu'à 4 passagers, péages, carburant et temps d'attente au parc inclus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de temps dure l'excursion de Šibenik à Plitvice ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le trajet dure environ deux heures à deux heures quinze dans chaque sens, plus environ 4 à 6 heures pour parcourir les lacs à pied. C'est une journée complète, généralement 9 à 10 heures de porte à porte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Les billets d'entrée de Plitvice sont-ils inclus dans le prix ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non. Les billets d'entrée s'achètent séparément auprès du parc national des Lacs de Plitvice, à l'entrée ou en ligne. Les billets coûtent environ 10 à 40 euros selon la saison, et incluent le train panoramique et le bateau électrique à l'intérieur du parc."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment réserver et payer l'excursion ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un acompte de 20 % (minimum 20 euros) confirme la réservation, par virement bancaire ou par carte, et vous recevez une facture en guise de confirmation. Le solde est réglé au chauffeur le jour même, en espèces ou par carte."
+          }
+        }
+      ]
+    }
+  ]
+}

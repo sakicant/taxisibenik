@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-bilo",
+  "title": "Taxi Bilo | TAXI Antonio",
+  "description": "Taxi Bilo : transferts à la porte vers l'aéroport de Split (80 €), Šibenik et Vodice pour un hameau balnéaire tranquille à l'écart des grands axes de taxi.",
+  "keywords": "taxi bilo, bilo taxi, transfert aéroport bilo, bilo vers aéroport split, bilo vers sibenik, bilo vers vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi local et transferts aéroport",
+      "name": "Taxi Bilo",
+      "description": "Taxi privé à prix fixe depuis Bilo, un petit hameau balnéaire entre Grebaštica et Primošten, vers l'aéroport de Split, Šibenik et Vodice.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Bilo",
+      "url": "https://taxisibenik.hr/fr/taxi-bilo/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Tarifs taxi depuis Bilo",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilo vers Šibenik",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fr/reservation/?from=Bilo&to=%C5%A0ibenik%20-%20center&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilo vers Vodice",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fr/reservation/?from=Bilo&to=Vodice&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilo vers l'aéroport de Split",
+            "price": "80",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fr/reservation/?from=Bilo&to=Split%20Airport%20%28SPU%29&price=80"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Où venez-vous chercher à Bilo ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "À la porte de votre appartement ou maison de vacances. Envoyez l'adresse ou un point sur la carte lors de la réservation et je confirmerai le point de rendez-vous."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien coûte Bilo vers l'aéroport de Split ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un prix fixe de 80 € par voiture pour jusqu'à 4 passagers, péages, carburant et bagages inclus."
+          }
+        }
+      ]
+    }
+  ]
+}

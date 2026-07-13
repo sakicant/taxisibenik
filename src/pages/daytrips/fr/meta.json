@@ -1,0 +1,75 @@
+{
+  "slug": "excursions",
+  "title": "Excursions depuis Šibenik | Krka et Plitvice privées | TAXI Antonio",
+  "description": "Excursions privées depuis Šibenik et à travers la Dalmatie vers le parc national de Krka et les lacs de Plitvice. Transferts aller-retour de porte à porte à prix fixe avec un chauffeur local. Pas une visite guidée, juste le trajet aller et retour.",
+  "keywords": "excursions depuis šibenik, excursions šibenik, excursion privée croatie, excursion krka, excursion plitvice, excursion à krka, excursion à plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Excursions privées et journées de découverte",
+      "name": "Excursions depuis Šibenik et la Dalmatie",
+      "description": "Excursions privées à prix fixe vers le parc national de Krka et les lacs de Plitvice avec un chauffeur local de Šibenik. Transferts aller-retour de porte à porte depuis Šibenik, Vodice, Primošten, Split et Zadar, jusqu'à 4 passagers par voiture.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+      },
+      "areaServed": ["Šibenik", "Vodice", "Primošten", "Split", "Zadar"],
+      "url": "https://taxisibenik.hr/fr/excursions/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Excursions privées depuis la Dalmatie",
+        "itemListElement": [
+          { "@type": "Offer", "name": "Excursion à Krka depuis Šibenik", "price": "100", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/fr/excursion-krka-sibenik/" },
+          { "@type": "Offer", "name": "Excursion à Krka depuis Vodice", "price": "125", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/fr/excursion-krka-vodice/" },
+          { "@type": "Offer", "name": "Excursion à Krka depuis Primošten", "price": "155", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/fr/excursion-krka-primosten/" },
+          { "@type": "Offer", "name": "Excursion à Krka depuis Zadar", "price": "260", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/fr/excursion-krka-zadar/" },
+          { "@type": "Offer", "name": "Excursion à Krka depuis Split", "price": "290", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/fr/excursion-krka-split/" },
+          { "@type": "Offer", "name": "Excursion à Plitvice depuis Šibenik", "price": "500", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/fr/excursion-plitvice-sibenik/" },
+          { "@type": "Offer", "name": "Excursion à Plitvice depuis Split", "price": "650", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/fr/excursion-plitvice-split/" }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quelles excursions puis-je réserver depuis Šibenik ?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Les deux excursions les plus populaires sont le parc national de Krka et le parc national des lacs de Plitvice. Toutes deux sont des transferts aller-retour privés à prix fixe, de porte à porte depuis votre hôtel ou appartement, avec du temps libre à l'intérieur du parc pour explorer à votre rythme." }
+        },
+        {
+          "@type": "Question",
+          "name": "S'agit-il de visites guidées ou de transferts en taxi ?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Ce sont des transferts privés en taxi, pas des visites guidées en groupe. Antonio est un chauffeur local qui vous emmène aller et retour dans une Škoda Superb confortable. À l'intérieur du parc, vous êtes libre d'explorer par vous-même, sans guide et sans groupe partagé." }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien coûte une excursion à Krka ou à Plitvice ?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Une excursion privée à Krka commence à un prix fixe de 100 euros par voiture depuis Šibenik. Une excursion aux lacs de Plitvice est de 500 euros par voiture depuis Šibenik. Les prix sont par voiture pour un maximum de 4 passagers et dépendent de votre ville de prise en charge." }
+        },
+        {
+          "@type": "Question",
+          "name": "Prenez-vous en charge depuis d'autres villes, pas seulement Šibenik ?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Oui. Les excursions à Krka partent de Šibenik, Vodice, Primošten, Zadar et Split, et les excursions à Plitvice partent de Šibenik et Split. Chaque ville a son propre prix fixe et sa propre page avec tous les détails." }
+        },
+        {
+          "@type": "Question",
+          "name": "Les billets d'entrée du parc sont-ils inclus ?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Non. Le prix couvre uniquement le transfert privé et le temps d'attente. Les billets de Krka et de Plitvice s'achètent séparément à l'entrée ou en ligne, et coûtent environ 7 à 40 euros selon la saison." }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment réserver une excursion ?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Écrivez-moi sur WhatsApp, appelez, ou utilisez la page contact. Un acompte de 20 % (minimum 20 euros) confirme la date, et le solde est réglé au chauffeur le jour même." }
+        }
+      ]
+    }
+  ]
+}

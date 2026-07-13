@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-knin",
+  "title": "Taxi Knin | TAXI Antonio",
+  "description": "Taxi Knin : transferts longue distance vers Šibenik (95 €), l'aéroport de Split (110 €) et l'aéroport de Zadar depuis l'ancienne ville ferroviaire de l'intérieur. Prix fixes.",
+  "keywords": "taxi knin, knin taxi, taxi gare knin, transfert aéroport knin, knin vers aéroport split, knin vers sibenik, taxi forteresse knin",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi local et transferts aéroport",
+      "name": "Taxi Knin",
+      "description": "Taxi privé à prix fixe longue distance au départ de Knin, ancienne ville ferroviaire de l'intérieur, vers Šibenik, l'aéroport de Split et l'aéroport de Zadar.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Knin",
+      "url": "https://taxisibenik.hr/fr/taxi-knin/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Tarifs taxi au départ de Knin",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Knin vers Šibenik",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fr/reservation/?from=Knin&to=%C5%A0ibenik%20-%20center&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Knin vers l'aéroport de Split",
+            "price": "110",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fr/reservation/?from=Knin&to=Split%20Airport%20%28SPU%29&price=110"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Knin vers l'aéroport de Zadar",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fr/reservation/?from=Knin&to=Zadar%20Airport%20%28ZAD%29&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Attendez-vous les trains à la gare de Knin ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Je vous accueille sur le quai ou à la sortie de la gare, je vous aide avec vos bagages et je vous conduis directement. Envoyez-moi l'heure de votre train au moment de réserver."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le prix longue distance est-il fixe ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, et convenu à l'avance vu la distance. Knin vers Šibenik est à 95 €, l'aéroport de Split à 110 € et l'aéroport de Zadar à 140 € par voiture pour un maximum de 4 passagers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pouvez-vous faire un aller-retour dans la même journée ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Je peux attendre ou revenir vous chercher le jour même. Indiquez-moi les horaires et je vous confirmerai un prix fixe pour l'aller-retour."
+          }
+        }
+      ]
+    }
+  ]
+}

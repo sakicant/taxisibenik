@@ -1,0 +1,84 @@
+{
+  "slug": "excursion-plitvice-split",
+  "title": "Excursion à Plitvice depuis Split | Transfert privé, prix fixe 650 € | TAXI Antonio",
+  "description": "Transfert taxi privé aller-retour vers les Lacs de Plitvice depuis Split. Prix fixe de 650 € par voiture, jusqu'à 4 passagers, de porte à porte depuis les hôtels de Split, le port de croisière et la vieille ville. Ce n'est pas une excursion guidée, juste le trajet aller et retour.",
+  "keywords": "excursion à plitvice depuis split, transfert aller-retour vers plitvice, taxi pour plitvice depuis split, lacs de plitvice depuis split, split plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Excursion privée aux Lacs de Plitvice depuis Split",
+      "description": "Une excursion privée au parc national des Lacs de Plitvice depuis Split avec un chauffeur local anglophone. Prix fixe de 650 euros par voiture pour jusqu'à 4 passagers, avec prise en charge de porte à porte dans les hôtels de Split, au port de croisière, aux gares routière et ferroviaire et dans la vieille ville.",
+      "touristType": "Nature et tourisme",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "650",
+        "priceCurrency": "EUR",
+        "description": "Véhicule privé, aller-retour de Split au parc national des Lacs de Plitvice, jusqu'à 4 passagers. Billets d'entrée du parc non inclus."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "S'agit-il d'une excursion guidée ou d'un transfert taxi ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "C'est un transfert taxi, pas une excursion guidée. Antonio est un chauffeur local qui assure un transfert privé aller-retour de Split à Plitvice. Vous disposez de la voiture et du chauffeur ; à l'intérieur du parc, vous êtes libre d'explorer par vous-même, à votre rythme."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien coûte un taxi pour Plitvice depuis Split ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un transfert privé aller-retour de Split aux Lacs de Plitvice coûte un prix fixe de 650 euros par voiture pour jusqu'à 4 passagers, péages, carburant et temps d'attente au parc inclus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de temps dure l'excursion de Split à Plitvice ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le trajet dure environ deux heures et demie à trois heures dans chaque sens, plus environ 4 à 6 heures pour parcourir les lacs à pied. C'est une longue journée complète, généralement 11 à 12 heures de porte à porte, un départ matinal est donc indispensable."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Les billets d'entrée de Plitvice sont-ils inclus dans le prix ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non. Les billets d'entrée s'achètent séparément auprès du parc national des Lacs de Plitvice, à l'entrée ou en ligne. Les billets coûtent environ 10 à 40 euros selon la saison, et incluent le train panoramique et le bateau électrique à l'intérieur du parc."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment réserver et payer l'excursion ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un acompte de 20 % (minimum 20 euros) confirme la réservation, par virement bancaire ou par carte, et vous recevez une facture en guise de confirmation. Le solde est réglé au chauffeur le jour même, en espèces ou par carte."
+          }
+        }
+      ]
+    }
+  ]
+}

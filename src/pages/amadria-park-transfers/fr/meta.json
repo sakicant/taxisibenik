@@ -1,0 +1,145 @@
+{
+  "slug": "amadria-park-transfert",
+  "title": "Amadria Park transferts | Prix fixes | TAXI Antonio",
+  "description": "Transferts privés vers et depuis l'Amadria Park Šibenik, ses hôtels et son camping. Prix fixes réservés à l'avance : aéroport de Split 95 €, aéroport de Zadar 130 €, Krka à partir de 45 €. De porte à porte, un seul chauffeur local.",
+  "keywords": "amadria park transferts, amadria park taxi, transfert amadria park sibenik, transfert aéroport amadria park, taxi amadria park, taxi solaris sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transferts taxi hôtel vers aéroport et ville",
+      "name": "Amadria Park Šibenik transferts",
+      "description": "Transferts taxi privés à prix fixe vers et depuis le resort Amadria Park à Šibenik, couvrant tous les hôtels du resort et le camping. Transferts aéroport, transferts entre villes et excursions à Krka, réservés à l'avance à un prix convenu au préalable.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Amadria Park Šibenik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/fr/amadria-park-transfert/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Prix fixes des transferts depuis l'Amadria Park",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Amadria Park vers l'aéroport de Split",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park vers l'aéroport de Zadar",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park vers l'aéroport de Zagreb",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park vers l'aéroport de Dubrovnik",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park vers le centre de Šibenik",
+            "price": "18",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park vers le parc national de Krka (Lozovac)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park vers Split",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park vers Zadar",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Combien coûte un taxi de l'Amadria Park à l'aéroport de Split ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un transfert privé de l'Amadria Park à l'aéroport de Split est à un prix fixe de 95 euros par voiture pour un maximum de 4 passagers, réservé à l'avance. Les péages, le carburant et les bagages sont inclus, et le prix est le même dans les deux sens."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Prenez-vous en charge les clients dans tous les hôtels de l'Amadria Park et au camping ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Je vous prends en charge devant la porte de chaque hôtel du resort et à la réception du camping Amadria Park, aux mêmes prix fixes. Indiquez-moi le nom de votre hôtel lors de la réservation et je confirmerai le point de rencontre exact."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dois-je réserver mon transfert vers l'Amadria Park à l'avance ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Tous les prix indiqués sont des prix fixes pour les transferts réservés à l'avance. Réserver à l'avance garantit la voiture, l'heure de prise en charge et le prix, ce qui compte surtout pour les vols matinaux et la haute saison."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Accueillez-vous les clients à leur arrivée à l'aéroport ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Pour les arrivées, je surveille votre vol en temps réel, je vous attends dans le hall des arrivées avec une pancarte à votre nom et je vous conduis directement à votre hôtel de l'Amadria Park ou au camping. L'attente en cas de vol retardé est gratuite."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pouvez-vous nous emmener de l'Amadria Park au parc national de Krka ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Un transfert aller simple vers l'entrée de Krka à Lozovac est à 45 euros et vers l'entrée de Skradin à 50 euros. Je propose aussi une excursion privée d'une journée complète avec temps d'attente inclus, avec prise en charge à votre hôtel de l'Amadria Park."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment puis-je payer le transfert ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un acompte de 20 % (minimum 20 euros) confirme la réservation, par virement bancaire ou carte. Le solde est réglé au chauffeur le jour même, en espèces ou par carte."
+          }
+        }
+      ]
+    }
+  ]
+}
