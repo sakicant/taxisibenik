@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-zablace",
+  "title": "Taxi Zablaće | TAXI Antonio",
+  "description": "Taxi Zablaće: vaste luchthaventransfers naar Split (€95) en Zadar voor kampeerders en strandgasten bij Amadria Park, plus ritten naar Šibenik en Vodice.",
+  "keywords": "taxi zablace, zablace taxi, taxi camping zablace, zablace luchthaventransfer, taxi amadria park zablace, zablace naar luchthaven split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokale taxi en luchthaventransfers",
+      "name": "Taxi Zablaće",
+      "description": "Privétaxi met vaste prijs vanuit Zablaće, het camping- en Amadria Park-gebied ten zuidwesten van Šibenik, naar de luchthaven van Split, de luchthaven van Zadar, Šibenik en Vodice.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Zablaće",
+      "url": "https://taxisibenik.hr/nl/taxi-zablace/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxitarieven vanuit Zablaće",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće naar Šibenik",
+            "price": "18",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Zabla%C4%87e&to=%C5%A0ibenik%20-%20center&price=18"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće naar Vodice",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Zabla%C4%87e&to=Vodice&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće naar de luchthaven van Split",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Zabla%C4%87e&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće naar de luchthaven van Zadar",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Zabla%C4%87e&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Haalt u op bij de camping en het Amadria Park-gebied?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik haal u op bij de campingreceptie, uw appartement of het Amadria Park-gebied in de buurt, met ruimte voor bagage en spullen. Stuur de exacte plek wanneer u reserveert."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is er ruimte voor kampeer- en strandspullen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. De Škoda Superb heeft een grote kofferbak voor koffers, kampeeruitrusting en strandspullen. Laat me weten of u fietsen of omvangrijke spullen heeft, zodat ik daar rekening mee kan houden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost Zablaće naar de luchthaven van Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Een vaste prijs van €95 per auto voor maximaal 4 passagiers, inclusief tol en bagage, dezelfde prijs in beide richtingen."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-dubrovnik-luchthaven-zadar",
+  "title": "Taxi Dubrovnik - Luchthaven Zadar | Vaste prijs €550 | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Dubrovnik - Luchthaven Zadar. Vaste prijs €550 per voertuig, tot 4. Boek bij Antonio.",
+  "keywords": "taxi dubrovnik - luchthaven zadar, transfer dubrovnik - luchthaven zadar, luchthaventransfer dubrovnik - luchthaven zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privé taxitransfer",
+      "name": "Taxi Dubrovnik - Luchthaven Zadar",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Dubrovnik - Luchthaven Zadar, 550 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik",
+        "Luchthaven Zadar"
+      ],
+      "url": "https://taxisibenik.hr/nl/taxi-dubrovnik-luchthaven-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "550",
+        "priceCurrency": "EUR",
+        "description": "Privérit enkele reis, traject Dubrovnik - Luchthaven Zadar, per voertuig tot 4 passagiers. Retour 1100 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hoe lang is het traject en hoe lang duurt de rit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De rit op het traject Dubrovnik - Luchthaven Zadar is ongeveer 340 km en duurt ongeveer 4 h 20 min bij normaal verkeer, iets langer tijdens de zomerdrukte. Ik plan het ophalen zo dat een trager stukje u nooit onder druk zet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost een taxi op het traject Dubrovnik - Luchthaven Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vast 550 per voertuig, enkele reis, tot 4 passagiers. De prijs is per voertuig, niet per persoon, en omvat tol, brandstof en bagage. Een retour kost 1100."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe laat moet ik vertrekken voor mijn vlucht?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In de regel ongeveer 3 uur voor een internationale vlucht en 2 uur voor een binnenlandse. Geef me uw vluchttijd door en ik bevestig het exacte ophalen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zet u me af tot aan de vertrekhal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik breng u rechtstreeks naar de vertrekhal en help met de bagage. Geen wandeling vanaf de parkeerplaats, geen shuttlebus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe ver van tevoren reserveren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minstens 2 uur van tevoren, zodat ik het voertuig en het ophalen kan bevestigen, en eerder voor ochtendvluchten en in het hoogseizoen. Voor een snelle rit belt u of schrijft u me op WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

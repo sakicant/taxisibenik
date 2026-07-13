@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-drnis-luchthaven-dubrovnik",
+  "title": "Taxi Drniš - Luchthaven Dubrovnik | Vaste prijs €450 | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Drniš - Luchthaven Dubrovnik. Vaste prijs €450 per voertuig, tot 4. Boek bij Antonio.",
+  "keywords": "taxi drniš - luchthaven dubrovnik, transfer drniš - luchthaven dubrovnik, luchthaventransfer drniš - luchthaven dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privé taxitransfer",
+      "name": "Taxi Drniš - Luchthaven Dubrovnik",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Drniš - Luchthaven Dubrovnik, 450 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Drniš",
+        "Luchthaven Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/nl/taxi-drnis-luchthaven-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "450",
+        "priceCurrency": "EUR",
+        "description": "Privérit enkele reis, traject Drniš - Luchthaven Dubrovnik, per voertuig tot 4 passagiers. Retour 900 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hoe lang is het traject en hoe lang duurt de rit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De rit op het traject Drniš - Luchthaven Dubrovnik is ongeveer 319 km en duurt ongeveer 4 h 35 min bij normaal verkeer, iets langer tijdens de zomerdrukte. Ik plan het ophalen zo dat een trager stukje u nooit onder druk zet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost een taxi op het traject Drniš - Luchthaven Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vast 450 per voertuig, enkele reis, tot 4 passagiers. De prijs is per voertuig, niet per persoon, en omvat tol, brandstof en bagage. Een retour kost 900."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe laat moet ik vertrekken voor mijn vlucht?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In de regel ongeveer 3 uur voor een internationale vlucht en 2 uur voor een binnenlandse. Geef me uw vluchttijd door en ik bevestig het exacte ophalen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zet u me af tot aan de vertrekhal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik breng u rechtstreeks naar de vertrekhal en help met de bagage. Geen wandeling vanaf de parkeerplaats, geen shuttlebus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe ver van tevoren reserveren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minstens 2 uur van tevoren, zodat ik het voertuig en het ophalen kan bevestigen, en eerder voor ochtendvluchten en in het hoogseizoen. Voor een snelle rit belt u of schrijft u me op WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "taxi-bilice",
+  "title": "Taxi Bilice | TAXI Antonio",
+  "description": "Taxi Bilice: luchthaventransfers met vaste prijs naar Split (€100) en Zadar, plus snelle ritten naar Šibenik. Ophalen aan de deur voor gasten van appartementen en villa's.",
+  "keywords": "taxi bilice, bilice taxi, bilice luchthaventransfer, bilice naar luchthaven split, bilice naar sibenik, taxi bilice sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokale taxi en luchthaventransfers",
+      "name": "Taxi Bilice",
+      "description": "Privétaxi en luchthaventransfers met vaste prijs vanuit Bilice, ten noorden van Šibenik, naar de luchthaven van Split, de luchthaven van Zadar, Šibenik, Vodice en Nationaal Park Krka.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Bilice",
+      "url": "https://taxisibenik.hr/nl/taxi-bilice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxitarieven vanuit Bilice",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice naar Šibenik",
+            "price": "20",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Bilice&to=%C5%A0ibenik%20-%20center&price=20"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice naar Vodice",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Bilice&to=Vodice&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice naar NP Krka (Lozovac)",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Bilice&to=NP%20Krka%20-%20Lozovac%20entrance&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice naar luchthaven Split",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Bilice&to=Split%20Airport%20%28SPU%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice naar luchthaven Zadar",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Bilice&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice naar Split",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Bilice&to=Split&price=140"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice naar Zadar",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Bilice&to=Zadar&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Haalt u op bij appartementen en villa's in Bilice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik haal u op recht aan de deur van uw accommodatie in Bilice, laad uw bagage in en breng u van deur tot deur. Stuur mij gewoon het adres bij het boeken."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe vroeg kunt u een luchthaventransfer vanuit Bilice rijden?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Op elk uur, dag en nacht, zolang het vooraf is geboekt. Voor vroege vluchten vanuit Split of Zadar bevestig ik de ophaaltijd zodat u ruim op tijd bij de terminal bent."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is de prijs naar de luchthaven echt vast?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Elk tarief hier is een vaste prijs per auto voor maximaal 4 passagiers, met tol, brandstof en bagage inbegrepen. Geen meter."
+          }
+        }
+      ]
+    }
+  ]
+}

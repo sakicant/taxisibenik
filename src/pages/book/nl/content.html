@@ -1,0 +1,89 @@
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Reserveren</span>
+      <h1>Boek uw transfer</h1>
+      <p class="page-hero-sub">Vul hieronder uw reisgegevens in en ik bevestig uw rit rechtstreeks, meestal binnen een paar uur.</p>
+    </div>
+  </section>
+
+  <section class="page-content">
+    <div class="container booking-page">
+      <form class="booking-form" id="booking-page-form" action="/booking-submit.php" method="POST">
+        <h3>Uw rit</h3>
+
+        <label for="book-from">Ophaallocatie (van)</label>
+        <input type="text" id="book-from" name="from" required placeholder="Šibenik - centrum, uw hotel of adres">
+
+        <label for="book-to">Bestemming (naar)</label>
+        <input type="text" id="book-to" name="to" required placeholder="Luchthaven Split (SPU), een plaats of adres">
+
+        <div class="quote-field-row">
+          <div class="quote-field">
+            <label for="book-trip">Rit</label>
+            <select id="book-trip" name="trip">
+              <option value="oneway">Enkele reis</option>
+              <option value="return">Retour</option>
+            </select>
+          </div>
+          <div class="quote-field">
+            <label for="book-pax">Passagiers</label>
+            <input type="number" id="book-pax" name="passengers" min="1" max="12" value="1" required>
+          </div>
+          <div class="quote-field">
+            <label for="book-lug">Bagage</label>
+            <input type="number" id="book-lug" name="luggage" min="0" max="12" value="1" required>
+          </div>
+        </div>
+
+        <p class="booking-price-line" id="booking-price-line" hidden>Vaste prijs: <strong id="sum-price">&mdash;</strong> <span class="booking-price-sub">per auto, tot 4 passagiers</span></p>
+
+        <h3>Reisgegevens</h3>
+
+        <div class="quote-field-row">
+          <div class="quote-field">
+            <label for="book-date">Ophaaldatum</label>
+            <input type="date" id="book-date" name="book-date" required>
+          </div>
+          <div class="quote-field">
+            <label for="book-time">Ophaaltijd</label>
+            <input type="time" id="book-time" name="book-time" required>
+          </div>
+        </div>
+        <p class="form-hint">Boek minstens 2 uur van tevoren, zodat ik de auto en uw ophaalmoment kan bevestigen. Sneller een rit nodig? <a href="tel:+385994471013">Bel mij</a> of <a href="https://wa.me/385994471013?text=Hallo%20Antonio%2C%20ik%20heb%20u%20gevonden%20via%20uw%20website%20taxisibenik.hr%20en%20ik%20heb%20een%20vraag%3A%20" target="_blank" rel="noopener">stuur een WhatsApp-bericht</a>.</p>
+
+        <div class="quote-field-row" id="book-return-fields" hidden>
+          <div class="quote-field">
+            <label for="book-return-date">Retourdatum</label>
+            <input type="date" id="book-return-date" name="book-return-date">
+          </div>
+          <div class="quote-field">
+            <label for="book-return-time">Retourtijd</label>
+            <input type="time" id="book-return-time" name="book-return-time">
+          </div>
+        </div>
+
+        <label for="book-name">Naam</label>
+        <input type="text" id="book-name" name="name" required>
+
+        <label for="book-email">E-mail</label>
+        <input type="email" id="book-email" name="email" required>
+
+        <label for="book-phone">Telefoon / WhatsApp</label>
+        <input type="tel" id="book-phone" name="phone" placeholder="Inclusief landcode">
+
+        <label for="book-flight">Ophaalgegevens (aankomend vluchtnummer of adres)</label>
+        <input type="text" id="book-flight" name="book-flight" placeholder="Vluchtnummer als u per vliegtuig aankomt, of uw ophaaladres">
+
+        <label for="book-dropoff-details">Bestemmingsgegevens (adres of een vluchtnummer)</label>
+        <input type="text" id="book-dropoff-details" name="book-dropoff-details" placeholder="Afzetadres, of uw vluchtnummer als u een vlucht moet halen">
+
+        <label for="book-notes">Nog iets anders? (optioneel)</label>
+        <textarea id="book-notes" name="book-notes" rows="4" placeholder="Kinderzitje, extra stops, grote bagage, ophaalinstructies..."></textarea>
+
+        <input type="text" id="book-company" name="company" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+        <button type="submit" class="btn btn-primary">Reserveringsaanvraag versturen</button>
+        <p class="form-note" id="booking-page-note"></p>
+      </form>
+    </div>
+  </section>

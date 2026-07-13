@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadar-luchthaven-split",
+  "title": "Taxi Zadar - Luchthaven Split | Vaste prijs €210 | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Zadar - Luchthaven Split. Vaste prijs €210 per voertuig, tot 4 passagiers, van deur tot deur. Boek rechtstreeks bij Antonio.",
+  "keywords": "taxi zadar - luchthaven split, transfer zadar - luchthaven split, luchthaventransfer zadar - luchthaven split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privé taxitransfer",
+      "name": "Taxi Zadar - Luchthaven Split",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Zadar - Luchthaven Split, 210 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Luchthaven Split"
+      ],
+      "url": "https://taxisibenik.hr/nl/taxi-zadar-luchthaven-split/",
+      "offers": {
+        "@type": "Offer",
+        "price": "210",
+        "priceCurrency": "EUR",
+        "description": "Privérit enkele reis, traject Zadar - Luchthaven Split, per voertuig tot 4 passagiers. Retour 420 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hoe lang is het traject en hoe lang duurt de rit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De rit op het traject Zadar - Luchthaven Split is ongeveer 129 km en duurt ongeveer 1 h 45 min bij normaal verkeer, iets langer tijdens de zomerdrukte. Ik plan het ophalen zo dat een trager stukje u nooit onder druk zet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost een taxi op het traject Zadar - Luchthaven Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vast 210 per voertuig, enkele reis, tot 4 passagiers. De prijs is per voertuig, niet per persoon, en omvat tol, brandstof en bagage. Een retour kost 420."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe laat moet ik vertrekken voor mijn vlucht?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In de regel ongeveer 3 uur voor een internationale vlucht en 2 uur voor een binnenlandse. Geef me uw vluchttijd door en ik bevestig het exacte ophalen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zet u me af tot aan de vertrekhal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik breng u rechtstreeks naar de vertrekhal en help met de bagage. Geen wandeling vanaf de parkeerplaats, geen shuttlebus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe ver van tevoren reserveren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minstens 2 uur van tevoren, zodat ik het voertuig en het ophalen kan bevestigen, en eerder voor ochtendvluchten en in het hoogseizoen. Voor een snelle rit belt u of schrijft u me op WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

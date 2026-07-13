@@ -1,0 +1,87 @@
+{
+  "slug": "stadstransfers",
+  "title": "Šibenik Transfers | Vaste Prijzen | TAXI Antonio",
+  "description": "Šibenik transfers van en naar Split, Zadar, Dubrovnik, Zagreb, Trogir en verder. Vaste prijzen, privé van deur tot deur, één lokale chauffeur. Boek rechtstreeks bij Antonio.",
+  "keywords": "sibenik transfers, šibenik transfer, taxi sibenik split, sibenik naar zadar, sibenik naar dubrovnik, sibenik naar zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Stadstransfer van stad naar stad",
+      "name": "Šibenik Transfers",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/nl/stadstransfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost een taxitransfer van Šibenik naar Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Een private transfer van Šibenik naar Split kost een vaste 140 euro per auto voor maximaal 4 passagiers, inclusief tol, brandstof en bagage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zijn de transferprijzen vast?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Elke transfer van stad naar stad heeft een vaste prijs per auto voor maximaal 4 passagiers, vooraf afgesproken. Geen taximeter en geen verrassingen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is de transfer privé of gedeeld?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Elke transfer is privé en van deur tot deur, in een Škoda Superb. Er is geen deling van het voertuig en geen extra stops tenzij u erom vraagt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kunt u onderweg stoppen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Op langere transfers stop ik graag voor een koffie, een foto of een korte bezienswaardigheid. Laat het me weten bij het boeken en ik houd er rekening mee."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe betaal ik een transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Een aanbetaling van 20% (minimaal 20 euro) bevestigt de boeking, per bankoverschrijving of kaart. Het resterende bedrag betaalt u op de dag zelf aan de chauffeur, contant of met kaart."
+          }
+        }
+      ]
+    }
+  ]
+}

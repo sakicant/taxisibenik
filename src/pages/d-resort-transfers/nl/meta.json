@@ -1,0 +1,145 @@
+{
+  "slug": "d-resort-transfer",
+  "title": "D-Resort Šibenik Transfer | Vaste Prijzen | TAXI Antonio",
+  "description": "Privétransfers van en naar D-Resort Šibenik op het schiereiland Mandalina. Vaste prijzen vooraf geboekt: luchthaven Split €95, luchthaven Zadar €130, Krka vanaf €45. Van deur tot deur, één lokale chauffeur.",
+  "keywords": "d-resort sibenik transfer, d-resort hotel transfer, d-resort sibenik taxi, d-resort luchthaventransfer, taxi d-resort sibenik, mandalina taxi",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Hotel-, luchthaven- en stadstaxitransfers",
+      "name": "D-Resort Šibenik Transfers",
+      "description": "Privé taxitransfers tegen vaste prijs van en naar D-Resort Šibenik op het schiereiland Mandalina. Luchthaventransfers, stadstransfers en dagtochten naar Krka, vooraf geboekt tegen een vooraf afgesproken prijs.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "D-Resort Šibenik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/nl/d-resort-transfer/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Vaste transferprijzen vanaf D-Resort Šibenik",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "D-Resort naar luchthaven Split",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort naar luchthaven Zadar",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort naar luchthaven Zagreb",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort naar luchthaven Dubrovnik",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort naar centrum Šibenik",
+            "price": "15",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort naar Nationaal Park Krka (Lozovac)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort naar Split",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort naar Zadar",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost een taxi van D-Resort Šibenik naar luchthaven Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Een privétransfer van D-Resort Šibenik naar luchthaven Split kost een vaste 95 euro per auto voor maximaal 4 passagiers, vooraf geboekt. Tol, brandstof en bagage zijn inbegrepen, en de prijs is in beide richtingen gelijk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Waar haalt u op bij D-Resort?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Precies bij de hoofdingang van het hotel op het schiereiland Mandalina. Komt u met een jacht aan bij D-Marin Marina Mandalina hiernaast, dan haal ik u ook bij de marina op, tegen dezelfde vaste prijzen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Moet ik mijn D-Resort transfer vooraf boeken?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Alle vermelde prijzen zijn vaste prijzen voor vooraf geboekte transfers. Vooraf boeken garandeert de auto, de ophaaltijd en de prijs, wat het belangrijkst is bij vroege vluchten en in het hoogseizoen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Verwelkomt u aankomende gasten op de luchthaven?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Bij aankomsten volg ik uw vlucht in realtime, wacht ik in de aankomsthal met een naambordje en breng ik u rechtstreeks naar D-Resort. Wachten bij vertraagde vluchten is gratis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kunt u ons van D-Resort naar Nationaal Park Krka brengen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Een enkele transfer naar de ingang Krka Lozovac kost 45 euro en naar de ingang Skradin 50 euro. Ik bied ook een volledige privédagtocht aan met wachttijd inbegrepen, met ophaling bij het hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe betaal ik voor de transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Een aanbetaling van 20% (minimaal 20 euro) bevestigt de boeking, per bankoverschrijving of kaart. Het resterende bedrag betaalt u op de dag zelf aan de chauffeur, contant of per kaart."
+          }
+        }
+      ]
+    }
+  ]
+}

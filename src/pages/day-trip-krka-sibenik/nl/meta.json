@@ -1,0 +1,92 @@
+{
+  "slug": "dagtocht-krka-sibenik",
+  "title": "Dagtocht naar Krka vanuit Šibenik | Privétransfer, vast €100 | TAXI Antonio",
+  "description": "Privétransfer per taxi heen en terug naar Krka vanuit Šibenik. Vaste prijs €100 per auto, tot 4 passagiers, van deur tot deur vanaf hotels, appartementen, stations en de veerhaven. Geen tour, alleen de rit heen en terug.",
+  "keywords": "dagtocht naar krka vanuit sibenik, transfer heen en terug naar krka, taxi naar krka vanuit sibenik, krka transfer sibenik, sibenik naar nationaal park krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privédagtocht naar Krka vanuit Šibenik",
+      "description": "Een privédagtocht naar Nationaal park Krka vanuit Šibenik met een lokale Engelssprekende chauffeur. Vaste prijs van 100 euro per auto voor tot 4 passagiers, met ophalen van deur tot deur bij hotels, appartementen, de bus- en treinstations en de veerhaven.",
+      "touristType": "Natuur en bezienswaardigheden",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Privévoertuig, heen en terug Šibenik naar Nationaal park Krka, tot 4 passagiers. Toegangstickets voor het park niet inbegrepen."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is dit een begeleide tour of een taxitransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Het is een taxitransfer, geen begeleide tour. Antonio is een lokale taxichauffeur uit Šibenik die een privétransfer heen en terug naar Krka verzorgt. U krijgt de auto en de rit; in het park bent u vrij om alles op uw eigen tempo te ontdekken."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kunt u ons ophalen bij Amadria Park, D-Resort of Hotel Bellevue?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik haal regelmatig gasten op bij het Amadria Park resort, D-Resort Šibenik, Hotel Bellevue en andere hotels in Šibenik. Stuur mij de naam van uw hotel en ik bevestig de exacte ophaaltijd en ontmoetingsplek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Haalt u op bij de veerhaven, het bus- of treinstation van Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik haal gasten van deur tot deur op bij de veer- en cruisehaven van Šibenik, het busstation en de treinstations van Šibenik en Perković, met een naambordje op verzoek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoelang blijven we in Nationaal park Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De meeste gasten kiezen voor ongeveer 3 tot 4 uur vrije tijd in het park, genoeg om de belangrijkste watervallen te zien en de klassieke loopbruggenlus te wandelen. Een kortere of langere tijd kan bij het boeken worden afgesproken."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zijn de toegangstickets voor Krka bij de prijs inbegrepen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nee. Toegangstickets worden apart gekocht, rechtstreeks bij Nationaal park Krka bij de ingang Skradin of Lozovac of online. Tickets kosten ongeveer 7 tot 40 euro, afhankelijk van het seizoen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe boek en betaal ik de dagtocht van Šibenik naar Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Een aanbetaling van 20% (minimaal 20 euro) bevestigt de boeking, per bankoverschrijving of kaart, en u ontvangt een factuur als bevestiging. Het restant betaalt u op de dag zelf aan de chauffeur, contant of met kaart."
+          }
+        }
+      ]
+    }
+  ]
+}

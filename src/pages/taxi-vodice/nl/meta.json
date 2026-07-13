@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "Taxi Vodice | TAXI Antonio",
+  "description": "Taxi Vodice: vaste luchthaventransfers naar Zadar (€100) en Split, ophalen bij jachthaven en resort, Krka-dagtochten en ritten naar de eilandveerboot. Rechtstreeks reserveren.",
+  "keywords": "taxi vodice, vodice taxi, vodice luchthaventransfer, vodice naar luchthaven split, vodice naar luchthaven zadar, taxi jachthaven vodice, vodice naar krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokale taxi en luchthaventransfers",
+      "name": "Taxi Vodice",
+      "description": "Privétaxi met vaste prijs in Vodice: luchthaventransfers naar Split en Zadar, ophalen bij jachthaven en resort, dagtochten naar Nationaal Park Krka en ritten naar de eilandveerboot.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/nl/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxitarieven vanuit Vodice",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice naar Šibenik",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice naar Krka NP (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice naar de luchthaven van Zadar",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice naar de luchthaven van Split",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/nl/boeken/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kunt u bemanningen ophalen bij de jachthaven van Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik ontmoet jacht- en charterbemanningen pal bij de jachthaven met ruimte voor bagage en proviand, en ik kan een vroeg of laat tijdslot rond uw charter regelen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Rijdt u laat in de nacht in Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Als het vooraf is geboekt, kan ik u na een avondje uit ophalen en u tegen een vaste prijs veilig terugbrengen naar uw accommodatie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kunt u mij naar de veerboot van Prvić of Zlarin brengen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Beide vertrekken vanaf de boulevard van Vodice en ik kan u pal bij de aanlegplaats afzetten. Vraag mij naar het tarief wanneer u reserveert."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost Vodice naar de luchthaven van Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Een vaste prijs van €100 per auto voor maximaal 4 passagiers, en de luchthaven van Split is €115, inclusief tol en bagage."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "dagtochten",
+  "title": "Dagtochten vanuit Šibenik | Private Krka- & Plitvice-tochten | TAXI Antonio",
+  "description": "Private dagtochten vanuit Šibenik en door heel Dalmatië naar Nationaal Park Krka en de Plitvicemeren. Heen- en terugtransfers met vaste prijs, van deur tot deur, met een lokale chauffeur. Geen tour, gewoon de rit heen en terug.",
+  "keywords": "dagtochten vanuit sibenik, sibenik dagtochten, private dagtocht kroatie, krka dagtocht, plitvice dagtocht, dagtocht naar krka, dagtocht naar plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private dagtochten en excursies",
+      "name": "Dagtochten vanuit Šibenik en Dalmatië",
+      "description": "Private dagtochten met vaste prijs naar Nationaal Park Krka en de Plitvicemeren met een lokale chauffeur uit Šibenik. Heen- en terugtransfers van deur tot deur vanuit Šibenik, Vodice, Primošten, Split en Zadar, maximaal 4 passagiers per auto.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+      },
+      "areaServed": ["Šibenik", "Vodice", "Primošten", "Split", "Zadar"],
+      "url": "https://taxisibenik.hr/nl/dagtochten/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Private dagtochten vanuit Dalmatië",
+        "itemListElement": [
+          { "@type": "Offer", "name": "Dagtocht naar Krka vanuit Šibenik", "price": "100", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/nl/dagtocht-krka-sibenik/" },
+          { "@type": "Offer", "name": "Dagtocht naar Krka vanuit Vodice", "price": "125", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/nl/dagtocht-krka-vodice/" },
+          { "@type": "Offer", "name": "Dagtocht naar Krka vanuit Primošten", "price": "155", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/nl/dagtocht-krka-primosten/" },
+          { "@type": "Offer", "name": "Dagtocht naar Krka vanuit Zadar", "price": "260", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/nl/dagtocht-krka-zadar/" },
+          { "@type": "Offer", "name": "Dagtocht naar Krka vanuit Split", "price": "290", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/nl/dagtocht-krka-split/" },
+          { "@type": "Offer", "name": "Dagtocht naar Plitvice vanuit Šibenik", "price": "500", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/nl/dagtocht-plitvice-sibenik/" },
+          { "@type": "Offer", "name": "Dagtocht naar Plitvice vanuit Split", "price": "650", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/nl/dagtocht-plitvice-split/" }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Welke dagtochten kan ik boeken vanuit Šibenik?",
+          "acceptedAnswer": { "@type": "Answer", "text": "De twee populairste dagtochten zijn Nationaal Park Krka en Nationaal Park Plitvicemeren. Beide zijn private heen- en terugtransfers met vaste prijs van deur tot deur vanaf uw hotel of appartement, met vrije tijd in het park om op uw eigen tempo te ontdekken." }
+        },
+        {
+          "@type": "Question",
+          "name": "Zijn dit begeleide tours of taxitransfers?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Het zijn private taxitransfers, geen begeleide groepstours. Antonio is een lokale chauffeur die u heen en terug brengt in een comfortabele Škoda Superb. In het park bent u vrij om op eigen houtje te ontdekken, zonder gids en zonder gedeelde groep." }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost een dagtocht naar Krka of Plitvice?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Een private Krka-dagtocht begint bij een vaste 100 euro per auto vanuit Šibenik. Een dagtocht naar de Plitvicemeren kost 500 euro per auto vanuit Šibenik. Prijzen zijn per auto voor maximaal 4 passagiers en hangen af van uw ophaalplaats." }
+        },
+        {
+          "@type": "Question",
+          "name": "Haalt u ook op vanuit andere plaatsen, niet alleen Šibenik?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Ja. Krka-dagtochten vertrekken vanuit Šibenik, Vodice, Primošten, Zadar en Split, en Plitvice-dagtochten vanuit Šibenik en Split. Elke plaats heeft een eigen vaste prijs en een eigen pagina met alle details." }
+        },
+        {
+          "@type": "Question",
+          "name": "Zijn de toegangskaartjes voor het park inbegrepen?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Nee. De prijs dekt alleen de private transfer en de wachttijd. Kaartjes voor Krka en Plitvice worden apart gekocht bij de ingang of online, en kosten ongeveer 7 tot 40 euro afhankelijk van het seizoen." }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe boek ik een dagtocht?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Stuur me een bericht op WhatsApp, bel, of gebruik de contactpagina. Een aanbetaling van 20% (minimaal 20 euro) bevestigt de datum, en het resterende bedrag betaalt u op de dag zelf aan de chauffeur." }
+        }
+      ]
+    }
+  ]
+}

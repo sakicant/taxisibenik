@@ -1,0 +1,21 @@
+{
+  "slug": "aanbiedingen",
+  "title": "Aanbiedingen & Last-minute transfers | TAXI Antonio",
+  "description": "Last-minute en lege-rit taxitransfers rond Šibenik met korting. Pak een vast ophaalmoment en reis voor minder. Regelmatig bijgewerkt.",
+  "keywords": "sibenik taxi aanbiedingen, last minute transfer sibenik, goedkope luchthaventransfer sibenik, lege rit taxi kroatie, transfer split luchthaven met korting",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Aanbiedingen & Last-minute transfers",
+    "description": "Last-minute en lege-rit taxitransfers rond Šibenik tegen een gereduceerde prijs.",
+    "url": "https://taxisibenik.hr/nl/aanbiedingen/",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Taxi Antonio",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" }
+    }
+  }
+}
