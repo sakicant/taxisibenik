@@ -104,6 +104,36 @@
           }
         ]
       }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kde vyzdvihujete v Marina Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Priamo v marine, pri vašom kotvisku alebo na recepcii marine, ako vám vyhovuje. Pri rezervácii mi povedzte číslo móla alebo názov lode a nájdem vás."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí transfer na letisko Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevná cena za auto pre až 4 cestujúcich, dohodnutá pred cestou, s mýtom, palivom a batožinou v cene. Všetky trasy nájdete v cenníku vyššie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ako dlho vopred si mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som mohol potvrdiť auto a váš čas vyzdvihnutia, a skôr pri skorých ranných letoch a počas hlavnej sezóny. Pre skoršiu jazdu mi zavolajte alebo napíšte na WhatsApp priamo."
+          }
+        }
+      ]
     }
   ]
 }

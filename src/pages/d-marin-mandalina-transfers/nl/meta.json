@@ -104,6 +104,36 @@
           }
         ]
       }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Waar haalt u op bij D-Marin Marina Mandalina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Precies bij de marina, bij uw ligplaats of de receptie van de marina, wat u het beste uitkomt. Geef bij het boeken uw ponton- of bootnaam door en ik vind u."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost een transfer naar luchthaven Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Een vaste prijs per auto voor maximaal 4 passagiers, afgesproken voordat u reist, met tol, brandstof en bagage inbegrepen. Zie de prijslijst hierboven voor elke route."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe ver van tevoren moet ik boeken?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minstens 2 uur van tevoren, zodat ik de auto en uw ophaaltijd kan bevestigen, en eerder voor vroege ochtendvluchten en het hoogseizoen. Voor een snellere rit belt of WhatsAppt u mij rechtstreeks."
+          }
+        }
+      ]
     }
   ]
 }

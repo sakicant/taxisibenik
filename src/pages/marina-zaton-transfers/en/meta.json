@@ -104,6 +104,36 @@
           }
         ]
       }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Where do you pick up at Marina Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Right at the marina, by your berth or the marina reception, whichever suits. Tell me your pontoon or boat name when you book and I will find you."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much is a transfer to Split Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed price per car for up to 4 passengers, agreed before you travel, with tolls, fuel and luggage included. See the price list above for every route."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time, and earlier for early-morning flights and high season. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
     }
   ]
 }

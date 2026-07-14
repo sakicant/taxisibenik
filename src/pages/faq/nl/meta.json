@@ -1,0 +1,79 @@
+{
+  "slug": "veelgestelde-vragen",
+  "title": "Veelgestelde vragen | TAXI Antonio",
+  "description": "Snelle antwoorden over boeken, prijzen en lokale ritten rond Šibenik.",
+  "keywords": "veelgestelde vragen",
+  "og_image": "https://taxisibenik.hr/assets/og-image.png",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hoe boek ik een taxi vanuit Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bel +385 99 447 1013, stuur me een bericht op WhatsApp of stuur een e-mail. Ik heb uw ophaallocatie, bestemming en gewenste ophaal- of aankomsttijd nodig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe ver van tevoren moet ik boeken?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ik neem last-minuteaanvragen aan binnen mijn werktijden, maar vooraf boeken garandeert de beschikbaarheid."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wat betekent \"vaste prijs\"? Wat is inbegrepen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mijn vaste prijzen omvatten het vervoer, brandstof, tol en hulp met de bagage. Geen verborgen kosten. Extra stops of lang wachten kunnen meer kosten, en ik zeg het u altijd vooraf."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Neemt u vooruitbetalingen aan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Om een boeking te bevestigen is een aanbetaling van 20% vereist (minimaal €20). Ritten met een prijs van €20 of minder moeten volledig vooraf worden betaald. U kunt desgewenst ook het volledige bedrag vooraf betalen. Aanbetalingen kunnen worden gedaan via bankoverschrijving (SEPA) of kaart, waarbij het resterende bedrag op de dag van de transfer bij mij wordt voldaan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Doet u ophaalritten bij het ziekenhuis in Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik rijd passagiers van en naar het Algemeen Ziekenhuis Šibenik en mag het ziekenhuisterrein op rijden, zodat er geen lange wandeling vanaf een parkeerterrein nodig is. Laat het me weten als u een handje hulp nodig heeft tot aan de ingang."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kunt u me naar de veerboot voor de eilanden brengen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik zet u af en haal u op bij de veer- en catamaranhaven van Šibenik voor Zlarin, Prvić, Kaprije en Žirje, en de boot naar Obonjan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Haalt u op bij hotels in Šibenik, het bus- en treinstation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik bedien alle lokale hotels, het busstation, de treinstations Šibenik en Perković en de veerhaven, met bagagehulp en een naambordje op aanvraag."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Accepteert u kaartbetalingen in de auto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, ik accepteer kaarten en andere contactloze betaalmethoden."
+          }
+        }
+      ]
+    }
+  ]
+}

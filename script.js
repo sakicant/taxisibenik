@@ -2417,6 +2417,204 @@ if (quoteWidget) {
     }
   };
 
+  // Widget UI strings are localized by the page's <html lang>. Non-English
+  // strings live in I18N (keyed by the English text); t() falls back to English.
+  const LANG = (document.documentElement.getAttribute('lang') || 'en').toLowerCase();
+  const I18N = {
+    "hr": {
+      "Šibenik area": "Šibensko područje",
+      "Airports": "Zračne luke",
+      "Hotels": "Hoteli",
+      "Marinas": "Marine",
+      "NP Krka": "NP Krka",
+      "Cities and towns": "Gradovi i mjesta",
+      "Plitvice": "Plitvice",
+      "No matching location": "Nema odgovarajuće lokacije",
+      "Please choose a pickup location and destination.": "Odaberite mjesto polaska i odredište.",
+      "For 9 to 12 passengers I put together a van and my car, and drive the car myself. Contact me for a price.": "Za 9 do 12 putnika spajam kombi i svoj automobil, a automobil vozim sam. Javite mi se za cijenu.",
+      "Request a Quote": "Zatražite ponudu",
+      "For 5 to 8 passengers a van is needed. I don't run a van myself yet, but contact me and I'll do my best to arrange one for you.": "Za 5 do 8 putnika potreban je kombi. Zasad sam ne vozim kombi, ali javite mi se i potrudit ću se organizirati ga za vas.",
+      "A local ride within {from} is charged by the taxi meter, from &euro;10. See the <a href=\"#pricing\">local rates</a> below.": "Lokalna vožnja unutar {from} naplaćuje se po taksimetru, od &euro;10. Pogledajte <a href=\"#pricing\">lokalne cijene</a> u nastavku.",
+      "Book Now": "Rezervirajte",
+      "return total": "ukupno povratno",
+      "one way": "u jednom smjeru",
+      "I don't have a listed fixed price for {from} to {to} yet, but I'll quote you directly.": "Još nemam navedenu fiksnu cijenu za {from} do {to}, ali dat ću vam ponudu izravno."
+    },
+    "de": {
+      "Šibenik area": "Region Šibenik",
+      "Airports": "Flughäfen",
+      "Hotels": "Hotels",
+      "Marinas": "Yachthäfen",
+      "NP Krka": "NP Krka",
+      "Cities and towns": "Städte und Orte",
+      "Plitvice": "Plitvice",
+      "No matching location": "Kein passender Ort",
+      "Please choose a pickup location and destination.": "Bitte wählen Sie einen Abholort und ein Ziel.",
+      "For 9 to 12 passengers I put together a van and my car, and drive the car myself. Contact me for a price.": "Für 9 bis 12 Fahrgäste stelle ich einen Van und mein Auto zusammen und fahre das Auto selbst. Kontaktieren Sie mich für einen Preis.",
+      "Request a Quote": "Angebot anfragen",
+      "For 5 to 8 passengers a van is needed. I don't run a van myself yet, but contact me and I'll do my best to arrange one for you.": "Für 5 bis 8 Fahrgäste wird ein Van benötigt. Ich fahre selbst noch keinen Van, aber kontaktieren Sie mich und ich gebe mein Bestes, einen für Sie zu organisieren.",
+      "A local ride within {from} is charged by the taxi meter, from &euro;10. See the <a href=\"#pricing\">local rates</a> below.": "Eine lokale Fahrt innerhalb von {from} wird nach Taxameter berechnet, ab &euro;10. Siehe die <a href=\"#pricing\">lokalen Tarife</a> unten.",
+      "Book Now": "Jetzt buchen",
+      "return total": "Gesamt hin & zurück",
+      "one way": "einfache Fahrt",
+      "I don't have a listed fixed price for {from} to {to} yet, but I'll quote you directly.": "Ich habe noch keinen festen Preis für {from} nach {to}, aber ich mache Ihnen direkt ein Angebot."
+    },
+    "it": {
+      "Šibenik area": "Zona di Šibenik",
+      "Airports": "Aeroporti",
+      "Hotels": "Hotel",
+      "Marinas": "Porti turistici",
+      "NP Krka": "NP Krka",
+      "Cities and towns": "Città e paesi",
+      "Plitvice": "Plitvice",
+      "No matching location": "Nessuna località corrispondente",
+      "Please choose a pickup location and destination.": "Seleziona un luogo di partenza e una destinazione.",
+      "For 9 to 12 passengers I put together a van and my car, and drive the car myself. Contact me for a price.": "Per 9-12 passeggeri combino un van e la mia auto, e guido io stesso l'auto. Contattami per un prezzo.",
+      "Request a Quote": "Richiedi un preventivo",
+      "For 5 to 8 passengers a van is needed. I don't run a van myself yet, but contact me and I'll do my best to arrange one for you.": "Per 5-8 passeggeri serve un van. Non guido ancora un van personalmente, ma contattami e farò del mio meglio per organizzarne uno per te.",
+      "A local ride within {from} is charged by the taxi meter, from &euro;10. See the <a href=\"#pricing\">local rates</a> below.": "Una corsa locale all'interno di {from} viene addebitata a tassametro, da &euro;10. Guarda le <a href=\"#pricing\">tariffe locali</a> qui sotto.",
+      "Book Now": "Prenota ora",
+      "return total": "totale andata e ritorno",
+      "one way": "solo andata",
+      "I don't have a listed fixed price for {from} to {to} yet, but I'll quote you directly.": "Non ho ancora un prezzo fisso indicato per {from} - {to}, ma ti farò un preventivo direttamente."
+    },
+    "pl": {
+      "Šibenik area": "Rejon Šibenika",
+      "Airports": "Lotniska",
+      "Hotels": "Hotele",
+      "Marinas": "Mariny",
+      "NP Krka": "NP Krka",
+      "Cities and towns": "Miasta i miejscowości",
+      "Plitvice": "Plitvice",
+      "No matching location": "Brak pasującej lokalizacji",
+      "Please choose a pickup location and destination.": "Wybierz miejsce odbioru i cel podróży.",
+      "For 9 to 12 passengers I put together a van and my car, and drive the car myself. Contact me for a price.": "Dla 9 do 12 pasażerów łączę vana i swój samochód, a samochód prowadzę sam. Skontaktuj się ze mną, aby uzyskać cenę.",
+      "Request a Quote": "Zapytaj o wycenę",
+      "For 5 to 8 passengers a van is needed. I don't run a van myself yet, but contact me and I'll do my best to arrange one for you.": "Dla 5 do 8 pasażerów potrzebny jest van. Sam jeszcze nie prowadzę vana, ale skontaktuj się ze mną, a dołożę wszelkich starań, aby go dla ciebie zorganizować.",
+      "A local ride within {from} is charged by the taxi meter, from &euro;10. See the <a href=\"#pricing\">local rates</a> below.": "Lokalny przejazd w obrębie {from} jest rozliczany według taksometru, od &euro;10. Zobacz <a href=\"#pricing\">lokalne stawki</a> poniżej.",
+      "Book Now": "Zarezerwuj teraz",
+      "return total": "razem w obie strony",
+      "one way": "w jedną stronę",
+      "I don't have a listed fixed price for {from} to {to} yet, but I'll quote you directly.": "Nie mam jeszcze podanej stałej ceny za {from} do {to}, ale wycenię ją bezpośrednio."
+    },
+    "cs": {
+      "Šibenik area": "Oblast Šibenik",
+      "Airports": "Letiště",
+      "Hotels": "Hotely",
+      "Marinas": "Mariny",
+      "NP Krka": "NP Krka",
+      "Cities and towns": "Města a obce",
+      "Plitvice": "Plitvice",
+      "No matching location": "Žádná odpovídající lokalita",
+      "Please choose a pickup location and destination.": "Vyberte místo vyzvednutí a cíl.",
+      "For 9 to 12 passengers I put together a van and my car, and drive the car myself. Contact me for a price.": "Pro 9 až 12 cestujících dávám dohromady dodávku a své auto, a auto řídím sám. Kontaktujte mě pro cenu.",
+      "Request a Quote": "Vyžádat nabídku",
+      "For 5 to 8 passengers a van is needed. I don't run a van myself yet, but contact me and I'll do my best to arrange one for you.": "Pro 5 až 8 cestujících je potřeba dodávka. Sám dodávku zatím neřídím, ale kontaktujte mě a udělám, co bude v mých silách, abych vám ji zajistil.",
+      "A local ride within {from} is charged by the taxi meter, from &euro;10. See the <a href=\"#pricing\">local rates</a> below.": "Místní jízda v rámci {from} se účtuje podle taxametru, od &euro;10. Podívejte se na <a href=\"#pricing\">místní ceny</a> níže.",
+      "Book Now": "Rezervovat",
+      "return total": "celkem zpáteční",
+      "one way": "jednosměrná",
+      "I don't have a listed fixed price for {from} to {to} yet, but I'll quote you directly.": "Zatím nemám uvedenou pevnou cenu pro {from} do {to}, ale nacením vám ji přímo."
+    },
+    "fr": {
+      "Šibenik area": "Région de Šibenik",
+      "Airports": "Aéroports",
+      "Hotels": "Hôtels",
+      "Marinas": "Ports de plaisance",
+      "NP Krka": "NP Krka",
+      "Cities and towns": "Villes et villages",
+      "Plitvice": "Plitvice",
+      "No matching location": "Aucun lieu correspondant",
+      "Please choose a pickup location and destination.": "Veuillez choisir un lieu de prise en charge et une destination.",
+      "For 9 to 12 passengers I put together a van and my car, and drive the car myself. Contact me for a price.": "Pour 9 à 12 passagers, je combine un van et ma voiture, et je conduis moi-même la voiture. Contactez-moi pour un prix.",
+      "Request a Quote": "Demander un devis",
+      "For 5 to 8 passengers a van is needed. I don't run a van myself yet, but contact me and I'll do my best to arrange one for you.": "Pour 5 à 8 passagers, un van est nécessaire. Je ne conduis pas encore de van moi-même, mais contactez-moi et je ferai de mon mieux pour en organiser un pour vous.",
+      "A local ride within {from} is charged by the taxi meter, from &euro;10. See the <a href=\"#pricing\">local rates</a> below.": "Un trajet local à l'intérieur de {from} est facturé au compteur, à partir de &euro;10. Consultez les <a href=\"#pricing\">tarifs locaux</a> ci-dessous.",
+      "Book Now": "Réserver",
+      "return total": "total aller-retour",
+      "one way": "aller simple",
+      "I don't have a listed fixed price for {from} to {to} yet, but I'll quote you directly.": "Je n'ai pas encore de prix fixe indiqué pour {from} à {to}, mais je vous ferai un devis directement."
+    },
+    "nl": {
+      "Šibenik area": "Regio Šibenik",
+      "Airports": "Luchthavens",
+      "Hotels": "Hotels",
+      "Marinas": "Jachthavens",
+      "NP Krka": "NP Krka",
+      "Cities and towns": "Steden en dorpen",
+      "Plitvice": "Plitvice",
+      "No matching location": "Geen overeenkomende locatie",
+      "Please choose a pickup location and destination.": "Kies een ophaallocatie en bestemming.",
+      "For 9 to 12 passengers I put together a van and my car, and drive the car myself. Contact me for a price.": "Voor 9 tot 12 passagiers combineer ik een busje en mijn auto, en rijd ik de auto zelf. Neem contact met mij op voor een prijs.",
+      "Request a Quote": "Offerte aanvragen",
+      "For 5 to 8 passengers a van is needed. I don't run a van myself yet, but contact me and I'll do my best to arrange one for you.": "Voor 5 tot 8 passagiers is een busje nodig. Ik rijd zelf nog geen busje, maar neem contact met mij op en ik doe mijn best om er een voor u te regelen.",
+      "A local ride within {from} is charged by the taxi meter, from &euro;10. See the <a href=\"#pricing\">local rates</a> below.": "Een lokale rit binnen {from} wordt afgerekend via de taximeter, vanaf &euro;10. Bekijk de <a href=\"#pricing\">lokale tarieven</a> hieronder.",
+      "Book Now": "Nu boeken",
+      "return total": "totaal retour",
+      "one way": "enkele reis",
+      "I don't have a listed fixed price for {from} to {to} yet, but I'll quote you directly.": "Ik heb nog geen vaste prijs vermeld voor {from} naar {to}, maar ik geef u direct een prijsopgave."
+    },
+    "sl": {
+      "Šibenik area": "Območje Šibenika",
+      "Airports": "Letališča",
+      "Hotels": "Hoteli",
+      "Marinas": "Marine",
+      "NP Krka": "NP Krka",
+      "Cities and towns": "Mesta in kraji",
+      "Plitvice": "Plitvice",
+      "No matching location": "Ni ustrezne lokacije",
+      "Please choose a pickup location and destination.": "Izberite kraj prevzema in cilj.",
+      "For 9 to 12 passengers I put together a van and my car, and drive the car myself. Contact me for a price.": "Za 9 do 12 potnikov združim kombi in svoj avto, avto pa vozim sam. Kontaktirajte me za ceno.",
+      "Request a Quote": "Zahtevajte ponudbo",
+      "For 5 to 8 passengers a van is needed. I don't run a van myself yet, but contact me and I'll do my best to arrange one for you.": "Za 5 do 8 potnikov je potreben kombi. Sam kombija še ne vozim, a kontaktirajte me in potrudil se bom, da ga za vas organiziram.",
+      "A local ride within {from} is charged by the taxi meter, from &euro;10. See the <a href=\"#pricing\">local rates</a> below.": "Lokalna vožnja znotraj {from} se zaračuna po taksimetru, od &euro;10. Oglejte si <a href=\"#pricing\">lokalne cene</a> spodaj.",
+      "Book Now": "Rezervirajte",
+      "return total": "skupaj povratno",
+      "one way": "enosmerno",
+      "I don't have a listed fixed price for {from} to {to} yet, but I'll quote you directly.": "Za {from} do {to} še nimam navedene fiksne cene, a vam jo bom pripravil neposredno."
+    },
+    "hu": {
+      "Šibenik area": "Šibenik környéke",
+      "Airports": "Repülőterek",
+      "Hotels": "Hotelek",
+      "Marinas": "Jachtkikötők",
+      "NP Krka": "NP Krka",
+      "Cities and towns": "Városok és települések",
+      "Plitvice": "Plitvice",
+      "No matching location": "Nincs megfelelő helyszín",
+      "Please choose a pickup location and destination.": "Kérjük, válasszon felvételi helyet és úti célt.",
+      "For 9 to 12 passengers I put together a van and my car, and drive the car myself. Contact me for a price.": "9-12 utas esetén egy kisbuszt és a saját autómat állítom össze, és az autót magam vezetem. Vegye fel velem a kapcsolatot az árért.",
+      "Request a Quote": "Árajánlat kérése",
+      "For 5 to 8 passengers a van is needed. I don't run a van myself yet, but contact me and I'll do my best to arrange one for you.": "5-8 utas esetén kisbuszra van szükség. Magam még nem vezetek kisbuszt, de vegye fel velem a kapcsolatot, és mindent megteszek, hogy szervezzek egyet Önnek.",
+      "A local ride within {from} is charged by the taxi meter, from &euro;10. See the <a href=\"#pricing\">local rates</a> below.": "A(z) {from} területén belüli helyi utat taxaméter szerint számítjuk fel, &euro;10-től. Lásd a <a href=\"#pricing\">helyi díjszabást</a> alább.",
+      "Book Now": "Foglaljon most",
+      "return total": "oda-vissza összesen",
+      "one way": "egy irány",
+      "I don't have a listed fixed price for {from} to {to} yet, but I'll quote you directly.": "Még nincs megadott fix áram a(z) {from} - {to} útvonalra, de közvetlenül árajánlatot adok Önnek."
+    },
+    "sk": {
+      "Šibenik area": "Oblasť Šibenik",
+      "Airports": "Letiská",
+      "Hotels": "Hotely",
+      "Marinas": "Maríny",
+      "NP Krka": "NP Krka",
+      "Cities and towns": "Mestá a obce",
+      "Plitvice": "Plitvice",
+      "No matching location": "Žiadna zodpovedajúca lokalita",
+      "Please choose a pickup location and destination.": "Vyberte miesto vyzdvihnutia a cieľ.",
+      "For 9 to 12 passengers I put together a van and my car, and drive the car myself. Contact me for a price.": "Pre 9 až 12 cestujúcich dávam dohromady dodávku a svoje auto, pričom auto šoférujem sám. Kontaktujte ma pre cenu.",
+      "Request a Quote": "Vyžiadať cenovú ponuku",
+      "For 5 to 8 passengers a van is needed. I don't run a van myself yet, but contact me and I'll do my best to arrange one for you.": "Pre 5 až 8 cestujúcich je potrebná dodávka. Sám dodávku zatiaľ nešoférujem, ale kontaktujte ma a urobím maximum, aby som vám ju zabezpečil.",
+      "A local ride within {from} is charged by the taxi meter, from &euro;10. See the <a href=\"#pricing\">local rates</a> below.": "Miestna jazda v rámci {from} sa účtuje podľa taxametra, od &euro;10. Pozrite si <a href=\"#pricing\">miestne ceny</a> nižšie.",
+      "Book Now": "Rezervovať teraz",
+      "return total": "spolu spiatočne",
+      "one way": "jednosmerne",
+      "I don't have a listed fixed price for {from} to {to} yet, but I'll quote you directly.": "Zatiaľ nemám uvedenú pevnú cenu za {from} do {to}, ale nacením vám ju priamo."
+    }
+  };
+  const t = (s) => (I18N[LANG] && I18N[LANG][s]) || s;
+  const tf = (s, vars) => { let r = t(s); for (const k in vars) r = r.split('{' + k + '}').join(vars[k]); return r; };
+
   const GROUPS = [
     { label: 'Šibenik area', items: ['Šibenik - center', 'Šibenik Bus Station', 'Šibenik Ferry Port', 'Brodarica - Šibenik', 'Zablaće', 'Bilice', 'Žaborić', 'Jadrija'] },
     { label: 'Airports', items: ['Split Airport (SPU)', 'Zadar Airport (ZAD)', 'Dubrovnik Airport (DBV)', 'Zagreb Airport (ZAG)'] },
@@ -2472,7 +2670,7 @@ if (quoteWidget) {
       g.className = 'combo-group';
       const gl = document.createElement('div');
       gl.className = 'combo-group-label';
-      gl.textContent = group.label;
+      gl.textContent = t(group.label);
       g.appendChild(gl);
       group.items.forEach((name) => {
         const btn = document.createElement('button');
@@ -2488,7 +2686,7 @@ if (quoteWidget) {
     });
     const empty = document.createElement('div');
     empty.className = 'combo-empty';
-    empty.textContent = 'No matching location';
+    empty.textContent = t('No matching location');
     empty.hidden = true;
     panel.appendChild(empty);
 
@@ -2611,7 +2809,7 @@ if (quoteWidget) {
     quoteResult.hidden = false;
 
     if (!from || !to) {
-      quoteResult.innerHTML = '<p>Please choose a pickup location and destination.</p>';
+      quoteResult.innerHTML = '<p>' + t('Please choose a pickup location and destination.') + '</p>';
       return;
     }
 
@@ -2625,23 +2823,23 @@ if (quoteWidget) {
     if (pax >= 9) {
       const url = bookingUrl({ ...base, priceParam: 'custom' });
       quoteResult.innerHTML =
-        '<p>For 9 to 12 passengers I put together a van and my car, and drive the car myself. Contact me for a price.</p>' +
-        '<a class="btn btn-primary quote-btn" href="' + url + '">Request a Quote</a>';
+        '<p>' + t('For 9 to 12 passengers I put together a van and my car, and drive the car myself. Contact me for a price.') + '</p>' +
+        '<a class="btn btn-primary quote-btn" href="' + url + '">' + t('Request a Quote') + '</a>';
       return;
     }
     if (pax >= 5) {
       const url = bookingUrl({ ...base, priceParam: 'custom' });
       quoteResult.innerHTML =
-        '<p>For 5 to 8 passengers a van is needed. I don\'t run a van myself yet, but contact me and I\'ll do my best to arrange one for you.</p>' +
-        '<a class="btn btn-primary quote-btn" href="' + url + '">Request a Quote</a>';
+        '<p>' + t('For 5 to 8 passengers a van is needed. I don\'t run a van myself yet, but contact me and I\'ll do my best to arrange one for you.') + '</p>' +
+        '<a class="btn btn-primary quote-btn" href="' + url + '">' + t('Request a Quote') + '</a>';
       return;
     }
 
     if (from === to) {
       const url = bookingUrl({ ...base, priceParam: 'meter' });
       quoteResult.innerHTML =
-        '<p>A local ride within ' + from + ' is charged by the taxi meter, from &euro;10. See the <a href="#pricing">local rates</a> below.</p>' +
-        '<a class="btn btn-primary quote-btn" href="' + url + '">Book Now</a>';
+        '<p>' + tf('A local ride within {from} is charged by the taxi meter, from &euro;10. See the <a href="#pricing">local rates</a> below.', { from: from }) + '</p>' +
+        '<a class="btn btn-primary quote-btn" href="' + url + '">' + t('Book Now') + '</a>';
       return;
     }
 
@@ -2650,20 +2848,20 @@ if (quoteWidget) {
       let total, sub;
       if (tripType === 'return') {
         total = oneway + priceOneWay(to, from);
-        sub = 'return total';
+        sub = t('return total');
       } else {
         total = oneway;
-        sub = 'one way';
+        sub = t('one way');
       }
       const url = bookingUrl({ ...base, priceParam: String(total) });
       quoteResult.innerHTML =
         '<div class="quote-price">&euro;' + total + ' <span class="quote-price-sub">' + sub + '</span></div>' +
-        '<a class="btn btn-primary quote-btn" href="' + url + '">Book Now</a>';
+        '<a class="btn btn-primary quote-btn" href="' + url + '">' + t('Book Now') + '</a>';
     } else {
       const url = bookingUrl({ ...base, priceParam: 'custom' });
       quoteResult.innerHTML =
-        '<p>I don\'t have a listed fixed price for ' + from + ' to ' + to + ' yet, but I\'ll quote you directly.</p>' +
-        '<a class="btn btn-primary quote-btn" href="' + url + '">Request a Quote</a>';
+        '<p>' + tf('I don\'t have a listed fixed price for {from} to {to} yet, but I\'ll quote you directly.', { from: from, to: to }) + '</p>' +
+        '<a class="btn btn-primary quote-btn" href="' + url + '">' + t('Request a Quote') + '</a>';
     }
   });
 

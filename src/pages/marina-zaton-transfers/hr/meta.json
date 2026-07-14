@@ -104,6 +104,36 @@
           }
         ]
       }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Gdje me preuzimate u Marina Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Odmah u marini, kod vašeg veza ili recepcije marine, kako vam odgovara. Recite mi svoj ponton ili ime broda pri rezervaciji i pronaći ću vas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta transfer do Zračne luke Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksna cijena po vozilu za do 4 putnika, dogovorena prije putovanja, s uključenim cestarinama, gorivom i prtljagom. Pogledajte cjenik iznad za sve rute."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unaprijed trebam rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Najmanje 2 sata unaprijed kako bih mogao potvrditi vozilo i vrijeme preuzimanja, a ranije za rane jutarnje letove i glavnu sezonu. Za brži prijevoz nazovite me ili pišite izravno na WhatsApp."
+          }
+        }
+      ]
     }
   ]
 }

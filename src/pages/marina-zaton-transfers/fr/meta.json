@@ -104,6 +104,36 @@
           }
         ]
       }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Où prenez-vous en charge à la Marina Zaton ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Directement à la marina, près de votre poste d'amarrage ou à la réception de la marina, selon ce qui vous convient. Indiquez-moi votre ponton ou le nom de votre bateau lors de la réservation et je vous trouverai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien coûte un transfert vers l'aéroport de Split ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un prix fixe par voiture pour un maximum de 4 passagers, convenu avant votre voyage, péages, carburant et bagages inclus. Consultez la liste des prix ci-dessus pour chaque trajet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de temps à l'avance dois-je réserver ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Au moins 2 heures à l'avance pour que je puisse confirmer la voiture et votre heure de prise en charge, et plus tôt pour les vols matinaux et la haute saison. Pour un trajet plus rapproché, appelez-moi ou écrivez-moi directement sur WhatsApp."
+          }
+        }
+      ]
     }
   ]
 }

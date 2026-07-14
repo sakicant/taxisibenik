@@ -1,0 +1,79 @@
+{
+  "slug": "pogosta-vprasanja",
+  "title": "Pogosta vprašanja | TAXI Antonio",
+  "description": "Hitri odgovori o rezervaciji, cenah in lokalnih poteh po Šibeniku.",
+  "keywords": "pogosta vprašanja",
+  "og_image": "https://taxisibenik.hr/assets/og-image.png",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako rezerviram taksi iz Šibenika?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pokličite +385 99 447 1013, pišite mi na WhatsApp ali pošljite e-pošto. Potrebujem vaš kraj prevzema, cilj ter želeni čas prevzema ali prihoda."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako zgodaj naprej naj rezerviram?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zahteve v zadnjem trenutku sprejemam v svojem delovnem času, vendar rezervacija vnaprej zagotavlja razpoložljivost."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kaj pomeni \"fiksna cena\"? Kaj je vključeno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Moje fiksne cene vključujejo prevoz, gorivo, cestnine in pomoč s prtljago. Brez skritih stroškov. Dodatni postanki ali dolgo čakanje lahko stanejo več, kar vam vedno povem vnaprej."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ali sprejemate predplačila?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Za potrditev rezervacije je potrebno 20 % predplačilo (najmanj €20). Vožnje s ceno €20 ali manj je treba v celoti plačati vnaprej. Če želite, lahko celoten znesek plačate tudi vnaprej. Predplačila je mogoče izvesti z bančnim nakazilom (SEPA) ali s kartico, preostali znesek pa se poravna z menoj na dan prevoza."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ali izvajate prevzeme pri bolnišnici v Šibeniku?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Potnike vozim do Splošne bolnišnice Šibenik in nazaj ter smem zapeljati na bolnišnično območje, tako da ni dolge hoje s parkirišča. Sporočite mi, če potrebujete pomoč do vhoda."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ali me lahko peljete do trajekta za otoke?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Odlagam in prevzemam na šibeniškem trajektnem in katamaranskem pristanišču za Zlarin, Prvić, Kaprije in Žirje ter za ladjo na Obonjan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ali prevzemate iz šibeniških hotelov, z avtobusne in železniške postaje?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Strežem vsem lokalnim hotelom, avtobusni postaji, železniškima postajama v Šibeniku in Perkoviću ter trajektnemu pristanišču, s pomočjo pri prtljagi in tablo z imenom na zahtevo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ali sprejemate plačila s kartico v avtomobilu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, sprejemam kartice in druge brezstične načine plačila."
+          }
+        }
+      ]
+    }
+  ]
+}

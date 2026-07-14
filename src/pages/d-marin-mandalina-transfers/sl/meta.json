@@ -104,6 +104,36 @@
           }
         ]
       }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kje prevzamete goste pri D-Marin Marina Mandalina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Prav v marini, ob vašem privezu ali na recepciji marine, kar koli vam ustreza. Ob rezervaciji mi sporočite svoj pomol ali ime plovila in vas bom našel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko stane prevoz do letališča Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksna cena na avto za do 4 potnike, dogovorjena pred potjo, z vključenimi cestninami, gorivom in prtljago. Za vsako pot si oglejte cenik zgoraj."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako vnaprej naj rezerviram?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da lahko potrdim avto in vašo uro prevzema, ter še prej za zgodnje jutranje lete in glavno sezono. Za prevoz prej me pokličite ali mi pišite prek WhatsAppa neposredno."
+          }
+        }
+      ]
     }
   ]
 }

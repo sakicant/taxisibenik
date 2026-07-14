@@ -1,0 +1,79 @@
+{
+  "slug": "gyakori-kerdesek",
+  "title": "Gyakori kérdések | TAXI Antonio",
+  "description": "Gyors válaszok a foglalásról, az árakról és a Šibenik körüli helyi utakról.",
+  "keywords": "gyakori kérdések",
+  "og_image": "https://taxisibenik.hr/assets/og-image.png",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hogyan foglalhatok taxit Šibenikből?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hívja a +385 99 447 1013 számot, írjon nekem WhatsAppon, vagy küldjön egy e-mailt. Szükségem van a felvételi helyre, az úti célra, valamint a kívánt felvételi vagy érkezési időpontra."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel előre érdemes foglalni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az utolsó pillanatban érkező kéréseket munkaidőmben elfogadom, de az előzetes foglalás garantálja a rendelkezésre állást."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mit jelent a \"fix ár\"? Mit tartalmaz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fix áraim tartalmazzák a fuvart, az üzemanyagot, az útdíjakat és a csomagoknál nyújtott segítséget. Nincsenek rejtett díjak. A további megállók vagy hosszabb várakozás többe kerülhet, és ezt mindig előre közlöm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fogadnak előleget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A foglalás megerősítéséhez 20% előleg szükséges (minimum €20). A €20 vagy annál alacsonyabb árú fuvarokat teljes egészében előre kell fizetni. Ha szeretné, a teljes összeget is kifizetheti előre. Az előleg banki átutalással (SEPA) vagy kártyával fizethető, a fennmaradó összeget pedig a transzfer napján rendezi velem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Végeznek kórházi felvételt Šibenikben?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A šibeniki megyei kórházba és onnan is szállítom az utasokat, és behajthatok a kórház területére, így nem kell hosszan gyalogolni egy parkolóból. Szóljon, ha segítségre van szüksége a bejáratig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "El tudnak vinni a kompkikötőbe a szigetekhez?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Le- és felveszem az utasokat a šibeniki komp- és katamaránkikötőnél Zlarin, Prvić, Kaprije és Žirje felé, valamint az Obonjanra tartó hajóhoz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Felvesznek šibeniki szállodáktól, a busz- és vasútállomásról?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Kiszolgálom az összes helyi szállodát, a buszállomást, a šibeniki és perkovići vasútállomást, valamint a kompkikötőt, csomagsegítséggel és kérésre névtáblával."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Elfogadnak kártyás fizetést az autóban?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen, elfogadom a kártyás és egyéb érintés nélküli fizetési módokat."
+          }
+        }
+      ]
+    }
+  ]
+}

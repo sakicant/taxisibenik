@@ -104,6 +104,36 @@
           }
         ]
       }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hol veszi fel az utasokat a Marina Zatonnál?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Közvetlenül a marinánál, a kikötőhelyénél vagy a marina recepciójánál, ahogy Önnek megfelel. Adja meg a pontonját vagy a hajója nevét a foglaláskor, és megtalálom Önt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a transzfer a Split repülőtérre?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix ár autónként, legfeljebb 4 utasra, még az utazás előtt megbeszélve, útdíjjal, üzemanyaggal és poggyásszal együtt. Minden útvonal árát a fenti árlistában találja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel előre foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy megerősíthessem az autót és a felvételi időpontot, korai reggeli járatoknál és főszezonban pedig még korábban. Ha hamarabb kell, hívjon vagy írjon WhatsAppon közvetlenül."
+          }
+        }
+      ]
     }
   ]
 }

@@ -104,6 +104,36 @@
           }
         ]
       }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Gdzie odbierasz przy D-Marin Marina Mandalina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bezpośrednio przy marinie, przy Twoim miejscu cumowania lub przy recepcji mariny, jak Ci wygodniej. Podaj numer pomostu lub nazwę łodzi przy rezerwacji, a Cię odnajdę."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje transfer na lotnisko Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stała cena za samochód dla maksymalnie 4 pasażerów, uzgodniona przed podróżą, z wliczonymi opłatami drogowymi, paliwem i bagażem. Zobacz cennik powyżej dla każdej trasy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Z jakim wyprzedzeniem powinienem rezerwować?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Co najmniej 2 godziny wcześniej, żebym mógł potwierdzić samochód i godzinę odbioru, a wcześniej przy porannych lotach i w szczycie sezonu. Po szybszy przejazd zadzwoń lub napisz do mnie bezpośrednio na WhatsApp."
+          }
+        }
+      ]
     }
   ]
 }

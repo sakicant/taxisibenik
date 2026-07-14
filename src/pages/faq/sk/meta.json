@@ -1,0 +1,79 @@
+{
+  "slug": "caste-otazky",
+  "title": "Časté otázky | TAXI Antonio",
+  "description": "Rýchle odpovede o rezervácii, cenách a miestnych cestách po okolí Šibeniku.",
+  "keywords": "časté otázky",
+  "og_image": "https://taxisibenik.hr/assets/og-image.png",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ako si zarezervujem taxi zo Šibeniku?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zavolajte na +385 99 447 1013, napíšte mi na WhatsApp alebo pošlite e-mail. Potrebujem miesto vyzdvihnutia, cieľ cesty a preferovaný čas vyzdvihnutia alebo príchodu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ako dlho vopred si mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Požiadavky na poslednú chvíľu prijímam počas pracovných hodín, no rezervácia vopred zaručuje dostupnosť."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Čo znamená „pevná cena“? Čo je zahrnuté?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Moje pevné ceny zahŕňajú prepravu, palivo, mýto a pomoc s batožinou. Žiadne skryté poplatky. Ďalšie zastávky alebo dlhé čakanie môžu stáť viac a vždy vám to poviem vopred."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Prijímate zálohové platby?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Potvrdenie rezervácie si vyžaduje zálohu vo výške 20 % (minimálne €20). Jazdy s cenou €20 alebo nižšou si vyžadujú plnú platbu vopred. Ak chcete, môžete zaplatiť celú sumu vopred. Zálohy je možné uhradiť bankovým prevodom (SEPA) alebo kartou, pričom zvyšok sumy sa vyrovná so mnou v deň transferu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vyzdvihujete cestujúcich pri nemocnici v Šibeniku?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Vozím cestujúcich do Všeobecnej nemocnice v Šibeniku a z nej a smiem vojsť autom do areálu nemocnice, takže nie je potrebná dlhá chôdza z parkoviska. Dajte mi vedieť, ak potrebujete pomoc k vchodu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Odveziete ma na trajekt na ostrovy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Vysádzam a vyzdvihujem v šibenickom trajektovom a katamaranovom prístave pre Zlarin, Prvić, Kaprije a Žirje a pri lodi na Obonjan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vyzdvihujete pri šibenických hoteloch, autobusovej a železničnej stanici?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Obsluhujem všetky miestne hotely, autobusovú stanicu, železničné stanice Šibenik a Perković a trajektový prístav, s pomocou s batožinou a menovkou na požiadanie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Prijímate platby kartou v aute?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno, prijímam karty a iné bezkontaktné spôsoby platby."
+          }
+        }
+      ]
+    }
+  ]
+}
