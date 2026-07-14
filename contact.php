@@ -23,6 +23,13 @@ if (isset($_POST['company']) && trim((string) $_POST['company']) !== '') {
     exit;
 }
 
+// GDPR: the sender must tick the privacy-policy consent box.
+if (empty($_POST['consent'])) {
+    http_response_code(400);
+    echo json_encode(['success' => false, 'error' => 'Please accept the privacy policy to send your message.']);
+    exit;
+}
+
 function clean_line($value) {
     return trim(str_replace(["\r", "\n"], '', $value));
 }

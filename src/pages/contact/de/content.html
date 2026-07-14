@@ -48,6 +48,10 @@
         <label for="message">Nachricht</label>
         <textarea id="message" name="message" rows="5" required placeholder="Nennen Sie mir Ihren Abholort, das Datum und das Ziel..."></textarea>
 
+        <label class="form-consent">
+          <input type="checkbox" name="consent" value="1" required>
+          <span>Ich habe die <a href="/de/datenschutz/">Datenschutzerklärung</a> gelesen und stimme ihr zu.</span>
+        </label>
         <button type="submit" class="btn btn-primary">Nachricht senden</button>
         <p class="form-note" id="form-note"></p>
       </form>

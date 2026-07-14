@@ -1072,6 +1072,10 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
   pointer-events: none;
 }
 
+.form-consent { display: flex; align-items: flex-start; gap: 10px; margin: 4px 0 6px; font-size: 0.9rem; color: var(--gray-600); }
+.form-consent input { margin-top: 3px; flex-shrink: 0; width: 16px; height: 16px; accent-color: var(--gold); }
+.form-consent a { color: var(--gold); text-decoration: underline; }
+
 .whatsapp-float {
   position: fixed;
   right: 22px;
@@ -1218,9 +1222,11 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
   flex-direction: column;
   gap: 10px;
 }
-.offer-when { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; font-size: 0.85rem; }
-.offer-date { font-weight: 600; color: var(--black); }
-.offer-window { color: #b8860b; font-weight: 700; white-space: nowrap; }
+.offer-when { display: flex; flex-wrap: wrap; gap: 10px 24px; }
+.offer-meta { display: flex; flex-direction: column; gap: 2px; }
+.offer-lbl { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--gray-600); font-weight: 700; }
+.offer-date { font-weight: 700; color: var(--black); font-size: 0.98rem; }
+.offer-window { color: #b8860b; font-weight: 700; font-size: 0.98rem; }
 .offer-route { font-family: var(--font-head); font-size: 1.25rem; font-weight: 700; color: var(--black); line-height: 1.2; }
 .offer-route span { color: #999; font-size: 0.85rem; font-family: var(--font-body); font-weight: 400; }
 .offer-note { font-size: 0.88rem; color: var(--gray-600); margin: 0; }

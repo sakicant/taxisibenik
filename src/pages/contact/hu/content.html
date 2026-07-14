@@ -48,6 +48,10 @@
         <label for="message">Üzenet</label>
         <textarea id="message" name="message" rows="5" required placeholder="Adja meg a felvételi helyet, a dátumot és az úti célt..."></textarea>
 
+        <label class="form-consent">
+          <input type="checkbox" name="consent" value="1" required>
+          <span>Elolvastam és elfogadom az <a href="/hu/adatvedelem/">Adatvédelmi szabályzatot</a>.</span>
+        </label>
         <button type="submit" class="btn btn-primary">Üzenet küldése</button>
         <p class="form-note" id="form-note"></p>
       </form>

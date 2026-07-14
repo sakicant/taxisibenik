@@ -48,6 +48,10 @@
         <label for="message">Bericht</label>
         <textarea id="message" name="message" rows="5" required placeholder="Vertel me uw ophaallocatie, datum en bestemming..."></textarea>
 
+        <label class="form-consent">
+          <input type="checkbox" name="consent" value="1" required>
+          <span>Ik heb het <a href="/nl/privacy/">Privacybeleid</a> gelezen en ga ermee akkoord.</span>
+        </label>
         <button type="submit" class="btn btn-primary">Bericht versturen</button>
         <p class="form-note" id="form-note"></p>
       </form>

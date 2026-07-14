@@ -34,7 +34,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Allura&family=Cormorant+Garamond:wght@600&family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/styles.css?v=3cc1a83500">
+<link rel="stylesheet" href="/styles.css?v=5392e4a7d1">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -688,6 +688,7 @@
       </div>
 
       <form class="contact-form" id="contact-form" action="/contact.php" method="POST">
+        <input type="text" name="company" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
         <h3>Pošljite sporočilo</h3>
         <label for="name">Ime</label>
         <input type="text" id="name" name="name" required>
@@ -711,6 +712,10 @@
         <label for="message">Sporočilo</label>
         <textarea id="message" name="message" rows="5" required placeholder="Povejte mi kraj prevzema, datum in cilj..."></textarea>
 
+        <label class="form-consent">
+          <input type="checkbox" name="consent" value="1" required>
+          <span>Prebral/a sem in se strinjam s <a href="/sl/zasebnost/">Politiko zasebnosti</a>.</span>
+        </label>
         <button type="submit" class="btn btn-primary">Pošlji sporočilo</button>
         <p class="form-note" id="form-note"></p>
       </form>
@@ -811,6 +816,6 @@
   </svg>
 </a>
 
-<script src="/script.js?v=3cc1a83500"></script>
+<script src="/script.js?v=5392e4a7d1"></script>
 </body>
 </html>

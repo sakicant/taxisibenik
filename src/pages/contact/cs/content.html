@@ -48,6 +48,10 @@
         <label for="message">Zpráva</label>
         <textarea id="message" name="message" rows="5" required placeholder="Napište mi místo vyzvednutí, datum a cíl cesty..."></textarea>
 
+        <label class="form-consent">
+          <input type="checkbox" name="consent" value="1" required>
+          <span>Přečetl/a jsem si a souhlasím se <a href="/cs/ochrana-soukromi/">Zásadami ochrany soukromí</a>.</span>
+        </label>
         <button type="submit" class="btn btn-primary">Odeslat zprávu</button>
         <p class="form-note" id="form-note"></p>
       </form>

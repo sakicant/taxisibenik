@@ -3111,16 +3111,17 @@ if (offersList) {
           '\nOffer price: ' + priceLine + '\n\nMy name: \nPassengers: \nPhone: ';
         const mail = 'mailto:info@taxisibenik.hr?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
         return '<article class="offer-card" data-from="' + esc(o.route_from) + '">' +
-          '<div class="offer-when"><span class="offer-date">' + esc(dateStr) + '</span>' +
-          (win ? '<span class="offer-window">' + esc(win) + '</span>' : '') + '</div>' +
+          '<div class="offer-when">' +
+          '<div class="offer-meta"><span class="offer-lbl">Date</span><span class="offer-date">' + esc(dateStr) + '</span></div>' +
+          (win ? '<div class="offer-meta"><span class="offer-lbl">Available pickup window</span><span class="offer-window">' + esc(win) + '</span></div>' : '') +
+          '</div>' +
           '<div class="offer-route">' + esc(o.route_from) + ' <span>to</span> ' + esc(o.route_to) + '</div>' +
-          (o.note ? '<p class="offer-note">' + esc(o.note) + '</p>' : '') +
           '<div class="offer-price">' + (orig ? '<span class="offer-orig">€' + orig + '</span>' : '') +
           '<span class="offer-now">€' + price + '</span>' +
           (o.capacity ? '<span class="offer-seats">up to ' + Number(o.capacity) + '</span>' : '') + '</div>' +
           '<div class="offer-actions">' +
-          '<a class="btn btn-primary" href="' + wa + '" target="_blank" rel="noopener">Book on WhatsApp</a>' +
-          '<a class="btn btn-secondary" href="' + mail + '">Book by email</a>' +
+          '<a class="btn btn-primary" href="' + wa + '" target="_blank" rel="noopener">Book through WhatsApp</a>' +
+          '<a class="btn btn-secondary" href="' + mail + '">Book through Email</a>' +
           '</div></article>';
       }).join('');
     })

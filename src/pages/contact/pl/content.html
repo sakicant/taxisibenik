@@ -48,6 +48,10 @@
         <label for="message">Wiadomość</label>
         <textarea id="message" name="message" rows="5" required placeholder="Podaj miejsce odbioru, datę i cel podróży..."></textarea>
 
+        <label class="form-consent">
+          <input type="checkbox" name="consent" value="1" required>
+          <span>Przeczytałem/am i akceptuję <a href="/pl/polityka-prywatnosci/">Politykę prywatności</a>.</span>
+        </label>
         <button type="submit" class="btn btn-primary">Wyślij wiadomość</button>
         <p class="form-note" id="form-note"></p>
       </form>
