@@ -159,6 +159,7 @@ body {
 
 .booking-notes { font-size: 0.88rem; color: var(--gray-600); background: var(--gray-100); padding: 10px 12px; border-radius: 6px; margin-bottom: 12px; }
 .booking-notes span { font-weight: 700; }
+.booking-cal { display: flex; flex-wrap: wrap; gap: 10px; margin: 4px 0 16px; }
 
 .booking-actions { display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 12px; }
 .inline-form label { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; color: var(--gray-600); display: flex; flex-direction: column; gap: 4px; }

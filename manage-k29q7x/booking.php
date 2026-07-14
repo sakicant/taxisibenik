@@ -15,6 +15,20 @@ $PAYMENTS = ['unpaid' => 'Unpaid', 'deposit' => 'Deposit paid', 'paid' => 'Paid 
 $csrf = tx_csrf_token();
 $returnUrl = 'booking.php?id=' . $id;
 function fmt_dt($date, $time) { if (!$date) return '&mdash;'; return e($date) . ($time ? ' ' . e(substr($time, 0, 5)) : ''); }
+
+// Google Calendar "add event" link (no API or Google login needed): opens a
+// prefilled event you just review and Save.
+function gcal_dt($date, $time, $addSeconds = 0) {
+    if (!$date) return null;
+    $ts = strtotime($date . ' ' . ($time ?: '00:00:00'));
+    return $ts === false ? null : date('Ymd\THis', $ts + $addSeconds);
+}
+function gcal_link($title, $start, $end, $details, $location) {
+    return 'https://calendar.google.com/calendar/render?' . http_build_query([
+        'action' => 'TEMPLATE', 'text' => $title, 'dates' => $start . '/' . $end,
+        'details' => $details, 'location' => $location, 'ctz' => 'Europe/Zagreb',
+    ]);
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -67,6 +81,39 @@ function fmt_dt($date, $time) { if (!$date) return '&mdash;'; return e($date) . 
         </div>
 
         <?php if ($b['notes']): ?><p class="booking-notes"><span>Customer notes:</span> <?= e($b['notes']) ?></p><?php endif; ?>
+
+        <?php
+          $calDetails = implode("\n", array_filter([
+              'Customer: ' . $b['customer_name'],
+              'Phone: ' . ($b['customer_phone'] ?: 'not provided'),
+              'Email: ' . $b['customer_email'],
+              'Passengers: ' . (int) $b['passengers'] . ', Luggage: ' . (int) $b['luggage'],
+              'Price: ' . ($b['quoted_price'] ?: 'custom'),
+              'Trip: ' . ($b['trip_type'] === 'return' ? 'Return' : 'One way'),
+              $b['flight'] ? 'Pickup details: ' . $b['flight'] : '',
+              !empty($b['dropoff_details']) ? 'Destination details: ' . $b['dropoff_details'] : '',
+              $b['notes'] ? 'Customer notes: ' . $b['notes'] : '',
+          ]));
+          $calStart = gcal_dt($b['pickup_date'], $b['pickup_time']);
+          $calEnd   = gcal_dt($b['pickup_date'], $b['pickup_time'], 7200);
+          $calMain  = ($calStart && $calEnd) ? gcal_link(
+              'Taxi #' . (int) $b['id'] . ': ' . $b['pickup'] . ' to ' . $b['dropoff'] . ' - ' . $b['customer_name'],
+              $calStart, $calEnd, $calDetails, $b['pickup']) : null;
+          $calReturn = null;
+          if ($b['trip_type'] === 'return' && $b['return_date']) {
+              $rs = gcal_dt($b['return_date'], $b['return_time']);
+              $re = gcal_dt($b['return_date'], $b['return_time'], 7200);
+              if ($rs && $re) $calReturn = gcal_link(
+                  'Taxi #' . (int) $b['id'] . ' return: ' . $b['dropoff'] . ' to ' . $b['pickup'] . ' - ' . $b['customer_name'],
+                  $rs, $re, $calDetails, $b['dropoff']);
+          }
+        ?>
+        <?php if ($calMain): ?>
+        <p class="booking-cal">
+          <a class="admin-btn admin-btn-primary" href="<?= e($calMain) ?>" target="_blank" rel="noopener">Add to Google Calendar</a>
+          <?php if ($calReturn): ?><a class="admin-btn" href="<?= e($calReturn) ?>" target="_blank" rel="noopener">Add return leg</a><?php endif; ?>
+        </p>
+        <?php endif; ?>
 
         <form method="POST" action="update.php" class="booking-edit">
           <input type="hidden" name="csrf" value="<?= e($csrf) ?>">
