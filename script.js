@@ -3077,17 +3077,40 @@ if (offersList) {
         offersList.innerHTML = '<p class="offers-status">No special offers right now. Check back soon, or <a href="/contact/">contact me</a> for a fixed price on any route.</p>';
         return;
       }
+      // Filter by pickup: a dropdown of the distinct starting points.
+      const froms = Array.from(new Set(offers.map((o) => o.route_from).filter(Boolean))).sort();
+      if (froms.length > 1 && !document.getElementById('offers-from')) {
+        const fdiv = document.createElement('div');
+        fdiv.className = 'offers-filter';
+        fdiv.innerHTML = '<label for="offers-from">Filter by pickup</label>' +
+          '<select id="offers-from"><option value="">All pickups</option>' +
+          froms.map((f) => '<option value="' + esc(f) + '">' + esc(f) + '</option>').join('') + '</select>';
+        offersList.parentNode.insertBefore(fdiv, offersList);
+        fdiv.querySelector('#offers-from').addEventListener('change', function () {
+          const v = this.value;
+          offersList.querySelectorAll('.offer-card').forEach((c) => {
+            c.style.display = (!v || c.getAttribute('data-from') === v) ? '' : 'none';
+          });
+        });
+      }
+
       offersList.innerHTML = offers.map((o) => {
         const price = Math.round(Number(o.price));
         const orig = o.original_price ? Math.round(Number(o.original_price)) : null;
         const dateStr = fmtDate(o.offer_date);
         const win = (o.window_start && o.window_end) ? (hm(o.window_start) + ' - ' + hm(o.window_end)) : '';
-        const waMsg = 'Hi Antonio, I would like to grab the special offer: ' + o.route_from + ' to ' + o.route_to +
-          ' on ' + dateStr + (win ? ' (' + win + ')' : '') + ' for €' + price + '.\nMy name: \nPassengers: ';
+        const priceLine = '€' + price + (orig ? ' (instead of €' + orig + ')' : '');
+        // Both actions say clearly this came from the Special Offers page.
+        const waMsg = 'Hi Antonio, I saw this special offer on your offers page and would like to book it:\n' +
+          o.route_from + ' to ' + o.route_to + ' on ' + dateStr + (win ? ' (' + win + ')' : '') +
+          ' for ' + priceLine + '.\nMy name: \nPassengers: ';
         const wa = 'https://wa.me/385994471013?text=' + encodeURIComponent(waMsg);
-        const bookUrl = '/book/?from=' + encodeURIComponent(o.route_from) + '&to=' + encodeURIComponent(o.route_to) +
-          '&price=' + price + '&trip=oneway&pax=1&lug=1';
-        return '<article class="offer-card">' +
+        const subject = 'Special offer: ' + o.route_from + ' to ' + o.route_to + ' (' + dateStr + ')';
+        const body = 'Hi Antonio,\n\nI saw this special offer on your offers page and would like to book it:\n' +
+          o.route_from + ' to ' + o.route_to + '\nDate: ' + dateStr + (win ? '\nTime: ' + win : '') +
+          '\nOffer price: ' + priceLine + '\n\nMy name: \nPassengers: \nPhone: ';
+        const mail = 'mailto:info@taxisibenik.hr?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+        return '<article class="offer-card" data-from="' + esc(o.route_from) + '">' +
           '<div class="offer-when"><span class="offer-date">' + esc(dateStr) + '</span>' +
           (win ? '<span class="offer-window">' + esc(win) + '</span>' : '') + '</div>' +
           '<div class="offer-route">' + esc(o.route_from) + ' <span>to</span> ' + esc(o.route_to) + '</div>' +
@@ -3096,8 +3119,8 @@ if (offersList) {
           '<span class="offer-now">€' + price + '</span>' +
           (o.capacity ? '<span class="offer-seats">up to ' + Number(o.capacity) + '</span>' : '') + '</div>' +
           '<div class="offer-actions">' +
-          '<a class="btn btn-primary" href="' + wa + '" target="_blank" rel="noopener">Grab on WhatsApp</a>' +
-          '<a class="btn btn-secondary" href="' + bookUrl + '">Book</a>' +
+          '<a class="btn btn-primary" href="' + wa + '" target="_blank" rel="noopener">Book on WhatsApp</a>' +
+          '<a class="btn btn-secondary" href="' + mail + '">Book by email</a>' +
           '</div></article>';
       }).join('');
     })

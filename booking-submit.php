@@ -15,6 +15,13 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     exit;
 }
 
+// Throttle abuse: at most 6 booking submissions per IP per hour.
+if (!tx_rate_limit('booking', 6, 3600)) {
+    http_response_code(429);
+    echo json_encode(['success' => false, 'error' => 'Too many requests. Please try again shortly, or call/WhatsApp me.']);
+    exit;
+}
+
 function field($key, $max = 255)
 {
     $v = isset($_POST[$key]) ? trim((string) $_POST[$key]) : '';
