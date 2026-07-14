@@ -18,11 +18,12 @@ return [
     // it is not flagged as spoofed.
     'mail_from' => 'noreply@taxisibenik.hr',
 
-    // Admin dashboard login.
-    // Username you type at the admin login page, and a password HASH (not the raw password).
-    // Generate the hash once by running, on the server:
-    //   php -r "echo password_hash('your-strong-password', PASSWORD_DEFAULT), PHP_EOL;"
-    // then paste the printed string below.
-    'admin_user' => 'antonio',
-    'admin_pass_hash' => 'PASTE_PASSWORD_HASH_HERE',
+    // Admin gate. The admin area is behind an HTTP Basic Auth prompt: nobody can
+    // open any admin page without this username + password. The password is
+    // stored as a salted SHA-256, never in plain text. The developer generates
+    // the salt and hash for you; paste both below. To change the password later,
+    // regenerate: sha256(salt . new-password).
+    'admin_user'        => 'antonio',
+    'admin_pass_salt'   => 'PASTE_SALT_HERE',
+    'admin_pass_sha256' => 'PASTE_HASH_HERE',
 ];

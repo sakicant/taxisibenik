@@ -1,0 +1,18 @@
+# Admin area. Everything here is gated by the HTTP Basic Auth check in auth.php.
+
+# No directory listing.
+Options -Indexes
+
+# Pass the HTTP Authorization header through to PHP on hosts (CGI/FastCGI) that
+# don't do it by default, so the Basic Auth gate can read the credentials.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTP:Authorization} .
+  RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+</IfModule>
+SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
+
+# Keep this folder out of search engines regardless of robots.txt.
+<IfModule mod_headers.c>
+  Header set X-Robots-Tag "noindex, nofollow"
+</IfModule>

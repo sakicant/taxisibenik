@@ -5,6 +5,43 @@
 
 require __DIR__ . '/../db.php';
 
+// ---------------------------------------------------------------------------
+// HTTP Basic Auth gate. Nothing in this folder (not even the login page) opens
+// until the browser sends the right credentials, so the admin is unreachable to
+// the public. One password gets you all the way in. Credentials live in
+// config.php on the server (admin_user + salted SHA-256), never in the repo.
+// ---------------------------------------------------------------------------
+(function () {
+    $cfg  = tx_config();
+    $user = (string) ($cfg['admin_user'] ?? '');
+    $salt = (string) ($cfg['admin_pass_salt'] ?? '');
+    $hash = (string) ($cfg['admin_pass_sha256'] ?? '');
+
+    $u = $_SERVER['PHP_AUTH_USER'] ?? '';
+    $p = $_SERVER['PHP_AUTH_PW'] ?? '';
+    // Some shared hosts (CGI/FastCGI PHP) don't populate PHP_AUTH_*; recover the
+    // credentials from the Authorization header the folder's .htaccess passes on.
+    if ($u === '') {
+        $hdr = $_SERVER['HTTP_AUTHORIZATION'] ?? ($_SERVER['REDIRECT_HTTP_AUTHORIZATION'] ?? '');
+        if (stripos($hdr, 'basic ') === 0) {
+            $dec = base64_decode(substr($hdr, 6));
+            if ($dec !== false && strpos($dec, ':') !== false) {
+                list($u, $p) = explode(':', $dec, 2);
+            }
+        }
+    }
+
+    $ok = $user !== '' && $hash !== ''
+        && hash_equals($user, (string) $u)
+        && hash_equals($hash, hash('sha256', $salt . (string) $p));
+    if (!$ok) {
+        header('WWW-Authenticate: Basic realm="TAXI Antonio admin"');
+        header('Content-Type: text/plain; charset=utf-8');
+        http_response_code(401);
+        exit('Authentication required.');
+    }
+})();
+
 if (session_status() !== PHP_SESSION_ACTIVE) {
     session_set_cookie_params([
         'httponly' => true,
@@ -13,6 +50,10 @@ if (session_status() !== PHP_SESSION_ACTIVE) {
     ]);
     session_start();
 }
+
+// The Basic Auth prompt above already proved identity, so treat the session as
+// logged in and skip the separate login form entirely.
+$_SESSION['admin_ok'] = true;
 
 function tx_is_logged_in()
 {
