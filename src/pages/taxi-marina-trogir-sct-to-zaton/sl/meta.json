@@ -1,0 +1,81 @@
+{
+  "slug": "taksi-marina-trogir-sct-zaton",
+  "title": "Taksi Marina Trogir (SCT) - Zaton | Fiksna cena €130 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Marina Trogir (SCT) - Zaton. Fiksna cena €130 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "keywords": "taksi marina trogir (sct) - zaton, prevoz marina trogir (sct) - zaton, letališki prevoz marina trogir (sct) - zaton",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Marina Trogir (SCT) - Zaton",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Marina Trogir (SCT) - Zaton, 130 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Trogir (SCT)",
+        "Zaton"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-marina-trogir-sct-zaton/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Marina Trogir (SCT) - Zaton, na vozilo do 4 potnike. Povratno 260 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko stane prevoz na relaciji Marina Trogir (SCT) - Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 130 na vozilo, do 4 potnike, enosmerno, s cestninami, gorivom in prtljago. Povratna vožnja je 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Me lahko poberete kar v marini?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Pričakam vas pri vhodu v marino ali na recepciji in pomagam s prtljago, tako da greste naravnost s pomola do vozila."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lahko prevoz prilagodite moji plovbi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Ob rezervaciji mi pošljite uro najema, prijave ali odhoda in prevzem načrtujem glede na to."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in uro prevzema. Za hitrejšo vožnjo me pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

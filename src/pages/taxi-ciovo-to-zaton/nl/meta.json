@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-ciovo-zaton",
+  "title": "Taxi Čiovo - Zaton | Vaste prijs €130 | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Čiovo - Zaton. Vaste prijs €130 per voertuig, tot 4 passagiers, van deur tot deur. Boek rechtstreeks bij Antonio.",
+  "keywords": "taxi čiovo - zaton, transfer čiovo - zaton, luchthaventransfer čiovo - zaton",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privé taxitransfer",
+      "name": "Taxi Čiovo - Zaton",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Čiovo - Zaton, 130 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Zaton"
+      ],
+      "url": "https://taxisibenik.hr/nl/taxi-ciovo-zaton/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Privérit enkele reis, traject Čiovo - Zaton, per voertuig tot 4 passagiers. Retour 260 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost een taxi op het traject Čiovo - Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vast 130 per voertuig tot 4 passagiers, enkele reis, bagage inbegrepen. Een retour kost 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Waar haalt u me op?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aan uw exacte adres, of het nu een huis, hotel of appartement is. Stuur het adres bij de reservering en ik bevestig de ontmoetingsplek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe ver van tevoren reserveren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minstens 2 uur van tevoren, zodat ik het voertuig en de ophaaltijd kan bevestigen. Voor een snelle rit belt u of schrijft u me op WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

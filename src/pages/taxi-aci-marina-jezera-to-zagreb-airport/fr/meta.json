@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-jezera-aeroport-zagreb",
+  "title": "Taxi ACI Marina Jezera - Aéroport de Zagreb | Prix fixe €485 | TAXI Antonio",
+  "description": "Taxi et transfert privé, trajet ACI Marina Jezera - Aéroport de Zagreb. Prix fixe €485 par véhicule, jusqu'à 4. Réservez avec Antonio.",
+  "keywords": "taxi aci marina jezera - aéroport de zagreb, transfert aci marina jezera - aéroport de zagreb, transfert aéroport aci marina jezera - aéroport de zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfert taxi privé",
+      "name": "Taxi ACI Marina Jezera - Aéroport de Zagreb",
+      "description": "Taxi et transfert privé à prix fixe, trajet ACI Marina Jezera - Aéroport de Zagreb, 485 euros par véhicule jusqu'à 4 passagers, porte à porte.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Jezera",
+        "Aéroport de Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/fr/taxi-aci-marina-jezera-aeroport-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Trajet privé aller simple, trajet ACI Marina Jezera - Aéroport de Zagreb, par véhicule jusqu'à 4 passagers. Aller-retour 970 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Combien coûte un taxi sur le trajet ACI Marina Jezera - Aéroport de Zagreb ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "485 fixe par véhicule, aller simple, jusqu'à 4 passagers. Le prix est par véhicule, pas par personne, et comprend péages, carburant et bagages. Un aller-retour coûte 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "À quelle heure partir pour mon vol ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En règle générale, environ 3 heures avant un vol international et 2 heures avant un vol intérieur. Indiquez-moi l'heure du vol et je confirme la prise en charge exacte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Me déposez-vous jusqu'au terminal des départs ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Je vous conduis directement au terminal des départs et vous aide avec les bagages. Pas de marche depuis le parking, pas de navette."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de temps à l'avance réserver ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Au moins 2 heures avant, pour que je confirme le véhicule et la prise en charge, et plus tôt pour les vols matinaux et en haute saison. Pour un trajet de dernière minute, appelez-moi ou écrivez-moi sur WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

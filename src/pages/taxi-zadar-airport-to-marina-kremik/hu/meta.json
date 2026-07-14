@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-repter-zadar-marina-kremik",
+  "title": "Taxi Zadar repülőtér - Marina Kremik | Fix ár €160 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Zadar repülőtér - Marina Kremik. Fix ár €160 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi zadar repülőtér - marina kremik, transzfer zadar repülőtér - marina kremik, reptéri transzfer zadar repülőtér - marina kremik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Zadar repülőtér - Marina Kremik",
+      "description": "Privát taxi és transzfer fix áron, Zadar repülőtér - Marina Kremik, 160 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zadar repülőtér",
+        "Marina Kremik"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-repter-zadar-marina-kremik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "160",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Zadar repülőtér - Marina Kremik, járművenként max. 4 utasra. Oda-vissza 320 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hol fogad engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A megérkezési csarnokban, közvetlenül a csomagfelvétel után, névtáblával. Segítek a csomaggal, és a járműhöz kísérem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi van, ha a járatom késik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Semmi gond. A járatát valós időben követem, és a felvételt a tényleges leszálláshoz igazítom, a várakozásért felár nélkül."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a transzfer a Zadar repülőtér - Marina Kremik útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 160 járművenként max. 4 utasra, egy irány, útdíj és csomag beleértve. Az oda-vissza út 320."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy a járatához igazítsam. Aznapi felvételhez hirtelen változás után hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

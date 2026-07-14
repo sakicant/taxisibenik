@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-drnis-to-marina-kremik",
+  "title": "Taxi Drniš to Marina Kremik | Fixed €90 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Drniš to Marina Kremik. Fixed €90 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi drniš to marina kremik, transfer drniš to marina kremik, drniš to marina kremik taxi, drniš to marina kremik transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Drniš to Marina Kremik",
+      "description": "Private, fixed-price taxi and transfer from Drniš to Marina Kremik, 90 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Drniš",
+        "Marina Kremik"
+      ],
+      "url": "https://taxisibenik.hr/taxi-drnis-to-marina-kremik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "90",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Drniš to Marina Kremik, per car for up to 4 passengers. Return 180 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a transfer from Drniš to Marina Kremik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 90 per car for up to 4 passengers, one way, with tolls, fuel and luggage included. A return trip is 180."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you collect right at the marina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. I meet you at the marina entrance or reception and help with your luggage, so you go straight from the pontoon to the car."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you time the transfer around my boat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Send me your charter, check-in or departure time when you book and I plan the pickup around it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}

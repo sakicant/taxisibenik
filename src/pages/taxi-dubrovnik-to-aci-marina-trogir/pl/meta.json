@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-dubrovnik-aci-marina-trogir",
+  "title": "Taxi Dubrovnik - ACI Marina Trogir | Stała cena €435 | TAXI Antonio",
+  "description": "Taxi i prywatny transfer, trasa Dubrovnik - ACI Marina Trogir. Stała cena €435 za pojazd, do 4. Rezerwuj u Antonio.",
+  "keywords": "taxi dubrovnik - aci marina trogir, transfer dubrovnik - aci marina trogir, transfer lotniskowy dubrovnik - aci marina trogir",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Prywatny transfer taxi",
+      "name": "Taxi Dubrovnik - ACI Marina Trogir",
+      "description": "Taxi i prywatny transfer w stałej cenie, trasa Dubrovnik - ACI Marina Trogir, 435 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik",
+        "ACI Marina Trogir"
+      ],
+      "url": "https://taxisibenik.hr/pl/taxi-dubrovnik-aci-marina-trogir/",
+      "offers": {
+        "@type": "Offer",
+        "price": "435",
+        "priceCurrency": "EUR",
+        "description": "Prywatny przejazd w jedną stronę, trasa Dubrovnik - ACI Marina Trogir, za pojazd do 4 pasażerów. W obie strony 870 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje transfer na trasie Dubrovnik - ACI Marina Trogir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stałe 435 za pojazd do 4 pasażerów, w jedną stronę, z opłatami drogowymi, paliwem i bagażem w cenie. W obie strony 870."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy odbiór jest możliwy prosto z mariny?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Spotykam Pana/Panią przy wejściu do mariny lub w recepcji i pomagam z bagażem, żeby przejść prosto z pomostu do pojazdu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy można dopasować transfer do mojego rejsu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Proszę przesłać godzinę czarteru, zaokrętowania lub wypłynięcia przy rezerwacji, a zaplanuję odbiór pod nią."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Z jakim wyprzedzeniem rezerwować?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Co najmniej 2 godziny wcześniej, żebym potwierdził pojazd i godzinę odbioru. Na szybszy kurs zadzwoń lub napisz na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

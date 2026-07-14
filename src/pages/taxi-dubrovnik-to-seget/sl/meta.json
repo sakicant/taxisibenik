@@ -1,0 +1,81 @@
+{
+  "slug": "taksi-dubrovnik-seget",
+  "title": "Taksi Dubrovnik - Seget | Fiksna cena €420 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Dubrovnik - Seget. Fiksna cena €420 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "keywords": "taksi dubrovnik - seget, prevoz dubrovnik - seget, letališki prevoz dubrovnik - seget",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Dubrovnik - Seget",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Dubrovnik - Seget, 420 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik",
+        "Seget"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-dubrovnik-seget/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Dubrovnik - Seget, na vozilo do 4 potnike. Povratno 840 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Dubrovnik - Seget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 420 na vozilo do 4 potnike, enosmerno, s cestninami, gorivom in prtljago. Povratna vožnja je 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je prevoz zaseben ali deljen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsak prevoz je zaseben in od vrat do vrat, v Škodi Superb. Brez deljenja vozila in brez dodatnih postankov, razen če jih zahtevate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Se lahko ustavite po poti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Na daljših relacijah se rad ustavim za kavo, fotografijo ali kratko znamenitost. Samo povejte ob rezervaciji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in uro prevzema. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

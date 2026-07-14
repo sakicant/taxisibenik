@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-frapa-vodice",
+  "title": "Taxi Marina Frapa - Vodice | Festpreis €80 | TAXI Antonio",
+  "description": "Privates Taxi und Transfer, Strecke Marina Frapa - Vodice. Festpreis €80 pro Fahrzeug, bis zu 4 Fahrgäste, Tür zu Tür. Direkt bei Antonio buchen.",
+  "keywords": "taxi marina frapa - vodice, transfer marina frapa - vodice, flughafentransfer marina frapa - vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privater Taxitransfer",
+      "name": "Taxi Marina Frapa - Vodice",
+      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Marina Frapa - Vodice, 80 Euro pro Fahrzeug für bis zu 4 Fahrgäste, Tür zu Tür.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Frapa",
+        "Vodice"
+      ],
+      "url": "https://taxisibenik.hr/de/taxi-marina-frapa-vodice/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Einfache private Fahrt, Strecke Marina Frapa - Vodice, pro Fahrzeug für bis zu 4 Fahrgäste. Hin und zurück 160 Euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie viel kostet ein Transfer auf der Strecke Marina Frapa - Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fest 80 pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, mit Maut, Kraftstoff und Gepäck. Eine Hin- und Rückfahrt kostet 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie direkt an der Marina abholen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ich treffe Sie am Eingang oder an der Rezeption der Marina und helfe mit dem Gepäck, sodass Sie direkt vom Steg zum Fahrzeug gehen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie den Transfer auf mein Boot abstimmen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Senden Sie mir bei der Buchung Ihre Charter-, Check-in- oder Abfahrtszeit und ich plane die Abholung darum herum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie weit im Voraus sollte ich buchen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindestens 2 Stunden vorher, damit ich Fahrzeug und Abholzeit bestätigen kann. Für eine kurzfristige Fahrt rufen Sie an oder schreiben mir direkt auf WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

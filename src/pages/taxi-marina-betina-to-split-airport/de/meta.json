@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-betina-flughafen-split",
+  "title": "Taxi Marina Betina - Flughafen Split | Festpreis €150 | TAXI Antonio",
+  "description": "Privates Taxi und Transfer, Strecke Marina Betina - Flughafen Split. Festpreis €150 pro Fahrzeug, bis zu 4. Direkt bei Antonio buchen.",
+  "keywords": "taxi marina betina - flughafen split, transfer marina betina - flughafen split, flughafentransfer marina betina - flughafen split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privater Taxitransfer",
+      "name": "Taxi Marina Betina - Flughafen Split",
+      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Marina Betina - Flughafen Split, 150 Euro pro Fahrzeug für bis zu 4 Fahrgäste, Tür zu Tür.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Betina",
+        "Flughafen Split"
+      ],
+      "url": "https://taxisibenik.hr/de/taxi-marina-betina-flughafen-split/",
+      "offers": {
+        "@type": "Offer",
+        "price": "150",
+        "priceCurrency": "EUR",
+        "description": "Einfache private Fahrt, Strecke Marina Betina - Flughafen Split, pro Fahrzeug für bis zu 4 Fahrgäste. Hin und zurück 300 Euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie viel kostet ein Taxi auf der Strecke Marina Betina - Flughafen Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fest 150 pro Fahrzeug, einfache Fahrt, für bis zu 4 Fahrgäste. Der Preis gilt pro Fahrzeug, nicht pro Person, und umfasst Maut, Kraftstoff und Gepäck. Eine Hin- und Rückfahrt kostet 300."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann sollte ich zum Flughafen aufbrechen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In der Regel etwa 3 Stunden vor einem internationalen und 2 Stunden vor einem inländischen Flug. Nennen Sie mir Ihre Flugzeit und ich bestätige die genaue Abholung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fahren Sie bis zum Abflugterminal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ich fahre Sie direkt zum Abflugterminal und helfe mit dem Gepäck. Kein Fußweg vom Parkplatz und kein Shuttle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie weit im Voraus sollte ich buchen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindestens 2 Stunden vorher, damit ich Fahrzeug und Abholung bestätigen kann, und früher für frühe Flüge und die Hauptsaison. Für eine kurzfristige Fahrt rufen Sie an oder schreiben mir auf WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-hramina-luchthaven-zadar",
+  "title": "Taxi Marina Hramina - Luchthaven Zadar | Vaste prijs €115 | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Marina Hramina - Luchthaven Zadar. Vaste prijs €115 per voertuig, tot 4. Boek bij Antonio.",
+  "keywords": "taxi marina hramina - luchthaven zadar, transfer marina hramina - luchthaven zadar, luchthaventransfer marina hramina - luchthaven zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privé taxitransfer",
+      "name": "Taxi Marina Hramina - Luchthaven Zadar",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Marina Hramina - Luchthaven Zadar, 115 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Hramina",
+        "Luchthaven Zadar"
+      ],
+      "url": "https://taxisibenik.hr/nl/taxi-marina-hramina-luchthaven-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "115",
+        "priceCurrency": "EUR",
+        "description": "Privérit enkele reis, traject Marina Hramina - Luchthaven Zadar, per voertuig tot 4 passagiers. Retour 230 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost een taxi op het traject Marina Hramina - Luchthaven Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vast 115 per voertuig, enkele reis, tot 4 passagiers. De prijs is per voertuig, niet per persoon, en omvat tol, brandstof en bagage. Een retour kost 230."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe laat moet ik vertrekken voor mijn vlucht?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In de regel ongeveer 3 uur voor een internationale vlucht en 2 uur voor een binnenlandse. Geef me uw vluchttijd door en ik bevestig het exacte ophalen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zet u me af tot aan de vertrekhal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik breng u rechtstreeks naar de vertrekhal en help met de bagage. Geen wandeling vanaf de parkeerplaats, geen shuttlebus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe ver van tevoren reserveren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minstens 2 uur van tevoren, zodat ik het voertuig en het ophalen kan bevestigen, en eerder voor ochtendvluchten en in het hoogseizoen. Voor een snelle rit belt u of schrijft u me op WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

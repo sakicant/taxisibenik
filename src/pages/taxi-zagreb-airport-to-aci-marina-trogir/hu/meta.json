@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-repter-zagreb-aci-marina-trogir",
+  "title": "Taxi Zagreb repülőtér - ACI Marina Trogir | Fix ár €514 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Zagreb repülőtér - ACI Marina Trogir. Fix ár €514 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi zagreb repülőtér - aci marina trogir, transzfer zagreb repülőtér - aci marina trogir, reptéri transzfer zagreb repülőtér - aci marina trogir",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Zagreb repülőtér - ACI Marina Trogir",
+      "description": "Privát taxi és transzfer fix áron, Zagreb repülőtér - ACI Marina Trogir, 514 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zagreb repülőtér",
+        "ACI Marina Trogir"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-repter-zagreb-aci-marina-trogir/",
+      "offers": {
+        "@type": "Offer",
+        "price": "514",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Zagreb repülőtér - ACI Marina Trogir, járművenként max. 4 utasra. Oda-vissza 1028 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hol fogad engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A megérkezési csarnokban, közvetlenül a csomagfelvétel után, névtáblával. Segítek a csomaggal, és a járműhöz kísérem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi van, ha a járatom késik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Semmi gond. A járatát valós időben követem, és a felvételt a tényleges leszálláshoz igazítom, a várakozásért felár nélkül."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a transzfer a Zagreb repülőtér - ACI Marina Trogir útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 514 járművenként max. 4 utasra, egy irány, útdíj és csomag beleértve. Az oda-vissza út 1028."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy a járatához igazítsam. Aznapi felvételhez hirtelen változás után hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

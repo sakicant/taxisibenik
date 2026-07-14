@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-vodice-knin",
+  "title": "Taxi ACI Marina Vodice - Knin | Pevná cena €99 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, ACI Marina Vodice - Knin. Pevná cena €99 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi aci marina vodice - knin, transfer aci marina vodice - knin, letiskový transfer aci marina vodice - knin",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi ACI Marina Vodice - Knin",
+      "description": "Súkromné taxi a transfer za pevnú cenu, ACI Marina Vodice - Knin, 99 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Vodice",
+        "Knin"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-aci-marina-vodice-knin/",
+      "offers": {
+        "@type": "Offer",
+        "price": "99",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, ACI Marina Vodice - Knin, za vozidlo pre max. 4 cestujúcich. Spiatočne 198 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koľko stojí transfer na trase ACI Marina Vodice - Knin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 99 za vozidlo pre max. 4 cestujúcich, jednosmerne, s mýtom, palivom a batožinou. Spiatočná cesta stojí 198."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Môžete ma vyzdvihnúť priamo pri maríne?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Čakám vás pri vstupe do maríny alebo na recepcii a pomôžem s batožinou, aby ste sa z pontónu dostali rovno do vozidla."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Viete transfer načasovať podľa mojej lode?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Pošlite mi čas charteru, check-inu alebo odchodu pri rezervácii a podľa toho naplánujem vyzdvihnutie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som potvrdil vozidlo a čas vyzdvihnutia. Pre rýchlu jazdu zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

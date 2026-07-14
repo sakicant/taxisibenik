@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-ciovo-letiste-dubrovnik",
+  "title": "Taxi Čiovo - Letiště Dubrovnik | Pevná cena €435 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Čiovo - Letiště Dubrovnik. Pevná cena €435 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "keywords": "taxi čiovo - letiště dubrovnik, transfer čiovo - letiště dubrovnik, letištní transfer čiovo - letiště dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromý taxi transfer",
+      "name": "Taxi Čiovo - Letiště Dubrovnik",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Čiovo - Letiště Dubrovnik, 435 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Letiště Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/cs/taxi-ciovo-letiste-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "435",
+        "priceCurrency": "EUR",
+        "description": "Soukromá jednosměrná jízda, trasa Čiovo - Letiště Dubrovnik, za vozidlo až pro 4 cestující. Zpáteční 870 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolik stojí taxi na trase Čiovo - Letiště Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevně 435 za vozidlo, jednosměrná, až 4 cestující. Cena je za vozidlo, ne za osobu, a zahrnuje mýtné, palivo a zavazadla. Zpáteční jízda je 870."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kdy mám vyrazit na let?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zpravidla asi 3 hodiny před mezinárodním letem a 2 hodiny před vnitrostátním. Řekněte mi čas letu a potvrdím přesné vyzvednutí."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Odvezete mě až k odletovému terminálu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Odvezu vás přímo k odletovému terminálu a pomůžu se zavazadly. Žádná chůze z parkoviště a žádný shuttle bus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S jakým předstihem rezervovat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alespoň 2 hodiny předem, abych potvrdil vozidlo a vyzvednutí, a dříve u ranních letů a v sezoně. Pro rychlou jízdu zavolejte nebo napište na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

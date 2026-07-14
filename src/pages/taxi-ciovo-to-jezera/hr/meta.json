@@ -1,0 +1,73 @@
+{
+  "slug": "taksi-ciovo-jezera",
+  "title": "Taksi Čiovo - Jezera | Fiksna cijena €150 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Čiovo - Jezera. Fiksno €150 po vozilu, do 4 putnika, od vrata do vrata. Rezervirajte izravno kod Antonija.",
+  "keywords": "taksi čiovo - jezera, transfer čiovo - jezera, prijevoz čiovo - jezera",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Čiovo - Jezera",
+      "description": "Privatni taksi i transfer po fiksnoj cijeni, relacija Čiovo - Jezera, 150 eura po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Jezera"
+      ],
+      "url": "https://taxisibenik.hr/hr/taksi-ciovo-jezera/",
+      "offers": {
+        "@type": "Offer",
+        "price": "150",
+        "priceCurrency": "EUR",
+        "description": "Jednosmjerni privatni transfer, relacija Čiovo - Jezera, po vozilu za do 4 putnika. Povratno 300 eura."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Čiovo - Jezera?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 150 po vozilu za do 4 putnika, jedan smjer, prtljaga uključena. Povratna vožnja je 300."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gdje me preuzimate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašoj točnoj adresi, bila to kuća, hotel ili apartman. Pošaljite adresu pri rezervaciji i potvrdit ću mjesto sastanka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unaprijed trebam rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unaprijed da potvrdim vozilo i vrijeme preuzimanja. Za brži termin nazovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

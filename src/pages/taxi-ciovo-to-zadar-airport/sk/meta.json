@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-ciovo-letisko-zadar",
+  "title": "Taxi Čiovo - Letisko Zadar | Pevná cena €215 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Čiovo - Letisko Zadar. Pevná cena €215 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi čiovo - letisko zadar, transfer čiovo - letisko zadar, letiskový transfer čiovo - letisko zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi Čiovo - Letisko Zadar",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Čiovo - Letisko Zadar, 215 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Letisko Zadar"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-ciovo-letisko-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "215",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, Čiovo - Letisko Zadar, za vozidlo pre max. 4 cestujúcich. Spiatočne 430 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koľko stojí taxi na trase Čiovo - Letisko Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 215 za vozidlo, jednosmerne, max. 4 cestujúci. Cena je za vozidlo, nie za osobu, a zahŕňa mýto, palivo a batožinu. Spiatočná cesta stojí 430."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kedy mám vyraziť na svoj let?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zvyčajne približne 3 hodiny pred medzinárodným a 2 hodiny pred vnútroštátnym letom. Zadajte čas letu a potvrdím presné vyzdvihnutie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Odveziete ma až k odletovému terminálu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Odveziem Vás priamo k odletovému terminálu a pomôžem s batožinou. Žiadna chôdza z parkoviska, žiadny shuttle bus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som potvrdil vozidlo a vyzdvihnutie, pri skorších letoch a v hlavnej sezóne skôr. Pre rýchlu jazdu zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

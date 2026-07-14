@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-sibenik-marina-betina",
+  "title": "Taxi Šibenik - Marina Betina | Prix fixe €70 | TAXI Antonio",
+  "description": "Taxi et transfert privé, trajet Šibenik - Marina Betina. Prix fixe €70 par véhicule, jusqu'à 4 passagers, porte à porte. Réservez directement avec Antonio.",
+  "keywords": "taxi šibenik - marina betina, transfert šibenik - marina betina, transfert aéroport šibenik - marina betina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfert taxi privé",
+      "name": "Taxi Šibenik - Marina Betina",
+      "description": "Taxi et transfert privé à prix fixe, trajet Šibenik - Marina Betina, 70 euros par véhicule jusqu'à 4 passagers, porte à porte.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Marina Betina"
+      ],
+      "url": "https://taxisibenik.hr/fr/taxi-sibenik-marina-betina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "70",
+        "priceCurrency": "EUR",
+        "description": "Trajet privé aller simple, trajet Šibenik - Marina Betina, par véhicule jusqu'à 4 passagers. Aller-retour 140 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Combien coûte un transfert sur le trajet Šibenik - Marina Betina ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "70 fixe par véhicule jusqu'à 4 passagers, aller simple, avec péages, carburant et bagages inclus. Un aller-retour coûte 140."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pouvez-vous me prendre en charge directement à la marina ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Je vous retrouve à l'entrée de la marina ou à la réception et vous aide avec les bagages, pour aller directement du ponton au véhicule."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pouvez-vous caler le transfert sur mon bateau ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Envoyez-moi l'heure de votre charter, de votre enregistrement ou de votre départ à la réservation et je planifie la prise en charge autour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de temps à l'avance réserver ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Au moins 2 heures avant, pour que je confirme le véhicule et votre heure de prise en charge. Pour un trajet plus rapproché, appelez-moi ou écrivez-moi sur WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

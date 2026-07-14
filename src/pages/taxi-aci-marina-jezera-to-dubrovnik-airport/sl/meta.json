@@ -1,0 +1,81 @@
+{
+  "slug": "taksi-aci-marina-jezera-letalisce-dubrovnik",
+  "title": "Taksi ACI Marina Jezera - Letališče Dubrovnik | Fiksna cena €530 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija ACI Marina Jezera - Letališče Dubrovnik. Fiksna cena €530 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "keywords": "taksi aci marina jezera - letališče dubrovnik, prevoz aci marina jezera - letališče dubrovnik, letališki prevoz aci marina jezera - letališče dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi ACI Marina Jezera - Letališče Dubrovnik",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija ACI Marina Jezera - Letališče Dubrovnik, 530 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Jezera",
+        "Letališče Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-aci-marina-jezera-letalisce-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "530",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija ACI Marina Jezera - Letališče Dubrovnik, na vozilo do 4 potnike. Povratno 1060 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji ACI Marina Jezera - Letališče Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 530 na vozilo, enosmerno, do 4 potnike. Cena je na vozilo, ne na osebo, in vključuje cestnine, gorivo in prtljago. Povratna vožnja je 1060."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kdaj naj se odpravim na let?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Praviloma približno 3 ure pred mednarodnim letom in 2 uri pred domačim. Povejte mi uro leta in potrdim natančen prevzem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Me odpeljete do samega odhodnega terminala?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Odpeljem vas naravnost do odhodnega terminala in pomagam s prtljago. Brez hoje s parkirišča in brez shuttle avtobusa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in prevzem, in prej za jutranje lete in v visoki sezoni. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

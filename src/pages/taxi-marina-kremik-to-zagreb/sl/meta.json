@@ -1,0 +1,81 @@
+{
+  "slug": "taksi-marina-kremik-zagreb",
+  "title": "Taksi Marina Kremik - Zagreb | Fiksna cena €500 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Marina Kremik - Zagreb. Fiksna cena €500 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "keywords": "taksi marina kremik - zagreb, prevoz marina kremik - zagreb, letališki prevoz marina kremik - zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Marina Kremik - Zagreb",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Marina Kremik - Zagreb, 500 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Kremik",
+        "Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-marina-kremik-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "500",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Marina Kremik - Zagreb, na vozilo do 4 potnike. Povratno 1000 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko stane prevoz na relaciji Marina Kremik - Zagreb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 500 na vozilo, do 4 potnike, enosmerno, s cestninami, gorivom in prtljago. Povratna vožnja je 1000."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Me lahko poberete kar v marini?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Pričakam vas pri vhodu v marino ali na recepciji in pomagam s prtljago, tako da greste naravnost s pomola do vozila."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lahko prevoz prilagodite moji plovbi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Ob rezervaciji mi pošljite uro najema, prijave ali odhoda in prevzem načrtujem glede na to."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in uro prevzema. Za hitrejšo vožnjo me pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

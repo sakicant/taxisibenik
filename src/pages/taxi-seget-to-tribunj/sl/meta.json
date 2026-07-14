@@ -1,0 +1,73 @@
+{
+  "slug": "taksi-seget-tribunj",
+  "title": "Taksi Seget - Tribunj | Fiksna cena €120 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Seget - Tribunj. Fiksna cena €120 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "keywords": "taksi seget - tribunj, prevoz seget - tribunj, letališki prevoz seget - tribunj",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Seget - Tribunj",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Seget - Tribunj, 120 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Seget",
+        "Tribunj"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-seget-tribunj/",
+      "offers": {
+        "@type": "Offer",
+        "price": "120",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Seget - Tribunj, na vozilo do 4 potnike. Povratno 240 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Seget - Tribunj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 120 na vozilo do 4 potnike, enosmerno, prtljaga vključena. Povratna vožnja je 240."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kje me poberete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašem točnem naslovu, naj bo to hiša, hotel ali apartma. Pošljite naslov ob rezervaciji in potrdim mesto srečanja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in uro prevzema. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

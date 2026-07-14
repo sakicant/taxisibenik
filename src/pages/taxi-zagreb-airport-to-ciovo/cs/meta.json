@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-letiste-zagreb-ciovo",
+  "title": "Taxi Letiště Zagreb - Čiovo | Pevná cena €514 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Letiště Zagreb - Čiovo. Pevná cena €514 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "keywords": "taxi letiště zagreb - čiovo, transfer letiště zagreb - čiovo, letištní transfer letiště zagreb - čiovo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromý taxi transfer",
+      "name": "Taxi Letiště Zagreb - Čiovo",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Letiště Zagreb - Čiovo, 514 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Letiště Zagreb",
+        "Čiovo"
+      ],
+      "url": "https://taxisibenik.hr/cs/taxi-letiste-zagreb-ciovo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "514",
+        "priceCurrency": "EUR",
+        "description": "Soukromá jednosměrná jízda, trasa Letiště Zagreb - Čiovo, za vozidlo až pro 4 cestující. Zpáteční 1028 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kde mě přivítáte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "V příletové hale, hned za výdejem zavazadel, s cedulkou s vaším jménem. Pomůžu se zavazadly a doprovodím vás k vozidlu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Co když má můj let zpoždění?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Žádný problém. Váš let sleduji v reálném čase a přizpůsobím vyzvednutí skutečnému přistání, bez příplatku za čekání."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kolik stojí transfer na trase Letiště Zagreb - Čiovo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevně 514 za vozidlo až pro 4 cestující, jednosměrná, mýtné a zavazadla v ceně. Zpáteční jízda je 1028."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S jakým předstihem rezervovat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alespoň 2 hodiny předem, abych naplánoval podle vašeho letu. Pro vyzvednutí týž den po náhlé změně zavolejte nebo napište na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

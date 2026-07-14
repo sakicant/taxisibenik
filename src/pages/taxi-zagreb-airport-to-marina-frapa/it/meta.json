@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aeroporto-zagreb-marina-frapa",
+  "title": "Taxi Aeroporto di Zagreb - Marina Frapa | Prezzo fisso €499 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Aeroporto di Zagreb - Marina Frapa. Prezzo fisso €499 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi aeroporto di zagreb - marina frapa, transfer aeroporto di zagreb - marina frapa, transfer aeroporto aeroporto di zagreb - marina frapa",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Aeroporto di Zagreb - Marina Frapa",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Aeroporto di Zagreb - Marina Frapa, 499 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Aeroporto di Zagreb",
+        "Marina Frapa"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-aeroporto-zagreb-marina-frapa/",
+      "offers": {
+        "@type": "Offer",
+        "price": "499",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Aeroporto di Zagreb - Marina Frapa, per veicolo fino a 4 passeggeri. Andata e ritorno 998 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Dove mi accogli?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nell'area arrivi, subito dopo il ritiro bagagli, con un cartello con il tuo nome. Ti aiuto con i bagagli e ti accompagno al veicolo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "E se il mio volo è in ritardo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nessun problema. Monitoro il tuo volo in tempo reale e adatto il ritiro all'atterraggio effettivo, senza sovrapprezzo per l'attesa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa il transfer sulla tratta Aeroporto di Zagreb - Marina Frapa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 499 per veicolo fino a 4 passeggeri, solo andata, pedaggi e bagagli inclusi. Andata e ritorno 998."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così pianifico in base al tuo volo. Per un ritiro in giornata dopo un cambio improvviso, chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "taksi-seget-tromilja",
+  "title": "Taksi Seget - Tromilja | Fiksna cijena €90 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Seget - Tromilja. Fiksno €90 po vozilu, do 4 putnika, od vrata do vrata. Rezervirajte izravno kod Antonija.",
+  "keywords": "taksi seget - tromilja, transfer seget - tromilja, prijevoz seget - tromilja",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Seget - Tromilja",
+      "description": "Privatni taksi i transfer po fiksnoj cijeni, relacija Seget - Tromilja, 90 eura po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Seget",
+        "Tromilja"
+      ],
+      "url": "https://taxisibenik.hr/hr/taksi-seget-tromilja/",
+      "offers": {
+        "@type": "Offer",
+        "price": "90",
+        "priceCurrency": "EUR",
+        "description": "Jednosmjerni privatni transfer, relacija Seget - Tromilja, po vozilu za do 4 putnika. Povratno 180 eura."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Seget - Tromilja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 90 po vozilu za do 4 putnika, jedan smjer, prtljaga uključena. Povratna vožnja je 180."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gdje me preuzimate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašoj točnoj adresi, bila to kuća, hotel ili apartman. Pošaljite adresu pri rezervaciji i potvrdit ću mjesto sastanka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unaprijed trebam rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unaprijed da potvrdim vozilo i vrijeme preuzimanja. Za brži termin nazovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

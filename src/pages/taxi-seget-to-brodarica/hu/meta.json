@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-seget-brodarica",
+  "title": "Taxi Seget - Brodarica | Fix ár €95 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Seget - Brodarica. Fix ár €95 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi seget - brodarica, transzfer seget - brodarica, reptéri transzfer seget - brodarica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Seget - Brodarica",
+      "description": "Privát taxi és transzfer fix áron, Seget - Brodarica, 95 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Seget",
+        "Brodarica"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-seget-brodarica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "95",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Seget - Brodarica, járművenként max. 4 utasra. Oda-vissza 190 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül egy taxi a Seget - Brodarica útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 95 járművenként max. 4 utasra, egy irány, csomag beleértve. Az oda-vissza út 190."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol vesz fel engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A pontos címén, legyen az ház, hotel vagy apartman. Küldje el a címet a foglaláskor, és megerősítem a találkozási pontot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy megerősítsem a járművet és a felvétel idejét. Gyors útért hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

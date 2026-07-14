@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-jezera-flughafen-split",
+  "title": "Taxi ACI Marina Jezera - Flughafen Split | Festpreis €135 | TAXI Antonio",
+  "description": "Privates Taxi und Transfer, Strecke ACI Marina Jezera - Flughafen Split. Festpreis €135 pro Fahrzeug, bis zu 4. Direkt bei Antonio buchen.",
+  "keywords": "taxi aci marina jezera - flughafen split, transfer aci marina jezera - flughafen split, flughafentransfer aci marina jezera - flughafen split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privater Taxitransfer",
+      "name": "Taxi ACI Marina Jezera - Flughafen Split",
+      "description": "Privates Taxi und Transfer zum Festpreis, Strecke ACI Marina Jezera - Flughafen Split, 135 Euro pro Fahrzeug für bis zu 4 Fahrgäste, Tür zu Tür.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Jezera",
+        "Flughafen Split"
+      ],
+      "url": "https://taxisibenik.hr/de/taxi-aci-marina-jezera-flughafen-split/",
+      "offers": {
+        "@type": "Offer",
+        "price": "135",
+        "priceCurrency": "EUR",
+        "description": "Einfache private Fahrt, Strecke ACI Marina Jezera - Flughafen Split, pro Fahrzeug für bis zu 4 Fahrgäste. Hin und zurück 270 Euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie viel kostet ein Taxi auf der Strecke ACI Marina Jezera - Flughafen Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fest 135 pro Fahrzeug, einfache Fahrt, für bis zu 4 Fahrgäste. Der Preis gilt pro Fahrzeug, nicht pro Person, und umfasst Maut, Kraftstoff und Gepäck. Eine Hin- und Rückfahrt kostet 270."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann sollte ich zum Flughafen aufbrechen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In der Regel etwa 3 Stunden vor einem internationalen und 2 Stunden vor einem inländischen Flug. Nennen Sie mir Ihre Flugzeit und ich bestätige die genaue Abholung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fahren Sie bis zum Abflugterminal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ich fahre Sie direkt zum Abflugterminal und helfe mit dem Gepäck. Kein Fußweg vom Parkplatz und kein Shuttle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie weit im Voraus sollte ich buchen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindestens 2 Stunden vorher, damit ich Fahrzeug und Abholung bestätigen kann, und früher für frühe Flüge und die Hauptsaison. Für eine kurzfristige Fahrt rufen Sie an oder schreiben mir auf WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

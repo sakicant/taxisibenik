@@ -1,0 +1,81 @@
+{
+  "slug": "taksi-marina-betina-letalisce-zagreb",
+  "title": "Taksi Marina Betina - Letališče Zagreb | Fiksna cena €485 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Marina Betina - Letališče Zagreb. Fiksna cena €485 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "keywords": "taksi marina betina - letališče zagreb, prevoz marina betina - letališče zagreb, letališki prevoz marina betina - letališče zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Marina Betina - Letališče Zagreb",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Marina Betina - Letališče Zagreb, 485 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Betina",
+        "Letališče Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-marina-betina-letalisce-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Marina Betina - Letališče Zagreb, na vozilo do 4 potnike. Povratno 970 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Marina Betina - Letališče Zagreb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 485 na vozilo, enosmerno, do 4 potnike. Cena je na vozilo, ne na osebo, in vključuje cestnine, gorivo in prtljago. Povratna vožnja je 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kdaj naj se odpravim na let?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Praviloma približno 3 ure pred mednarodnim letom in 2 uri pred domačim. Povejte mi uro leta in potrdim natančen prevzem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Me odpeljete do samega odhodnega terminala?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Odpeljem vas naravnost do odhodnega terminala in pomagam s prtljago. Brez hoje s parkirišča in brez shuttle avtobusa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in prevzem, in prej za jutranje lete in v visoki sezoni. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

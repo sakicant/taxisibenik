@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aeroport-zagreb-aci-marina-vodice",
+  "title": "Taxi Aéroport de Zagreb - ACI Marina Vodice | Prix fixe €485 | TAXI Antonio",
+  "description": "Taxi et transfert privé, trajet Aéroport de Zagreb - ACI Marina Vodice. Prix fixe €485 par véhicule, jusqu'à 4. Réservez avec Antonio.",
+  "keywords": "taxi aéroport de zagreb - aci marina vodice, transfert aéroport de zagreb - aci marina vodice, transfert aéroport aéroport de zagreb - aci marina vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfert taxi privé",
+      "name": "Taxi Aéroport de Zagreb - ACI Marina Vodice",
+      "description": "Taxi et transfert privé à prix fixe, trajet Aéroport de Zagreb - ACI Marina Vodice, 485 euros par véhicule jusqu'à 4 passagers, porte à porte.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Aéroport de Zagreb",
+        "ACI Marina Vodice"
+      ],
+      "url": "https://taxisibenik.hr/fr/taxi-aeroport-zagreb-aci-marina-vodice/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Trajet privé aller simple, trajet Aéroport de Zagreb - ACI Marina Vodice, par véhicule jusqu'à 4 passagers. Aller-retour 970 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Où m'accueillez-vous ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dans le hall des arrivées, juste après le retrait des bagages, avec une pancarte à votre nom. Je vous aide avec les bagages et vous accompagne au véhicule."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Et si mon vol est retardé ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aucun problème. Je suis votre vol en temps réel et adapte la prise en charge à l'atterrissage réel, sans majoration pour l'attente."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien coûte le transfert sur le trajet Aéroport de Zagreb - ACI Marina Vodice ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "485 fixe par véhicule jusqu'à 4 passagers, aller simple, péages et bagages inclus. Un aller-retour coûte 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de temps à l'avance réserver ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Au moins 2 heures avant, pour que je planifie selon votre vol. Pour une prise en charge le jour même après un changement soudain, appelez-moi ou écrivez-moi sur WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

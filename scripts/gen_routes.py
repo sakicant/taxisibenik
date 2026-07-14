@@ -36,6 +36,8 @@ key = lambda n: MAPK.get(n, n)
 
 BIG_CITIES = {'Split','Zadar','Dubrovnik','Zagreb','Trogir'}
 AIRPORT_CITY = {'Split Airport':'Split','Zadar Airport':'Zadar','Zagreb Airport':'Zagreb','Dubrovnik Airport':'Dubrovnik'}
+MARINAS = {'ACI Marina Trogir','Marina Trogir (SCT)','Marina Baotić','Marina Agana','Marina Frapa',
+           'Marina Kremik','ACI Marina Vodice','Marina Tribunj','Marina Hramina','Marina Betina','ACI Marina Jezera'}
 
 PROVIDER = {
     "@type": "LocalBusiness", "name": "Taxi Antonio",
@@ -64,6 +66,7 @@ def book_link(frm, to, price):
 def route_type(frm, to):
     if to in AIRPORT_CITY: return "to_airport"
     if frm in AIRPORT_CITY: return "from_airport"
+    if frm in MARINAS or to in MARINAS: return "marina"
     if frm in BIG_CITIES or to in BIG_CITIES: return "city"
     return "local"
 
@@ -142,6 +145,26 @@ def build(frm, to, slug):
                  "A fixed &euro;%d per car for up to 4 passengers, one way, tolls and luggage included. A return trip is &euro;%d." % (p, rp)),
                 ("How far in advance should I book?",
                  "At least 2 hours ahead so I can plan around your flight. For a same-day pickup after a sudden change, call or WhatsApp me and I will help if I can.")]
+    elif typ == "marina":
+        heading = "Private Marina Transfer from %s to %s" % (frm, to)
+        tagline = "Fixed-price private taxi and transfer from %s to %s. &euro;%d per car, up to 4 passengers, timed around your boat." % (frm, to, p)
+        intro = ("Transferring between %s and %s? I run a private, fixed-price taxi and transfer for marina guests, timed around your boat and your travel plans. "
+                 "I collect you with plenty of room for your luggage and drive you comfortably the whole way in a Škoda Superb, for a flat &euro;%d for the car, up to 4 passengers, agreed before you travel. "
+                 "Whether you are joining your yacht or heading onward after stepping off it, there is no meter and no waiting at a rank, just one local driver you book directly. "
+                 "This is a long-distance private transfer, not a short local hop, and the quote above is already set for this route, so booking takes a couple of taps."
+                 % (frm, to, p))
+        whys = [("Fixed &euro;%d Price" % p, "One price per car for up to 4 passengers, agreed upfront. Tolls, fuel and luggage included, no meter running."),
+                ("Timed Around Your Boat", "Tell me your charter, check-in or departure time and I plan the pickup around it, so a slow patch never leaves you rushed."),
+                ("Room for Your Luggage", "Suitcases, provisions and boat bags all fit in a comfortable Škoda Superb, with a hand loading and unloading."),
+                ("One Local Driver", "You deal with me directly from booking to drop-off, by phone, WhatsApp or email. No call centre.")]
+        faqs = [("How much is a transfer from %s to %s?" % (frm, to),
+                 "A fixed &euro;%d per car for up to 4 passengers, one way, with tolls, fuel and luggage included. A return trip is &euro;%d." % (p, rp)),
+                ("Can you collect right at the marina?",
+                 "Yes. I meet you at the marina entrance or reception and help with your luggage, so you go straight from the pontoon to the car."),
+                ("Can you time the transfer around my boat?",
+                 "Yes. Send me your charter, check-in or departure time when you book and I plan the pickup around it."),
+                ("How far in advance should I book?",
+                 "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly.")]
     elif typ == "city":
         heading = "Private Transfer from %s to %s" % (frm, to)
         tagline = "Fixed-price private taxi and transfer from %s to %s. &euro;%d per car, up to 4 passengers, door to door." % (frm, to, p)
@@ -347,7 +370,7 @@ def build(frm, to, slug):
     json.dump(meta, open(os.path.join(outdir, "meta.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     return typ
 
-made = {"to_airport":0,"from_airport":0,"city":0,"local":0}
+made = {"to_airport":0,"from_airport":0,"city":0,"local":0,"marina":0}
 skipped_exist = 0; skipped_noprice = 0
 for frm, to, slug in rows:
     if price(key(frm), key(to)) is None:

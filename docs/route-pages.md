@@ -974,3 +974,560 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Žaborić | Zagreb Airport | `taxi-zaboric-to-zagreb-airport` | 490 |
 | Žaborić | Zaton | `taxi-zaboric-to-zaton` | 50 |
 | Žaborić | Šibenik | `taxi-zaboric-to-sibenik` | 25 |
+
+## New locations (Seget, Čiovo, marinas) — added later
+
+| From | To | EN slug | One-way EUR |
+|---|---|---|---|
+| Seget | Betina | `taxi-seget-to-betina` | 150 |
+| Betina | Seget | `taxi-betina-to-seget` | 150 |
+| Seget | Bilice | `taxi-seget-to-bilice` | 115 |
+| Bilice | Seget | `taxi-bilice-to-seget` | 115 |
+| Seget | Bilo | `taxi-seget-to-bilo` | 80 |
+| Bilo | Seget | `taxi-bilo-to-seget` | 80 |
+| Seget | Brodarica | `taxi-seget-to-brodarica` | 95 |
+| Brodarica | Seget | `taxi-brodarica-to-seget` | 95 |
+| Seget | Drniš | `taxi-seget-to-drnis` | 80 |
+| Drniš | Seget | `taxi-drnis-to-seget` | 80 |
+| Seget | Dubrovnik | `taxi-seget-to-dubrovnik` | 420 |
+| Dubrovnik | Seget | `taxi-dubrovnik-to-seget` | 420 |
+| Seget | Dubrovnik Airport | `taxi-seget-to-dubrovnik-airport` | 420 |
+| Dubrovnik Airport | Seget | `taxi-dubrovnik-airport-to-seget` | 420 |
+| Seget | Grebaštica | `taxi-seget-to-grebastica` | 80 |
+| Grebaštica | Seget | `taxi-grebastica-to-seget` | 80 |
+| Seget | Jadrija | `taxi-seget-to-jadrija` | 115 |
+| Jadrija | Seget | `taxi-jadrija-to-seget` | 115 |
+| Seget | Jezera | `taxi-seget-to-jezera` | 135 |
+| Jezera | Seget | `taxi-jezera-to-seget` | 135 |
+| Seget | Knin | `taxi-seget-to-knin` | 110 |
+| Knin | Seget | `taxi-knin-to-seget` | 110 |
+| Seget | Lozovac | `taxi-seget-to-lozovac` | 95 |
+| Lozovac | Seget | `taxi-lozovac-to-seget` | 95 |
+| Seget | Murter | `taxi-seget-to-murter` | 150 |
+| Murter | Seget | `taxi-murter-to-seget` | 150 |
+| Seget | Pirovac | `taxi-seget-to-pirovac` | 125 |
+| Pirovac | Seget | `taxi-pirovac-to-seget` | 125 |
+| Seget | Rogoznica | `taxi-seget-to-rogoznica` | 30 |
+| Rogoznica | Seget | `taxi-rogoznica-to-seget` | 30 |
+| Seget | Skradin | `taxi-seget-to-skradin` | 100 |
+| Skradin | Seget | `taxi-skradin-to-seget` | 100 |
+| Seget | Srima | `taxi-seget-to-srima` | 115 |
+| Srima | Seget | `taxi-srima-to-seget` | 115 |
+| Seget | Tisno | `taxi-seget-to-tisno` | 130 |
+| Tisno | Seget | `taxi-tisno-to-seget` | 130 |
+| Seget | Tribunj | `taxi-seget-to-tribunj` | 120 |
+| Tribunj | Seget | `taxi-tribunj-to-seget` | 120 |
+| Seget | Tromilja | `taxi-seget-to-tromilja` | 90 |
+| Tromilja | Seget | `taxi-tromilja-to-seget` | 90 |
+| Seget | Vodice | `taxi-seget-to-vodice` | 110 |
+| Vodice | Seget | `taxi-vodice-to-seget` | 110 |
+| Seget | Zablaće | `taxi-seget-to-zablace` | 95 |
+| Zablaće | Seget | `taxi-zablace-to-seget` | 95 |
+| Seget | Zadar | `taxi-seget-to-zadar` | 210 |
+| Zadar | Seget | `taxi-zadar-to-seget` | 210 |
+| Seget | Zadar Airport | `taxi-seget-to-zadar-airport` | 200 |
+| Zadar Airport | Seget | `taxi-zadar-airport-to-seget` | 200 |
+| Seget | Zagreb | `taxi-seget-to-zagreb` | 499 |
+| Zagreb | Seget | `taxi-zagreb-to-seget` | 499 |
+| Seget | Zagreb Airport | `taxi-seget-to-zagreb-airport` | 499 |
+| Zagreb Airport | Seget | `taxi-zagreb-airport-to-seget` | 499 |
+| Seget | Zaton | `taxi-seget-to-zaton` | 115 |
+| Zaton | Seget | `taxi-zaton-to-seget` | 115 |
+| Seget | Šibenik | `taxi-seget-to-sibenik` | 95 |
+| Šibenik | Seget | `taxi-sibenik-to-seget` | 95 |
+| Seget | Žaborić | `taxi-seget-to-zaboric` | 80 |
+| Žaborić | Seget | `taxi-zaboric-to-seget` | 80 |
+| Čiovo | Betina | `taxi-ciovo-to-betina` | 165 |
+| Betina | Čiovo | `taxi-betina-to-ciovo` | 165 |
+| Čiovo | Bilice | `taxi-ciovo-to-bilice` | 130 |
+| Bilice | Čiovo | `taxi-bilice-to-ciovo` | 130 |
+| Čiovo | Bilo | `taxi-ciovo-to-bilo` | 95 |
+| Bilo | Čiovo | `taxi-bilo-to-ciovo` | 95 |
+| Čiovo | Brodarica | `taxi-ciovo-to-brodarica` | 110 |
+| Brodarica | Čiovo | `taxi-brodarica-to-ciovo` | 110 |
+| Čiovo | Drniš | `taxi-ciovo-to-drnis` | 95 |
+| Drniš | Čiovo | `taxi-drnis-to-ciovo` | 95 |
+| Čiovo | Dubrovnik | `taxi-ciovo-to-dubrovnik` | 435 |
+| Dubrovnik | Čiovo | `taxi-dubrovnik-to-ciovo` | 435 |
+| Čiovo | Dubrovnik Airport | `taxi-ciovo-to-dubrovnik-airport` | 435 |
+| Dubrovnik Airport | Čiovo | `taxi-dubrovnik-airport-to-ciovo` | 435 |
+| Čiovo | Grebaštica | `taxi-ciovo-to-grebastica` | 95 |
+| Grebaštica | Čiovo | `taxi-grebastica-to-ciovo` | 95 |
+| Čiovo | Jadrija | `taxi-ciovo-to-jadrija` | 130 |
+| Jadrija | Čiovo | `taxi-jadrija-to-ciovo` | 130 |
+| Čiovo | Jezera | `taxi-ciovo-to-jezera` | 150 |
+| Jezera | Čiovo | `taxi-jezera-to-ciovo` | 150 |
+| Čiovo | Knin | `taxi-ciovo-to-knin` | 125 |
+| Knin | Čiovo | `taxi-knin-to-ciovo` | 125 |
+| Čiovo | Lozovac | `taxi-ciovo-to-lozovac` | 110 |
+| Lozovac | Čiovo | `taxi-lozovac-to-ciovo` | 110 |
+| Čiovo | Murter | `taxi-ciovo-to-murter` | 165 |
+| Murter | Čiovo | `taxi-murter-to-ciovo` | 165 |
+| Čiovo | Pirovac | `taxi-ciovo-to-pirovac` | 140 |
+| Pirovac | Čiovo | `taxi-pirovac-to-ciovo` | 140 |
+| Čiovo | Rogoznica | `taxi-ciovo-to-rogoznica` | 45 |
+| Rogoznica | Čiovo | `taxi-rogoznica-to-ciovo` | 45 |
+| Čiovo | Skradin | `taxi-ciovo-to-skradin` | 115 |
+| Skradin | Čiovo | `taxi-skradin-to-ciovo` | 115 |
+| Čiovo | Srima | `taxi-ciovo-to-srima` | 130 |
+| Srima | Čiovo | `taxi-srima-to-ciovo` | 130 |
+| Čiovo | Tisno | `taxi-ciovo-to-tisno` | 145 |
+| Tisno | Čiovo | `taxi-tisno-to-ciovo` | 145 |
+| Čiovo | Tribunj | `taxi-ciovo-to-tribunj` | 135 |
+| Tribunj | Čiovo | `taxi-tribunj-to-ciovo` | 135 |
+| Čiovo | Tromilja | `taxi-ciovo-to-tromilja` | 105 |
+| Tromilja | Čiovo | `taxi-tromilja-to-ciovo` | 105 |
+| Čiovo | Vodice | `taxi-ciovo-to-vodice` | 125 |
+| Vodice | Čiovo | `taxi-vodice-to-ciovo` | 125 |
+| Čiovo | Zablaće | `taxi-ciovo-to-zablace` | 110 |
+| Zablaće | Čiovo | `taxi-zablace-to-ciovo` | 110 |
+| Čiovo | Zadar | `taxi-ciovo-to-zadar` | 225 |
+| Zadar | Čiovo | `taxi-zadar-to-ciovo` | 225 |
+| Čiovo | Zadar Airport | `taxi-ciovo-to-zadar-airport` | 215 |
+| Zadar Airport | Čiovo | `taxi-zadar-airport-to-ciovo` | 215 |
+| Čiovo | Zagreb | `taxi-ciovo-to-zagreb` | 514 |
+| Zagreb | Čiovo | `taxi-zagreb-to-ciovo` | 514 |
+| Čiovo | Zagreb Airport | `taxi-ciovo-to-zagreb-airport` | 514 |
+| Zagreb Airport | Čiovo | `taxi-zagreb-airport-to-ciovo` | 514 |
+| Čiovo | Zaton | `taxi-ciovo-to-zaton` | 130 |
+| Zaton | Čiovo | `taxi-zaton-to-ciovo` | 130 |
+| Čiovo | Šibenik | `taxi-ciovo-to-sibenik` | 110 |
+| Šibenik | Čiovo | `taxi-sibenik-to-ciovo` | 110 |
+| Čiovo | Žaborić | `taxi-ciovo-to-zaboric` | 95 |
+| Žaborić | Čiovo | `taxi-zaboric-to-ciovo` | 95 |
+| ACI Marina Vodice | Bilo | `taxi-aci-marina-vodice-to-bilo` | 60 |
+| Bilo | ACI Marina Vodice | `taxi-bilo-to-aci-marina-vodice` | 60 |
+| ACI Marina Vodice | Brodarica | `taxi-aci-marina-vodice-to-brodarica` | 40 |
+| Brodarica | ACI Marina Vodice | `taxi-brodarica-to-aci-marina-vodice` | 40 |
+| ACI Marina Vodice | Drniš | `taxi-aci-marina-vodice-to-drnis` | 69 |
+| Drniš | ACI Marina Vodice | `taxi-drnis-to-aci-marina-vodice` | 69 |
+| ACI Marina Vodice | Dubrovnik | `taxi-aci-marina-vodice-to-dubrovnik` | 499 |
+| Dubrovnik | ACI Marina Vodice | `taxi-dubrovnik-to-aci-marina-vodice` | 499 |
+| ACI Marina Vodice | Dubrovnik Airport | `taxi-aci-marina-vodice-to-dubrovnik-airport` | 499 |
+| Dubrovnik Airport | ACI Marina Vodice | `taxi-dubrovnik-airport-to-aci-marina-vodice` | 499 |
+| ACI Marina Vodice | Grebaštica | `taxi-aci-marina-vodice-to-grebastica` | 55 |
+| Grebaštica | ACI Marina Vodice | `taxi-grebastica-to-aci-marina-vodice` | 55 |
+| ACI Marina Vodice | Knin | `taxi-aci-marina-vodice-to-knin` | 99 |
+| Knin | ACI Marina Vodice | `taxi-knin-to-aci-marina-vodice` | 99 |
+| ACI Marina Vodice | Primošten | `taxi-aci-marina-vodice-to-primosten` | 70 |
+| Primošten | ACI Marina Vodice | `taxi-primosten-to-aci-marina-vodice` | 70 |
+| ACI Marina Vodice | Rogoznica | `taxi-aci-marina-vodice-to-rogoznica` | 80 |
+| Rogoznica | ACI Marina Vodice | `taxi-rogoznica-to-aci-marina-vodice` | 80 |
+| ACI Marina Vodice | Skradin | `taxi-aci-marina-vodice-to-skradin` | 60 |
+| Skradin | ACI Marina Vodice | `taxi-skradin-to-aci-marina-vodice` | 60 |
+| ACI Marina Vodice | Split | `taxi-aci-marina-vodice-to-split` | 150 |
+| Split | ACI Marina Vodice | `taxi-split-to-aci-marina-vodice` | 150 |
+| ACI Marina Vodice | Split Airport | `taxi-aci-marina-vodice-to-split-airport` | 115 |
+| Split Airport | ACI Marina Vodice | `taxi-split-airport-to-aci-marina-vodice` | 115 |
+| ACI Marina Vodice | Trogir | `taxi-aci-marina-vodice-to-trogir` | 115 |
+| Trogir | ACI Marina Vodice | `taxi-trogir-to-aci-marina-vodice` | 115 |
+| ACI Marina Vodice | Zablaće | `taxi-aci-marina-vodice-to-zablace` | 40 |
+| Zablaće | ACI Marina Vodice | `taxi-zablace-to-aci-marina-vodice` | 40 |
+| ACI Marina Vodice | Zadar | `taxi-aci-marina-vodice-to-zadar` | 110 |
+| Zadar | ACI Marina Vodice | `taxi-zadar-to-aci-marina-vodice` | 110 |
+| ACI Marina Vodice | Zadar Airport | `taxi-aci-marina-vodice-to-zadar-airport` | 100 |
+| Zadar Airport | ACI Marina Vodice | `taxi-zadar-airport-to-aci-marina-vodice` | 100 |
+| ACI Marina Vodice | Zagreb | `taxi-aci-marina-vodice-to-zagreb` | 485 |
+| Zagreb | ACI Marina Vodice | `taxi-zagreb-to-aci-marina-vodice` | 485 |
+| ACI Marina Vodice | Zagreb Airport | `taxi-aci-marina-vodice-to-zagreb-airport` | 485 |
+| Zagreb Airport | ACI Marina Vodice | `taxi-zagreb-airport-to-aci-marina-vodice` | 485 |
+| ACI Marina Vodice | Šibenik | `taxi-aci-marina-vodice-to-sibenik` | 30 |
+| Šibenik | ACI Marina Vodice | `taxi-sibenik-to-aci-marina-vodice` | 30 |
+| ACI Marina Vodice | Žaborić | `taxi-aci-marina-vodice-to-zaboric` | 50 |
+| Žaborić | ACI Marina Vodice | `taxi-zaboric-to-aci-marina-vodice` | 50 |
+| Marina Tribunj | Bilo | `taxi-marina-tribunj-to-bilo` | 80 |
+| Bilo | Marina Tribunj | `taxi-bilo-to-marina-tribunj` | 80 |
+| Marina Tribunj | Brodarica | `taxi-marina-tribunj-to-brodarica` | 45 |
+| Brodarica | Marina Tribunj | `taxi-brodarica-to-marina-tribunj` | 45 |
+| Marina Tribunj | Drniš | `taxi-marina-tribunj-to-drnis` | 75 |
+| Drniš | Marina Tribunj | `taxi-drnis-to-marina-tribunj` | 75 |
+| Marina Tribunj | Dubrovnik | `taxi-marina-tribunj-to-dubrovnik` | 520 |
+| Dubrovnik | Marina Tribunj | `taxi-dubrovnik-to-marina-tribunj` | 520 |
+| Marina Tribunj | Dubrovnik Airport | `taxi-marina-tribunj-to-dubrovnik-airport` | 520 |
+| Dubrovnik Airport | Marina Tribunj | `taxi-dubrovnik-airport-to-marina-tribunj` | 520 |
+| Marina Tribunj | Grebaštica | `taxi-marina-tribunj-to-grebastica` | 75 |
+| Grebaštica | Marina Tribunj | `taxi-grebastica-to-marina-tribunj` | 75 |
+| Marina Tribunj | Knin | `taxi-marina-tribunj-to-knin` | 105 |
+| Knin | Marina Tribunj | `taxi-knin-to-marina-tribunj` | 105 |
+| Marina Tribunj | Primošten | `taxi-marina-tribunj-to-primosten` | 90 |
+| Primošten | Marina Tribunj | `taxi-primosten-to-marina-tribunj` | 90 |
+| Marina Tribunj | Rogoznica | `taxi-marina-tribunj-to-rogoznica` | 105 |
+| Rogoznica | Marina Tribunj | `taxi-rogoznica-to-marina-tribunj` | 105 |
+| Marina Tribunj | Skradin | `taxi-marina-tribunj-to-skradin` | 60 |
+| Skradin | Marina Tribunj | `taxi-skradin-to-marina-tribunj` | 60 |
+| Marina Tribunj | Split | `taxi-marina-tribunj-to-split` | 170 |
+| Split | Marina Tribunj | `taxi-split-to-marina-tribunj` | 170 |
+| Marina Tribunj | Split Airport | `taxi-marina-tribunj-to-split-airport` | 120 |
+| Split Airport | Marina Tribunj | `taxi-split-airport-to-marina-tribunj` | 120 |
+| Marina Tribunj | Trogir | `taxi-marina-tribunj-to-trogir` | 120 |
+| Trogir | Marina Tribunj | `taxi-trogir-to-marina-tribunj` | 120 |
+| Marina Tribunj | Zablaće | `taxi-marina-tribunj-to-zablace` | 45 |
+| Zablaće | Marina Tribunj | `taxi-zablace-to-marina-tribunj` | 45 |
+| Marina Tribunj | Zadar | `taxi-marina-tribunj-to-zadar` | 110 |
+| Zadar | Marina Tribunj | `taxi-zadar-to-marina-tribunj` | 110 |
+| Marina Tribunj | Zadar Airport | `taxi-marina-tribunj-to-zadar-airport` | 100 |
+| Zadar Airport | Marina Tribunj | `taxi-zadar-airport-to-marina-tribunj` | 100 |
+| Marina Tribunj | Zagreb | `taxi-marina-tribunj-to-zagreb` | 485 |
+| Zagreb | Marina Tribunj | `taxi-zagreb-to-marina-tribunj` | 485 |
+| Marina Tribunj | Zagreb Airport | `taxi-marina-tribunj-to-zagreb-airport` | 485 |
+| Zagreb Airport | Marina Tribunj | `taxi-zagreb-airport-to-marina-tribunj` | 485 |
+| Marina Tribunj | Šibenik | `taxi-marina-tribunj-to-sibenik` | 40 |
+| Šibenik | Marina Tribunj | `taxi-sibenik-to-marina-tribunj` | 40 |
+| Marina Tribunj | Žaborić | `taxi-marina-tribunj-to-zaboric` | 60 |
+| Žaborić | Marina Tribunj | `taxi-zaboric-to-marina-tribunj` | 60 |
+| Marina Hramina | Bilo | `taxi-marina-hramina-to-bilo` | 110 |
+| Bilo | Marina Hramina | `taxi-bilo-to-marina-hramina` | 110 |
+| Marina Hramina | Brodarica | `taxi-marina-hramina-to-brodarica` | 80 |
+| Brodarica | Marina Hramina | `taxi-brodarica-to-marina-hramina` | 80 |
+| Marina Hramina | Drniš | `taxi-marina-hramina-to-drnis` | 90 |
+| Drniš | Marina Hramina | `taxi-drnis-to-marina-hramina` | 90 |
+| Marina Hramina | Dubrovnik | `taxi-marina-hramina-to-dubrovnik` | 535 |
+| Dubrovnik | Marina Hramina | `taxi-dubrovnik-to-marina-hramina` | 535 |
+| Marina Hramina | Dubrovnik Airport | `taxi-marina-hramina-to-dubrovnik-airport` | 535 |
+| Dubrovnik Airport | Marina Hramina | `taxi-dubrovnik-airport-to-marina-hramina` | 535 |
+| Marina Hramina | Grebaštica | `taxi-marina-hramina-to-grebastica` | 105 |
+| Grebaštica | Marina Hramina | `taxi-grebastica-to-marina-hramina` | 105 |
+| Marina Hramina | Knin | `taxi-marina-hramina-to-knin` | 120 |
+| Knin | Marina Hramina | `taxi-knin-to-marina-hramina` | 120 |
+| Marina Hramina | Primošten | `taxi-marina-hramina-to-primosten` | 120 |
+| Primošten | Marina Hramina | `taxi-primosten-to-marina-hramina` | 120 |
+| Marina Hramina | Rogoznica | `taxi-marina-hramina-to-rogoznica` | 135 |
+| Rogoznica | Marina Hramina | `taxi-rogoznica-to-marina-hramina` | 135 |
+| Marina Hramina | Skradin | `taxi-marina-hramina-to-skradin` | 75 |
+| Skradin | Marina Hramina | `taxi-skradin-to-marina-hramina` | 75 |
+| Marina Hramina | Split | `taxi-marina-hramina-to-split` | 180 |
+| Split | Marina Hramina | `taxi-split-to-marina-hramina` | 180 |
+| Marina Hramina | Split Airport | `taxi-marina-hramina-to-split-airport` | 150 |
+| Split Airport | Marina Hramina | `taxi-split-airport-to-marina-hramina` | 150 |
+| Marina Hramina | Trogir | `taxi-marina-hramina-to-trogir` | 150 |
+| Trogir | Marina Hramina | `taxi-trogir-to-marina-hramina` | 150 |
+| Marina Hramina | Zablaće | `taxi-marina-hramina-to-zablace` | 80 |
+| Zablaće | Marina Hramina | `taxi-zablace-to-marina-hramina` | 80 |
+| Marina Hramina | Zadar | `taxi-marina-hramina-to-zadar` | 115 |
+| Zadar | Marina Hramina | `taxi-zadar-to-marina-hramina` | 115 |
+| Marina Hramina | Zadar Airport | `taxi-marina-hramina-to-zadar-airport` | 115 |
+| Zadar Airport | Marina Hramina | `taxi-zadar-airport-to-marina-hramina` | 115 |
+| Marina Hramina | Zagreb | `taxi-marina-hramina-to-zagreb` | 485 |
+| Zagreb | Marina Hramina | `taxi-zagreb-to-marina-hramina` | 485 |
+| Marina Hramina | Zagreb Airport | `taxi-marina-hramina-to-zagreb-airport` | 485 |
+| Zagreb Airport | Marina Hramina | `taxi-zagreb-airport-to-marina-hramina` | 485 |
+| Marina Hramina | Šibenik | `taxi-marina-hramina-to-sibenik` | 70 |
+| Šibenik | Marina Hramina | `taxi-sibenik-to-marina-hramina` | 70 |
+| Marina Hramina | Žaborić | `taxi-marina-hramina-to-zaboric` | 95 |
+| Žaborić | Marina Hramina | `taxi-zaboric-to-marina-hramina` | 95 |
+| ACI Marina Jezera | Bilo | `taxi-aci-marina-jezera-to-bilo` | 95 |
+| Bilo | ACI Marina Jezera | `taxi-bilo-to-aci-marina-jezera` | 95 |
+| ACI Marina Jezera | Brodarica | `taxi-aci-marina-jezera-to-brodarica` | 60 |
+| Brodarica | ACI Marina Jezera | `taxi-brodarica-to-aci-marina-jezera` | 60 |
+| ACI Marina Jezera | Drniš | `taxi-aci-marina-jezera-to-drnis` | 90 |
+| Drniš | ACI Marina Jezera | `taxi-drnis-to-aci-marina-jezera` | 90 |
+| ACI Marina Jezera | Dubrovnik | `taxi-aci-marina-jezera-to-dubrovnik` | 530 |
+| Dubrovnik | ACI Marina Jezera | `taxi-dubrovnik-to-aci-marina-jezera` | 530 |
+| ACI Marina Jezera | Dubrovnik Airport | `taxi-aci-marina-jezera-to-dubrovnik-airport` | 530 |
+| Dubrovnik Airport | ACI Marina Jezera | `taxi-dubrovnik-airport-to-aci-marina-jezera` | 530 |
+| ACI Marina Jezera | Grebaštica | `taxi-aci-marina-jezera-to-grebastica` | 90 |
+| Grebaštica | ACI Marina Jezera | `taxi-grebastica-to-aci-marina-jezera` | 90 |
+| ACI Marina Jezera | Knin | `taxi-aci-marina-jezera-to-knin` | 120 |
+| Knin | ACI Marina Jezera | `taxi-knin-to-aci-marina-jezera` | 120 |
+| ACI Marina Jezera | Primošten | `taxi-aci-marina-jezera-to-primosten` | 105 |
+| Primošten | ACI Marina Jezera | `taxi-primosten-to-aci-marina-jezera` | 105 |
+| ACI Marina Jezera | Rogoznica | `taxi-aci-marina-jezera-to-rogoznica` | 120 |
+| Rogoznica | ACI Marina Jezera | `taxi-rogoznica-to-aci-marina-jezera` | 120 |
+| ACI Marina Jezera | Skradin | `taxi-aci-marina-jezera-to-skradin` | 70 |
+| Skradin | ACI Marina Jezera | `taxi-skradin-to-aci-marina-jezera` | 70 |
+| ACI Marina Jezera | Split | `taxi-aci-marina-jezera-to-split` | 170 |
+| Split | ACI Marina Jezera | `taxi-split-to-aci-marina-jezera` | 170 |
+| ACI Marina Jezera | Split Airport | `taxi-aci-marina-jezera-to-split-airport` | 135 |
+| Split Airport | ACI Marina Jezera | `taxi-split-airport-to-aci-marina-jezera` | 135 |
+| ACI Marina Jezera | Trogir | `taxi-aci-marina-jezera-to-trogir` | 135 |
+| Trogir | ACI Marina Jezera | `taxi-trogir-to-aci-marina-jezera` | 135 |
+| ACI Marina Jezera | Zablaće | `taxi-aci-marina-jezera-to-zablace` | 60 |
+| Zablaće | ACI Marina Jezera | `taxi-zablace-to-aci-marina-jezera` | 60 |
+| ACI Marina Jezera | Zadar | `taxi-aci-marina-jezera-to-zadar` | 110 |
+| Zadar | ACI Marina Jezera | `taxi-zadar-to-aci-marina-jezera` | 110 |
+| ACI Marina Jezera | Zadar Airport | `taxi-aci-marina-jezera-to-zadar-airport` | 110 |
+| Zadar Airport | ACI Marina Jezera | `taxi-zadar-airport-to-aci-marina-jezera` | 110 |
+| ACI Marina Jezera | Zagreb | `taxi-aci-marina-jezera-to-zagreb` | 485 |
+| Zagreb | ACI Marina Jezera | `taxi-zagreb-to-aci-marina-jezera` | 485 |
+| ACI Marina Jezera | Zagreb Airport | `taxi-aci-marina-jezera-to-zagreb-airport` | 485 |
+| Zagreb Airport | ACI Marina Jezera | `taxi-zagreb-airport-to-aci-marina-jezera` | 485 |
+| ACI Marina Jezera | Šibenik | `taxi-aci-marina-jezera-to-sibenik` | 55 |
+| Šibenik | ACI Marina Jezera | `taxi-sibenik-to-aci-marina-jezera` | 55 |
+| ACI Marina Jezera | Žaborić | `taxi-aci-marina-jezera-to-zaboric` | 80 |
+| Žaborić | ACI Marina Jezera | `taxi-zaboric-to-aci-marina-jezera` | 80 |
+| Marina Betina | Bilo | `taxi-marina-betina-to-bilo` | 110 |
+| Bilo | Marina Betina | `taxi-bilo-to-marina-betina` | 110 |
+| Marina Betina | Brodarica | `taxi-marina-betina-to-brodarica` | 80 |
+| Brodarica | Marina Betina | `taxi-brodarica-to-marina-betina` | 80 |
+| Marina Betina | Drniš | `taxi-marina-betina-to-drnis` | 90 |
+| Drniš | Marina Betina | `taxi-drnis-to-marina-betina` | 90 |
+| Marina Betina | Dubrovnik | `taxi-marina-betina-to-dubrovnik` | 535 |
+| Dubrovnik | Marina Betina | `taxi-dubrovnik-to-marina-betina` | 535 |
+| Marina Betina | Dubrovnik Airport | `taxi-marina-betina-to-dubrovnik-airport` | 535 |
+| Dubrovnik Airport | Marina Betina | `taxi-dubrovnik-airport-to-marina-betina` | 535 |
+| Marina Betina | Grebaštica | `taxi-marina-betina-to-grebastica` | 105 |
+| Grebaštica | Marina Betina | `taxi-grebastica-to-marina-betina` | 105 |
+| Marina Betina | Knin | `taxi-marina-betina-to-knin` | 120 |
+| Knin | Marina Betina | `taxi-knin-to-marina-betina` | 120 |
+| Marina Betina | Primošten | `taxi-marina-betina-to-primosten` | 120 |
+| Primošten | Marina Betina | `taxi-primosten-to-marina-betina` | 120 |
+| Marina Betina | Rogoznica | `taxi-marina-betina-to-rogoznica` | 135 |
+| Rogoznica | Marina Betina | `taxi-rogoznica-to-marina-betina` | 135 |
+| Marina Betina | Skradin | `taxi-marina-betina-to-skradin` | 75 |
+| Skradin | Marina Betina | `taxi-skradin-to-marina-betina` | 75 |
+| Marina Betina | Split | `taxi-marina-betina-to-split` | 180 |
+| Split | Marina Betina | `taxi-split-to-marina-betina` | 180 |
+| Marina Betina | Split Airport | `taxi-marina-betina-to-split-airport` | 150 |
+| Split Airport | Marina Betina | `taxi-split-airport-to-marina-betina` | 150 |
+| Marina Betina | Trogir | `taxi-marina-betina-to-trogir` | 150 |
+| Trogir | Marina Betina | `taxi-trogir-to-marina-betina` | 150 |
+| Marina Betina | Zablaće | `taxi-marina-betina-to-zablace` | 80 |
+| Zablaće | Marina Betina | `taxi-zablace-to-marina-betina` | 80 |
+| Marina Betina | Zadar | `taxi-marina-betina-to-zadar` | 115 |
+| Zadar | Marina Betina | `taxi-zadar-to-marina-betina` | 115 |
+| Marina Betina | Zadar Airport | `taxi-marina-betina-to-zadar-airport` | 115 |
+| Zadar Airport | Marina Betina | `taxi-zadar-airport-to-marina-betina` | 115 |
+| Marina Betina | Zagreb | `taxi-marina-betina-to-zagreb` | 485 |
+| Zagreb | Marina Betina | `taxi-zagreb-to-marina-betina` | 485 |
+| Marina Betina | Zagreb Airport | `taxi-marina-betina-to-zagreb-airport` | 485 |
+| Zagreb Airport | Marina Betina | `taxi-zagreb-airport-to-marina-betina` | 485 |
+| Marina Betina | Šibenik | `taxi-marina-betina-to-sibenik` | 70 |
+| Šibenik | Marina Betina | `taxi-sibenik-to-marina-betina` | 70 |
+| Marina Betina | Žaborić | `taxi-marina-betina-to-zaboric` | 95 |
+| Žaborić | Marina Betina | `taxi-zaboric-to-marina-betina` | 95 |
+| Marina Kremik | Betina | `taxi-marina-kremik-to-betina` | 130 |
+| Betina | Marina Kremik | `taxi-betina-to-marina-kremik` | 130 |
+| Marina Kremik | Drniš | `taxi-marina-kremik-to-drnis` | 90 |
+| Drniš | Marina Kremik | `taxi-drnis-to-marina-kremik` | 90 |
+| Marina Kremik | Dubrovnik | `taxi-marina-kremik-to-dubrovnik` | 435 |
+| Dubrovnik | Marina Kremik | `taxi-dubrovnik-to-marina-kremik` | 435 |
+| Marina Kremik | Dubrovnik Airport | `taxi-marina-kremik-to-dubrovnik-airport` | 435 |
+| Dubrovnik Airport | Marina Kremik | `taxi-dubrovnik-airport-to-marina-kremik` | 435 |
+| Marina Kremik | Jezera | `taxi-marina-kremik-to-jezera` | 110 |
+| Jezera | Marina Kremik | `taxi-jezera-to-marina-kremik` | 110 |
+| Marina Kremik | Knin | `taxi-marina-kremik-to-knin` | 120 |
+| Knin | Marina Kremik | `taxi-knin-to-marina-kremik` | 120 |
+| Marina Kremik | Murter | `taxi-marina-kremik-to-murter` | 130 |
+| Murter | Marina Kremik | `taxi-murter-to-marina-kremik` | 130 |
+| Marina Kremik | Pirovac | `taxi-marina-kremik-to-pirovac` | 110 |
+| Pirovac | Marina Kremik | `taxi-pirovac-to-marina-kremik` | 110 |
+| Marina Kremik | Skradin | `taxi-marina-kremik-to-skradin` | 85 |
+| Skradin | Marina Kremik | `taxi-skradin-to-marina-kremik` | 85 |
+| Marina Kremik | Split | `taxi-marina-kremik-to-split` | 100 |
+| Split | Marina Kremik | `taxi-split-to-marina-kremik` | 100 |
+| Marina Kremik | Split Airport | `taxi-marina-kremik-to-split-airport` | 80 |
+| Split Airport | Marina Kremik | `taxi-split-airport-to-marina-kremik` | 80 |
+| Marina Kremik | Srima | `taxi-marina-kremik-to-srima` | 80 |
+| Srima | Marina Kremik | `taxi-srima-to-marina-kremik` | 80 |
+| Marina Kremik | Tisno | `taxi-marina-kremik-to-tisno` | 100 |
+| Tisno | Marina Kremik | `taxi-tisno-to-marina-kremik` | 100 |
+| Marina Kremik | Tribunj | `taxi-marina-kremik-to-tribunj` | 100 |
+| Tribunj | Marina Kremik | `taxi-tribunj-to-marina-kremik` | 100 |
+| Marina Kremik | Vodice | `taxi-marina-kremik-to-vodice` | 75 |
+| Vodice | Marina Kremik | `taxi-vodice-to-marina-kremik` | 75 |
+| Marina Kremik | Zadar | `taxi-marina-kremik-to-zadar` | 170 |
+| Zadar | Marina Kremik | `taxi-zadar-to-marina-kremik` | 170 |
+| Marina Kremik | Zadar Airport | `taxi-marina-kremik-to-zadar-airport` | 160 |
+| Zadar Airport | Marina Kremik | `taxi-zadar-airport-to-marina-kremik` | 160 |
+| Marina Kremik | Zagreb | `taxi-marina-kremik-to-zagreb` | 500 |
+| Zagreb | Marina Kremik | `taxi-zagreb-to-marina-kremik` | 500 |
+| Marina Kremik | Zagreb Airport | `taxi-marina-kremik-to-zagreb-airport` | 500 |
+| Zagreb Airport | Marina Kremik | `taxi-zagreb-airport-to-marina-kremik` | 500 |
+| Marina Kremik | Zaton | `taxi-marina-kremik-to-zaton` | 80 |
+| Zaton | Marina Kremik | `taxi-zaton-to-marina-kremik` | 80 |
+| Marina Kremik | Šibenik | `taxi-marina-kremik-to-sibenik` | 60 |
+| Šibenik | Marina Kremik | `taxi-sibenik-to-marina-kremik` | 60 |
+| Marina Frapa | Betina | `taxi-marina-frapa-to-betina` | 135 |
+| Betina | Marina Frapa | `taxi-betina-to-marina-frapa` | 135 |
+| Marina Frapa | Drniš | `taxi-marina-frapa-to-drnis` | 90 |
+| Drniš | Marina Frapa | `taxi-drnis-to-marina-frapa` | 90 |
+| Marina Frapa | Dubrovnik | `taxi-marina-frapa-to-dubrovnik` | 420 |
+| Dubrovnik | Marina Frapa | `taxi-dubrovnik-to-marina-frapa` | 420 |
+| Marina Frapa | Dubrovnik Airport | `taxi-marina-frapa-to-dubrovnik-airport` | 420 |
+| Dubrovnik Airport | Marina Frapa | `taxi-dubrovnik-airport-to-marina-frapa` | 420 |
+| Marina Frapa | Jezera | `taxi-marina-frapa-to-jezera` | 120 |
+| Jezera | Marina Frapa | `taxi-jezera-to-marina-frapa` | 120 |
+| Marina Frapa | Knin | `taxi-marina-frapa-to-knin` | 120 |
+| Knin | Marina Frapa | `taxi-knin-to-marina-frapa` | 120 |
+| Marina Frapa | Murter | `taxi-marina-frapa-to-murter` | 135 |
+| Murter | Marina Frapa | `taxi-murter-to-marina-frapa` | 135 |
+| Marina Frapa | Pirovac | `taxi-marina-frapa-to-pirovac` | 115 |
+| Pirovac | Marina Frapa | `taxi-pirovac-to-marina-frapa` | 115 |
+| Marina Frapa | Skradin | `taxi-marina-frapa-to-skradin` | 90 |
+| Skradin | Marina Frapa | `taxi-skradin-to-marina-frapa` | 90 |
+| Marina Frapa | Split | `taxi-marina-frapa-to-split` | 75 |
+| Split | Marina Frapa | `taxi-split-to-marina-frapa` | 75 |
+| Marina Frapa | Split Airport | `taxi-marina-frapa-to-split-airport` | 80 |
+| Split Airport | Marina Frapa | `taxi-split-airport-to-marina-frapa` | 80 |
+| Marina Frapa | Srima | `taxi-marina-frapa-to-srima` | 90 |
+| Srima | Marina Frapa | `taxi-srima-to-marina-frapa` | 90 |
+| Marina Frapa | Tisno | `taxi-marina-frapa-to-tisno` | 115 |
+| Tisno | Marina Frapa | `taxi-tisno-to-marina-frapa` | 115 |
+| Marina Frapa | Tribunj | `taxi-marina-frapa-to-tribunj` | 105 |
+| Tribunj | Marina Frapa | `taxi-tribunj-to-marina-frapa` | 105 |
+| Marina Frapa | Vodice | `taxi-marina-frapa-to-vodice` | 80 |
+| Vodice | Marina Frapa | `taxi-vodice-to-marina-frapa` | 80 |
+| Marina Frapa | Zadar | `taxi-marina-frapa-to-zadar` | 170 |
+| Zadar | Marina Frapa | `taxi-zadar-to-marina-frapa` | 170 |
+| Marina Frapa | Zadar Airport | `taxi-marina-frapa-to-zadar-airport` | 160 |
+| Zadar Airport | Marina Frapa | `taxi-zadar-airport-to-marina-frapa` | 160 |
+| Marina Frapa | Zagreb | `taxi-marina-frapa-to-zagreb` | 499 |
+| Zagreb | Marina Frapa | `taxi-zagreb-to-marina-frapa` | 499 |
+| Marina Frapa | Zagreb Airport | `taxi-marina-frapa-to-zagreb-airport` | 499 |
+| Zagreb Airport | Marina Frapa | `taxi-zagreb-airport-to-marina-frapa` | 499 |
+| Marina Frapa | Zaton | `taxi-marina-frapa-to-zaton` | 90 |
+| Zaton | Marina Frapa | `taxi-zaton-to-marina-frapa` | 90 |
+| Marina Frapa | Šibenik | `taxi-marina-frapa-to-sibenik` | 65 |
+| Šibenik | Marina Frapa | `taxi-sibenik-to-marina-frapa` | 65 |
+| ACI Marina Trogir | Betina | `taxi-aci-marina-trogir-to-betina` | 165 |
+| Betina | ACI Marina Trogir | `taxi-betina-to-aci-marina-trogir` | 165 |
+| ACI Marina Trogir | Drniš | `taxi-aci-marina-trogir-to-drnis` | 95 |
+| Drniš | ACI Marina Trogir | `taxi-drnis-to-aci-marina-trogir` | 95 |
+| ACI Marina Trogir | Dubrovnik | `taxi-aci-marina-trogir-to-dubrovnik` | 435 |
+| Dubrovnik | ACI Marina Trogir | `taxi-dubrovnik-to-aci-marina-trogir` | 435 |
+| ACI Marina Trogir | Dubrovnik Airport | `taxi-aci-marina-trogir-to-dubrovnik-airport` | 435 |
+| Dubrovnik Airport | ACI Marina Trogir | `taxi-dubrovnik-airport-to-aci-marina-trogir` | 435 |
+| ACI Marina Trogir | Jezera | `taxi-aci-marina-trogir-to-jezera` | 150 |
+| Jezera | ACI Marina Trogir | `taxi-jezera-to-aci-marina-trogir` | 150 |
+| ACI Marina Trogir | Knin | `taxi-aci-marina-trogir-to-knin` | 125 |
+| Knin | ACI Marina Trogir | `taxi-knin-to-aci-marina-trogir` | 125 |
+| ACI Marina Trogir | Murter | `taxi-aci-marina-trogir-to-murter` | 165 |
+| Murter | ACI Marina Trogir | `taxi-murter-to-aci-marina-trogir` | 165 |
+| ACI Marina Trogir | Pirovac | `taxi-aci-marina-trogir-to-pirovac` | 140 |
+| Pirovac | ACI Marina Trogir | `taxi-pirovac-to-aci-marina-trogir` | 140 |
+| ACI Marina Trogir | Skradin | `taxi-aci-marina-trogir-to-skradin` | 115 |
+| Skradin | ACI Marina Trogir | `taxi-skradin-to-aci-marina-trogir` | 115 |
+| ACI Marina Trogir | Srima | `taxi-aci-marina-trogir-to-srima` | 130 |
+| Srima | ACI Marina Trogir | `taxi-srima-to-aci-marina-trogir` | 130 |
+| ACI Marina Trogir | Tisno | `taxi-aci-marina-trogir-to-tisno` | 145 |
+| Tisno | ACI Marina Trogir | `taxi-tisno-to-aci-marina-trogir` | 145 |
+| ACI Marina Trogir | Tribunj | `taxi-aci-marina-trogir-to-tribunj` | 135 |
+| Tribunj | ACI Marina Trogir | `taxi-tribunj-to-aci-marina-trogir` | 135 |
+| ACI Marina Trogir | Vodice | `taxi-aci-marina-trogir-to-vodice` | 125 |
+| Vodice | ACI Marina Trogir | `taxi-vodice-to-aci-marina-trogir` | 125 |
+| ACI Marina Trogir | Zadar | `taxi-aci-marina-trogir-to-zadar` | 225 |
+| Zadar | ACI Marina Trogir | `taxi-zadar-to-aci-marina-trogir` | 225 |
+| ACI Marina Trogir | Zadar Airport | `taxi-aci-marina-trogir-to-zadar-airport` | 215 |
+| Zadar Airport | ACI Marina Trogir | `taxi-zadar-airport-to-aci-marina-trogir` | 215 |
+| ACI Marina Trogir | Zagreb | `taxi-aci-marina-trogir-to-zagreb` | 514 |
+| Zagreb | ACI Marina Trogir | `taxi-zagreb-to-aci-marina-trogir` | 514 |
+| ACI Marina Trogir | Zagreb Airport | `taxi-aci-marina-trogir-to-zagreb-airport` | 514 |
+| Zagreb Airport | ACI Marina Trogir | `taxi-zagreb-airport-to-aci-marina-trogir` | 514 |
+| ACI Marina Trogir | Zaton | `taxi-aci-marina-trogir-to-zaton` | 130 |
+| Zaton | ACI Marina Trogir | `taxi-zaton-to-aci-marina-trogir` | 130 |
+| ACI Marina Trogir | Šibenik | `taxi-aci-marina-trogir-to-sibenik` | 110 |
+| Šibenik | ACI Marina Trogir | `taxi-sibenik-to-aci-marina-trogir` | 110 |
+| Marina Trogir (SCT) | Betina | `taxi-marina-trogir-sct-to-betina` | 165 |
+| Betina | Marina Trogir (SCT) | `taxi-betina-to-marina-trogir-sct` | 165 |
+| Marina Trogir (SCT) | Drniš | `taxi-marina-trogir-sct-to-drnis` | 95 |
+| Drniš | Marina Trogir (SCT) | `taxi-drnis-to-marina-trogir-sct` | 95 |
+| Marina Trogir (SCT) | Dubrovnik | `taxi-marina-trogir-sct-to-dubrovnik` | 435 |
+| Dubrovnik | Marina Trogir (SCT) | `taxi-dubrovnik-to-marina-trogir-sct` | 435 |
+| Marina Trogir (SCT) | Dubrovnik Airport | `taxi-marina-trogir-sct-to-dubrovnik-airport` | 435 |
+| Dubrovnik Airport | Marina Trogir (SCT) | `taxi-dubrovnik-airport-to-marina-trogir-sct` | 435 |
+| Marina Trogir (SCT) | Jezera | `taxi-marina-trogir-sct-to-jezera` | 150 |
+| Jezera | Marina Trogir (SCT) | `taxi-jezera-to-marina-trogir-sct` | 150 |
+| Marina Trogir (SCT) | Knin | `taxi-marina-trogir-sct-to-knin` | 125 |
+| Knin | Marina Trogir (SCT) | `taxi-knin-to-marina-trogir-sct` | 125 |
+| Marina Trogir (SCT) | Murter | `taxi-marina-trogir-sct-to-murter` | 165 |
+| Murter | Marina Trogir (SCT) | `taxi-murter-to-marina-trogir-sct` | 165 |
+| Marina Trogir (SCT) | Pirovac | `taxi-marina-trogir-sct-to-pirovac` | 140 |
+| Pirovac | Marina Trogir (SCT) | `taxi-pirovac-to-marina-trogir-sct` | 140 |
+| Marina Trogir (SCT) | Skradin | `taxi-marina-trogir-sct-to-skradin` | 115 |
+| Skradin | Marina Trogir (SCT) | `taxi-skradin-to-marina-trogir-sct` | 115 |
+| Marina Trogir (SCT) | Srima | `taxi-marina-trogir-sct-to-srima` | 130 |
+| Srima | Marina Trogir (SCT) | `taxi-srima-to-marina-trogir-sct` | 130 |
+| Marina Trogir (SCT) | Tisno | `taxi-marina-trogir-sct-to-tisno` | 145 |
+| Tisno | Marina Trogir (SCT) | `taxi-tisno-to-marina-trogir-sct` | 145 |
+| Marina Trogir (SCT) | Tribunj | `taxi-marina-trogir-sct-to-tribunj` | 135 |
+| Tribunj | Marina Trogir (SCT) | `taxi-tribunj-to-marina-trogir-sct` | 135 |
+| Marina Trogir (SCT) | Vodice | `taxi-marina-trogir-sct-to-vodice` | 125 |
+| Vodice | Marina Trogir (SCT) | `taxi-vodice-to-marina-trogir-sct` | 125 |
+| Marina Trogir (SCT) | Zadar | `taxi-marina-trogir-sct-to-zadar` | 225 |
+| Zadar | Marina Trogir (SCT) | `taxi-zadar-to-marina-trogir-sct` | 225 |
+| Marina Trogir (SCT) | Zadar Airport | `taxi-marina-trogir-sct-to-zadar-airport` | 215 |
+| Zadar Airport | Marina Trogir (SCT) | `taxi-zadar-airport-to-marina-trogir-sct` | 215 |
+| Marina Trogir (SCT) | Zagreb | `taxi-marina-trogir-sct-to-zagreb` | 514 |
+| Zagreb | Marina Trogir (SCT) | `taxi-zagreb-to-marina-trogir-sct` | 514 |
+| Marina Trogir (SCT) | Zagreb Airport | `taxi-marina-trogir-sct-to-zagreb-airport` | 514 |
+| Zagreb Airport | Marina Trogir (SCT) | `taxi-zagreb-airport-to-marina-trogir-sct` | 514 |
+| Marina Trogir (SCT) | Zaton | `taxi-marina-trogir-sct-to-zaton` | 130 |
+| Zaton | Marina Trogir (SCT) | `taxi-zaton-to-marina-trogir-sct` | 130 |
+| Marina Trogir (SCT) | Šibenik | `taxi-marina-trogir-sct-to-sibenik` | 110 |
+| Šibenik | Marina Trogir (SCT) | `taxi-sibenik-to-marina-trogir-sct` | 110 |
+| Marina Baotić | Betina | `taxi-marina-baotic-to-betina` | 150 |
+| Betina | Marina Baotić | `taxi-betina-to-marina-baotic` | 150 |
+| Marina Baotić | Drniš | `taxi-marina-baotic-to-drnis` | 80 |
+| Drniš | Marina Baotić | `taxi-drnis-to-marina-baotic` | 80 |
+| Marina Baotić | Dubrovnik | `taxi-marina-baotic-to-dubrovnik` | 420 |
+| Dubrovnik | Marina Baotić | `taxi-dubrovnik-to-marina-baotic` | 420 |
+| Marina Baotić | Dubrovnik Airport | `taxi-marina-baotic-to-dubrovnik-airport` | 420 |
+| Dubrovnik Airport | Marina Baotić | `taxi-dubrovnik-airport-to-marina-baotic` | 420 |
+| Marina Baotić | Jezera | `taxi-marina-baotic-to-jezera` | 135 |
+| Jezera | Marina Baotić | `taxi-jezera-to-marina-baotic` | 135 |
+| Marina Baotić | Knin | `taxi-marina-baotic-to-knin` | 110 |
+| Knin | Marina Baotić | `taxi-knin-to-marina-baotic` | 110 |
+| Marina Baotić | Murter | `taxi-marina-baotic-to-murter` | 150 |
+| Murter | Marina Baotić | `taxi-murter-to-marina-baotic` | 150 |
+| Marina Baotić | Pirovac | `taxi-marina-baotic-to-pirovac` | 125 |
+| Pirovac | Marina Baotić | `taxi-pirovac-to-marina-baotic` | 125 |
+| Marina Baotić | Skradin | `taxi-marina-baotic-to-skradin` | 100 |
+| Skradin | Marina Baotić | `taxi-skradin-to-marina-baotic` | 100 |
+| Marina Baotić | Srima | `taxi-marina-baotic-to-srima` | 115 |
+| Srima | Marina Baotić | `taxi-srima-to-marina-baotic` | 115 |
+| Marina Baotić | Tisno | `taxi-marina-baotic-to-tisno` | 130 |
+| Tisno | Marina Baotić | `taxi-tisno-to-marina-baotic` | 130 |
+| Marina Baotić | Tribunj | `taxi-marina-baotic-to-tribunj` | 120 |
+| Tribunj | Marina Baotić | `taxi-tribunj-to-marina-baotic` | 120 |
+| Marina Baotić | Vodice | `taxi-marina-baotic-to-vodice` | 110 |
+| Vodice | Marina Baotić | `taxi-vodice-to-marina-baotic` | 110 |
+| Marina Baotić | Zadar | `taxi-marina-baotic-to-zadar` | 210 |
+| Zadar | Marina Baotić | `taxi-zadar-to-marina-baotic` | 210 |
+| Marina Baotić | Zadar Airport | `taxi-marina-baotic-to-zadar-airport` | 200 |
+| Zadar Airport | Marina Baotić | `taxi-zadar-airport-to-marina-baotic` | 200 |
+| Marina Baotić | Zagreb | `taxi-marina-baotic-to-zagreb` | 499 |
+| Zagreb | Marina Baotić | `taxi-zagreb-to-marina-baotic` | 499 |
+| Marina Baotić | Zagreb Airport | `taxi-marina-baotic-to-zagreb-airport` | 499 |
+| Zagreb Airport | Marina Baotić | `taxi-zagreb-airport-to-marina-baotic` | 499 |
+| Marina Baotić | Zaton | `taxi-marina-baotic-to-zaton` | 115 |
+| Zaton | Marina Baotić | `taxi-zaton-to-marina-baotic` | 115 |
+| Marina Baotić | Šibenik | `taxi-marina-baotic-to-sibenik` | 95 |
+| Šibenik | Marina Baotić | `taxi-sibenik-to-marina-baotic` | 95 |
+| Marina Agana | Betina | `taxi-marina-agana-to-betina` | 150 |
+| Betina | Marina Agana | `taxi-betina-to-marina-agana` | 150 |
+| Marina Agana | Drniš | `taxi-marina-agana-to-drnis` | 80 |
+| Drniš | Marina Agana | `taxi-drnis-to-marina-agana` | 80 |
+| Marina Agana | Dubrovnik | `taxi-marina-agana-to-dubrovnik` | 420 |
+| Dubrovnik | Marina Agana | `taxi-dubrovnik-to-marina-agana` | 420 |
+| Marina Agana | Dubrovnik Airport | `taxi-marina-agana-to-dubrovnik-airport` | 420 |
+| Dubrovnik Airport | Marina Agana | `taxi-dubrovnik-airport-to-marina-agana` | 420 |
+| Marina Agana | Jezera | `taxi-marina-agana-to-jezera` | 135 |
+| Jezera | Marina Agana | `taxi-jezera-to-marina-agana` | 135 |
+| Marina Agana | Knin | `taxi-marina-agana-to-knin` | 110 |
+| Knin | Marina Agana | `taxi-knin-to-marina-agana` | 110 |
+| Marina Agana | Murter | `taxi-marina-agana-to-murter` | 150 |
+| Murter | Marina Agana | `taxi-murter-to-marina-agana` | 150 |
+| Marina Agana | Pirovac | `taxi-marina-agana-to-pirovac` | 125 |
+| Pirovac | Marina Agana | `taxi-pirovac-to-marina-agana` | 125 |
+| Marina Agana | Skradin | `taxi-marina-agana-to-skradin` | 100 |
+| Skradin | Marina Agana | `taxi-skradin-to-marina-agana` | 100 |
+| Marina Agana | Srima | `taxi-marina-agana-to-srima` | 115 |
+| Srima | Marina Agana | `taxi-srima-to-marina-agana` | 115 |
+| Marina Agana | Tisno | `taxi-marina-agana-to-tisno` | 130 |
+| Tisno | Marina Agana | `taxi-tisno-to-marina-agana` | 130 |
+| Marina Agana | Tribunj | `taxi-marina-agana-to-tribunj` | 120 |
+| Tribunj | Marina Agana | `taxi-tribunj-to-marina-agana` | 120 |
+| Marina Agana | Vodice | `taxi-marina-agana-to-vodice` | 110 |
+| Vodice | Marina Agana | `taxi-vodice-to-marina-agana` | 110 |
+| Marina Agana | Zadar | `taxi-marina-agana-to-zadar` | 210 |
+| Zadar | Marina Agana | `taxi-zadar-to-marina-agana` | 210 |
+| Marina Agana | Zadar Airport | `taxi-marina-agana-to-zadar-airport` | 200 |
+| Zadar Airport | Marina Agana | `taxi-zadar-airport-to-marina-agana` | 200 |
+| Marina Agana | Zagreb | `taxi-marina-agana-to-zagreb` | 499 |
+| Zagreb | Marina Agana | `taxi-zagreb-to-marina-agana` | 499 |
+| Marina Agana | Zagreb Airport | `taxi-marina-agana-to-zagreb-airport` | 499 |
+| Zagreb Airport | Marina Agana | `taxi-zagreb-airport-to-marina-agana` | 499 |
+| Marina Agana | Zaton | `taxi-marina-agana-to-zaton` | 115 |
+| Zaton | Marina Agana | `taxi-zaton-to-marina-agana` | 115 |
+| Marina Agana | Šibenik | `taxi-marina-agana-to-sibenik` | 95 |
+| Šibenik | Marina Agana | `taxi-sibenik-to-marina-agana` | 95 |

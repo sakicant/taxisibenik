@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-letiste-zadar-marina-kremik",
+  "title": "Taxi Letiště Zadar - Marina Kremik | Pevná cena €160 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Letiště Zadar - Marina Kremik. Pevná cena €160 za vozidlo, až 4. Rezervujte u Antonia.",
+  "keywords": "taxi letiště zadar - marina kremik, transfer letiště zadar - marina kremik, letištní transfer letiště zadar - marina kremik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromý taxi transfer",
+      "name": "Taxi Letiště Zadar - Marina Kremik",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Letiště Zadar - Marina Kremik, 160 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Letiště Zadar",
+        "Marina Kremik"
+      ],
+      "url": "https://taxisibenik.hr/cs/taxi-letiste-zadar-marina-kremik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "160",
+        "priceCurrency": "EUR",
+        "description": "Soukromá jednosměrná jízda, trasa Letiště Zadar - Marina Kremik, za vozidlo až pro 4 cestující. Zpáteční 320 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kde mě přivítáte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "V příletové hale, hned za výdejem zavazadel, s cedulkou s vaším jménem. Pomůžu se zavazadly a doprovodím vás k vozidlu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Co když má můj let zpoždění?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Žádný problém. Váš let sleduji v reálném čase a přizpůsobím vyzvednutí skutečnému přistání, bez příplatku za čekání."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kolik stojí transfer na trase Letiště Zadar - Marina Kremik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevně 160 za vozidlo až pro 4 cestující, jednosměrná, mýtné a zavazadla v ceně. Zpáteční jízda je 320."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S jakým předstihem rezervovat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alespoň 2 hodiny předem, abych naplánoval podle vašeho letu. Pro vyzvednutí týž den po náhlé změně zavolejte nebo napište na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taksi-aci-marina-vodice-letalisce-split",
+  "title": "Taksi ACI Marina Vodice - Letališče Split | Fiksna cena €115 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija ACI Marina Vodice - Letališče Split. Fiksna cena €115 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "keywords": "taksi aci marina vodice - letališče split, prevoz aci marina vodice - letališče split, letališki prevoz aci marina vodice - letališče split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi ACI Marina Vodice - Letališče Split",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija ACI Marina Vodice - Letališče Split, 115 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Vodice",
+        "Letališče Split"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-aci-marina-vodice-letalisce-split/",
+      "offers": {
+        "@type": "Offer",
+        "price": "115",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija ACI Marina Vodice - Letališče Split, na vozilo do 4 potnike. Povratno 230 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji ACI Marina Vodice - Letališče Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 115 na vozilo, enosmerno, do 4 potnike. Cena je na vozilo, ne na osebo, in vključuje cestnine, gorivo in prtljago. Povratna vožnja je 230."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kdaj naj se odpravim na let?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Praviloma približno 3 ure pred mednarodnim letom in 2 uri pred domačim. Povejte mi uro leta in potrdim natančen prevzem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Me odpeljete do samega odhodnega terminala?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Odpeljem vas naravnost do odhodnega terminala in pomagam s prtljago. Brez hoje s parkirišča in brez shuttle avtobusa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in prevzem, in prej za jutranje lete in v visoki sezoni. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

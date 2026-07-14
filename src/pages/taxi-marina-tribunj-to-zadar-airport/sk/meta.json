@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-tribunj-letisko-zadar",
+  "title": "Taxi Marina Tribunj - Letisko Zadar | Pevná cena €100 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Marina Tribunj - Letisko Zadar. Pevná cena €100 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi marina tribunj - letisko zadar, transfer marina tribunj - letisko zadar, letiskový transfer marina tribunj - letisko zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi Marina Tribunj - Letisko Zadar",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Marina Tribunj - Letisko Zadar, 100 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Tribunj",
+        "Letisko Zadar"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-marina-tribunj-letisko-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, Marina Tribunj - Letisko Zadar, za vozidlo pre max. 4 cestujúcich. Spiatočne 200 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koľko stojí taxi na trase Marina Tribunj - Letisko Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 100 za vozidlo, jednosmerne, max. 4 cestujúci. Cena je za vozidlo, nie za osobu, a zahŕňa mýto, palivo a batožinu. Spiatočná cesta stojí 200."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kedy mám vyraziť na svoj let?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zvyčajne približne 3 hodiny pred medzinárodným a 2 hodiny pred vnútroštátnym letom. Zadajte čas letu a potvrdím presné vyzdvihnutie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Odveziete ma až k odletovému terminálu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Odveziem Vás priamo k odletovému terminálu a pomôžem s batožinou. Žiadna chôdza z parkoviska, žiadny shuttle bus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som potvrdil vozidlo a vyzdvihnutie, pri skorších letoch a v hlavnej sezóne skôr. Pre rýchlu jazdu zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

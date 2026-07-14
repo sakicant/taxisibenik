@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-tromilja-ciovo",
+  "title": "Taxi Tromilja - Čiovo | Stała cena €105 | TAXI Antonio",
+  "description": "Taxi i prywatny transfer, trasa Tromilja - Čiovo. Stała cena €105 za pojazd, do 4 pasażerów, od drzwi do drzwi. Rezerwuj bezpośrednio u Antonio.",
+  "keywords": "taxi tromilja - čiovo, transfer tromilja - čiovo, transfer lotniskowy tromilja - čiovo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Prywatny transfer taxi",
+      "name": "Taxi Tromilja - Čiovo",
+      "description": "Taxi i prywatny transfer w stałej cenie, trasa Tromilja - Čiovo, 105 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Tromilja",
+        "Čiovo"
+      ],
+      "url": "https://taxisibenik.hr/pl/taxi-tromilja-ciovo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "105",
+        "priceCurrency": "EUR",
+        "description": "Prywatny przejazd w jedną stronę, trasa Tromilja - Čiovo, za pojazd do 4 pasażerów. W obie strony 210 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje taxi na trasie Tromilja - Čiovo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stałe 105 za pojazd do 4 pasażerów, w jedną stronę, bagaż w cenie. W obie strony 210."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Skąd mnie odbierasz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Spod Twojego dokładnego adresu, czy to dom, hotel czy apartament. Prześlij adres przy rezerwacji, a potwierdzę miejsce spotkania."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Z jakim wyprzedzeniem rezerwować?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Co najmniej 2 godziny wcześniej, żebym potwierdził pojazd i godzinę odbioru. Na szybki kurs zadzwoń lub napisz na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

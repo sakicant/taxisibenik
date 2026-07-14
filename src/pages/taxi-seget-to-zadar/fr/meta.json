@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-seget-zadar",
+  "title": "Taxi Seget - Zadar | Prix fixe €210 | TAXI Antonio",
+  "description": "Taxi et transfert privé, trajet Seget - Zadar. Prix fixe €210 par véhicule, jusqu'à 4 passagers, porte à porte. Réservez directement avec Antonio.",
+  "keywords": "taxi seget - zadar, transfert seget - zadar, transfert aéroport seget - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfert taxi privé",
+      "name": "Taxi Seget - Zadar",
+      "description": "Taxi et transfert privé à prix fixe, trajet Seget - Zadar, 210 euros par véhicule jusqu'à 4 passagers, porte à porte.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Seget",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/fr/taxi-seget-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "210",
+        "priceCurrency": "EUR",
+        "description": "Trajet privé aller simple, trajet Seget - Zadar, par véhicule jusqu'à 4 passagers. Aller-retour 420 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Combien coûte un taxi sur le trajet Seget - Zadar ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "210 fixe par véhicule jusqu'à 4 passagers, aller simple, avec péages, carburant et bagages. Un aller-retour coûte 420."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le transfert est-il privé ou partagé ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Chaque transfert est privé et porte à porte, dans une Škoda Superb. Pas de partage du véhicule et pas d'arrêts supplémentaires, sauf si vous le demandez."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pouvez-vous vous arrêter en chemin ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Sur les trajets plus longs, je m'arrête volontiers pour un café, une photo ou une brève visite. Il suffit de le dire à la réservation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de temps à l'avance réserver ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Au moins 2 heures avant, pour que je confirme le véhicule et l'heure de prise en charge. Pour un trajet de dernière minute, appelez-moi ou écrivez-moi sur WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

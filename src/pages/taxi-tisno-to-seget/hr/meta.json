@@ -1,0 +1,73 @@
+{
+  "slug": "taksi-tisno-seget",
+  "title": "Taksi Tisno - Seget | Fiksna cijena €130 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Tisno - Seget. Fiksno €130 po vozilu, do 4 putnika, od vrata do vrata. Rezervirajte izravno kod Antonija.",
+  "keywords": "taksi tisno - seget, transfer tisno - seget, prijevoz tisno - seget",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Tisno - Seget",
+      "description": "Privatni taksi i transfer po fiksnoj cijeni, relacija Tisno - Seget, 130 eura po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Tisno",
+        "Seget"
+      ],
+      "url": "https://taxisibenik.hr/hr/taksi-tisno-seget/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Jednosmjerni privatni transfer, relacija Tisno - Seget, po vozilu za do 4 putnika. Povratno 260 eura."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Tisno - Seget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 130 po vozilu za do 4 putnika, jedan smjer, prtljaga uključena. Povratna vožnja je 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gdje me preuzimate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašoj točnoj adresi, bila to kuća, hotel ili apartman. Pošaljite adresu pri rezervaciji i potvrdit ću mjesto sastanka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unaprijed trebam rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unaprijed da potvrdim vozilo i vrijeme preuzimanja. Za brži termin nazovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

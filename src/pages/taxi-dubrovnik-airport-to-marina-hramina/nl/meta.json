@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-luchthaven-dubrovnik-marina-hramina",
+  "title": "Taxi Luchthaven Dubrovnik - Marina Hramina | Vaste prijs €535 | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Luchthaven Dubrovnik - Marina Hramina. Vaste prijs €535 per voertuig, tot 4. Boek bij Antonio.",
+  "keywords": "taxi luchthaven dubrovnik - marina hramina, transfer luchthaven dubrovnik - marina hramina, luchthaventransfer luchthaven dubrovnik - marina hramina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privé taxitransfer",
+      "name": "Taxi Luchthaven Dubrovnik - Marina Hramina",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Luchthaven Dubrovnik - Marina Hramina, 535 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Luchthaven Dubrovnik",
+        "Marina Hramina"
+      ],
+      "url": "https://taxisibenik.hr/nl/taxi-luchthaven-dubrovnik-marina-hramina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "535",
+        "priceCurrency": "EUR",
+        "description": "Privérit enkele reis, traject Luchthaven Dubrovnik - Marina Hramina, per voertuig tot 4 passagiers. Retour 1070 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Waar ontvangt u me?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In de aankomsthal, meteen na het ophalen van de bagage, met een naambordje met uw naam. Ik help met de bagage en begeleid u naar het voertuig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wat als mijn vlucht vertraging heeft?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Geen probleem. Ik volg uw vlucht in real time en pas het ophalen aan de werkelijke landing aan, zonder toeslag voor het wachten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost de transfer op het traject Luchthaven Dubrovnik - Marina Hramina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vast 535 per voertuig tot 4 passagiers, enkele reis, tol en bagage inbegrepen. Een retour kost 1070."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe ver van tevoren reserveren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minstens 2 uur van tevoren, zodat ik rond uw vlucht kan plannen. Voor een ophaalservice dezelfde dag na een plotselinge wijziging belt u of schrijft u me op WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

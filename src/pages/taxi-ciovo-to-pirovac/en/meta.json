@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-ciovo-to-pirovac",
+  "title": "Taxi Čiovo to Pirovac | Fixed €140 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Čiovo to Pirovac. Fixed €140 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi čiovo to pirovac, transfer čiovo to pirovac, čiovo to pirovac taxi, čiovo to pirovac transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi Čiovo to Pirovac",
+      "description": "Private, fixed-price taxi and transfer from Čiovo to Pirovac, 140 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Pirovac"
+      ],
+      "url": "https://taxisibenik.hr/taxi-ciovo-to-pirovac/",
+      "offers": {
+        "@type": "Offer",
+        "price": "140",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from Čiovo to Pirovac, per car for up to 4 passengers. Return 280 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Čiovo to Pirovac?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 140 per car for up to 4 passengers, one way, luggage included. A return trip is 280."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do you pick up?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At your exact address in Čiovo, whether a home, hotel or apartment. Send the address when you book and I will confirm the meeting point."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}

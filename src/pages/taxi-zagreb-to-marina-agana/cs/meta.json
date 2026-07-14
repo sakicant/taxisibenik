@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zagreb-marina-agana",
+  "title": "Taxi Zagreb - Marina Agana | Pevná cena €499 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Zagreb - Marina Agana. Pevná cena €499 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "keywords": "taxi zagreb - marina agana, transfer zagreb - marina agana, letištní transfer zagreb - marina agana",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromý taxi transfer",
+      "name": "Taxi Zagreb - Marina Agana",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Zagreb - Marina Agana, 499 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zagreb",
+        "Marina Agana"
+      ],
+      "url": "https://taxisibenik.hr/cs/taxi-zagreb-marina-agana/",
+      "offers": {
+        "@type": "Offer",
+        "price": "499",
+        "priceCurrency": "EUR",
+        "description": "Soukromá jednosměrná jízda, trasa Zagreb - Marina Agana, za vozidlo až pro 4 cestující. Zpáteční 998 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolik stojí transfer na trase Zagreb - Marina Agana?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevně 499 za vozidlo až pro 4 cestující, jednosměrná, s mýtným, palivem a zavazadly v ceně. Zpáteční jízda je 998."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete mě vyzvednout přímo v přístavu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Počkám na vás u vjezdu do přístavu nebo na recepci a pomůžu se zavazadly, ať jdete rovnou z mola do vozidla."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete přizpůsobit transfer mé lodi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Při rezervaci mi pošlete čas charteru, check-inu nebo odjezdu a vyzvednutí naplánuji podle něj."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S jakým předstihem rezervovat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alespoň 2 hodiny předem, abych potvrdil vozidlo a čas vyzvednutí. Pro rychlejší jízdu zavolejte nebo napište na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

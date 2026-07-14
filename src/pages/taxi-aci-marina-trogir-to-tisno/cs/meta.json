@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-trogir-tisno",
+  "title": "Taxi ACI Marina Trogir - Tisno | Pevná cena €145 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa ACI Marina Trogir - Tisno. Pevná cena €145 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "keywords": "taxi aci marina trogir - tisno, transfer aci marina trogir - tisno, letištní transfer aci marina trogir - tisno",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromý taxi transfer",
+      "name": "Taxi ACI Marina Trogir - Tisno",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa ACI Marina Trogir - Tisno, 145 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Trogir",
+        "Tisno"
+      ],
+      "url": "https://taxisibenik.hr/cs/taxi-aci-marina-trogir-tisno/",
+      "offers": {
+        "@type": "Offer",
+        "price": "145",
+        "priceCurrency": "EUR",
+        "description": "Soukromá jednosměrná jízda, trasa ACI Marina Trogir - Tisno, za vozidlo až pro 4 cestující. Zpáteční 290 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolik stojí transfer na trase ACI Marina Trogir - Tisno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevně 145 za vozidlo až pro 4 cestující, jednosměrná, s mýtným, palivem a zavazadly v ceně. Zpáteční jízda je 290."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete mě vyzvednout přímo v přístavu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Počkám na vás u vjezdu do přístavu nebo na recepci a pomůžu se zavazadly, ať jdete rovnou z mola do vozidla."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete přizpůsobit transfer mé lodi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Při rezervaci mi pošlete čas charteru, check-inu nebo odjezdu a vyzvednutí naplánuji podle něj."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S jakým předstihem rezervovat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alespoň 2 hodiny předem, abych potvrdil vozidlo a čas vyzvednutí. Pro rychlejší jízdu zavolejte nebo napište na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

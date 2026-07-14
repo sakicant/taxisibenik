@@ -1,0 +1,81 @@
+{
+  "slug": "taksi-aci-marina-vodice-zaboric",
+  "title": "Taksi ACI Marina Vodice - Žaborić | Fiksna cena €50 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija ACI Marina Vodice - Žaborić. Fiksna cena €50 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "keywords": "taksi aci marina vodice - žaborić, prevoz aci marina vodice - žaborić, letališki prevoz aci marina vodice - žaborić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi ACI Marina Vodice - Žaborić",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija ACI Marina Vodice - Žaborić, 50 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Vodice",
+        "Žaborić"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-aci-marina-vodice-zaboric/",
+      "offers": {
+        "@type": "Offer",
+        "price": "50",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija ACI Marina Vodice - Žaborić, na vozilo do 4 potnike. Povratno 100 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko stane prevoz na relaciji ACI Marina Vodice - Žaborić?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 50 na vozilo, do 4 potnike, enosmerno, s cestninami, gorivom in prtljago. Povratna vožnja je 100."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Me lahko poberete kar v marini?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Pričakam vas pri vhodu v marino ali na recepciji in pomagam s prtljago, tako da greste naravnost s pomola do vozila."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lahko prevoz prilagodite moji plovbi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Ob rezervaciji mi pošljite uro najema, prijave ali odhoda in prevzem načrtujem glede na to."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in uro prevzema. Za hitrejšo vožnjo me pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

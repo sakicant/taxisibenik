@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zadar-marina-kremik",
+  "title": "Taxi Zadar - Marina Kremik | Pevná cena €170 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Zadar - Marina Kremik. Pevná cena €170 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "keywords": "taxi zadar - marina kremik, transfer zadar - marina kremik, letištní transfer zadar - marina kremik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromý taxi transfer",
+      "name": "Taxi Zadar - Marina Kremik",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Zadar - Marina Kremik, 170 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Marina Kremik"
+      ],
+      "url": "https://taxisibenik.hr/cs/taxi-zadar-marina-kremik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "170",
+        "priceCurrency": "EUR",
+        "description": "Soukromá jednosměrná jízda, trasa Zadar - Marina Kremik, za vozidlo až pro 4 cestující. Zpáteční 340 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolik stojí transfer na trase Zadar - Marina Kremik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevně 170 za vozidlo až pro 4 cestující, jednosměrná, s mýtným, palivem a zavazadly v ceně. Zpáteční jízda je 340."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete mě vyzvednout přímo v přístavu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Počkám na vás u vjezdu do přístavu nebo na recepci a pomůžu se zavazadly, ať jdete rovnou z mola do vozidla."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete přizpůsobit transfer mé lodi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Při rezervaci mi pošlete čas charteru, check-inu nebo odjezdu a vyzvednutí naplánuji podle něj."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S jakým předstihem rezervovat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alespoň 2 hodiny předem, abych potvrdil vozidlo a čas vyzvednutí. Pro rychlejší jízdu zavolejte nebo napište na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

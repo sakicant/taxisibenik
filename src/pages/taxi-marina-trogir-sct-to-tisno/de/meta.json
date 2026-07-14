@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-trogir-sct-tisno",
+  "title": "Taxi Marina Trogir (SCT) - Tisno | Festpreis €145 | TAXI Antonio",
+  "description": "Privates Taxi und Transfer, Strecke Marina Trogir (SCT) - Tisno. Festpreis €145 pro Fahrzeug, bis zu 4. Direkt bei Antonio buchen.",
+  "keywords": "taxi marina trogir (sct) - tisno, transfer marina trogir (sct) - tisno, flughafentransfer marina trogir (sct) - tisno",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privater Taxitransfer",
+      "name": "Taxi Marina Trogir (SCT) - Tisno",
+      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Marina Trogir (SCT) - Tisno, 145 Euro pro Fahrzeug für bis zu 4 Fahrgäste, Tür zu Tür.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Trogir (SCT)",
+        "Tisno"
+      ],
+      "url": "https://taxisibenik.hr/de/taxi-marina-trogir-sct-tisno/",
+      "offers": {
+        "@type": "Offer",
+        "price": "145",
+        "priceCurrency": "EUR",
+        "description": "Einfache private Fahrt, Strecke Marina Trogir (SCT) - Tisno, pro Fahrzeug für bis zu 4 Fahrgäste. Hin und zurück 290 Euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie viel kostet ein Transfer auf der Strecke Marina Trogir (SCT) - Tisno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fest 145 pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, mit Maut, Kraftstoff und Gepäck. Eine Hin- und Rückfahrt kostet 290."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie direkt an der Marina abholen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ich treffe Sie am Eingang oder an der Rezeption der Marina und helfe mit dem Gepäck, sodass Sie direkt vom Steg zum Fahrzeug gehen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie den Transfer auf mein Boot abstimmen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Senden Sie mir bei der Buchung Ihre Charter-, Check-in- oder Abfahrtszeit und ich plane die Abholung darum herum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie weit im Voraus sollte ich buchen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindestens 2 Stunden vorher, damit ich Fahrzeug und Abholzeit bestätigen kann. Für eine kurzfristige Fahrt rufen Sie an oder schreiben mir direkt auf WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

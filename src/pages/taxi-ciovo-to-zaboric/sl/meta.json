@@ -1,0 +1,73 @@
+{
+  "slug": "taksi-ciovo-zaboric",
+  "title": "Taksi Čiovo - Žaborić | Fiksna cena €95 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Čiovo - Žaborić. Fiksna cena €95 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "keywords": "taksi čiovo - žaborić, prevoz čiovo - žaborić, letališki prevoz čiovo - žaborić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Čiovo - Žaborić",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Čiovo - Žaborić, 95 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Žaborić"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-ciovo-zaboric/",
+      "offers": {
+        "@type": "Offer",
+        "price": "95",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Čiovo - Žaborić, na vozilo do 4 potnike. Povratno 190 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Čiovo - Žaborić?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 95 na vozilo do 4 potnike, enosmerno, prtljaga vključena. Povratna vožnja je 190."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kje me poberete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašem točnem naslovu, naj bo to hiša, hotel ali apartma. Pošljite naslov ob rezervaciji in potrdim mesto srečanja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in uro prevzema. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

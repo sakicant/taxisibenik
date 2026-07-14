@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aeroporto-dubrovnik-marina-kremik",
+  "title": "Taxi Aeroporto di Dubrovnik - Marina Kremik | Prezzo fisso €435 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Aeroporto di Dubrovnik - Marina Kremik. Prezzo fisso €435 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi aeroporto di dubrovnik - marina kremik, transfer aeroporto di dubrovnik - marina kremik, transfer aeroporto aeroporto di dubrovnik - marina kremik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Aeroporto di Dubrovnik - Marina Kremik",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Aeroporto di Dubrovnik - Marina Kremik, 435 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Aeroporto di Dubrovnik",
+        "Marina Kremik"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-aeroporto-dubrovnik-marina-kremik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "435",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Aeroporto di Dubrovnik - Marina Kremik, per veicolo fino a 4 passeggeri. Andata e ritorno 870 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Dove mi accogli?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nell'area arrivi, subito dopo il ritiro bagagli, con un cartello con il tuo nome. Ti aiuto con i bagagli e ti accompagno al veicolo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "E se il mio volo è in ritardo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nessun problema. Monitoro il tuo volo in tempo reale e adatto il ritiro all'atterraggio effettivo, senza sovrapprezzo per l'attesa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa il transfer sulla tratta Aeroporto di Dubrovnik - Marina Kremik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 435 per veicolo fino a 4 passeggeri, solo andata, pedaggi e bagagli inclusi. Andata e ritorno 870."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così pianifico in base al tuo volo. Per un ritiro in giornata dopo un cambio improvviso, chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

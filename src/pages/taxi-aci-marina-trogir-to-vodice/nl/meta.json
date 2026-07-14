@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-trogir-vodice",
+  "title": "Taxi ACI Marina Trogir - Vodice | Vaste prijs €125 | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject ACI Marina Trogir - Vodice. Vaste prijs €125 per voertuig, tot 4. Boek bij Antonio.",
+  "keywords": "taxi aci marina trogir - vodice, transfer aci marina trogir - vodice, luchthaventransfer aci marina trogir - vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privé taxitransfer",
+      "name": "Taxi ACI Marina Trogir - Vodice",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject ACI Marina Trogir - Vodice, 125 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Trogir",
+        "Vodice"
+      ],
+      "url": "https://taxisibenik.hr/nl/taxi-aci-marina-trogir-vodice/",
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Privérit enkele reis, traject ACI Marina Trogir - Vodice, per voertuig tot 4 passagiers. Retour 250 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost een transfer van ACI Marina Trogir naar Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vast 125 per voertuig tot 4 passagiers, enkele reis, met tol, brandstof en bagage inbegrepen. Een retour kost 250."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kunt u me recht bij de marina ophalen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik ontmoet u bij de ingang of receptie van de marina en help met uw bagage, zodat u recht van de steiger naar het voertuig gaat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kunt u de transfer op mijn boot afstemmen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Stuur me uw charter-, check-in- of vertrektijd bij de reservering en ik plan het ophalen daaromheen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe ver van tevoren reserveren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minstens 2 uur van tevoren, zodat ik het voertuig en de ophaaltijd kan bevestigen. Voor een snellere rit belt u of schrijft u me rechtstreeks op WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

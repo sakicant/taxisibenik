@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-ciovo-zagreb",
+  "title": "Taxi Čiovo - Zagreb | Pevná cena €514 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Čiovo - Zagreb. Pevná cena €514 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "keywords": "taxi čiovo - zagreb, transfer čiovo - zagreb, letištní transfer čiovo - zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromý taxi transfer",
+      "name": "Taxi Čiovo - Zagreb",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Čiovo - Zagreb, 514 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/cs/taxi-ciovo-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "514",
+        "priceCurrency": "EUR",
+        "description": "Soukromá jednosměrná jízda, trasa Čiovo - Zagreb, za vozidlo až pro 4 cestující. Zpáteční 1028 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolik stojí taxi na trase Čiovo - Zagreb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevně 514 za vozidlo až pro 4 cestující, jednosměrná, s mýtným, palivem a zavazadly. Zpáteční jízda je 1028."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je transfer soukromý nebo sdílený?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Každý transfer je soukromý a ode dveří ke dveřím, ve Škodě Superb. Žádné sdílení vozidla a žádné zastávky navíc, pokud o ně nepožádáte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete zastavit po cestě?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Na delších trasách se rád zastavím na kávu, fotku nebo krátkou zajímavost. Stačí říct při rezervaci."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S jakým předstihem rezervovat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alespoň 2 hodiny předem, abych potvrdil vozidlo a čas vyzvednutí. Pro rychlou jízdu zavolejte nebo napište na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

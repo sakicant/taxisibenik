@@ -35,6 +35,8 @@ MAPK = {'Šibenik':'Šibenik - center','Brodarica':'Brodarica - Šibenik','Skrad
 key = lambda n: MAPK.get(n, n)
 BIG_CITIES = {'Split','Zadar','Dubrovnik','Zagreb','Trogir'}
 AIRPORT_CITY = {'Split Airport':'Split','Zadar Airport':'Zadar','Zagreb Airport':'Zagreb','Dubrovnik Airport':'Dubrovnik'}
+MARINAS = {'ACI Marina Trogir','Marina Trogir (SCT)','Marina Baotić','Marina Agana','Marina Frapa',
+           'Marina Kremik','ACI Marina Vodice','Marina Tribunj','Marina Hramina','Marina Betina','ACI Marina Jezera'}
 SL_NAME = {'Split Airport':'Letališče Split','Zadar Airport':'Letališče Zadar',
            'Zagreb Airport':'Letališče Zagreb','Dubrovnik Airport':'Letališče Dubrovnik'}
 sl = lambda n: SL_NAME.get(n, n)
@@ -69,6 +71,7 @@ def book_link(frm, to, price):
 def route_type(frm, to):
     if to in AIRPORT_CITY: return "to_airport"
     if frm in AIRPORT_CITY: return "from_airport"
+    if frm in MARINAS or to in MARINAS: return "marina"
     if frm in BIG_CITIES or to in BIG_CITIES: return "city"
     return "local"
 
@@ -143,6 +146,25 @@ def build(frm, to, slug):
                  "Fiksno &euro;%d na vozilo do 4 potnike, enosmerno, cestnine in prtljaga vključeni. Povratna vožnja je &euro;%d." % (p, rp)),
                 ("Kako dolgo vnaprej rezervirati?",
                  "Vsaj 2 uri prej, da načrtujem glede na vaš let. Za prevzem isti dan po nenadni spremembi pokličite ali pišite na WhatsApp.")]
+    elif typ == "marina":
+        heading = "Zasebni prevoz za marino, relacija %s" % rel
+        tagline = "Taksi in zasebni prevoz po fiksni ceni, relacija %s. &euro;%d na vozilo, do 4 potnike, prilagojeno vaši plovbi." % (rel, p)
+        intro = ("Se prevažate na relaciji %s? Vozim zasebni taksi in prevoz po fiksni ceni za goste marin, prilagojen vaši plovbi in vašim potovalnim načrtom. "
+                 "Poberem vas z dovolj prostora za prtljago in vas udobno odpeljem vso pot v Škodi Superb, po pavšalni ceni &euro;%d za vozilo, do 4 potnike, dogovorjeni pred potjo. "
+                 "Naj se vkrcavate na svojo jahto ali nadaljujete pot potem, ko z nje stopite, ni taksimetra in ni čakanja na postajališču, samo en lokalni voznik, ki ga rezervirate neposredno. "
+                 "To je zasebni prevoz na daljše razdalje, ne kratek lokalni skok, in ponudba zgoraj je za to relacijo že nastavljena, tako da rezervacija traja le nekaj klikov." % (rel, p))
+        whys = [("Fiksna cena &euro;%d" % p, "Ena cena za vozilo, do 4 potnike, dogovorjena vnaprej. Cestnine, gorivo in prtljaga vključeni, brez taksimetra."),
+                ("Prilagojeno vaši plovbi", "Povejte mi uro najema, prijave ali odhoda in prevzem načrtujem glede na to, da vas počasnejši odsek nikoli ne priganja."),
+                ("Prostor za vašo prtljago", "Kovčki, zaloge in ladijske torbe se udobno zložijo v Škodo Superb, s pomočjo pri natovarjanju in raztovarjanju."),
+                ("En lokalni voznik", "Vse urejate neposredno z mano, od rezervacije do prihoda, po telefonu, WhatsAppu ali e-pošti. Brez klicnega centra.")]
+        faqs = [("Koliko stane prevoz na relaciji %s?" % rel,
+                 "Fiksno &euro;%d na vozilo, do 4 potnike, enosmerno, s cestninami, gorivom in prtljago. Povratna vožnja je &euro;%d." % (p, rp)),
+                ("Me lahko poberete kar v marini?",
+                 "Da. Pričakam vas pri vhodu v marino ali na recepciji in pomagam s prtljago, tako da greste naravnost s pomola do vozila."),
+                ("Lahko prevoz prilagodite moji plovbi?",
+                 "Da. Ob rezervaciji mi pošljite uro najema, prijave ali odhoda in prevzem načrtujem glede na to."),
+                ("Kako dolgo vnaprej rezervirati?",
+                 "Vsaj 2 uri prej, da potrdim vozilo in uro prevzema. Za hitrejšo vožnjo me pokličite ali pišite na WhatsApp.")]
     elif typ == "city":
         heading = "Zasebni prevoz, relacija %s" % rel
         tagline = "Taksi in zasebni prevoz po fiksni ceni, relacija %s, od vrat do vrat." % rel
@@ -335,7 +357,7 @@ def build(frm, to, slug):
     json.dump(meta, open(os.path.join(outdir, "meta.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     return typ
 
-made = {"to_airport":0,"from_airport":0,"city":0,"local":0}; skipped=0
+made = {"to_airport":0,"from_airport":0,"marina":0,"city":0,"local":0}; skipped=0
 for frm, to, slug in rows:
     if price(key(frm), key(to)) is None: skipped += 1; continue
     made[build(frm, to, slug)] += 1

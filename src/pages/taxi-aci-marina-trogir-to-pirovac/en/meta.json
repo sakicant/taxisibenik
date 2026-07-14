@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-trogir-to-pirovac",
+  "title": "Taxi ACI Marina Trogir to Pirovac | Fixed €140 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from ACI Marina Trogir to Pirovac. Fixed €140 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "keywords": "taxi aci marina trogir to pirovac, transfer aci marina trogir to pirovac, aci marina trogir to pirovac taxi, aci marina trogir to pirovac transfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private taxi transfer",
+      "name": "Taxi ACI Marina Trogir to Pirovac",
+      "description": "Private, fixed-price taxi and transfer from ACI Marina Trogir to Pirovac, 140 euros per car for up to 4 passengers, door to door.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Trogir",
+        "Pirovac"
+      ],
+      "url": "https://taxisibenik.hr/taxi-aci-marina-trogir-to-pirovac/",
+      "offers": {
+        "@type": "Offer",
+        "price": "140",
+        "priceCurrency": "EUR",
+        "description": "One-way private transfer from ACI Marina Trogir to Pirovac, per car for up to 4 passengers. Return 280 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a transfer from ACI Marina Trogir to Pirovac?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fixed 140 per car for up to 4 passengers, one way, with tolls, fuel and luggage included. A return trip is 280."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you collect right at the marina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. I meet you at the marina entrance or reception and help with your luggage, so you go straight from the pontoon to the car."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you time the transfer around my boat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Send me your charter, check-in or departure time when you book and I plan the pickup around it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 2 hours ahead so I can confirm the car and your pickup time. For a sooner ride, call or WhatsApp me directly."
+          }
+        }
+      ]
+    }
+  ]
+}

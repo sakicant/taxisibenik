@@ -35,6 +35,8 @@ MAPK = {'Šibenik':'Šibenik - center','Brodarica':'Brodarica - Šibenik','Skrad
 key = lambda n: MAPK.get(n, n)
 BIG_CITIES = {'Split','Zadar','Dubrovnik','Zagreb','Trogir'}
 AIRPORT_CITY = {'Split Airport':'Split','Zadar Airport':'Zadar','Zagreb Airport':'Zagreb','Dubrovnik Airport':'Dubrovnik'}
+MARINAS = {'ACI Marina Trogir','Marina Trogir (SCT)','Marina Baotić','Marina Agana','Marina Frapa',
+           'Marina Kremik','ACI Marina Vodice','Marina Tribunj','Marina Hramina','Marina Betina','ACI Marina Jezera'}
 PL_NAME = {'Split Airport':'Lotnisko Split','Zadar Airport':'Lotnisko Zadar',
            'Zagreb Airport':'Lotnisko Zagreb','Dubrovnik Airport':'Lotnisko Dubrovnik'}
 pl = lambda n: PL_NAME.get(n, n)
@@ -69,6 +71,7 @@ def book_link(frm, to, price):
 def route_type(frm, to):
     if to in AIRPORT_CITY: return "to_airport"
     if frm in AIRPORT_CITY: return "from_airport"
+    if frm in MARINAS or to in MARINAS: return "marina"
     if frm in BIG_CITIES or to in BIG_CITIES: return "city"
     return "local"
 
@@ -143,6 +146,25 @@ def build(frm, to, slug):
                  "Stałe &euro;%d za pojazd do 4 pasażerów, w jedną stronę, opłaty drogowe i bagaż w cenie. W obie strony &euro;%d." % (p, rp)),
                 ("Z jakim wyprzedzeniem rezerwować?",
                  "Co najmniej 2 godziny wcześniej, żebym zaplanował pod Twój lot. Na odbiór tego samego dnia po nagłej zmianie zadzwoń lub napisz na WhatsApp.")]
+    elif typ == "marina":
+        heading = "Prywatny transfer z mariny, trasa %s" % rel
+        tagline = "Taxi i prywatny transfer w stałej cenie, trasa %s. &euro;%d za pojazd, do 4 pasażerów, z dopasowaniem do godzin Pana/Pani rejsu." % (rel, p)
+        intro = ("Potrzebuje Pan/Pani transferu na trasie %s? Prowadzę prywatne taxi i transfer w stałej cenie dla gości marin, dopasowany do godzin rejsu i planów podróży. "
+                 "Odbieram Pana/Panią z dużą ilością miejsca na bagaż i wiozę wygodnie przez całą trasę wygodną Škodą Superb, w cenie ryczałtowej &euro;%d za pojazd, do 4 pasażerów, ustalonej przed wyjazdem. "
+                 "Niezależnie od tego, czy wsiada Pan/Pani na swój jacht, czy rusza dalej po zejściu na ląd, nie ma taksometru ani czekania na postoju, tylko jeden lokalny kierowca, którego rezerwuje Pan/Pani bezpośrednio. "
+                 "To prywatny transfer na dłuższą trasę, nie krótki lokalny kurs, a wycena powyżej jest już ustawiona dla tej trasy, więc rezerwacja to kilka kliknięć." % (rel, p))
+        whys = [("Stała cena &euro;%d" % p, "Jedna cena za pojazd do 4 pasażerów, ustalona z góry. Opłaty drogowe, paliwo i bagaż w cenie, bez taksometru."),
+                ("Dopasowane do Pana/Pani rejsu", "Proszę podać godzinę czarteru, zaokrętowania lub wypłynięcia, a zaplanuję odbiór pod nią, żeby wolniejszy odcinek nigdy Pana/Pani nie poganiał."),
+                ("Miejsce na Pana/Pani bagaż", "Walizki, prowiant i torby żeglarskie zmieszczą się w wygodnej Škodzie Superb, a ja pomogę przy załadunku i rozładunku."),
+                ("Jeden lokalny kierowca", "Załatwia Pan/Pani wszystko bezpośrednio ze mną, od rezerwacji do przyjazdu, telefonicznie, przez WhatsApp lub e-mail. Bez call center.")]
+        faqs = [("Ile kosztuje transfer na trasie %s?" % rel,
+                 "Stałe &euro;%d za pojazd do 4 pasażerów, w jedną stronę, z opłatami drogowymi, paliwem i bagażem w cenie. W obie strony &euro;%d." % (p, rp)),
+                ("Czy odbiór jest możliwy prosto z mariny?",
+                 "Tak. Spotykam Pana/Panią przy wejściu do mariny lub w recepcji i pomagam z bagażem, żeby przejść prosto z pomostu do pojazdu."),
+                ("Czy można dopasować transfer do mojego rejsu?",
+                 "Tak. Proszę przesłać godzinę czarteru, zaokrętowania lub wypłynięcia przy rezerwacji, a zaplanuję odbiór pod nią."),
+                ("Z jakim wyprzedzeniem rezerwować?",
+                 "Co najmniej 2 godziny wcześniej, żebym potwierdził pojazd i godzinę odbioru. Na szybszy kurs zadzwoń lub napisz na WhatsApp.")]
     elif typ == "city":
         heading = "Prywatny transfer, trasa %s" % rel
         tagline = "Taxi i prywatny transfer w stałej cenie, trasa %s, od drzwi do drzwi." % rel
@@ -335,7 +357,7 @@ def build(frm, to, slug):
     json.dump(meta, open(os.path.join(outdir, "meta.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     return typ
 
-made = {"to_airport":0,"from_airport":0,"city":0,"local":0}; skipped=0
+made = {"to_airport":0,"from_airport":0,"marina":0,"city":0,"local":0}; skipped=0
 for frm, to, slug in rows:
     if price(key(frm), key(to)) is None: skipped += 1; continue
     made[build(frm, to, slug)] += 1

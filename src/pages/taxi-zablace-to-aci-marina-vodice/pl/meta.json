@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zablace-aci-marina-vodice",
+  "title": "Taxi Zablaće - ACI Marina Vodice | Stała cena €40 | TAXI Antonio",
+  "description": "Taxi i prywatny transfer, trasa Zablaće - ACI Marina Vodice. Stała cena €40 za pojazd, do 4. Rezerwuj u Antonio.",
+  "keywords": "taxi zablaće - aci marina vodice, transfer zablaće - aci marina vodice, transfer lotniskowy zablaće - aci marina vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Prywatny transfer taxi",
+      "name": "Taxi Zablaće - ACI Marina Vodice",
+      "description": "Taxi i prywatny transfer w stałej cenie, trasa Zablaće - ACI Marina Vodice, 40 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zablaće",
+        "ACI Marina Vodice"
+      ],
+      "url": "https://taxisibenik.hr/pl/taxi-zablace-aci-marina-vodice/",
+      "offers": {
+        "@type": "Offer",
+        "price": "40",
+        "priceCurrency": "EUR",
+        "description": "Prywatny przejazd w jedną stronę, trasa Zablaće - ACI Marina Vodice, za pojazd do 4 pasażerów. W obie strony 80 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje transfer na trasie Zablaće - ACI Marina Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stałe 40 za pojazd do 4 pasażerów, w jedną stronę, z opłatami drogowymi, paliwem i bagażem w cenie. W obie strony 80."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy odbiór jest możliwy prosto z mariny?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Spotykam Pana/Panią przy wejściu do mariny lub w recepcji i pomagam z bagażem, żeby przejść prosto z pomostu do pojazdu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy można dopasować transfer do mojego rejsu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Proszę przesłać godzinę czarteru, zaokrętowania lub wypłynięcia przy rezerwacji, a zaplanuję odbiór pod nią."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Z jakim wyprzedzeniem rezerwować?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Co najmniej 2 godziny wcześniej, żebym potwierdził pojazd i godzinę odbioru. Na szybszy kurs zadzwoń lub napisz na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

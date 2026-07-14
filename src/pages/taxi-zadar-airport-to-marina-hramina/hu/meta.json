@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-repter-zadar-marina-hramina",
+  "title": "Taxi Zadar repülőtér - Marina Hramina | Fix ár €115 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Zadar repülőtér - Marina Hramina. Fix ár €115 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi zadar repülőtér - marina hramina, transzfer zadar repülőtér - marina hramina, reptéri transzfer zadar repülőtér - marina hramina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Zadar repülőtér - Marina Hramina",
+      "description": "Privát taxi és transzfer fix áron, Zadar repülőtér - Marina Hramina, 115 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zadar repülőtér",
+        "Marina Hramina"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-repter-zadar-marina-hramina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "115",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Zadar repülőtér - Marina Hramina, járművenként max. 4 utasra. Oda-vissza 230 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hol fogad engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A megérkezési csarnokban, közvetlenül a csomagfelvétel után, névtáblával. Segítek a csomaggal, és a járműhöz kísérem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi van, ha a járatom késik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Semmi gond. A járatát valós időben követem, és a felvételt a tényleges leszálláshoz igazítom, a várakozásért felár nélkül."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a transzfer a Zadar repülőtér - Marina Hramina útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 115 járművenként max. 4 utasra, egy irány, útdíj és csomag beleértve. Az oda-vissza út 230."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy a járatához igazítsam. Aznapi felvételhez hirtelen változás után hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

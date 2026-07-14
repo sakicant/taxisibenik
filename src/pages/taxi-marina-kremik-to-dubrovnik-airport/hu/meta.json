@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-kremik-repter-dubrovnik",
+  "title": "Taxi Marina Kremik - Dubrovnik repülőtér | Fix ár €435 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Marina Kremik - Dubrovnik repülőtér. Fix ár €435 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi marina kremik - dubrovnik repülőtér, transzfer marina kremik - dubrovnik repülőtér, reptéri transzfer marina kremik - dubrovnik repülőtér",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Marina Kremik - Dubrovnik repülőtér",
+      "description": "Privát taxi és transzfer fix áron, Marina Kremik - Dubrovnik repülőtér, 435 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Kremik",
+        "Dubrovnik repülőtér"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-marina-kremik-repter-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "435",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Marina Kremik - Dubrovnik repülőtér, járművenként max. 4 utasra. Oda-vissza 870 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül egy taxi a Marina Kremik - Dubrovnik repülőtér útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 435 járművenként, egy irány, max. 4 utas. Az ár járművenként, nem személyenként értendő, és tartalmazza az útdíjat, üzemanyagot és csomagot. Az oda-vissza út 870."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mikor induljak a járatomra?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Általában körülbelül 3 órával a nemzetközi és 2 órával a belföldi járat előtt. Adja meg a járat idejét, és megerősítem a pontos felvételt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Elvisz egészen az indulási terminálig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Egyenesen az indulási terminálhoz viszem, és segítek a csomaggal. Nincs séta a parkolóból, nincs shuttle busz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy megerősítsem a járművet és a felvételt, korábbi járatoknál és főszezonban pedig hamarabb. Gyors útért hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

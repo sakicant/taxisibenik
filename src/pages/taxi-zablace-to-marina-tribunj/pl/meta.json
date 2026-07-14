@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zablace-marina-tribunj",
+  "title": "Taxi Zablaće - Marina Tribunj | Stała cena €45 | TAXI Antonio",
+  "description": "Taxi i prywatny transfer, trasa Zablaće - Marina Tribunj. Stała cena €45 za pojazd, do 4 pasażerów, od drzwi do drzwi. Rezerwuj bezpośrednio u Antonio.",
+  "keywords": "taxi zablaće - marina tribunj, transfer zablaće - marina tribunj, transfer lotniskowy zablaće - marina tribunj",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Prywatny transfer taxi",
+      "name": "Taxi Zablaće - Marina Tribunj",
+      "description": "Taxi i prywatny transfer w stałej cenie, trasa Zablaće - Marina Tribunj, 45 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zablaće",
+        "Marina Tribunj"
+      ],
+      "url": "https://taxisibenik.hr/pl/taxi-zablace-marina-tribunj/",
+      "offers": {
+        "@type": "Offer",
+        "price": "45",
+        "priceCurrency": "EUR",
+        "description": "Prywatny przejazd w jedną stronę, trasa Zablaće - Marina Tribunj, za pojazd do 4 pasażerów. W obie strony 90 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje transfer na trasie Zablaće - Marina Tribunj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stałe 45 za pojazd do 4 pasażerów, w jedną stronę, z opłatami drogowymi, paliwem i bagażem w cenie. W obie strony 90."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy odbiór jest możliwy prosto z mariny?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Spotykam Pana/Panią przy wejściu do mariny lub w recepcji i pomagam z bagażem, żeby przejść prosto z pomostu do pojazdu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy można dopasować transfer do mojego rejsu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Proszę przesłać godzinę czarteru, zaokrętowania lub wypłynięcia przy rezerwacji, a zaplanuję odbiór pod nią."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Z jakim wyprzedzeniem rezerwować?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Co najmniej 2 godziny wcześniej, żebym potwierdził pojazd i godzinę odbioru. Na szybszy kurs zadzwoń lub napisz na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

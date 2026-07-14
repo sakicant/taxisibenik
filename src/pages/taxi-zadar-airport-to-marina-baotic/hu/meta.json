@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-repter-zadar-marina-baotic",
+  "title": "Taxi Zadar repülőtér - Marina Baotić | Fix ár €200 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Zadar repülőtér - Marina Baotić. Fix ár €200 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi zadar repülőtér - marina baotić, transzfer zadar repülőtér - marina baotić, reptéri transzfer zadar repülőtér - marina baotić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Zadar repülőtér - Marina Baotić",
+      "description": "Privát taxi és transzfer fix áron, Zadar repülőtér - Marina Baotić, 200 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zadar repülőtér",
+        "Marina Baotić"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-repter-zadar-marina-baotic/",
+      "offers": {
+        "@type": "Offer",
+        "price": "200",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Zadar repülőtér - Marina Baotić, járművenként max. 4 utasra. Oda-vissza 400 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hol fogad engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A megérkezési csarnokban, közvetlenül a csomagfelvétel után, névtáblával. Segítek a csomaggal, és a járműhöz kísérem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi van, ha a járatom késik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Semmi gond. A járatát valós időben követem, és a felvételt a tényleges leszálláshoz igazítom, a várakozásért felár nélkül."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a transzfer a Zadar repülőtér - Marina Baotić útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 200 járművenként max. 4 utasra, egy irány, útdíj és csomag beleértve. Az oda-vissza út 400."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy a járatához igazítsam. Aznapi felvételhez hirtelen változás után hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

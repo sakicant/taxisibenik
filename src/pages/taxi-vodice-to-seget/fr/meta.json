@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-vodice-seget",
+  "title": "Taxi Vodice - Seget | Prix fixe €110 | TAXI Antonio",
+  "description": "Taxi et transfert privé, trajet Vodice - Seget. Prix fixe €110 par véhicule, jusqu'à 4 passagers, porte à porte. Réservez directement avec Antonio.",
+  "keywords": "taxi vodice - seget, transfert vodice - seget, transfert aéroport vodice - seget",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfert taxi privé",
+      "name": "Taxi Vodice - Seget",
+      "description": "Taxi et transfert privé à prix fixe, trajet Vodice - Seget, 110 euros par véhicule jusqu'à 4 passagers, porte à porte.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Vodice",
+        "Seget"
+      ],
+      "url": "https://taxisibenik.hr/fr/taxi-vodice-seget/",
+      "offers": {
+        "@type": "Offer",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "description": "Trajet privé aller simple, trajet Vodice - Seget, par véhicule jusqu'à 4 passagers. Aller-retour 220 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Combien coûte un taxi sur le trajet Vodice - Seget ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "110 fixe par véhicule jusqu'à 4 passagers, aller simple, bagages inclus. Un aller-retour coûte 220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Où me prenez-vous en charge ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "À votre adresse exacte, que ce soit une maison, un hôtel ou un appartement. Envoyez l'adresse à la réservation et je confirme le point de rendez-vous."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de temps à l'avance réserver ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Au moins 2 heures avant, pour que je confirme le véhicule et l'heure de prise en charge. Pour un trajet de dernière minute, appelez-moi ou écrivez-moi sur WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-lotnisko-dubrovnik-aci-marina-jezera",
+  "title": "Taxi Lotnisko Dubrovnik - ACI Marina Jezera | Stała cena €530 | TAXI Antonio",
+  "description": "Taxi i prywatny transfer, trasa Lotnisko Dubrovnik - ACI Marina Jezera. Stała cena €530 za pojazd, do 4. Rezerwuj u Antonio.",
+  "keywords": "taxi lotnisko dubrovnik - aci marina jezera, transfer lotnisko dubrovnik - aci marina jezera, transfer lotniskowy lotnisko dubrovnik - aci marina jezera",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Prywatny transfer taxi",
+      "name": "Taxi Lotnisko Dubrovnik - ACI Marina Jezera",
+      "description": "Taxi i prywatny transfer w stałej cenie, trasa Lotnisko Dubrovnik - ACI Marina Jezera, 530 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Lotnisko Dubrovnik",
+        "ACI Marina Jezera"
+      ],
+      "url": "https://taxisibenik.hr/pl/taxi-lotnisko-dubrovnik-aci-marina-jezera/",
+      "offers": {
+        "@type": "Offer",
+        "price": "530",
+        "priceCurrency": "EUR",
+        "description": "Prywatny przejazd w jedną stronę, trasa Lotnisko Dubrovnik - ACI Marina Jezera, za pojazd do 4 pasażerów. W obie strony 1060 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Gdzie mnie witasz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "W hali przylotów, zaraz za odbiorem bagażu, z tabliczką z Twoim imieniem. Pomagam z bagażem i odprowadzam do pojazdu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Co jeśli mój lot jest opóźniony?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Żaden problem. Monitoruję Twój lot na bieżąco i dostosowuję odbiór do faktycznego lądowania, bez dopłaty za oczekiwanie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje transfer na trasie Lotnisko Dubrovnik - ACI Marina Jezera?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stałe 530 za pojazd do 4 pasażerów, w jedną stronę, opłaty drogowe i bagaż w cenie. W obie strony 1060."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Z jakim wyprzedzeniem rezerwować?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Co najmniej 2 godziny wcześniej, żebym zaplanował pod Twój lot. Na odbiór tego samego dnia po nagłej zmianie zadzwoń lub napisz na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

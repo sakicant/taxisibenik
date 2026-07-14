@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-betina-ciovo",
+  "title": "Taxi Betina - Čiovo | Fix ár €165 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Betina - Čiovo. Fix ár €165 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi betina - čiovo, transzfer betina - čiovo, reptéri transzfer betina - čiovo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Betina - Čiovo",
+      "description": "Privát taxi és transzfer fix áron, Betina - Čiovo, 165 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Betina",
+        "Čiovo"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-betina-ciovo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "165",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Betina - Čiovo, járművenként max. 4 utasra. Oda-vissza 330 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül egy taxi a Betina - Čiovo útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 165 járművenként max. 4 utasra, egy irány, csomag beleértve. Az oda-vissza út 330."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol vesz fel engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A pontos címén, legyen az ház, hotel vagy apartman. Küldje el a címet a foglaláskor, és megerősítem a találkozási pontot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy megerősítsem a járművet és a felvétel idejét. Gyors útért hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

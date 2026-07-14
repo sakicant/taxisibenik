@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-vodice-luchthaven-zagreb",
+  "title": "Taxi ACI Marina Vodice - Luchthaven Zagreb | Vaste prijs €485 | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject ACI Marina Vodice - Luchthaven Zagreb. Vaste prijs €485 per voertuig, tot 4. Boek bij Antonio.",
+  "keywords": "taxi aci marina vodice - luchthaven zagreb, transfer aci marina vodice - luchthaven zagreb, luchthaventransfer aci marina vodice - luchthaven zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privé taxitransfer",
+      "name": "Taxi ACI Marina Vodice - Luchthaven Zagreb",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject ACI Marina Vodice - Luchthaven Zagreb, 485 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Vodice",
+        "Luchthaven Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/nl/taxi-aci-marina-vodice-luchthaven-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Privérit enkele reis, traject ACI Marina Vodice - Luchthaven Zagreb, per voertuig tot 4 passagiers. Retour 970 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost een taxi op het traject ACI Marina Vodice - Luchthaven Zagreb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vast 485 per voertuig, enkele reis, tot 4 passagiers. De prijs is per voertuig, niet per persoon, en omvat tol, brandstof en bagage. Een retour kost 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe laat moet ik vertrekken voor mijn vlucht?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In de regel ongeveer 3 uur voor een internationale vlucht en 2 uur voor een binnenlandse. Geef me uw vluchttijd door en ik bevestig het exacte ophalen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zet u me af tot aan de vertrekhal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik breng u rechtstreeks naar de vertrekhal en help met de bagage. Geen wandeling vanaf de parkeerplaats, geen shuttlebus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe ver van tevoren reserveren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minstens 2 uur van tevoren, zodat ik het voertuig en het ophalen kan bevestigen, en eerder voor ochtendvluchten en in het hoogseizoen. Voor een snelle rit belt u of schrijft u me op WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

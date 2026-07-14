@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-trogir-sct-zaton",
+  "title": "Taxi Marina Trogir (SCT) - Zaton | Pevná cena €130 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Marina Trogir (SCT) - Zaton. Pevná cena €130 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "keywords": "taxi marina trogir (sct) - zaton, transfer marina trogir (sct) - zaton, letištní transfer marina trogir (sct) - zaton",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromý taxi transfer",
+      "name": "Taxi Marina Trogir (SCT) - Zaton",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Marina Trogir (SCT) - Zaton, 130 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Trogir (SCT)",
+        "Zaton"
+      ],
+      "url": "https://taxisibenik.hr/cs/taxi-marina-trogir-sct-zaton/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Soukromá jednosměrná jízda, trasa Marina Trogir (SCT) - Zaton, za vozidlo až pro 4 cestující. Zpáteční 260 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolik stojí transfer na trase Marina Trogir (SCT) - Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevně 130 za vozidlo až pro 4 cestující, jednosměrná, s mýtným, palivem a zavazadly v ceně. Zpáteční jízda je 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete mě vyzvednout přímo v přístavu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Počkám na vás u vjezdu do přístavu nebo na recepci a pomůžu se zavazadly, ať jdete rovnou z mola do vozidla."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Můžete přizpůsobit transfer mé lodi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Při rezervaci mi pošlete čas charteru, check-inu nebo odjezdu a vyzvednutí naplánuji podle něj."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S jakým předstihem rezervovat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alespoň 2 hodiny předem, abych potvrdil vozidlo a čas vyzvednutí. Pro rychlejší jízdu zavolejte nebo napište na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

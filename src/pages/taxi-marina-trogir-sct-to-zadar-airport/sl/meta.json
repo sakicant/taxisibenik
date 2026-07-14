@@ -1,0 +1,81 @@
+{
+  "slug": "taksi-marina-trogir-sct-letalisce-zadar",
+  "title": "Taksi Marina Trogir (SCT) - Letališče Zadar | Fiksna cena €215 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Marina Trogir (SCT) - Letališče Zadar. Fiksna cena €215 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "keywords": "taksi marina trogir (sct) - letališče zadar, prevoz marina trogir (sct) - letališče zadar, letališki prevoz marina trogir (sct) - letališče zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Marina Trogir (SCT) - Letališče Zadar",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Marina Trogir (SCT) - Letališče Zadar, 215 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Trogir (SCT)",
+        "Letališče Zadar"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-marina-trogir-sct-letalisce-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "215",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Marina Trogir (SCT) - Letališče Zadar, na vozilo do 4 potnike. Povratno 430 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Marina Trogir (SCT) - Letališče Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 215 na vozilo, enosmerno, do 4 potnike. Cena je na vozilo, ne na osebo, in vključuje cestnine, gorivo in prtljago. Povratna vožnja je 430."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kdaj naj se odpravim na let?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Praviloma približno 3 ure pred mednarodnim letom in 2 uri pred domačim. Povejte mi uro leta in potrdim natančen prevzem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Me odpeljete do samega odhodnega terminala?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Odpeljem vas naravnost do odhodnega terminala in pomagam s prtljago. Brez hoje s parkirišča in brez shuttle avtobusa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in prevzem, in prej za jutranje lete in v visoki sezoni. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

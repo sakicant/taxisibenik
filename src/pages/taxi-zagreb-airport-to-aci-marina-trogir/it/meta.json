@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aeroporto-zagreb-aci-marina-trogir",
+  "title": "Taxi Aeroporto di Zagreb - ACI Marina Trogir | Prezzo fisso €514 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Aeroporto di Zagreb - ACI Marina Trogir. Prezzo fisso €514 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi aeroporto di zagreb - aci marina trogir, transfer aeroporto di zagreb - aci marina trogir, transfer aeroporto aeroporto di zagreb - aci marina trogir",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Aeroporto di Zagreb - ACI Marina Trogir",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Aeroporto di Zagreb - ACI Marina Trogir, 514 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Aeroporto di Zagreb",
+        "ACI Marina Trogir"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-aeroporto-zagreb-aci-marina-trogir/",
+      "offers": {
+        "@type": "Offer",
+        "price": "514",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Aeroporto di Zagreb - ACI Marina Trogir, per veicolo fino a 4 passeggeri. Andata e ritorno 1028 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Dove mi accogli?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nell'area arrivi, subito dopo il ritiro bagagli, con un cartello con il tuo nome. Ti aiuto con i bagagli e ti accompagno al veicolo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "E se il mio volo è in ritardo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nessun problema. Monitoro il tuo volo in tempo reale e adatto il ritiro all'atterraggio effettivo, senza sovrapprezzo per l'attesa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa il transfer sulla tratta Aeroporto di Zagreb - ACI Marina Trogir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 514 per veicolo fino a 4 passeggeri, solo andata, pedaggi e bagagli inclusi. Andata e ritorno 1028."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così pianifico in base al tuo volo. Per un ritiro in giornata dopo un cambio improvviso, chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}
