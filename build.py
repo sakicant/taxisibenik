@@ -26,7 +26,7 @@ PAGES_DIR = os.path.join(SRC, "pages")
 PARTIALS_DIR = os.path.join(SRC, "partials")
 
 SITE_URL = "https://taxisibenik.hr"
-DEFAULT_OG_IMAGE = f"{SITE_URL}/assets/img/hero-bg.webp"
+DEFAULT_OG_IMAGE = f"{SITE_URL}/assets/og-image.png"
 DEFAULT_LANG = "en"
 
 # Supported languages. Codes must be valid ISO 639-1 for correct hreflang.
