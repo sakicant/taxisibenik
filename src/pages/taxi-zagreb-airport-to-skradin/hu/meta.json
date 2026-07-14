@@ -69,6 +69,14 @@
         },
         {
           "@type": "Question",
+          "name": "Felvesz a privát repülési terminálról is?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Az érkezőket a kereskedelmi terminálon és a magánrepülőgépek és charterjáratok által használt privát és általános célú repülési terminálon egyaránt várom. A foglaláskor csak adja meg, melyik terminálhoz vagy FBO-hoz érkezik."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Mennyibe kerül a transzfer a Zagreb repülőtér - Skradin útvonalon?",
           "acceptedAnswer": {
             "@type": "Answer",

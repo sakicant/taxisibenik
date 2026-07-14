@@ -77,6 +77,14 @@
         },
         {
           "@type": "Question",
+          "name": "Zet u me af bij de terminal voor privéjets?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Naast de commerciële hoofdterminal bedien ik ook de terminal voor privé- en zakenluchtvaart die wordt gebruikt voor privéjets en chartervluchten. Geef bij het boeken uw terminal door en ik breng u naar de juiste ingang."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Hoe ver van tevoren reserveren?",
           "acceptedAnswer": {
             "@type": "Answer",

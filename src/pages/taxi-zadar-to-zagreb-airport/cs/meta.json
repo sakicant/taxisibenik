@@ -77,6 +77,14 @@
         },
         {
           "@type": "Question",
+          "name": "Odvezete mě k terminálu pro soukromé tryskáče?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Kromě hlavního komerčního terminálu obsluhuji i terminál pro soukromé a všeobecné letectví, který slouží soukromým tryskáčům a charterovým letům. Při rezervaci mi řekněte svůj terminál a odvezu vás ke správnému vchodu."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "S jakým předstihem rezervovat?",
           "acceptedAnswer": {
             "@type": "Answer",

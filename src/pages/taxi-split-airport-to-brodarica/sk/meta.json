@@ -69,6 +69,14 @@
         },
         {
           "@type": "Question",
+          "name": "Vyzdvihnete ma aj z terminálu súkromného letectva?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Prílety vyzdvihujem na komerčnom termináli aj na termináli súkromného a všeobecného letectva, ktorý slúži pre súkromné lietadlá a charterové lety. Pri rezervácii mi stačí povedať svoj terminál alebo FBO."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Koľko stojí transfer na trase Letisko Split - Brodarica?",
           "acceptedAnswer": {
             "@type": "Answer",

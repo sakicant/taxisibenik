@@ -124,6 +124,8 @@ def build(frm, to, slug):
                  "In de regel ongeveer 3 uur voor een internationale vlucht en 2 uur voor een binnenlandse. Geef me uw vluchttijd door en ik bevestig het exacte ophalen."),
                 ("Zet u me af tot aan de vertrekhal?",
                  "Ja. Ik breng u rechtstreeks naar de vertrekhal en help met de bagage. Geen wandeling vanaf de parkeerplaats, geen shuttlebus."),
+                ("Zet u me af bij de terminal voor privéjets?",
+                 "Ja. Naast de commerciële hoofdterminal bedien ik ook de terminal voor privé- en zakenluchtvaart die wordt gebruikt voor privéjets en chartervluchten. Geef bij het boeken uw terminal door en ik breng u naar de juiste ingang."),
                 ("Hoe ver van tevoren reserveren?",
                  "Minstens 2 uur van tevoren, zodat ik het voertuig en het ophalen kan bevestigen, en eerder voor ochtendvluchten en in het hoogseizoen. Voor een snelle rit belt u of schrijft u me op WhatsApp.")]
     elif typ == "from_airport":
@@ -142,6 +144,8 @@ def build(frm, to, slug):
                  "In de aankomsthal, meteen na het ophalen van de bagage, met een naambordje met uw naam. Ik help met de bagage en begeleid u naar het voertuig."),
                 ("Wat als mijn vlucht vertraging heeft?",
                  "Geen probleem. Ik volg uw vlucht in real time en pas het ophalen aan de werkelijke landing aan, zonder toeslag voor het wachten."),
+                ("Haalt u me op bij de terminal voor privéluchtvaart?",
+                 "Ja. Ik ontvang aankomende passagiers zowel bij de commerciële terminal als bij de terminal voor privé- en zakenluchtvaart die wordt gebruikt voor privéjets en charters. Geef bij het boeken gewoon uw terminal of FBO door."),
                 ("Hoeveel kost de transfer op het traject %s?" % rel,
                  "Vast &euro;%d per voertuig tot 4 passagiers, enkele reis, tol en bagage inbegrepen. Een retour kost &euro;%d." % (p, rp)),
                 ("Hoe ver van tevoren reserveren?",

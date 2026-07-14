@@ -69,6 +69,14 @@
         },
         {
           "@type": "Question",
+          "name": "Prenez-vous en charge au terminal de l'aviation privée ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. J'accueille les arrivées aussi bien au terminal commercial qu'au terminal de l'aviation privée et générale, utilisé pour les jets privés et les vols charter. Indiquez-moi simplement votre terminal à la réservation."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Combien coûte le transfert sur le trajet Aéroport de Split - Murter ?",
           "acceptedAnswer": {
             "@type": "Answer",

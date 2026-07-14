@@ -69,6 +69,14 @@
         },
         {
           "@type": "Question",
+          "name": "Vyzvednete mě i u terminálu pro soukromé letectví?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ano. Vítám cestující jak u komerčního terminálu, tak u terminálu pro soukromé a všeobecné letectví, který slouží soukromým tryskáčům a charterům. Při rezervaci mi jen řekněte svůj terminál nebo FBO."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Kolik stojí transfer na trase Letiště Zadar - Šibenik?",
           "acceptedAnswer": {
             "@type": "Answer",

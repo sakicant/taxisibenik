@@ -69,6 +69,14 @@
         },
         {
           "@type": "Question",
+          "name": "Do you pick up from the private aviation terminal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. I meet arrivals at both the commercial terminal and the private and general-aviation terminal used for private jets and charters. Just tell me your terminal or FBO when you book."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "How much is the transfer from Split Airport to Murter?",
           "acceptedAnswer": {
             "@type": "Answer",

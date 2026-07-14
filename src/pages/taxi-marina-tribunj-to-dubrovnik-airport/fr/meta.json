@@ -69,6 +69,14 @@
         },
         {
           "@type": "Question",
+          "name": "Pouvez-vous déposer au terminal de l'aviation privée ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. En plus du terminal commercial principal, je dessers le terminal de l'aviation privée et générale, utilisé pour les jets privés et les vols charter. Indiquez-moi votre terminal à la réservation et je vous conduis à la bonne entrée."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Combien de temps à l'avance réserver ?",
           "acceptedAnswer": {
             "@type": "Answer",

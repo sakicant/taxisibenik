@@ -69,6 +69,14 @@
         },
         {
           "@type": "Question",
+          "name": "Le tud tenni a privát repülőgépek termináljánál?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A fő kereskedelmi terminál mellett kiszolgálom a magánrepülőgépek és charterjáratok által használt privát és általános célú repülési terminált is. A foglaláskor adja meg, melyik terminálhoz megy, és a megfelelő bejárathoz viszem."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Mennyivel korábban foglaljak?",
           "acceptedAnswer": {
             "@type": "Answer",

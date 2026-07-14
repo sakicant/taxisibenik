@@ -69,6 +69,14 @@
         },
         {
           "@type": "Question",
+          "name": "Can you drop off at the private jet terminal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. As well as the main commercial terminal, I serve the private and general-aviation terminal used for private jets and charter flights. Tell me your terminal when you book and I take you to the right entrance."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "How far in advance should I book?",
           "acceptedAnswer": {
             "@type": "Answer",

@@ -69,6 +69,14 @@
         },
         {
           "@type": "Question",
+          "name": "Odbierasz z terminalu lotnictwa prywatnego?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Witam pasażerów zarówno przy terminalu komercyjnym, jak i przy terminalu lotnictwa prywatnego i ogólnego, z którego korzystają prywatne odrzutowce i loty czarterowe. Wystarczy, że podasz swój terminal przy rezerwacji."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Ile kosztuje transfer na trasie Lotnisko Split - Zablaće?",
           "acceptedAnswer": {
             "@type": "Answer",

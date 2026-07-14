@@ -124,6 +124,8 @@ def build(frm, to, slug):
                  "Általában körülbelül 3 órával a nemzetközi és 2 órával a belföldi járat előtt. Adja meg a járat idejét, és megerősítem a pontos felvételt."),
                 ("Elvisz egészen az indulási terminálig?",
                  "Igen. Egyenesen az indulási terminálhoz viszem, és segítek a csomaggal. Nincs séta a parkolóból, nincs shuttle busz."),
+                ("Le tud tenni a privát repülőgépek termináljánál?",
+                 "Igen. A fő kereskedelmi terminál mellett kiszolgálom a magánrepülőgépek és charterjáratok által használt privát és általános célú repülési terminált is. A foglaláskor adja meg, melyik terminálhoz megy, és a megfelelő bejárathoz viszem."),
                 ("Mennyivel korábban foglaljak?",
                  "Legalább 2 órával korábban, hogy megerősítsem a járművet és a felvételt, korábbi járatoknál és főszezonban pedig hamarabb. Gyors útért hívjon vagy írjon WhatsApp-on.")]
     elif typ == "from_airport":
@@ -142,6 +144,8 @@ def build(frm, to, slug):
                  "A megérkezési csarnokban, közvetlenül a csomagfelvétel után, névtáblával. Segítek a csomaggal, és a járműhöz kísérem."),
                 ("Mi van, ha a járatom késik?",
                  "Semmi gond. A járatát valós időben követem, és a felvételt a tényleges leszálláshoz igazítom, a várakozásért felár nélkül."),
+                ("Felvesz a privát repülési terminálról is?",
+                 "Igen. Az érkezőket a kereskedelmi terminálon és a magánrepülőgépek és charterjáratok által használt privát és általános célú repülési terminálon egyaránt várom. A foglaláskor csak adja meg, melyik terminálhoz vagy FBO-hoz érkezik."),
                 ("Mennyibe kerül a transzfer a %s útvonalon?" % rel,
                  "Fix &euro;%d járművenként max. 4 utasra, egy irány, útdíj és csomag beleértve. Az oda-vissza út &euro;%d." % (p, rp)),
                 ("Mennyivel korábban foglaljak?",

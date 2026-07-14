@@ -143,6 +143,8 @@ def build(frm, to, slug):
                  "U pravilu oko 3 sata prije međunarodnog leta i 2 sata prije domaćeg. Recite mi vrijeme leta i potvrdit ću točno vrijeme preuzimanja."),
                 ("Vozite li do samog odlaznog terminala?",
                  "Da. Vozim vas izravno do odlaznog terminala i pomažem s prtljagom. Bez hoda od parkirališta i bez shuttle busa."),
+                ("Vozite li do terminala za privatne zrakoplove?",
+                 "Da. Uz glavni komercijalni terminal, vozim i do terminala za privatnu i opću avijaciju koji koriste privatni zrakoplovi i charter letovi. Recite mi svoj terminal pri rezervaciji i dovezem vas do pravog ulaza."),
                 ("Koliko unaprijed trebam rezervirati?",
                  "Barem 2 sata unaprijed da potvrdim vozilo i preuzimanje, a ranije za rane jutarnje letove i sezonu. Za brži termin nazovite ili pišite na WhatsApp.")]
     elif typ == "from_airport":
@@ -161,6 +163,8 @@ def build(frm, to, slug):
                  "U dolaznoj zoni, odmah nakon preuzimanja prtljage, s natpisom s vašim imenom. Pomažem s prtljagom i vodim vas do vozila."),
                 ("Što ako mi let kasni?",
                  "Nema problema. Let pratim u stvarnom vremenu i prilagođavam preuzimanje stvarnom slijetanju, bez dodatne naplate čekanja."),
+                ("Dočekujete li i na terminalu za privatne zrakoplove?",
+                 "Da. Dočekujem putnike i na komercijalnom terminalu i na terminalu za privatnu i opću avijaciju koji koriste privatni zrakoplovi i charter letovi. Samo mi recite svoj terminal pri rezervaciji."),
                 ("Koliko košta transfer na relaciji %s?" % rel,
                  "Fiksno &euro;%d po vozilu za do 4 putnika, jedan smjer, cestarine i prtljaga uključeni. Povratna vožnja je &euro;%d." % (p, rp)),
                 ("Koliko unaprijed trebam rezervirati?",

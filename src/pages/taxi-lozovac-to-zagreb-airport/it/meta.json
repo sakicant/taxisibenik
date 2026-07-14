@@ -77,6 +77,14 @@
         },
         {
           "@type": "Question",
+          "name": "Mi lasci al terminal dei jet privati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Oltre al terminal commerciale principale, servo anche il terminal dell'aviazione privata e generale usato per jet privati e voli charter. Dimmi il tuo terminal alla prenotazione e ti porto all'ingresso giusto."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Con quanto anticipo devo prenotare?",
           "acceptedAnswer": {
             "@type": "Answer",

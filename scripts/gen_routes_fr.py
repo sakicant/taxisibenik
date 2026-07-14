@@ -124,6 +124,8 @@ def build(frm, to, slug):
                  "En règle générale, environ 3 heures avant un vol international et 2 heures avant un vol intérieur. Indiquez-moi l'heure du vol et je confirme la prise en charge exacte."),
                 ("Me déposez-vous jusqu'au terminal des départs ?",
                  "Oui. Je vous conduis directement au terminal des départs et vous aide avec les bagages. Pas de marche depuis le parking, pas de navette."),
+                ("Pouvez-vous déposer au terminal de l'aviation privée ?",
+                 "Oui. En plus du terminal commercial principal, je dessers le terminal de l'aviation privée et générale, utilisé pour les jets privés et les vols charter. Indiquez-moi votre terminal à la réservation et je vous conduis à la bonne entrée."),
                 ("Combien de temps à l'avance réserver ?",
                  "Au moins 2 heures avant, pour que je confirme le véhicule et la prise en charge, et plus tôt pour les vols matinaux et en haute saison. Pour un trajet de dernière minute, appelez-moi ou écrivez-moi sur WhatsApp.")]
     elif typ == "from_airport":
@@ -142,6 +144,8 @@ def build(frm, to, slug):
                  "Dans le hall des arrivées, juste après le retrait des bagages, avec une pancarte à votre nom. Je vous aide avec les bagages et vous accompagne au véhicule."),
                 ("Et si mon vol est retardé ?",
                  "Aucun problème. Je suis votre vol en temps réel et adapte la prise en charge à l'atterrissage réel, sans majoration pour l'attente."),
+                ("Prenez-vous en charge au terminal de l'aviation privée ?",
+                 "Oui. J'accueille les arrivées aussi bien au terminal commercial qu'au terminal de l'aviation privée et générale, utilisé pour les jets privés et les vols charter. Indiquez-moi simplement votre terminal à la réservation."),
                 ("Combien coûte le transfert sur le trajet %s ?" % rel,
                  "&euro;%d fixe par véhicule jusqu'à 4 passagers, aller simple, péages et bagages inclus. Un aller-retour coûte &euro;%d." % (p, rp)),
                 ("Combien de temps à l'avance réserver ?",

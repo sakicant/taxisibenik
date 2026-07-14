@@ -77,6 +77,14 @@
         },
         {
           "@type": "Question",
+          "name": "Me lahko odložite pri terminalu za zasebne lete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Poleg glavnega komercialnega terminala vozim tudi do terminala za zasebno in splošno letalstvo, ki se uporablja za zasebna letala in čarterske lete. Ob rezervaciji mi povejte svoj terminal in odpeljem vas do pravega vhoda."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Kako dolgo vnaprej rezervirati?",
           "acceptedAnswer": {
             "@type": "Answer",

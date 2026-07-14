@@ -77,6 +77,14 @@
         },
         {
           "@type": "Question",
+          "name": "Podwozisz pod terminal prywatnych odrzutowców?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Poza głównym terminalem komercyjnym obsługuję też terminal lotnictwa prywatnego i ogólnego, z którego korzystają prywatne odrzutowce i loty czarterowe. Podaj swój terminal przy rezerwacji, a zawiozę Cię pod właściwe wejście."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Z jakim wyprzedzeniem rezerwować?",
           "acceptedAnswer": {
             "@type": "Answer",

@@ -124,6 +124,8 @@ def build(frm, to, slug):
                  "Zvyčajne približne 3 hodiny pred medzinárodným a 2 hodiny pred vnútroštátnym letom. Zadajte čas letu a potvrdím presné vyzdvihnutie."),
                 ("Odveziete ma až k odletovému terminálu?",
                  "Áno. Odveziem Vás priamo k odletovému terminálu a pomôžem s batožinou. Žiadna chôdza z parkoviska, žiadny shuttle bus."),
+                ("Odveziete ma aj k terminálu súkromných lietadiel?",
+                 "Áno. Okrem hlavného komerčného terminálu obsluhujem aj terminál súkromného a všeobecného letectva, ktorý slúži pre súkromné lietadlá a charterové lety. Pri rezervácii mi povedzte svoj terminál a odveziem Vás k správnemu vchodu."),
                 ("S akým predstihom mám rezervovať?",
                  "Aspoň 2 hodiny vopred, aby som potvrdil vozidlo a vyzdvihnutie, pri skorších letoch a v hlavnej sezóne skôr. Pre rýchlu jazdu zavolajte alebo napíšte na WhatsApp.")]
     elif typ == "from_airport":
@@ -142,6 +144,8 @@ def build(frm, to, slug):
                  "V príletovej hale, hneď po výdaji batožiny, s tabuľkou s menom. Pomôžem s batožinou a odprevadím Vás k vozidlu."),
                 ("Čo ak môj let mešká?",
                  "Žiadny problém. Váš let sledujem v reálnom čase a vyzdvihnutie prispôsobím skutočnému pristátiu, bez príplatku za čakanie."),
+                ("Vyzdvihnete ma aj z terminálu súkromného letectva?",
+                 "Áno. Prílety vyzdvihujem na komerčnom termináli aj na termináli súkromného a všeobecného letectva, ktorý slúži pre súkromné lietadlá a charterové lety. Pri rezervácii mi stačí povedať svoj terminál alebo FBO."),
                 ("Koľko stojí transfer na trase %s?" % rel,
                  "Pevných &euro;%d za vozidlo pre max. 4 cestujúcich, jednosmerne, mýto a batožina v cene. Spiatočná cesta stojí &euro;%d." % (p, rp)),
                 ("S akým predstihom mám rezervovať?",

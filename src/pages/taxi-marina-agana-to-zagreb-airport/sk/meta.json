@@ -69,6 +69,14 @@
         },
         {
           "@type": "Question",
+          "name": "Odveziete ma aj k terminálu súkromných lietadiel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Okrem hlavného komerčného terminálu obsluhujem aj terminál súkromného a všeobecného letectva, ktorý slúži pre súkromné lietadlá a charterové lety. Pri rezervácii mi povedzte svoj terminál a odveziem Vás k správnemu vchodu."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "S akým predstihom mám rezervovať?",
           "acceptedAnswer": {
             "@type": "Answer",

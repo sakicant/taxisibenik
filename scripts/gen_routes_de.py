@@ -140,6 +140,8 @@ def build(frm, to, slug):
                  "In der Regel etwa 3 Stunden vor einem internationalen und 2 Stunden vor einem inländischen Flug. Nennen Sie mir Ihre Flugzeit und ich bestätige die genaue Abholung."),
                 ("Fahren Sie bis zum Abflugterminal?",
                  "Ja. Ich fahre Sie direkt zum Abflugterminal und helfe mit dem Gepäck. Kein Fußweg vom Parkplatz und kein Shuttle."),
+                ("Können Sie am Terminal für Privatjets absetzen?",
+                 "Ja. Neben dem großen Passagierterminal bediene ich auch das Terminal für private und allgemeine Luftfahrt, das für Privatjets und Charterflüge genutzt wird. Nennen Sie mir bei der Buchung Ihr Terminal und ich bringe Sie zum richtigen Eingang."),
                 ("Wie weit im Voraus sollte ich buchen?",
                  "Mindestens 2 Stunden vorher, damit ich Fahrzeug und Abholung bestätigen kann, und früher für frühe Flüge und die Hauptsaison. Für eine kurzfristige Fahrt rufen Sie an oder schreiben mir auf WhatsApp.")]
     elif typ == "from_airport":
@@ -159,6 +161,8 @@ def build(frm, to, slug):
                  "In der Ankunftshalle, direkt nach der Gepäckausgabe, mit einem Schild mit Ihrem Namen. Ich helfe mit dem Gepäck und begleite Sie zum Fahrzeug."),
                 ("Was, wenn mein Flug Verspätung hat?",
                  "Kein Problem. Ich verfolge Ihren Flug in Echtzeit und passe die Abholung an die tatsächliche Landung an, ohne Aufpreis für die Wartezeit."),
+                ("Holen Sie auch am Terminal der privaten Luftfahrt ab?",
+                 "Ja. Ich empfange Ankommende sowohl am Passagierterminal als auch am Terminal für private und allgemeine Luftfahrt, das für Privatjets und Charter genutzt wird. Nennen Sie mir bei der Buchung einfach Ihr Terminal oder Ihre FBO."),
                 ("Wie viel kostet der Transfer auf der Strecke %s?" % rel,
                  "Fest &euro;%d pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, Maut und Gepäck inklusive. Eine Hin- und Rückfahrt kostet &euro;%d." % (p, rp)),
                 ("Wie weit im Voraus sollte ich buchen?",

@@ -124,6 +124,8 @@ def build(frm, to, slug):
                  "Zwykle około 3 godzin przed lotem międzynarodowym i 2 godzin przed krajowym. Podaj godzinę lotu, a potwierdzę dokładny odbiór."),
                 ("Podwozisz pod sam terminal odlotów?",
                  "Tak. Wiozę Cię prosto pod terminal odlotów i pomagam z bagażem. Bez spaceru z parkingu i bez shuttle busa."),
+                ("Podwozisz pod terminal prywatnych odrzutowców?",
+                 "Tak. Poza głównym terminalem komercyjnym obsługuję też terminal lotnictwa prywatnego i ogólnego, z którego korzystają prywatne odrzutowce i loty czarterowe. Podaj swój terminal przy rezerwacji, a zawiozę Cię pod właściwe wejście."),
                 ("Z jakim wyprzedzeniem rezerwować?",
                  "Co najmniej 2 godziny wcześniej, żebym potwierdził pojazd i odbiór, a wcześniej dla porannych lotów i w sezonie. Na szybki kurs zadzwoń lub napisz na WhatsApp.")]
     elif typ == "from_airport":
@@ -142,6 +144,8 @@ def build(frm, to, slug):
                  "W hali przylotów, zaraz za odbiorem bagażu, z tabliczką z Twoim imieniem. Pomagam z bagażem i odprowadzam do pojazdu."),
                 ("Co jeśli mój lot jest opóźniony?",
                  "Żaden problem. Monitoruję Twój lot na bieżąco i dostosowuję odbiór do faktycznego lądowania, bez dopłaty za oczekiwanie."),
+                ("Odbierasz z terminalu lotnictwa prywatnego?",
+                 "Tak. Witam pasażerów zarówno przy terminalu komercyjnym, jak i przy terminalu lotnictwa prywatnego i ogólnego, z którego korzystają prywatne odrzutowce i loty czarterowe. Wystarczy, że podasz swój terminal przy rezerwacji."),
                 ("Ile kosztuje transfer na trasie %s?" % rel,
                  "Stałe &euro;%d za pojazd do 4 pasażerów, w jedną stronę, opłaty drogowe i bagaż w cenie. W obie strony &euro;%d." % (p, rp)),
                 ("Z jakim wyprzedzeniem rezerwować?",

@@ -140,6 +140,8 @@ def build(frm, to, slug):
                  "Di norma circa 3 ore prima di un volo internazionale e 2 ore prima di uno nazionale. Dimmi l'orario del volo e confermo il ritiro esatto."),
                 ("Mi porti fino al terminal partenze?",
                  "Sì. Ti porto direttamente al terminal partenze e ti aiuto con i bagagli. Nessuna camminata dal parcheggio e nessuna navetta."),
+                ("Mi lasci al terminal dei jet privati?",
+                 "Sì. Oltre al terminal commerciale principale, servo anche il terminal dell'aviazione privata e generale usato per jet privati e voli charter. Dimmi il tuo terminal alla prenotazione e ti porto all'ingresso giusto."),
                 ("Con quanto anticipo devo prenotare?",
                  "Almeno 2 ore prima, così confermo veicolo e ritiro, e prima per i voli mattutini e in alta stagione. Per una corsa last minute chiamami o scrivimi su WhatsApp.")]
     elif typ == "from_airport":
@@ -158,6 +160,8 @@ def build(frm, to, slug):
                  "Nell'area arrivi, subito dopo il ritiro bagagli, con un cartello con il tuo nome. Ti aiuto con i bagagli e ti accompagno al veicolo."),
                 ("E se il mio volo è in ritardo?",
                  "Nessun problema. Monitoro il tuo volo in tempo reale e adatto il ritiro all'atterraggio effettivo, senza sovrapprezzo per l'attesa."),
+                ("Effettui il ritiro anche al terminal dell'aviazione privata?",
+                 "Sì. Accolgo gli arrivi sia al terminal commerciale sia al terminal dell'aviazione privata e generale usato per jet privati e charter. Basta dirmi il tuo terminal o FBO alla prenotazione."),
                 ("Quanto costa il transfer sulla tratta %s?" % rel,
                  "Fisso &euro;%d per veicolo fino a 4 passeggeri, solo andata, pedaggi e bagagli inclusi. Andata e ritorno &euro;%d." % (p, rp)),
                 ("Con quanto anticipo devo prenotare?",

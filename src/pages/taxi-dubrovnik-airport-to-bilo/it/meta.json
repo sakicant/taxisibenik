@@ -69,6 +69,14 @@
         },
         {
           "@type": "Question",
+          "name": "Effettui il ritiro anche al terminal dell'aviazione privata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Accolgo gli arrivi sia al terminal commerciale sia al terminal dell'aviazione privata e generale usato per jet privati e charter. Basta dirmi il tuo terminal o FBO alla prenotazione."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Quanto costa il transfer sulla tratta Aeroporto di Dubrovnik - Bilo?",
           "acceptedAnswer": {
             "@type": "Answer",

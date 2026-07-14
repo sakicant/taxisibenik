@@ -69,6 +69,14 @@
         },
         {
           "@type": "Question",
+          "name": "Me poberete tudi na terminalu za zasebno letalstvo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Prihode pričakam tako na komercialnem terminalu kot na terminalu za zasebno in splošno letalstvo, ki se uporablja za zasebna letala in čarterske lete. Ob rezervaciji mi le povejte svoj terminal ali FBO."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Koliko stane prevoz na relaciji Letališče Zagreb - Murter?",
           "acceptedAnswer": {
             "@type": "Answer",

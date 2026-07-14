@@ -61,6 +61,14 @@
         },
         {
           "@type": "Question",
+          "name": "Haalt u me op bij de terminal voor privéluchtvaart?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ik ontvang aankomende passagiers zowel bij de commerciële terminal als bij de terminal voor privé- en zakenluchtvaart die wordt gebruikt voor privéjets en charters. Geef bij het boeken gewoon uw terminal of FBO door."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Hoeveel kost de transfer op het traject Luchthaven Zadar - Marina Trogir (SCT)?",
           "acceptedAnswer": {
             "@type": "Answer",

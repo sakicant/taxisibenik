@@ -77,6 +77,14 @@
         },
         {
           "@type": "Question",
+          "name": "Vozite li do terminala za privatne zrakoplove?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Uz glavni komercijalni terminal, vozim i do terminala za privatnu i opću avijaciju koji koriste privatni zrakoplovi i charter letovi. Recite mi svoj terminal pri rezervaciji i dovezem vas do pravog ulaza."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Koliko unaprijed trebam rezervirati?",
           "acceptedAnswer": {
             "@type": "Answer",

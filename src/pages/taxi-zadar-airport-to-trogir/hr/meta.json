@@ -69,6 +69,14 @@
         },
         {
           "@type": "Question",
+          "name": "Dočekujete li i na terminalu za privatne zrakoplove?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Dočekujem putnike i na komercijalnom terminalu i na terminalu za privatnu i opću avijaciju koji koriste privatni zrakoplovi i charter letovi. Samo mi recite svoj terminal pri rezervaciji."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Koliko košta transfer na relaciji Zračna luka Zadar - Trogir?",
           "acceptedAnswer": {
             "@type": "Answer",

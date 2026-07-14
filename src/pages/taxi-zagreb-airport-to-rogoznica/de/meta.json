@@ -69,6 +69,14 @@
         },
         {
           "@type": "Question",
+          "name": "Holen Sie auch am Terminal der privaten Luftfahrt ab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ich empfange Ankommende sowohl am Passagierterminal als auch am Terminal für private und allgemeine Luftfahrt, das für Privatjets und Charter genutzt wird. Nennen Sie mir bei der Buchung einfach Ihr Terminal oder Ihre FBO."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Wie viel kostet der Transfer auf der Strecke Flughafen Zagreb - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",

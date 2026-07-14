@@ -122,6 +122,8 @@ def build(frm, to, slug):
                  "As a rule, about 3 hours before an international flight and 2 hours before a domestic one. Tell me your flight time and I will confirm the exact pickup."),
                 ("Do you drop us right at the departures terminal?",
                  "Yes. I take you straight to the departures drop-off at %s and help with your luggage. No parking walk, no shuttle." % to),
+                ("Can you drop off at the private jet terminal?",
+                 "Yes. As well as the main commercial terminal, I serve the private and general-aviation terminal used for private jets and charter flights. Tell me your terminal when you book and I take you to the right entrance."),
                 ("How far in advance should I book?",
                  "At least 2 hours ahead so I can confirm the car and your pickup, and earlier for early-morning flights and high season. For a sooner ride, call or WhatsApp me directly.")]
     elif typ == "from_airport":
@@ -141,6 +143,8 @@ def build(frm, to, slug):
                  "In the arrivals hall, just after baggage reclaim, holding a sign with your name. I help with the luggage and walk you to the car."),
                 ("What if my flight is delayed?",
                  "No problem. I track your flight in real time and adjust the pickup to the actual landing, with no extra charge for the wait."),
+                ("Do you pick up from the private aviation terminal?",
+                 "Yes. I meet arrivals at both the commercial terminal and the private and general-aviation terminal used for private jets and charters. Just tell me your terminal or FBO when you book."),
                 ("How much is the transfer from %s to %s?" % (frm, to),
                  "A fixed &euro;%d per car for up to 4 passengers, one way, tolls and luggage included. A return trip is &euro;%d." % (p, rp)),
                 ("How far in advance should I book?",

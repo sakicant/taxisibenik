@@ -124,6 +124,8 @@ def build(frm, to, slug):
                  "Zpravidla asi 3 hodiny před mezinárodním letem a 2 hodiny před vnitrostátním. Řekněte mi čas letu a potvrdím přesné vyzvednutí."),
                 ("Odvezete mě až k odletovému terminálu?",
                  "Ano. Odvezu vás přímo k odletovému terminálu a pomůžu se zavazadly. Žádná chůze z parkoviště a žádný shuttle bus."),
+                ("Odvezete mě k terminálu pro soukromé tryskáče?",
+                 "Ano. Kromě hlavního komerčního terminálu obsluhuji i terminál pro soukromé a všeobecné letectví, který slouží soukromým tryskáčům a charterovým letům. Při rezervaci mi řekněte svůj terminál a odvezu vás ke správnému vchodu."),
                 ("S jakým předstihem rezervovat?",
                  "Alespoň 2 hodiny předem, abych potvrdil vozidlo a vyzvednutí, a dříve u ranních letů a v sezoně. Pro rychlou jízdu zavolejte nebo napište na WhatsApp.")]
     elif typ == "from_airport":
@@ -142,6 +144,8 @@ def build(frm, to, slug):
                  "V příletové hale, hned za výdejem zavazadel, s cedulkou s vaším jménem. Pomůžu se zavazadly a doprovodím vás k vozidlu."),
                 ("Co když má můj let zpoždění?",
                  "Žádný problém. Váš let sleduji v reálném čase a přizpůsobím vyzvednutí skutečnému přistání, bez příplatku za čekání."),
+                ("Vyzvednete mě i u terminálu pro soukromé letectví?",
+                 "Ano. Vítám cestující jak u komerčního terminálu, tak u terminálu pro soukromé a všeobecné letectví, který slouží soukromým tryskáčům a charterům. Při rezervaci mi jen řekněte svůj terminál nebo FBO."),
                 ("Kolik stojí transfer na trase %s?" % rel,
                  "Pevně &euro;%d za vozidlo až pro 4 cestující, jednosměrná, mýtné a zavazadla v ceně. Zpáteční jízda je &euro;%d." % (p, rp)),
                 ("S jakým předstihem rezervovat?",
