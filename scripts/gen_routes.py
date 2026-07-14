@@ -43,7 +43,7 @@ PROVIDER = {
     "@type": "LocalBusiness", "name": "Taxi Antonio",
     "telephone": "+385994471013", "email": "info@taxisibenik.hr",
     "address": {"@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR"},
-    "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142"},
+    "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "152"},
 }
 
 def vhash(slug, n):

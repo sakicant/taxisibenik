@@ -29,7 +29,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": "142"
+        "reviewCount": "152"
       },
       "priceRange": "€€",
       "alternateName": "TAXI Antonio",
@@ -90,7 +90,7 @@
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "142"
+          "reviewCount": "152"
         }
       },
       "hasOfferCatalog": {

@@ -17,7 +17,7 @@
         "telephone": "+385994471013",
         "email": "info@taxisibenik.hr",
         "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
-        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "152" }
       },
       "areaServed": ["Šibenik", "Vodice", "Primošten", "Split", "Zadar"],
       "url": "https://taxisibenik.hr/hu/kirandulasok/",

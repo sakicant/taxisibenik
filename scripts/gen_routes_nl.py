@@ -51,7 +51,7 @@ def nl_slug(en_slug):
 PROVIDER = {"@type": "LocalBusiness", "name": "Taxi Antonio", "telephone": "+385994471013",
     "email": "info@taxisibenik.hr",
     "address": {"@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR"},
-    "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142"}}
+    "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "152"}}
 
 def vhash(slug, n): return int(hashlib.md5(slug.encode()).hexdigest(), 16) % n
 

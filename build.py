@@ -32,6 +32,13 @@ DEFAULT_LANG = "en"
 # Supported languages. Codes must be valid ISO 639-1 for correct hreflang.
 LANGUAGES = ["en", "hr", "de", "pl", "cs", "it", "fr", "nl", "sl", "hu", "sk"]
 
+# Localized "Home" label for the auto-generated breadcrumb trail.
+HOME_LABEL = {
+    "en": "Home", "hr": "Početna", "de": "Startseite", "pl": "Strona główna",
+    "cs": "Domů", "it": "Home", "fr": "Accueil", "nl": "Home",
+    "sl": "Domov", "hu": "Kezdőlap", "sk": "Domov",
+}
+
 
 def compute_asset_version():
     """Short hash of styles.css + script.js so browsers fetch fresh copies
@@ -184,6 +191,17 @@ def build_variant(lang, meta, content_path, base_tpl, hreflang_block, variants):
 
     schema = meta.get("schema")
     schema_list = schema if isinstance(schema, list) else ([schema] if schema else [])
+    # Auto breadcrumb (Home > this page) on every page except the home page.
+    if slug:
+        schema_list = list(schema_list) + [{
+            "@context": "https://schema.org", "@type": "BreadcrumbList",
+            "itemListElement": [
+                {"@type": "ListItem", "position": 1, "name": HOME_LABEL.get(lang, "Home"),
+                 "item": canonical_url(lang, "")},
+                {"@type": "ListItem", "position": 2, "name": meta["title"].split(" | ")[0].strip(),
+                 "item": canonical},
+            ],
+        }]
     schema_block = "\n".join(
         '<script type="application/ld+json">\n' + json.dumps(s, indent=2, ensure_ascii=False) + "\n</script>"
         for s in schema_list
