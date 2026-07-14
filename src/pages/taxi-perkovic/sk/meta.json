@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Taxi Perković | TAXI Antonio",
+  "description": "Taxi Perković: osobné privítanie na nástupišti hlavnej železničnej stanice pre oblasť Šibenika, s nadväznými transfermi do Šibenika, Vodíc, na Krku a ďalej.",
+  "keywords": "taxi perković, perković taxi, taxi perković železničná stanica, transfer zo železničnej stanice perković, perković do šibenika, perković na krku",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Miestne taxi a letiskové transfery",
+      "name": "Taxi Perković",
+      "description": "Súkromné taxi, ktoré čaká na vlaky v Perkoviću, na hlavnej železničnej stanici pre oblasť Šibenika, s nadväznými transfermi do Šibenika, Vodíc, na Krku, do Drniša, Knina a na letisko Split.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/sk/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kde ma vyzdvihnete na stanici Perković?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na nástupišti, alebo pri východe zo stanice, ak vám to viac vyhovuje. Budem mať pripravené vaše meno a pomôžem vám s batožinou, aby ste mohli ísť rovno k autu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Čo ak môj vlak do Perkoviću mešká?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sledujem váš vlak a prispôsobím vyzdvihnutie bez príplatku, takže som tam vždy, keď skutočne dorazí."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je na stanici Perković stanovište taxi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nie, na stanici nie je žiadne stanovište, preto je najlepšie rezervovať vopred. Pošlite mi čas príchodu vlaku a cieľ cesty a budem čakať, keď vystúpite."
+          }
+        }
+      ]
+    }
+  ]
+}

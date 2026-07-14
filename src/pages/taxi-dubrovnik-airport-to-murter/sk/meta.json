@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-letisko-dubrovnik-murter",
+  "title": "Taxi Letisko Dubrovnik - Murter | Pevná cena €535 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Letisko Dubrovnik - Murter. Pevná cena €535 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi letisko dubrovnik - murter, transfer letisko dubrovnik - murter, letiskový transfer letisko dubrovnik - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi Letisko Dubrovnik - Murter",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Letisko Dubrovnik - Murter, 535 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Letisko Dubrovnik",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-letisko-dubrovnik-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "535",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, Letisko Dubrovnik - Murter, za vozidlo pre max. 4 cestujúcich. Spiatočne 1070 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Aká dlhá je trasa a ako dlho trvá cesta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na trase Letisko Dubrovnik - Murter je cesta približne 339 km a za bežnej premávky trvá zhruba 4 h 50 min, v letnej špičke o niečo dlhšie. Vyzdvihnutie plánujem tak, aby Vás pomalší úsek nikdy netlačil do času."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kde ma privítate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "V príletovej hale, hneď po výdaji batožiny, s tabuľkou s menom. Pomôžem s batožinou a odprevadím Vás k vozidlu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Čo ak môj let mešká?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Žiadny problém. Váš let sledujem v reálnom čase a vyzdvihnutie prispôsobím skutočnému pristátiu, bez príplatku za čakanie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí transfer na trase Letisko Dubrovnik - Murter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 535 za vozidlo pre max. 4 cestujúcich, jednosmerne, mýto a batožina v cene. Spiatočná cesta stojí 1070."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som ho prispôsobil Vášmu letu. Pre vyzdvihnutie v ten istý deň po náhlej zmene zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

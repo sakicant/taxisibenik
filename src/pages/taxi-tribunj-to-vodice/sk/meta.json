@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-tribunj-vodice",
+  "title": "Taxi Tribunj - Vodice | Pevná cena €35 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Tribunj - Vodice. Pevná cena €35 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi tribunj - vodice, transfer tribunj - vodice, letiskový transfer tribunj - vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi Tribunj - Vodice",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Tribunj - Vodice, 35 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Tribunj",
+        "Vodice"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-tribunj-vodice/",
+      "offers": {
+        "@type": "Offer",
+        "price": "35",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, Tribunj - Vodice, za vozidlo pre max. 4 cestujúcich. Spiatočne 70 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Aká dlhá je trasa a ako dlho trvá cesta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na trase Tribunj - Vodice je cesta približne 4 km a za bežnej premávky trvá zhruba 5 min, v letnej špičke o niečo dlhšie. Vyzdvihnutie plánujem tak, aby Vás pomalší úsek nikdy netlačil do času."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí taxi na trase Tribunj - Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 35 za vozidlo pre max. 4 cestujúcich, jednosmerne, batožina v cene. Spiatočná cesta stojí 70."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kde ma vyzdvihnete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na Vašej presnej adrese, či je to dom, hotel alebo apartmán. Pošlite adresu pri rezervácii a potvrdím miesto stretnutia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som potvrdil vozidlo a čas vyzdvihnutia. Pre rýchlu jazdu zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "ponuky",
+  "title": "Ponuky a transfery na poslednú chvíľu | TAXI Antonio",
+  "description": "Transfery taxíkom na poslednú chvíľu a prázdne jazdy v okolí Šibeniku so zľavou. Rezervujte si pevný časový úsek vyzdvihnutia a cestujte lacnejšie. Pravidelne aktualizované.",
+  "keywords": "sibenik taxi ponuky, transfer na poslednu chvilu sibenik, lacny letiskovy transfer sibenik, prazdna jazda taxi chorvatsko, zlavneny transfer letisko split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Ponuky a transfery na poslednú chvíľu",
+    "description": "Transfery taxíkom na poslednú chvíľu a prázdne jazdy v okolí Šibeniku za zľavnenú cenu.",
+    "url": "https://taxisibenik.hr/sk/ponuky/",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Taxi Antonio",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" }
+    }
+  }
+}

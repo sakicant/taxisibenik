@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-letisko-split-drnis",
+  "title": "Taxi Letisko Split - Drniš | Pevná cena €80 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Letisko Split - Drniš. Pevná cena €80 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi letisko split - drniš, transfer letisko split - drniš, letiskový transfer letisko split - drniš",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi Letisko Split - Drniš",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Letisko Split - Drniš, 80 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Letisko Split",
+        "Drniš"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-letisko-split-drnis/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, Letisko Split - Drniš, za vozidlo pre max. 4 cestujúcich. Spiatočne 160 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Aká dlhá je trasa a ako dlho trvá cesta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na trase Letisko Split - Drniš je cesta približne 54 km a za bežnej premávky trvá zhruba 70 min, v letnej špičke o niečo dlhšie. Vyzdvihnutie plánujem tak, aby Vás pomalší úsek nikdy netlačil do času."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kde ma privítate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "V príletovej hale, hneď po výdaji batožiny, s tabuľkou s menom. Pomôžem s batožinou a odprevadím Vás k vozidlu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Čo ak môj let mešká?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Žiadny problém. Váš let sledujem v reálnom čase a vyzdvihnutie prispôsobím skutočnému pristátiu, bez príplatku za čakanie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí transfer na trase Letisko Split - Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 80 za vozidlo pre max. 4 cestujúcich, jednosmerne, mýto a batožina v cene. Spiatočná cesta stojí 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som ho prispôsobil Vášmu letu. Pre vyzdvihnutie v ten istý deň po náhlej zmene zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

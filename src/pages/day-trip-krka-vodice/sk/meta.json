@@ -1,0 +1,92 @@
+{
+  "slug": "vylet-krka-vodice",
+  "title": "Výlet do Krky z Vodíc | Súkromný transfer, pevná cena €125 | TAXI Antonio",
+  "description": "Súkromný spiatočný taxi transfer do Krky z Vodíc. Pevná cena €125 za vozidlo, až 4 cestujúci, od dverí k dverám z hotelov a apartmánov vo Vodiciach, Srime a Tribunji. Žiadny zájazd, len odvoz tam a späť.",
+  "keywords": "výlet do krky z vodíc, krka z vodíc, taxi do krky z vodíc, transfer krka vodice, krka zo srimy, krka z tribunja, vodice do národného parku krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Súkromný výlet do Krky z Vodíc",
+      "description": "Súkromný výlet do Národného parku Krka z Vodíc s miestnym vodičom hovoriacim po anglicky. Pevná cena 125 eur za vozidlo pre až 4 cestujúcich, s vyzdvihnutím od dverí k dverám v hoteloch a apartmánoch vo Vodiciach, Srime a Tribunji.",
+      "touristType": "Príroda a poznávanie",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Súkromné vozidlo, spiatočná cesta z Vodíc do Národného parku Krka, až 4 cestujúci. Vstupenky do parku nie sú zahrnuté."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je to zájazd so sprievodcom alebo taxi transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Je to taxi transfer, nie zájazd so sprievodcom. Antonio je miestny vodič, ktorý poskytuje súkromný spiatočný transfer z Vodíc do Krky a späť. Dostanete vozidlo a odvoz; vnútri parku sa môžete pohybovať sami, vlastným tempom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vyzdvihujete okrem Vodíc aj zo Srimy a Tribunja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Vyzdvihnutie zo Srimy a Tribunja je za rovnakú pevnú cenu ako z Vodíc. Vyzdvihnem vás od dverí k dverám z akéhokoľvek hotela, apartmánu či vily vo Vodiciach, Srime alebo Tribunji, vrátane maríny a Rivy vo Vodiciach."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí taxi do Krky z Vodíc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Súkromný spiatočný transfer z Vodíc do Krky stojí pevných 125 eur za vozidlo pre až 4 cestujúcich, vrátane paliva a čakania pri parku. Rovnaká cena zahŕňa vyzdvihnutie v Srime a Tribunji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ako dlho strávime v Národnom parku Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Väčšina hostí si volí približne 3 až 4 hodiny voľného času vnútri parku, čo stačí na to, aby ste videli hlavné vodopády a prešli klasický okruh po drevených chodníkoch. Kratší alebo dlhší pobyt sa dá dohodnúť pri rezervácii."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sú vstupenky do Krky zahrnuté v cene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nie. Vstupenky sa kupujú samostatne, priamo od Národného parku Krka pri vstupe Skradin alebo Lozovac, alebo online. Vstupenky stoja približne 7 až 40 eur v závislosti od sezóny."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ako si rezervujem a zaplatím výlet z Vodíc do Krky?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezerváciu potvrdí 20% záloha (minimálne 20 eur), bankovým prevodom alebo kartou, a ako potvrdenie dostanete faktúru. Zvyšok zaplatíte vodičovi v deň výletu, v hotovosti alebo kartou."
+          }
+        }
+      ]
+    }
+  ]
+}

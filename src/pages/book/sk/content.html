@@ -1,0 +1,89 @@
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Rezervácia</span>
+      <h1>Rezervujte si transfer</h1>
+      <p class="page-hero-sub">Zadajte nižšie údaje o svojej ceste a ja vám jazdu priamo potvrdím, zvyčajne do niekoľkých hodín.</p>
+    </div>
+  </section>
+
+  <section class="page-content">
+    <div class="container booking-page">
+      <form class="booking-form" id="booking-page-form" action="/booking-submit.php" method="POST">
+        <h3>Vaša cesta</h3>
+
+        <label for="book-from">Miesto vyzdvihnutia (odkiaľ)</label>
+        <input type="text" id="book-from" name="from" required placeholder="Šibenik - centrum, váš hotel alebo adresa">
+
+        <label for="book-to">Miesto vysadenia (kam)</label>
+        <input type="text" id="book-to" name="to" required placeholder="Letisko Split (SPU), mesto alebo adresa">
+
+        <div class="quote-field-row">
+          <div class="quote-field">
+            <label for="book-trip">Cesta</label>
+            <select id="book-trip" name="trip">
+              <option value="oneway">Jednosmerná</option>
+              <option value="return">Spiatočná</option>
+            </select>
+          </div>
+          <div class="quote-field">
+            <label for="book-pax">Cestujúci</label>
+            <input type="number" id="book-pax" name="passengers" min="1" max="12" value="1" required>
+          </div>
+          <div class="quote-field">
+            <label for="book-lug">Batožina</label>
+            <input type="number" id="book-lug" name="luggage" min="0" max="12" value="1" required>
+          </div>
+        </div>
+
+        <p class="booking-price-line" id="booking-price-line" hidden>Pevná cena: <strong id="sum-price">&mdash;</strong> <span class="booking-price-sub">za vozidlo, až 4 cestujúci</span></p>
+
+        <h3>Podrobnosti o ceste</h3>
+
+        <div class="quote-field-row">
+          <div class="quote-field">
+            <label for="book-date">Dátum vyzdvihnutia</label>
+            <input type="date" id="book-date" name="book-date" required>
+          </div>
+          <div class="quote-field">
+            <label for="book-time">Čas vyzdvihnutia</label>
+            <input type="time" id="book-time" name="book-time" required>
+          </div>
+        </div>
+        <p class="form-hint">Rezervujte si prosím aspoň 2 hodiny vopred, aby som mohol potvrdiť vozidlo a vaše vyzdvihnutie. Potrebujete jazdu skôr? <a href="tel:+385994471013">Zavolajte mi</a> alebo <a href="https://wa.me/385994471013?text=Dobr%C3%BD%20de%C5%88%20Antonio%2C%20na%C5%A1iel%20som%20v%C3%A1s%20cez%20va%C5%A1u%20webov%C3%BA%20str%C3%A1nku%20taxisibenik.hr%20a%20m%C3%A1m%20ot%C3%A1zku%3A%20" target="_blank" rel="noopener">napíšte na WhatsApp</a>.</p>
+
+        <div class="quote-field-row" id="book-return-fields" hidden>
+          <div class="quote-field">
+            <label for="book-return-date">Dátum návratu</label>
+            <input type="date" id="book-return-date" name="book-return-date">
+          </div>
+          <div class="quote-field">
+            <label for="book-return-time">Čas návratu</label>
+            <input type="time" id="book-return-time" name="book-return-time">
+          </div>
+        </div>
+
+        <label for="book-name">Meno</label>
+        <input type="text" id="book-name" name="name" required>
+
+        <label for="book-email">E-mail</label>
+        <input type="email" id="book-email" name="email" required>
+
+        <label for="book-phone">Telefón / WhatsApp</label>
+        <input type="tel" id="book-phone" name="phone" placeholder="Uveďte predvoľbu krajiny">
+
+        <label for="book-flight">Podrobnosti o vyzdvihnutí (číslo príletového letu alebo adresa)</label>
+        <input type="text" id="book-flight" name="book-flight" placeholder="Číslo letu, ak prilietate, alebo vaša adresa vyzdvihnutia">
+
+        <label for="book-dropoff-details">Podrobnosti o cieli (adresa alebo číslo letu)</label>
+        <input type="text" id="book-dropoff-details" name="book-dropoff-details" placeholder="Adresa vysadenia alebo číslo vášho letu, ak máte stihnúť let">
+
+        <label for="book-notes">Ešte niečo? (nepovinné)</label>
+        <textarea id="book-notes" name="book-notes" rows="4" placeholder="Detská sedačka, ďalšie zastávky, nadrozmerná batožina, pokyny k vyzdvihnutiu..."></textarea>
+
+        <input type="text" id="book-company" name="company" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+        <button type="submit" class="btn btn-primary">Odoslať žiadosť o rezerváciu</button>
+        <p class="form-note" id="booking-page-note"></p>
+      </form>
+    </div>
+  </section>

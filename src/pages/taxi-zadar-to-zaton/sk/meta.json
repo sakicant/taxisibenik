@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadar-zaton",
+  "title": "Taxi Zadar - Zaton | Pevná cena €140 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Zadar - Zaton. Pevná cena €140 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi zadar - zaton, transfer zadar - zaton, letiskový transfer zadar - zaton",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi Zadar - Zaton",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Zadar - Zaton, 140 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Zaton"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-zadar-zaton/",
+      "offers": {
+        "@type": "Offer",
+        "price": "140",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, Zadar - Zaton, za vozidlo pre max. 4 cestujúcich. Spiatočne 280 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Aká dlhá je trasa a ako dlho trvá cesta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na trase Zadar - Zaton je cesta približne 76 km a za bežnej premávky trvá zhruba 70 min, v letnej špičke o niečo dlhšie. Vyzdvihnutie plánujem tak, aby Vás pomalší úsek nikdy netlačil do času."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí taxi na trase Zadar - Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 140 za vozidlo pre max. 4 cestujúcich, jednosmerne, s mýtom, palivom a batožinou. Spiatočná cesta stojí 280."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je transfer súkromný alebo zdieľaný?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Každý transfer je súkromný a od dverí k dverám, v Škode Superb. Žiadne zdieľanie vozidla a žiadne zastávky navyše, pokiaľ o ne nepožiadate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Môžete zastaviť cestou?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Na dlhších trasách sa rád zastavím na kávu, fotku alebo krátku zaujímavosť. Stačí to spomenúť pri rezervácii."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som potvrdil vozidlo a čas vyzdvihnutia. Pre rýchlu jazdu zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

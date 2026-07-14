@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-tisno-zadar",
+  "title": "Taxi Tisno - Zadar | Pevná cena €110 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Tisno - Zadar. Pevná cena €110 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi tisno - zadar, transfer tisno - zadar, letiskový transfer tisno - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi Tisno - Zadar",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Tisno - Zadar, 110 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Tisno",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-tisno-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, Tisno - Zadar, za vozidlo pre max. 4 cestujúcich. Spiatočne 220 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Aká dlhá je trasa a ako dlho trvá cesta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na trase Tisno - Zadar je cesta približne 81 km a za bežnej premávky trvá zhruba 70 min, v letnej špičke o niečo dlhšie. Vyzdvihnutie plánujem tak, aby Vás pomalší úsek nikdy netlačil do času."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí taxi na trase Tisno - Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 110 za vozidlo pre max. 4 cestujúcich, jednosmerne, s mýtom, palivom a batožinou. Spiatočná cesta stojí 220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je transfer súkromný alebo zdieľaný?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Každý transfer je súkromný a od dverí k dverám, v Škode Superb. Žiadne zdieľanie vozidla a žiadne zastávky navyše, pokiaľ o ne nepožiadate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Môžete zastaviť cestou?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Na dlhších trasách sa rád zastavím na kávu, fotku alebo krátku zaujímavosť. Stačí to spomenúť pri rezervácii."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som potvrdil vozidlo a čas vyzdvihnutia. Pre rýchlu jazdu zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

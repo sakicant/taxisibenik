@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadar-dubrovnik",
+  "title": "Taxi Zadar - Dubrovnik | Pevná cena €625 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Zadar - Dubrovnik. Pevná cena €625 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi zadar - dubrovnik, transfer zadar - dubrovnik, letiskový transfer zadar - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi Zadar - Dubrovnik",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Zadar - Dubrovnik, 625 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-zadar-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "625",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, Zadar - Dubrovnik, za vozidlo pre max. 4 cestujúcich. Spiatočne 1250 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Aká dlhá je trasa a ako dlho trvá cesta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na trase Zadar - Dubrovnik je cesta približne 354 km a za bežnej premávky trvá zhruba 4 h 35 min, v letnej špičke o niečo dlhšie. Vyzdvihnutie plánujem tak, aby Vás pomalší úsek nikdy netlačil do času."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí taxi na trase Zadar - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 625 za vozidlo pre max. 4 cestujúcich, jednosmerne, s mýtom, palivom a batožinou. Spiatočná cesta stojí 1250."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je transfer súkromný alebo zdieľaný?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Každý transfer je súkromný a od dverí k dverám, v Škode Superb. Žiadne zdieľanie vozidla a žiadne zastávky navyše, pokiaľ o ne nepožiadate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Môžete zastaviť cestou?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Na dlhších trasách sa rád zastavím na kávu, fotku alebo krátku zaujímavosť. Stačí to spomenúť pri rezervácii."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som potvrdil vozidlo a čas vyzdvihnutia. Pre rýchlu jazdu zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

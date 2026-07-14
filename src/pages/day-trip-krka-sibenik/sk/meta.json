@@ -1,0 +1,92 @@
+{
+  "slug": "vylet-krka-sibenik",
+  "title": "Výlet do Krky zo Šibeniku | Súkromný transfer, pevná cena €100 | TAXI Antonio",
+  "description": "Súkromný spiatočný taxi transfer do Krky zo Šibeniku. Pevná cena €100 za vozidlo, až 4 cestujúci, od dverí k dverám z hotelov, apartmánov, staníc a trajektového prístavu. Žiadny zájazd, len odvoz tam a späť.",
+  "keywords": "výlet do krky zo šibeniku, spiatočný transfer do krky, taxi do krky zo šibeniku, transfer krka šibenik, šibenik do národného parku krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Súkromný výlet do Krky zo Šibeniku",
+      "description": "Súkromný výlet do Národného parku Krka zo Šibeniku s miestnym vodičom hovoriacim po anglicky. Pevná cena 100 eur za vozidlo pre až 4 cestujúcich, s vyzdvihnutím od dverí k dverám v hoteloch, apartmánoch, na autobusovej a železničnej stanici a v trajektovom prístave.",
+      "touristType": "Príroda a poznávanie",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Súkromné vozidlo, spiatočná cesta zo Šibeniku do Národného parku Krka, až 4 cestujúci. Vstupenky do parku nie sú zahrnuté."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je to zájazd so sprievodcom alebo taxi transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Je to taxi transfer, nie zájazd so sprievodcom. Antonio je miestny šibenický taxikár, ktorý poskytuje súkromný spiatočný transfer do Krky a späť. Dostanete vozidlo a odvoz; vnútri parku sa môžete pohybovať sami, vlastným tempom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Môžete nás vyzdvihnúť z Amadria Park, D-Resort alebo Hotela Bellevue?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Pravidelne vyzdvihujem hostí z rezortu Amadria Park, D-Resort Šibenik, Hotela Bellevue a ďalších šibenických hotelov. Pošlite mi názov svojho hotela a potvrdím vám presný čas vyzdvihnutia a miesto stretnutia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vyzdvihujete z trajektového prístavu v Šibeniku, z autobusovej alebo železničnej stanice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Vyzdvihujem hostí od dverí k dverám z trajektového a výletného prístavu v Šibeniku, z autobusovej stanice a zo železničných staníc Šibenik a Perković, na požiadanie s menovkou."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ako dlho strávime v Národnom parku Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Väčšina hostí si volí približne 3 až 4 hodiny voľného času vnútri parku, čo stačí na to, aby ste videli hlavné vodopády a prešli klasický okruh po drevených chodníkoch. Kratší alebo dlhší pobyt sa dá dohodnúť pri rezervácii."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sú vstupenky do Krky zahrnuté v cene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nie. Vstupenky sa kupujú samostatne, priamo od Národného parku Krka pri vstupe Skradin alebo Lozovac, alebo online. Vstupenky stoja približne 7 až 40 eur v závislosti od sezóny."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ako si rezervujem a zaplatím výlet zo Šibeniku do Krky?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezerváciu potvrdí 20% záloha (minimálne 20 eur), bankovým prevodom alebo kartou, a ako potvrdenie dostanete faktúru. Zvyšok zaplatíte vodičovi v deň výletu, v hotovosti alebo kartou."
+          }
+        }
+      ]
+    }
+  ]
+}

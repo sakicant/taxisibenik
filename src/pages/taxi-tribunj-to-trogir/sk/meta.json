@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-tribunj-trogir",
+  "title": "Taxi Tribunj - Trogir | Pevná cena €120 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Tribunj - Trogir. Pevná cena €120 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi tribunj - trogir, transfer tribunj - trogir, letiskový transfer tribunj - trogir",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi Tribunj - Trogir",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Tribunj - Trogir, 120 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Tribunj",
+        "Trogir"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-tribunj-trogir/",
+      "offers": {
+        "@type": "Offer",
+        "price": "120",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, Tribunj - Trogir, za vozidlo pre max. 4 cestujúcich. Spiatočne 240 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Aká dlhá je trasa a ako dlho trvá cesta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na trase Tribunj - Trogir je cesta približne 69 km a za bežnej premávky trvá zhruba 75 min, v letnej špičke o niečo dlhšie. Vyzdvihnutie plánujem tak, aby Vás pomalší úsek nikdy netlačil do času."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí taxi na trase Tribunj - Trogir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 120 za vozidlo pre max. 4 cestujúcich, jednosmerne, s mýtom, palivom a batožinou. Spiatočná cesta stojí 240."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je transfer súkromný alebo zdieľaný?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Každý transfer je súkromný a od dverí k dverám, v Škode Superb. Žiadne zdieľanie vozidla a žiadne zastávky navyše, pokiaľ o ne nepožiadate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Môžete zastaviť cestou?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Na dlhších trasách sa rád zastavím na kávu, fotku alebo krátku zaujímavosť. Stačí to spomenúť pri rezervácii."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som potvrdil vozidlo a čas vyzdvihnutia. Pre rýchlu jazdu zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

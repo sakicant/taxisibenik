@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-brodarica-letisko-dubrovnik",
+  "title": "Taxi Brodarica - Letisko Dubrovnik | Pevná cena €485 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Brodarica - Letisko Dubrovnik. Pevná cena €485 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi brodarica - letisko dubrovnik, transfer brodarica - letisko dubrovnik, letiskový transfer brodarica - letisko dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi Brodarica - Letisko Dubrovnik",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Brodarica - Letisko Dubrovnik, 485 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Brodarica",
+        "Letisko Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-brodarica-letisko-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, Brodarica - Letisko Dubrovnik, za vozidlo pre max. 4 cestujúcich. Spiatočne 970 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Aká dlhá je trasa a ako dlho trvá cesta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na trase Brodarica - Letisko Dubrovnik je cesta približne 297 km a za bežnej premávky trvá zhruba 4 h 15 min, v letnej špičke o niečo dlhšie. Vyzdvihnutie plánujem tak, aby Vás pomalší úsek nikdy netlačil do času."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí taxi na trase Brodarica - Letisko Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 485 za vozidlo, jednosmerne, max. 4 cestujúci. Cena je za vozidlo, nie za osobu, a zahŕňa mýto, palivo a batožinu. Spiatočná cesta stojí 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kedy mám vyraziť na svoj let?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zvyčajne približne 3 hodiny pred medzinárodným a 2 hodiny pred vnútroštátnym letom. Zadajte čas letu a potvrdím presné vyzdvihnutie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Odveziete ma až k odletovému terminálu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Odveziem Vás priamo k odletovému terminálu a pomôžem s batožinou. Žiadna chôdza z parkoviska, žiadny shuttle bus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som potvrdil vozidlo a vyzdvihnutie, pri skorších letoch a v hlavnej sezóne skôr. Pre rýchlu jazdu zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

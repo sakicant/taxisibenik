@@ -1,0 +1,85 @@
+{
+  "slug": "letiskove-transfery",
+  "title": "Letiskové transfery Šibenik | Pevné ceny | TAXI Antonio",
+  "description": "Letiskové transfery zo Šibenika na letiská Split, Zadar, Zagreb a Dubrovnik a späť. Pevné ceny, sledovanie letov, od dverí k dverám. Obsluhujem aj Vodice, Primošten a Skradin. Rezervujte u Antonia.",
+  "keywords": "letiskové transfery šibenik, letiskový transfer šibenik, letisko split šibenik, letisko zadar šibenik, letiskový transfer vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Letiskový transfer",
+      "name": "Letiskové transfery zo Šibenika",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Letisko Split",
+        "Letisko Zadar",
+        "Letisko Zagreb",
+        "Letisko Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/sk/letiskove-transfery/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ako nájdem svojho vodiča na letisku?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio čaká v príletovej hale po vyzdvihnutí batožiny a drží prehľadnú tabuľku s vaším menom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Čo ak má môj let meškanie?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lety sa sledujú v reálnom čase podľa čísla letu, ktoré uvediete pri rezervácii. Čas vyzdvihnutia sa automaticky prispôsobí a za čakanie sa neúčtuje žiadny príplatok."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je cena letiskového transferu pevná?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Každý letiskový transfer má pevnú cenu za auto pre maximálne 4 cestujúcich, vrátane mýta, paliva a batožiny. Žiadny taxameter, žiadne prekvapenia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Poskytujete detské sedačky pri letiskových transferoch?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno, detské a podsedákové sedačky poskytujem zdarma. Stačí ich uviesť v poznámke k rezervácii spolu s vekom dieťaťa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ako zaplatím za letiskový transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezerváciu potvrdí 20 % záloha (minimálne 20 eur), a to bankovým prevodom alebo kartou. Zvyšok zaplatíte vodičovi v deň transferu, v hotovosti alebo kartou."
+          }
+        }
+      ]
+    }
+  ]
+}

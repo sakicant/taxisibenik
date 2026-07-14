@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-letisko-split-vodice",
+  "title": "Taxi Letisko Split - Vodice | Pevná cena €115 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Letisko Split - Vodice. Pevná cena €115 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi letisko split - vodice, transfer letisko split - vodice, letiskový transfer letisko split - vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi Letisko Split - Vodice",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Letisko Split - Vodice, 115 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Letisko Split",
+        "Vodice"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-letisko-split-vodice/",
+      "offers": {
+        "@type": "Offer",
+        "price": "115",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, Letisko Split - Vodice, za vozidlo pre max. 4 cestujúcich. Spiatočne 230 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Aká dlhá je trasa a ako dlho trvá cesta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na trase Letisko Split - Vodice je cesta približne 65 km a za bežnej premávky trvá zhruba 70 min, v letnej špičke o niečo dlhšie. Vyzdvihnutie plánujem tak, aby Vás pomalší úsek nikdy netlačil do času."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kde ma privítate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "V príletovej hale, hneď po výdaji batožiny, s tabuľkou s menom. Pomôžem s batožinou a odprevadím Vás k vozidlu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Čo ak môj let mešká?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Žiadny problém. Váš let sledujem v reálnom čase a vyzdvihnutie prispôsobím skutočnému pristátiu, bez príplatku za čakanie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí transfer na trase Letisko Split - Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 115 za vozidlo pre max. 4 cestujúcich, jednosmerne, mýto a batožina v cene. Spiatočná cesta stojí 230."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som ho prispôsobil Vášmu letu. Pre vyzdvihnutie v ten istý deň po náhlej zmene zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

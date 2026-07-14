@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-sibenik-novalja",
+  "title": "Taxi Šibenik - Novalja | Pevná cena €190 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Šibenik - Novalja. Pevná cena €190 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi šibenik - novalja, transfer šibenik - novalja, letiskový transfer šibenik - novalja",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi Šibenik - Novalja",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Šibenik - Novalja, 190 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Novalja"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-sibenik-novalja/",
+      "offers": {
+        "@type": "Offer",
+        "price": "190",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, Šibenik - Novalja, za vozidlo pre max. 4 cestujúcich. Spiatočne 380 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Aká dlhá je trasa a ako dlho trvá cesta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na trase Šibenik - Novalja je cesta približne 147 km a za bežnej premávky trvá zhruba 2 h 10 min, v letnej špičke o niečo dlhšie. Vyzdvihnutie plánujem tak, aby Vás pomalší úsek nikdy netlačil do času."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí taxi na trase Šibenik - Novalja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 190 za vozidlo pre max. 4 cestujúcich, jednosmerne, batožina v cene. Spiatočná cesta stojí 380."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kde ma vyzdvihnete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na Vašej presnej adrese, či je to dom, hotel alebo apartmán. Pošlite adresu pri rezervácii a potvrdím miesto stretnutia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som potvrdil vozidlo a čas vyzdvihnutia. Pre rýchlu jazdu zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

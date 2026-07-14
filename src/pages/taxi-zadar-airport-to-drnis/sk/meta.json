@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-letisko-zadar-drnis",
+  "title": "Taxi Letisko Zadar - Drniš | Pevná cena €110 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Letisko Zadar - Drniš. Pevná cena €110 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi letisko zadar - drniš, transfer letisko zadar - drniš, letiskový transfer letisko zadar - drniš",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi Letisko Zadar - Drniš",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Letisko Zadar - Drniš, 110 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Letisko Zadar",
+        "Drniš"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-letisko-zadar-drnis/",
+      "offers": {
+        "@type": "Offer",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, Letisko Zadar - Drniš, za vozidlo pre max. 4 cestujúcich. Spiatočne 220 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Aká dlhá je trasa a ako dlho trvá cesta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na trase Letisko Zadar - Drniš je cesta približne 93 km a za bežnej premávky trvá zhruba 75 min, v letnej špičke o niečo dlhšie. Vyzdvihnutie plánujem tak, aby Vás pomalší úsek nikdy netlačil do času."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kde ma privítate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "V príletovej hale, hneď po výdaji batožiny, s tabuľkou s menom. Pomôžem s batožinou a odprevadím Vás k vozidlu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Čo ak môj let mešká?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Žiadny problém. Váš let sledujem v reálnom čase a vyzdvihnutie prispôsobím skutočnému pristátiu, bez príplatku za čakanie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí transfer na trase Letisko Zadar - Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 110 za vozidlo pre max. 4 cestujúcich, jednosmerne, mýto a batožina v cene. Spiatočná cesta stojí 220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som ho prispôsobil Vášmu letu. Pre vyzdvihnutie v ten istý deň po náhlej zmene zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

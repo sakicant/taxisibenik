@@ -1,0 +1,84 @@
+{
+  "slug": "vylet-krka-zadar",
+  "title": "Výlet do Krky zo Zadaru | Súkromný transfer, pevná cena €260 | TAXI Antonio",
+  "description": "Súkromný spiatočný taxi transfer do Krky zo Zadaru. Pevná cena €260 za vozidlo, až 4 cestujúci, od dverí k dverám zo zadarských hotelov, trajektového a výletného prístavu a starého mesta. Žiadny zájazd, len odvoz tam a späť.",
+  "keywords": "výlet do krky zo zadaru, spiatočný transfer do krky zo zadaru, taxi do krky zo zadaru, krka zo zadaru, zadar do národného parku krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Súkromný výlet do Krky zo Zadaru",
+      "description": "Súkromný výlet do Národného parku Krka zo Zadaru s miestnym vodičom hovoriacim po anglicky. Pevná cena 260 eur za vozidlo pre až 4 cestujúcich, s vyzdvihnutím od dverí k dverám v zadarských hoteloch, v trajektovom a výletnom prístave, na autobusovej stanici a v starom meste.",
+      "touristType": "Príroda a poznávanie",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "260",
+        "priceCurrency": "EUR",
+        "description": "Súkromné vozidlo, spiatočná cesta zo Zadaru do Národného parku Krka, až 4 cestujúci. Vstupenky do parku nie sú zahrnuté."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je to zájazd so sprievodcom alebo taxi transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Je to taxi transfer, nie zájazd so sprievodcom. Antonio je miestny vodič, ktorý poskytuje súkromný spiatočný transfer zo Zadaru do Krky a späť. Dostanete vozidlo a odvoz; vnútri parku sa môžete pohybovať sami, vlastným tempom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí taxi do Krky zo Zadaru?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Súkromný spiatočný transfer zo Zadaru do Národného parku Krka stojí pevných 260 eur za vozidlo pre až 4 cestujúcich, vrátane mýta, paliva a približne 3 až 4 hodín čakania."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vyzdvihujete zo zadarských hotelov a z trajektového prístavu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Vyzdvihujem od dverí k dverám zo zadarských hotelov a apartmánov, zo starého mesta, z autobusovej stanice a priamo z trajektového prístavu v Zadare a z výletného terminálu Gaženica, na požiadanie s menovkou."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ako dlho trvá výlet zo Zadaru do Krky?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jazda trvá približne jednu hodinu každým smerom po diaľnici, plus približne 3 až 4 hodiny voľného času vnútri parku. Kratší alebo dlhší pobyt sa dá dohodnúť pri rezervácii."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ako si rezervujem a zaplatím výlet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezerváciu potvrdí 20% záloha (minimálne 20 eur), bankovým prevodom alebo kartou, a ako potvrdenie dostanete faktúru. Zvyšok zaplatíte vodičovi v deň výletu, v hotovosti alebo kartou."
+          }
+        }
+      ]
+    }
+  ]
+}

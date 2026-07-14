@@ -1,0 +1,92 @@
+{
+  "slug": "vylet-krka-primosten",
+  "title": "Výlet do Krky z Primoštenu | Súkromný transfer, pevná cena €155 | TAXI Antonio",
+  "description": "Súkromný spiatočný taxi transfer do Krky z Primoštenu. Pevná cena €155 za vozidlo, až 4 cestujúci, od dverí k dverám z hotelov a apartmánov v Primoštene, Zečeve a Rogoznici. Žiadny zájazd, len odvoz tam a späť.",
+  "keywords": "výlet do krky z primoštenu, krka z primoštenu, taxi do krky z primoštenu, transfer krka primošten, krka z rogoznice, krka zo zečeva, primošten do národného parku krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Súkromný výlet do Krky z Primoštenu",
+      "description": "Súkromný výlet do Národného parku Krka z Primoštenu s miestnym vodičom hovoriacim po anglicky. Pevná cena 155 eur za vozidlo pre až 4 cestujúcich, s vyzdvihnutím od dverí k dverám v hoteloch a apartmánoch v Primoštene, v oblasti Zečevo a v Rogoznici.",
+      "touristType": "Príroda a poznávanie",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "155",
+        "priceCurrency": "EUR",
+        "description": "Súkromné vozidlo, spiatočná cesta z Primoštenu do Národného parku Krka, až 4 cestujúci. Vstupenky do parku nie sú zahrnuté."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je to zájazd so sprievodcom alebo taxi transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Je to taxi transfer, nie zájazd so sprievodcom. Antonio je miestny vodič, ktorý poskytuje súkromný spiatočný transfer z Primoštenu do Krky a späť. Dostanete vozidlo a odvoz; vnútri parku sa môžete pohybovať sami, vlastným tempom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vyzdvihujete okrem Primoštenu aj z oblasti Zečevo a z Rogoznice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Vyzdvihnutie z oblasti Zečevo a z Rogoznice je za rovnakú pevnú cenu ako z Primoštenu. Vyzdvihnem vás od dverí k dverám z akéhokoľvek hotela, apartmánu či vily, vrátane Marina Frapa v Rogoznici."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí taxi do Krky z Primoštenu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Súkromný spiatočný transfer z Primoštenu do Krky stojí pevných 155 eur za vozidlo pre až 4 cestujúcich, vrátane paliva a čakania pri parku. Rovnaká cena zahŕňa vyzdvihnutie v oblasti Zečevo a v Rogoznici."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ako dlho strávime v Národnom parku Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Väčšina hostí si volí približne 3 až 4 hodiny voľného času vnútri parku, čo stačí na to, aby ste videli hlavné vodopády a prešli klasický okruh po drevených chodníkoch. Kratší alebo dlhší pobyt sa dá dohodnúť pri rezervácii."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sú vstupenky do Krky zahrnuté v cene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nie. Vstupenky sa kupujú samostatne, priamo od Národného parku Krka pri vstupe Skradin alebo Lozovac, alebo online. Vstupenky stoja približne 7 až 40 eur v závislosti od sezóny."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ako si rezervujem a zaplatím výlet z Primoštenu do Krky?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezerváciu potvrdí 20% záloha (minimálne 20 eur), bankovým prevodom alebo kartou, a ako potvrdenie dostanete faktúru. Zvyšok zaplatíte vodičovi v deň výletu, v hotovosti alebo kartou."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "vylet-plitvice-split",
+  "title": "Výlet na Plitvice zo Splitu | Súkromný transfer, pevných €650 | TAXI Antonio",
+  "description": "Súkromný spiatočný taxi transfer na Plitvické jazerá zo Splitu. Pevná cena €650 za auto, až 4 cestujúci, od dverí k dverám zo splitských hotelov, výletného prístavu a starého mesta. Nie je to zájazd, iba jazda tam a späť.",
+  "keywords": "výlet na plitvice zo splitu, spiatočný transfer na plitvice, taxi na plitvice zo splitu, plitvické jazerá zo splitu, split na plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Súkromný výlet na Plitvické jazerá zo Splitu",
+      "description": "Súkromný výlet do Národného parku Plitvické jazerá zo Splitu s miestnym vodičom hovoriacim po anglicky. Pevná cena 650 eur za auto pre až 4 cestujúcich, s vyzdvihnutím od dverí k dverám v splitských hoteloch, výletnom prístave, na autobusovej a železničnej stanici a v starom meste.",
+      "touristType": "Nature and sightseeing",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "650",
+        "priceCurrency": "EUR",
+        "description": "Súkromné vozidlo, spiatočná cesta zo Splitu do Národného parku Plitvické jazerá, až 4 cestujúci. Vstupenky do parku nie sú zahrnuté."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je to sprevádzaný zájazd alebo taxi transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Je to taxi transfer, nie sprevádzaný zájazd. Antonio je miestny vodič, ktorý zabezpečuje súkromný spiatočný transfer zo Splitu na Plitvice a späť. Dostanete auto a jazdu; vnútri parku sa môžete voľne prechádzať sami, vlastným tempom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí taxi na Plitvice zo Splitu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Súkromný spiatočný transfer zo Splitu na Plitvické jazerá je pevných 650 eur za auto pre až 4 cestujúcich, s mýtom, palivom a čakaním pri parku v cene."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ako dlho trvá výlet zo Splitu na Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jazda trvá približne dve a pol až tri hodiny každým smerom, plus zhruba 4 až 6 hodín na prechádzku okolo jazier. Je to dlhý celodenný výlet, zvyčajne 11 až 12 hodín od dverí k dverám, takže skorý začiatok je nevyhnutný."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sú vstupenky na Plitvice zahrnuté v cene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nie. Vstupenky sa kupujú osobitne od Národného parku Plitvické jazerá, pri vstupe alebo online. Vstupenky stoja zhruba 10 až 40 eur podľa sezóny a zahŕňajú panoramatický vláčik a elektrickú loď vnútri parku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ako si výlet rezervujem a zaplatím?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zálohová platba 20 % (minimálne 20 eur) potvrdí rezerváciu, bankovým prevodom alebo kartou, a ako potvrdenie dostanete faktúru. Zvyšok sa platí vodičovi v deň jazdy, v hotovosti alebo kartou."
+          }
+        }
+      ]
+    }
+  ]
+}
