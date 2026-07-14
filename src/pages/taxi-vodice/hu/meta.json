@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "Taxi Vodice | TAXI Antonio",
+  "description": "Taxi Vodice: fix reptéri transzferek Zadarba (100 €) és Splitbe, felvétel a marinánál és a resortoknál, Krka-kirándulások és kompkikötői kitevés. Foglaljon közvetlenül.",
+  "keywords": "taxi vodice, vodice taxi, vodice reptéri transzfer, vodice split reptér, vodice zadar reptér, vodice marina taxi, vodice krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Helyi taxi és reptéri transzferek",
+      "name": "Taxi Vodice",
+      "description": "Privát fix áras taxi Vodicében: reptéri transzferek Splitbe és Zadarba, felvétel a marinánál és a resortoknál, kirándulások a Krka Nemzeti Parkba és kitevés a szigeti kompoknál.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/hu/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxi árak Vodicéből",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice - Šibenik",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice - Krka NP (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice - Zadar repülőtér",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice - Split repülőtér",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Fel tudja venni a legénységet a vodicei marinánál?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A jacht- és charterlegénységeket közvetlenül a marinánál veszem fel, van hely a csomagoknak és a készleteknek, és a charter köré tudok szervezni korai vagy késői időpontot is."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Késő éjjel is dolgozik Vodicében?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Ha előre lefoglalja, egy esti kimenő után is fel tudom venni, és biztonságosan visszaviszem a szállására fix áron."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "El tud vinni a Prvić vagy Zlarin kompjához?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Mindkettő a vodicei tengerpartról indul, és pontosan a kikötőnél tudom kitenni. A díjat kérdezze meg tőlem a foglaláskor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül Vodice - Zadar repülőtér?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 100 € autónként, legfeljebb 4 utasig, a Split repülőtér pedig 115 €, az útdíjakkal és a csomagokkal együtt."
+          }
+        }
+      ]
+    }
+  ]
+}

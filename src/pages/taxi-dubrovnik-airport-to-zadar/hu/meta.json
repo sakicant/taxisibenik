@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-repter-dubrovnik-zadar",
+  "title": "Taxi Dubrovnik repülőtér - Zadar | Fix ár €625 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Dubrovnik repülőtér - Zadar. Fix ár €625 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi dubrovnik repülőtér - zadar, transzfer dubrovnik repülőtér - zadar, reptéri transzfer dubrovnik repülőtér - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Dubrovnik repülőtér - Zadar",
+      "description": "Privát taxi és transzfer fix áron, Dubrovnik repülőtér - Zadar, 625 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik repülőtér",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-repter-dubrovnik-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "625",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Dubrovnik repülőtér - Zadar, járművenként max. 4 utasra. Oda-vissza 1250 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Milyen hosszú az útvonal és mennyi ideig tart az út?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Dubrovnik repülőtér - Zadar útvonalon az út körülbelül 371 km, és normál forgalomban nagyjából 5 h alatt tart, a nyári csúcsidőben kicsit tovább. A felvételt úgy tervezem, hogy egy lassabb szakasz soha ne siettesse Önt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol fogad engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A megérkezési csarnokban, közvetlenül a csomagfelvétel után, névtáblával. Segítek a csomaggal, és a járműhöz kísérem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi van, ha a járatom késik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Semmi gond. A járatát valós időben követem, és a felvételt a tényleges leszálláshoz igazítom, a várakozásért felár nélkül."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a transzfer a Dubrovnik repülőtér - Zadar útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 625 járművenként max. 4 utasra, egy irány, útdíj és csomag beleértve. Az oda-vissza út 1250."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy a járatához igazítsam. Aznapi felvételhez hirtelen változás után hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

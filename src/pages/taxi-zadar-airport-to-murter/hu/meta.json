@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-repter-zadar-murter",
+  "title": "Taxi Zadar repülőtér - Murter | Fix ár €120 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Zadar repülőtér - Murter. Fix ár €120 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi zadar repülőtér - murter, transzfer zadar repülőtér - murter, reptéri transzfer zadar repülőtér - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Zadar repülőtér - Murter",
+      "description": "Privát taxi és transzfer fix áron, Zadar repülőtér - Murter, 120 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zadar repülőtér",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-repter-zadar-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "120",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Zadar repülőtér - Murter, járművenként max. 4 utasra. Oda-vissza 240 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Milyen hosszú az útvonal és mennyi ideig tart az út?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Zadar repülőtér - Murter útvonalon az út körülbelül 74 km, és normál forgalomban nagyjából 70 min alatt tart, a nyári csúcsidőben kicsit tovább. A felvételt úgy tervezem, hogy egy lassabb szakasz soha ne siettesse Önt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol fogad engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A megérkezési csarnokban, közvetlenül a csomagfelvétel után, névtáblával. Segítek a csomaggal, és a járműhöz kísérem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi van, ha a járatom késik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Semmi gond. A járatát valós időben követem, és a felvételt a tényleges leszálláshoz igazítom, a várakozásért felár nélkül."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a transzfer a Zadar repülőtér - Murter útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 120 járművenként max. 4 utasra, egy irány, útdíj és csomag beleértve. Az oda-vissza út 240."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy a járatához igazítsam. Aznapi felvételhez hirtelen változás után hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

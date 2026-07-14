@@ -1,0 +1,87 @@
+{
+  "slug": "varosok-kozotti-transzferek",
+  "title": "Šibenik transzferek | Fix árak | TAXI Antonio",
+  "description": "Šibenik transzferek Splitbe, Zadarba, Dubrovnikba, Zágrábba, Trogirba és azon túl, valamint vissza. Fix árak, privát háztól házig, egy helyi sofőr. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "šibenik transzfer, taxi šibenik split, šibenik zadar, šibenik dubrovnik, šibenik zágráb, városok közötti transzfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Városok közötti taxitranszfer",
+      "name": "Šibenik transzferek",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/hu/varosok-kozotti-transzferek/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a taxitranszfer Šibenikből Splitbe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A privát transzfer Šibenikből Splitbe fix 140 euró autónként, legfeljebb 4 utasig, az útdíjakkal, üzemanyaggal és poggyásszal együtt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fixek a transzferárak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Minden városok közötti transzfer fix áras autónként, legfeljebb 4 utasig, előre megállapodva. Nincs taxióra és nincsenek meglepetések."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A transzfer privát vagy megosztott?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minden transzfer privát és háztól házig tart, egy Škoda Superbben. Nincs járműmegosztás és nincsenek extra megállók, hacsak nem kéri őket."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Meg tud állni útközben?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A hosszabb transzfereken szívesen megállok egy kávéra, egy fotóra vagy egy gyors látnivalóra. Csak jelezze a foglaláskor, és beleszámítom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hogyan fizetek a transzferért?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 20%-os előleg (minimum 20 euró) megerősíti a foglalást, banki átutalással vagy kártyával. A fennmaradó összeget a sofőrnek fizeti a helyszínen, készpénzben vagy kártyával."
+          }
+        }
+      ]
+    }
+  ]
+}

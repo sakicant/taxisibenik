@@ -1,0 +1,119 @@
+{
+  "slug": "taxi-bilice",
+  "title": "Taxi Bilice | TAXI Antonio",
+  "description": "Taxi Bilice: fix áras reptéri transzferek Splitbe (€100) és Zadarba, valamint gyors utak Šibenikbe. Ajtótól ajtóig felvétel apartmanok és villák vendégeinek.",
+  "keywords": "taxi bilice, bilice taxi, bilice repteri transzfer, bilice spliti reptere, bilice sibenik, taxi bilice sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Helyi taxi és reptéri transzferek",
+      "name": "Taxi Bilice",
+      "description": "Privát, fix áras taxi és reptéri transzferek Biliceből, Šibeniktől északra, a spliti repülőtérre, a zadari repülőtérre, Šibenikbe, Vodicébe és a Krka Nemzeti Parkba.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Bilice",
+      "url": "https://taxisibenik.hr/hu/taxi-bilice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxi árak Biliceből",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice–Šibenik",
+            "price": "20",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Bilice&to=%C5%A0ibenik%20-%20center&price=20"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice–Vodice",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Bilice&to=Vodice&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice–Krka NP (Lozovac)",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Bilice&to=NP%20Krka%20-%20Lozovac%20entrance&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice–spliti repülőtér",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Bilice&to=Split%20Airport%20%28SPU%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice–zadari repülőtér",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Bilice&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice–Split",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Bilice&to=Split&price=140"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilice–Zadar",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Bilice&to=Zadar&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Felveszi a vendégeket a bilicei apartmanoknál és villáknál?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Egyenesen a bilicei szállása ajtajánál veszem fel, berakom a csomagjait, és ajtótól ajtóig viszem. Foglaláskor csak küldje el a címet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen korán tud reptéri transzfert indítani Biliceből?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bármely órában, nappal vagy éjjel, amennyiben előre le van foglalva. Korai spliti vagy zadari járatok esetén megerősítem a felvétel időpontját, hogy bőven időben a terminálhoz érjen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Tényleg fix a repülőtéri ár?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Itt minden viteldíj fix ár autónként, legfeljebb 4 utasig, az útdíjakkal, üzemanyaggal és csomagokkal együtt. Nincs taxióra."
+          }
+        }
+      ]
+    }
+  ]
+}

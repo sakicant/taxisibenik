@@ -1,0 +1,92 @@
+{
+  "slug": "kirandulas-krka-vodice",
+  "title": "Kirándulás Krkába Vodicéből | Privát transzfer, fix 125 € | TAXI Antonio",
+  "description": "Privát oda-vissza taxitranszfer Krkába Vodicéből. Fix 125 € autónként, legfeljebb 4 utas, háztól házig Vodice, Srima és Tribunj szállodáiból és apartmanjaiból. Nem túra, csak az oda-vissza út.",
+  "keywords": "kirándulás krkába vodicéből, krka vodicéből, taxi krkába vodicéből, krka transzfer vodice, krka srimából, krka tribunjból, vodice krka nemzeti park",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privát kirándulás Krkába Vodicéből",
+      "description": "Privát kirándulás a Krka Nemzeti Parkba Vodicéből egy helyi, angolul beszélő sofőrrel. Fix ár 125 euró autónként, legfeljebb 4 utas részére, háztól házig felvétellel Vodice, Srima és Tribunj szállodáiból és apartmanjaiból.",
+      "touristType": "Természet és városnézés",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Privát jármű, oda-vissza út Vodicéből a Krka Nemzeti Parkba, legfeljebb 4 utas. A parki belépőjegyek nincsenek benne az árban."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ez vezetett túra vagy taxitranszfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ez taxitranszfer, nem vezetett túra. Antonio helyi sofőr, aki privát oda-vissza transzfert biztosít Vodicéből Krkába és vissza. Ön megkapja az autót és a fuvart; a parkon belül szabadon, saját tempójában fedezheti fel a látnivalókat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vodice mellett Srimából és Tribunjból is felvesz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A felvétel Srimából és Tribunjból ugyanazon a fix áron történik, mint Vodicéből. Háztól házig veszem fel Önt bármely szállodából, apartmanból vagy villából Vodicében, Srimában vagy Tribunjban, beleértve a vodicei kikötőt és a Rivát is."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a taxi Krkába Vodicéből?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A privát oda-vissza transzfer Vodicéből a Krka-tavakhoz fix 125 euró autónként, legfeljebb 4 utas részére, az üzemanyaggal és a parknál töltött várakozási idővel együtt. Ugyanez az ár vonatkozik a srimai és tribunji felvételre is."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyi időt töltünk a Krka Nemzeti Parkban?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A legtöbb vendég körülbelül 3-4 óra szabad időt választ a parkon belül, ami elég a fő vízesések megtekintéséhez és a klasszikus pallós körút bejárásához. Rövidebb vagy hosszabb tartózkodásban a foglaláskor lehet megállapodni."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A Krka belépőjegyek benne vannak az árban?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. A belépőjegyeket külön kell megvásárolni, közvetlenül a Krka Nemzeti Parktól a skradini vagy lozovaci bejáratnál, vagy online. A jegyek ára az évszaktól függően nagyjából 7 és 40 euró között mozog."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hogyan foglalhatom le és fizethetem ki a vodicei Krka-kirándulást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A foglalást 20%-os előleg (legalább 20 euró) erősíti meg banki átutalással vagy kártyával, és megerősítésként számlát kap. A fennmaradó összeget a sofőrnek fizeti az adott napon, készpénzben vagy kártyával."
+          }
+        }
+      ]
+    }
+  ]
+}

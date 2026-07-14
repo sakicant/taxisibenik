@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Taxi Perković | TAXI Antonio",
+  "description": "Taxi Perković: fogadás a peronon a Šibeniket kiszolgáló fő vasútállomáson, továbbutazással Šibenikbe, Vodicébe, Krkába és tovább.",
+  "keywords": "taxi perkovic, perkovic taxi, perkovic vasutallomas taxi, perkovic vasutallomas transzfer, perkovic sibenik, perkovic krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Helyi taxi és reptéri transzferek",
+      "name": "Taxi Perković",
+      "description": "Magántaxi, amely a vonatokat fogadja Perkovićon, a šibeniki térség fő vasútállomásán, továbbutazással Šibenikbe, Vodicébe, Krkába, Drnišbe, Kninbe és a spliti reptérre.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/hu/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hol találkozunk a perkovići állomáson?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A peronon, vagy ha úgy szeretné, az állomás kijáratánál. A nevével várom Önt, és segítek a csomagokkal, hogy egyenesen az autóhoz sétálhasson."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi történik, ha a Perkovićra tartó vonatom késik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nyomon követem a vonatát, és ehhez igazítom a felvételt, felár nélkül, így akkor is ott vagyok, amikor a vonat ténylegesen megérkezik."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Van taxiállomás Perkovićon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nincs, az állomáson nincs taxiállomás, ezért érdemes előre foglalni. Küldje el a vonat érkezési idejét és az úti célt, és várni fogom Önt, amikor leszáll."
+          }
+        }
+      ]
+    }
+  ]
+}

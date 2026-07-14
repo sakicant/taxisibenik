@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-zablace",
+  "title": "Taxi Zablaće | TAXI Antonio",
+  "description": "Taxi Zablaće: fix reptéri transzferek Splitbe (95 €) és Zadarba a kempingezőknek és a strandvendégeknek az Amadria Park közelében, plusz fuvarok Šibenikbe és Vodicébe.",
+  "keywords": "taxi zablace, zablace taxi, zablace kemping taxi, zablace reptéri transzfer, amadria park zablace taxi, zablace split reptér",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Helyi taxi és reptéri transzferek",
+      "name": "Taxi Zablaće",
+      "description": "Privát fix áras taxi Zablaćéből, a Šibeniktől délnyugatra fekvő kemping és Amadria Park környékéről, a Split repülőtérre, a Zadar repülőtérre, Šibenikbe és Vodicébe.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Zablaće",
+      "url": "https://taxisibenik.hr/hu/taxi-zablace/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxi árak Zablaćéből",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće - Šibenik",
+            "price": "18",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Zabla%C4%87e&to=%C5%A0ibenik%20-%20center&price=18"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće - Vodice",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Zabla%C4%87e&to=Vodice&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće - Split repülőtér",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Zabla%C4%87e&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće - Zadar repülőtér",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Zabla%C4%87e&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Felvesz a kempingből és az Amadria Park környékéről is?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A kemping recepciójánál, az apartmanjánál vagy a közeli Amadria Park környékén veszem fel, hellyel a csomagoknak és a felszerelésnek. Küldje el a pontos helyet a foglaláskor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Van hely a kempingezős és strandos felszerelésnek?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A Škoda Superbnek nagy csomagtartója van bőröndökhöz, kempingfelszereléshez és strandcuccokhoz. Szóljon, ha kerékpárja vagy nagyméretű tárgya van, hogy ehhez igazodjak."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül Zablaće - Split repülőtér?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 95 € autónként, legfeljebb 4 utasig, az útdíjakkal és a csomagokkal együtt, mindkét irányban ugyanaz az ár."
+          }
+        }
+      ]
+    }
+  ]
+}

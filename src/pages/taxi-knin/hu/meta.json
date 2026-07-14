@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-knin",
+  "title": "Taxi Knin | TAXI Antonio",
+  "description": "Taxi Knin: hosszú távú transzferek Šibenikbe (€95), a spliti repülőtérre (€110) és a zadari repülőtérre a történelmi belföldi vasúti városból. Fix árak.",
+  "keywords": "taxi knin, knin taxi, knin vasutallomas taxi, knin repteri transzfer, knin spliti reptere, knin sibenik, knin erod taxi",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Helyi taxi és reptéri transzferek",
+      "name": "Taxi Knin",
+      "description": "Privát, fix áras hosszú távú taxi Kninből, a történelmi belföldi vasúti városból, Šibenikbe, a spliti repülőtérre és a zadari repülőtérre.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Knin",
+      "url": "https://taxisibenik.hr/hu/taxi-knin/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxi árak Kninből",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Knin–Šibenik",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Knin&to=%C5%A0ibenik%20-%20center&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Knin–spliti repülőtér",
+            "price": "110",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Knin&to=Split%20Airport%20%28SPU%29&price=110"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Knin–zadari repülőtér",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Knin&to=Zadar%20Airport%20%28ZAD%29&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Fogadja a vonatokat a knini állomáson?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A peronon vagy az állomás kijáratánál várom, segítek a csomagokkal, és rögtön indulunk. Foglaláskor küldje el a vonata időpontját."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fix a hosszú távú ár?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen, és a távolság miatt előre egyeztetjük. Knin–Šibenik €95, a spliti repülőtér €110 és a zadari repülőtér €140 autónként, legfeljebb 4 utasig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Meg tud oldani egy oda-vissza utat aznap?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Meg tudom várni Önt, vagy aznap visszajövök Önért. Adja meg az időpontokat, és megerősítek egy fix árat az oda-vissza útra."
+          }
+        }
+      ]
+    }
+  ]
+}

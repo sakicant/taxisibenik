@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-dubrovnik-zaboric",
+  "title": "Taxi Dubrovnik - Žaborić | Fix ár €470 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Dubrovnik - Žaborić. Fix ár €470 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi dubrovnik - žaborić, transzfer dubrovnik - žaborić, reptéri transzfer dubrovnik - žaborić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Dubrovnik - Žaborić",
+      "description": "Privát taxi és transzfer fix áron, Dubrovnik - Žaborić, 470 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik",
+        "Žaborić"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-dubrovnik-zaboric/",
+      "offers": {
+        "@type": "Offer",
+        "price": "470",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Dubrovnik - Žaborić, járművenként max. 4 utasra. Oda-vissza 940 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Milyen hosszú az útvonal és mennyi ideig tart az út?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Dubrovnik - Žaborić útvonalon az út körülbelül 279 km, és normál forgalomban nagyjából 3 h 45 min alatt tart, a nyári csúcsidőben kicsit tovább. A felvételt úgy tervezem, hogy egy lassabb szakasz soha ne siettesse Önt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül egy taxi a Dubrovnik - Žaborić útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 470 járművenként max. 4 utasra, egy irány, útdíjjal, üzemanyaggal és csomaggal. Az oda-vissza út 940."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A transzfer privát vagy közös?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minden transzfer privát és háztól házig szól, egy Škoda Superbben. Nincs jármű-megosztás és nincs extra megálló, hacsak nem kéri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Megállhat útközben?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Hosszabb útvonalakon szívesen megállok egy kávéra, fotóra vagy egy rövid látnivalóra. Csak jelezze a foglaláskor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy megerősítsem a járművet és a felvétel idejét. Gyors útért hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

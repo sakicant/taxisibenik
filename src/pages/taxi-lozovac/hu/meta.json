@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-lozovac",
+  "title": "Taxi Lozovac | TAXI Antonio",
+  "description": "Taxi Lozovac: transzferek a Krka Nemzeti Park bejáratánál (Skradinski Buk), Krka-kirándulások és fix reptéri fuvarok Splitbe (€95). Foglaljon közvetlenül.",
+  "keywords": "taxi lozovac, lozovac taxi, taxi a krka nemzeti parkba, lozovac krka bejarat, taxi krka vizeses, lozovac spliti reptere, lozovac sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Helyi taxi és reptéri transzferek",
+      "name": "Taxi Lozovac",
+      "description": "Privát taxi Lozovacon, a Krka Nemzeti Park fő bejáratánál a Skradinski Buk vízesésekhez: parki kirándulások, túrák és fix áras reptéri transzferek.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Lozovac",
+      "url": "https://taxisibenik.hr/hu/taxi-lozovac/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxi árak Lozovacról",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Lozovac–Šibenik",
+            "price": "45",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Lozovac&to=%C5%A0ibenik%20-%20center&price=45"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Lozovac–Vodice",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Lozovac&to=Vodice&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Lozovac–Krka NP (skradini bejárat)",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Lozovac&to=NP%20Krka%20-%20Skradin%20entrance&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Lozovac–spliti repülőtér",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Lozovac&to=Split%20Airport%20%28SPU%29&price=95"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Milyen messze van Lozovac a Krka bejárattól?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lozovac maga a Krka Nemzeti Park közúti bejárata, tehát már a kapunál van a Skradinski Buk vízesésekhez. Egyenesen a bejáratnál teszem le."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Meg tud várni, amíg megnézem a parkot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Kínálok privát Krka-napi kirándulást várakozási idővel együtt, tehát elviszem a vízesésekhez, megvárom, amíg a saját tempójában felfedezi, és visszaviszem. Nézze meg a kirándulások oldalamat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A skradini bejárathoz is elmegy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A Krka skradini bejáratához, ahonnan hajóval mehet a vízesésekhez, a transzfer fix €25 autónként."
+          }
+        }
+      ]
+    }
+  ]
+}

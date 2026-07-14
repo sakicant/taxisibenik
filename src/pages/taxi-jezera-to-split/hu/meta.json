@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-jezera-split",
+  "title": "Taxi Jezera - Split | Fix ár €170 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Jezera - Split. Fix ár €170 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi jezera - split, transzfer jezera - split, reptéri transzfer jezera - split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Jezera - Split",
+      "description": "Privát taxi és transzfer fix áron, Jezera - Split, 170 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Jezera",
+        "Split"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-jezera-split/",
+      "offers": {
+        "@type": "Offer",
+        "price": "170",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Jezera - Split, járművenként max. 4 utasra. Oda-vissza 340 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Milyen hosszú az útvonal és mennyi ideig tart az út?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Jezera - Split útvonalon az út körülbelül 120 km, és normál forgalomban nagyjából 1 h 35 min alatt tart, a nyári csúcsidőben kicsit tovább. A felvételt úgy tervezem, hogy egy lassabb szakasz soha ne siettesse Önt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül egy taxi a Jezera - Split útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 170 járművenként max. 4 utasra, egy irány, útdíjjal, üzemanyaggal és csomaggal. Az oda-vissza út 340."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A transzfer privát vagy közös?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minden transzfer privát és háztól házig szól, egy Škoda Superbben. Nincs jármű-megosztás és nincs extra megálló, hacsak nem kéri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Megállhat útközben?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Hosszabb útvonalakon szívesen megállok egy kávéra, fotóra vagy egy rövid látnivalóra. Csak jelezze a foglaláskor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy megerősítsem a járművet és a felvétel idejét. Gyors útért hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

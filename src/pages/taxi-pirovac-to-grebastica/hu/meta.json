@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-pirovac-grebastica",
+  "title": "Taxi Pirovac - Grebaštica | Fix ár €85 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Pirovac - Grebaštica. Fix ár €85 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi pirovac - grebaštica, transzfer pirovac - grebaštica, reptéri transzfer pirovac - grebaštica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Pirovac - Grebaštica",
+      "description": "Privát taxi és transzfer fix áron, Pirovac - Grebaštica, 85 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Pirovac",
+        "Grebaštica"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-pirovac-grebastica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "85",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Pirovac - Grebaštica, járművenként max. 4 utasra. Oda-vissza 170 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Milyen hosszú az útvonal és mennyi ideig tart az út?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Pirovac - Grebaštica útvonalon az út körülbelül 42 km, és normál forgalomban nagyjából 50 min alatt tart, a nyári csúcsidőben kicsit tovább. A felvételt úgy tervezem, hogy egy lassabb szakasz soha ne siettesse Önt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül egy taxi a Pirovac - Grebaštica útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 85 járművenként max. 4 utasra, egy irány, csomag beleértve. Az oda-vissza út 170."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol vesz fel engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A pontos címén, legyen az ház, hotel vagy apartman. Küldje el a címet a foglaláskor, és megerősítem a találkozási pontot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy megerősítsem a járművet és a felvétel idejét. Gyors útért hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

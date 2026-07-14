@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-brodarica",
+  "title": "Taxi Brodarica | TAXI Antonio",
+  "description": "Taxi Brodarica: felvétel a krapanji kompnál és a tengerparton, valamint fix reptéri transzferek Splitbe (€95) és Zadarba, és utak Šibenikbe.",
+  "keywords": "taxi brodarica, brodarica taxi, brodarica krapanj komp, brodarica repteri transzfer, brodarica spliti reptere, taxi brodarica sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Helyi taxi és reptéri transzferek",
+      "name": "Taxi Brodarica",
+      "description": "Privát, fix áras taxi Brodaricából, Šibeniktől délre és a krapanji kompátkelőtől, a spliti repülőtérre, a zadari repülőtérre és Šibenikbe.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Brodarica",
+      "url": "https://taxisibenik.hr/hu/taxi-brodarica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxi árak Brodaricából",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Brodarica–Šibenik",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Brodarica%20-%20%C5%A0ibenik&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Brodarica–spliti repülőtér",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Brodarica%20-%20%C5%A0ibenik&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Brodarica–zadari repülőtér",
+            "price": "135",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Brodarica%20-%20%C5%A0ibenik&to=Zadar%20Airport%20%28ZAD%29&price=135"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Le tud tenni a krapanji kompnál?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Egyenesen a brodaricai tengerpartra viszem, a krapanji átkeléshez tartozó kompkikötőhöz, és visszafelé is fel tudom venni ott."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lefedi az egész brodaricai tengerpartot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen, a tengerpart mentén és a mögötte húzódó utcákban is. Küldje el a címét vagy a szállása nevét, és megerősítem a pontos találkozási pontot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fix áras a reptéri transzfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A spliti repülőtér €95, a zadari repülőtér €135 autónként, legfeljebb 4 utasig, az útdíjakkal és a csomagokkal együtt."
+          }
+        }
+      ]
+    }
+  ]
+}

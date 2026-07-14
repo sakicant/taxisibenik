@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-repter-split-bilo",
+  "title": "Taxi Split repülőtér - Bilo | Fix ár €80 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Split repülőtér - Bilo. Fix ár €80 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi split repülőtér - bilo, transzfer split repülőtér - bilo, reptéri transzfer split repülőtér - bilo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Split repülőtér - Bilo",
+      "description": "Privát taxi és transzfer fix áron, Split repülőtér - Bilo, 80 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Split repülőtér",
+        "Bilo"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-repter-split-bilo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Split repülőtér - Bilo, járművenként max. 4 utasra. Oda-vissza 160 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Milyen hosszú az útvonal és mennyi ideig tart az út?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Split repülőtér - Bilo útvonalon az út körülbelül 41 km, és normál forgalomban nagyjából 50 min alatt tart, a nyári csúcsidőben kicsit tovább. A felvételt úgy tervezem, hogy egy lassabb szakasz soha ne siettesse Önt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol fogad engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A megérkezési csarnokban, közvetlenül a csomagfelvétel után, névtáblával. Segítek a csomaggal, és a járműhöz kísérem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi van, ha a járatom késik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Semmi gond. A járatát valós időben követem, és a felvételt a tényleges leszálláshoz igazítom, a várakozásért felár nélkül."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a transzfer a Split repülőtér - Bilo útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 80 járművenként max. 4 utasra, egy irány, útdíj és csomag beleértve. Az oda-vissza út 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy a járatához igazítsam. Aznapi felvételhez hirtelen változás után hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

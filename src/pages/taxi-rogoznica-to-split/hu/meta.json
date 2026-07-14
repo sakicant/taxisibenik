@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-rogoznica-split",
+  "title": "Taxi Rogoznica - Split | Fix ár €75 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Rogoznica - Split. Fix ár €75 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi rogoznica - split, transzfer rogoznica - split, reptéri transzfer rogoznica - split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Rogoznica - Split",
+      "description": "Privát taxi és transzfer fix áron, Rogoznica - Split, 75 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Rogoznica",
+        "Split"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-rogoznica-split/",
+      "offers": {
+        "@type": "Offer",
+        "price": "75",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Rogoznica - Split, járművenként max. 4 utasra. Oda-vissza 150 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Milyen hosszú az útvonal és mennyi ideig tart az út?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Rogoznica - Split útvonalon az út körülbelül 56 km, és normál forgalomban nagyjából 65 min alatt tart, a nyári csúcsidőben kicsit tovább. A felvételt úgy tervezem, hogy egy lassabb szakasz soha ne siettesse Önt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül egy taxi a Rogoznica - Split útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 75 járművenként max. 4 utasra, egy irány, útdíjjal, üzemanyaggal és csomaggal. Az oda-vissza út 150."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A transzfer privát vagy közös?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minden transzfer privát és háztól házig szól, egy Škoda Superbben. Nincs jármű-megosztás és nincs extra megálló, hacsak nem kéri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Megállhat útközben?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Hosszabb útvonalakon szívesen megállok egy kávéra, fotóra vagy egy rövid látnivalóra. Csak jelezze a foglaláskor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy megerősítsem a járművet és a felvétel idejét. Gyors útért hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

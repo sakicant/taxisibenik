@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-bilo",
+  "title": "Taxi Bilo | TAXI Antonio",
+  "description": "Taxi Bilo: ajtótól ajtóig transzferek a spliti repülőtérre (€80), Šibenikbe és Vodicébe egy csendes, a fő taxiútvonalaktól távol eső tengerparti településnek.",
+  "keywords": "taxi bilo, bilo taxi, bilo repteri transzfer, bilo spliti reptere, bilo sibenik, bilo vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Helyi taxi és reptéri transzferek",
+      "name": "Taxi Bilo",
+      "description": "Privát, fix áras taxi Biloból, egy kis tengerparti településről Grebaštica és Primošten között, a spliti repülőtérre, Šibenikbe és Vodicébe.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Bilo",
+      "url": "https://taxisibenik.hr/hu/taxi-bilo/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxi árak Biloból",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilo–Šibenik",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Bilo&to=%C5%A0ibenik%20-%20center&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilo–Vodice",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Bilo&to=Vodice&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Bilo–spliti repülőtér",
+            "price": "80",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Bilo&to=Split%20Airport%20%28SPU%29&price=80"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hol veszi fel a vendégeket Biloban?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az apartmanja vagy nyaralója ajtajánál. Foglaláskor küldje el a címet vagy egy térképjelölőt, és megerősítem a találkozási pontot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül Bilo–spliti repülőtér?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix €80 autónként, legfeljebb 4 utasig, az útdíjakkal, üzemanyaggal és csomagokkal együtt."
+          }
+        }
+      ]
+    }
+  ]
+}

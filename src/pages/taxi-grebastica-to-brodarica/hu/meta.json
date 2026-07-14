@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-grebastica-brodarica",
+  "title": "Taxi Grebaštica - Brodarica | Fix ár €35 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Grebaštica - Brodarica. Fix ár €35 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi grebaštica - brodarica, transzfer grebaštica - brodarica, reptéri transzfer grebaštica - brodarica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Grebaštica - Brodarica",
+      "description": "Privát taxi és transzfer fix áron, Grebaštica - Brodarica, 35 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Grebaštica",
+        "Brodarica"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-grebastica-brodarica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "35",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Grebaštica - Brodarica, járművenként max. 4 utasra. Oda-vissza 70 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Milyen hosszú az útvonal és mennyi ideig tart az út?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Grebaštica - Brodarica útvonalon az út körülbelül 12 km, és normál forgalomban nagyjából 15 min alatt tart, a nyári csúcsidőben kicsit tovább. A felvételt úgy tervezem, hogy egy lassabb szakasz soha ne siettesse Önt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül egy taxi a Grebaštica - Brodarica útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 35 járművenként max. 4 utasra, egy irány, csomag beleértve. Az oda-vissza út 70."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol vesz fel engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A pontos címén, legyen az ház, hotel vagy apartman. Küldje el a címet a foglaláskor, és megerősítem a találkozási pontot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy megerősítsem a járművet és a felvétel idejét. Gyors útért hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

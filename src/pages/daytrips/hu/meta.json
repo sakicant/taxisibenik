@@ -1,0 +1,75 @@
+{
+  "slug": "kirandulasok",
+  "title": "Kirándulások Šibenikből | Privát Krka és Plitvice túrák | TAXI Antonio",
+  "description": "Privát kirándulások Šibenikből és Dalmácián át a Krka Nemzeti Parkba és a Plitvicei-tavakhoz. Fix áras, háztól házig oda-vissza transzferek egy helyi sofőrrel. Nem túra, csak az odaút és a visszaút.",
+  "keywords": "kirándulások šibenikből, šibenik kirándulások, privát kirándulás horvátország, krka kirándulás, plitvice kirándulás, kirándulás krkába, kirándulás plitvicébe",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát kirándulások és túrák",
+      "name": "Kirándulások Šibenikből és Dalmáciából",
+      "description": "Privát, fix áras kirándulások a Krka Nemzeti Parkba és a Plitvicei-tavakhoz egy helyi šibeniki sofőrrel. Háztól házig oda-vissza transzferek Šibenikből, Vodicéből, Primoštenből, Splitből és Zadarból, legfeljebb 4 utas autónként.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "142" }
+      },
+      "areaServed": ["Šibenik", "Vodice", "Primošten", "Split", "Zadar"],
+      "url": "https://taxisibenik.hr/hu/kirandulasok/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Privát kirándulások Dalmáciából",
+        "itemListElement": [
+          { "@type": "Offer", "name": "Kirándulás Krkába Šibenikből", "price": "100", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/hu/kirandulas-krka-sibenik/" },
+          { "@type": "Offer", "name": "Kirándulás Krkába Vodicéből", "price": "125", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/hu/kirandulas-krka-vodice/" },
+          { "@type": "Offer", "name": "Kirándulás Krkába Primoštenből", "price": "155", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/hu/kirandulas-krka-primosten/" },
+          { "@type": "Offer", "name": "Kirándulás Krkába Zadarból", "price": "260", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/hu/kirandulas-krka-zadar/" },
+          { "@type": "Offer", "name": "Kirándulás Krkába Splitből", "price": "290", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/hu/kirandulas-krka-split/" },
+          { "@type": "Offer", "name": "Kirándulás Plitvicébe Šibenikből", "price": "500", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/hu/kirandulas-plitvice-sibenik/" },
+          { "@type": "Offer", "name": "Kirándulás Plitvicébe Splitből", "price": "650", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/hu/kirandulas-plitvice-split/" }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Milyen kirándulásokat foglalhatok Šibenikből?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A két legnépszerűbb kirándulás a Krka Nemzeti Park és a Plitvicei-tavak Nemzeti Park. Mindkettő privát, fix áras oda-vissza transzfer háztól házig a szállodájától vagy apartmanjától, a parkon belül szabadidővel, hogy a saját tempójában fedezze fel." }
+        },
+        {
+          "@type": "Question",
+          "name": "Ezek vezetett túrák vagy taxitranszferek?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Ezek privát taxitranszferek, nem vezetett csoportos túrák. Antonio egy helyi sofőr, aki odaviszi és visszahozza egy kényelmes Škoda Superbben. A parkon belül szabadon fedezheti fel a saját tempójában, idegenvezető és megosztott csoport nélkül." }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül egy kirándulás Krkába vagy Plitvicébe?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Egy privát krkai kirándulás fix 100 eurótól indul autónként Šibenikből. Egy plitvicei kirándulás 500 euró autónként Šibenikből. Az árak autónként értendők legfeljebb 4 utasig, és a felvételi várostól függenek." }
+        },
+        {
+          "@type": "Question",
+          "name": "Más városokból is felvesz, nem csak Šibenikből?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Igen. A krkai kirándulások Šibenikből, Vodicéből, Primoštenből, Zadarból és Splitből indulnak, a plitvicei kirándulások pedig Šibenikből és Splitből. Minden városnak saját fix ára és saját oldala van a teljes részletekkel." }
+        },
+        {
+          "@type": "Question",
+          "name": "A park belépőjegyei benne vannak az árban?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Nem. Az ár csak a privát transzfert és a várakozási időt fedezi. A Krka és Plitvice jegyeit külön kell megvenni a bejáratnál vagy online, és nagyjából 7-től 40 euróig terjednek a szezontól függően." }
+        },
+        {
+          "@type": "Question",
+          "name": "Hogyan foglalhatok egy kirándulást?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Írjon nekem WhatsAppon, hívjon, vagy használja a kapcsolat oldalt. A 20%-os előleg (minimum 20 euró) megerősíti a dátumot, a fennmaradó összeget pedig a sofőrnek fizeti a helyszínen." }
+        }
+      ]
+    }
+  ]
+}

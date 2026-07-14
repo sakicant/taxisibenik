@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-repter-zagreb-zablace",
+  "title": "Taxi Zagreb repülőtér - Zablaće | Fix ár €485 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Zagreb repülőtér - Zablaće. Fix ár €485 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi zagreb repülőtér - zablaće, transzfer zagreb repülőtér - zablaće, reptéri transzfer zagreb repülőtér - zablaće",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Zagreb repülőtér - Zablaće",
+      "description": "Privát taxi és transzfer fix áron, Zagreb repülőtér - Zablaće, 485 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Zagreb repülőtér",
+        "Zablaće"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-repter-zagreb-zablace/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Zagreb repülőtér - Zablaće, járművenként max. 4 utasra. Oda-vissza 970 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Milyen hosszú az útvonal és mennyi ideig tart az út?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Zagreb repülőtér - Zablaće útvonalon az út körülbelül 356 km, és normál forgalomban nagyjából 3 h 55 min alatt tart, a nyári csúcsidőben kicsit tovább. A felvételt úgy tervezem, hogy egy lassabb szakasz soha ne siettesse Önt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol fogad engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A megérkezési csarnokban, közvetlenül a csomagfelvétel után, névtáblával. Segítek a csomaggal, és a járműhöz kísérem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi van, ha a járatom késik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Semmi gond. A járatát valós időben követem, és a felvételt a tényleges leszálláshoz igazítom, a várakozásért felár nélkül."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a transzfer a Zagreb repülőtér - Zablaće útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 485 járművenként max. 4 utasra, egy irány, útdíj és csomag beleértve. Az oda-vissza út 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy a járatához igazítsam. Aznapi felvételhez hirtelen változás után hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

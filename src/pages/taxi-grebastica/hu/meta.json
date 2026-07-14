@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-grebastica",
+  "title": "Taxi Grebaštica | TAXI Antonio",
+  "description": "Taxi Grebaštica: kempinges és strandi felvétel fix transzferekkel a spliti repülőtérre (€90), Šibenikbe és Vodicébe. Foglaljon előre, felvétel a szállásán.",
+  "keywords": "taxi grebastica, grebastica taxi, grebastica kemping taxi, grebastica repteri transzfer, grebastica spliti reptere, grebastica sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Helyi taxi és reptéri transzferek",
+      "name": "Taxi Grebaštica",
+      "description": "Privát, fix áras taxi Grebašticából, a Šibeniktől délre fekvő tengerparti kempinges és strandfaluból, a spliti repülőtérre, Šibenikbe és Vodicébe.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Grebaštica",
+      "url": "https://taxisibenik.hr/hu/taxi-grebastica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxi árak Grebašticából",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Grebaštica–Šibenik",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Greba%C5%A1tica&to=%C5%A0ibenik%20-%20center&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Grebaštica–Vodice",
+            "price": "55",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Greba%C5%A1tica&to=Vodice&price=55"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Grebaštica–spliti repülőtér",
+            "price": "90",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Greba%C5%A1tica&to=Split%20Airport%20%28SPU%29&price=90"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Felvesz a grebašticai kempingekből?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A kemping recepciójánál vagy az apartmanjánál veszem fel, kempinges és strandfelszerelésnek is hellyel. Foglaláskor küldje el a pontos helyet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Van taxiállomás Grebašticában?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nincs, ezért érdemes előre foglalni. A megbeszélt időpontban jövök Önért, nem hagyom, hogy a faluban taxit keressen."
+          }
+        }
+      ]
+    }
+  ]
+}

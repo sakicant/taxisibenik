@@ -1,0 +1,84 @@
+{
+  "slug": "taxi-drnis",
+  "title": "Taxi Drniš | TAXI Antonio",
+  "description": "Taxi Drniš: városok közötti transzferek Šibenikbe (€65) és a spliti repülőtérre (€80) a prosciuttójáról híres belföldi városból. Fix árak, közvetlen foglalás.",
+  "keywords": "taxi drnis, drnis taxi, drnis repteri transzfer, drnis spliti reptere, drnis sibenik, drnis varosok kozotti transzfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Helyi taxi és reptéri transzferek",
+      "name": "Taxi Drniš",
+      "description": "Privát, fix áras városok közötti taxi Drnišből, a Krka völgyében fekvő belföldi városból, Šibenikbe és a spliti repülőtérre, kérésre további belföldi útvonalakkal.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Drniš",
+      "url": "https://taxisibenik.hr/hu/taxi-drnis/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxi árak Drnišből",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Drniš–Šibenik",
+            "price": "65",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Drni%C5%A1&to=%C5%A0ibenik%20-%20center&price=65"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Drniš–spliti repülőtér",
+            "price": "80",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/hu/foglalas/?from=Drni%C5%A1&to=Split%20Airport%20%28SPU%29&price=80"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "A spliti repülőtér fix áras Drnišből?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Drniš–spliti repülőtér fix €80 autónként, legfeljebb 4 utasig, az útdíjakkal és a csomagokkal együtt, amit az indulás előtt egyeztetünk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vállal oda-vissza és üzleti utakat Drnišből?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Vállalok oda-vissza transzfereket és üzleti utakat a tengerpartra és a repülőtérre. Adja meg az időpontokat, és megerősítek egy fix árat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "El tud vinni beljebb, Kninbe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen, lefedem a belföldi útvonalakat Kninbe és a perkovići vasútállomásra. Mivel ezek nem szerepelnek az online árlistámban, írjon nekem, és megerősítem a viteldíjat."
+          }
+        }
+      ]
+    }
+  ]
+}

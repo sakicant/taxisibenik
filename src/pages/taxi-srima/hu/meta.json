@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-srima",
+  "title": "Taxi Srima | TAXI Antonio",
+  "description": "Taxi Srima: fix reptéri transzferek Splitbe és Zadarba (110 €), fuvarok Šibenikbe, valamint fuvar a vodicei komphoz Prvić felé. Fogadás a szállásnál.",
+  "keywords": "taxi srima, srima taxi, srima vodice taxi, srima repteri transzfer, srima split repter, srima zadar repter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Helyi taxi és reptéri transzferek",
+      "name": "Taxi Srima",
+      "description": "Magántaxi fix áron Srimáról, Vodice mellől, a spliti reptérre, a zadari reptérre és Šibenikbe, a vodicei szigeti komphoz való fuvarral.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Srima",
+      "url": "https://taxisibenik.hr/hu/taxi-srima/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxidíjak Srimáról",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Srima–Šibenik",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Srima&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Srima–Zadar reptér",
+            "price": "110",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Srima&to=Zadar%20Airport%20%28ZAD%29&price=110"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Srima–Split reptér",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Srima&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "El tud vinni a Prvić felé induló komphoz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A Prvić szigetére tartó komp a Srima melletti vodicei kikötőből indul, és néhány perc alatt oda tudom vinni Önt. A díjról kérdezzen a foglaláskor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül Srimáról a reptér?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A zadari reptér fix 110 €, a spliti reptér 115 € autónként, legfeljebb 4 utasig, útdíjjal és csomaggal együtt."
+          }
+        }
+      ]
+    }
+  ]
+}

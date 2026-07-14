@@ -1,0 +1,109 @@
+{
+  "slug": "marina-zaton-transzfer",
+  "title": "Marina Zaton transzfer | Fix árak | TAXI Antonio",
+  "description": "Privát transzferek a Šibenik melletti Marina Zatonból Split, Zadar, Zágráb és Dubrovnik repülőterére és városaiba. Fix árak, felvétel a kikötőhelynél, egy helyi sofőrrel.",
+  "keywords": "marina zaton transzfer, zaton marina taxi, marina zaton repteri transzfer, zaton split repter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Marina taxi és reptéri transzferek",
+      "name": "Marina Zaton transzfer",
+      "description": "Privát transzferek a Šibenik melletti Marina Zatonból Split, Zadar, Zágráb és Dubrovnik repülőterére és városaiba. Fix árak, felvétel a kikötőhelynél, egy helyi sofőrrel.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/hu/marina-zaton-transzfer/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fix transzferárak a Marina Zatonból",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Split repülőtér",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Zadar repülőtér",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Zágráb repülőtér",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Dubrovnik repülőtér",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Split",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Zadar",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Dubrovnik",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Trogir",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Vodice",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Krka NP (Lozovac)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Šibenik",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    }
+  ]
+}

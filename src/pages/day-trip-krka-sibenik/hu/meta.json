@@ -1,0 +1,92 @@
+{
+  "slug": "kirandulas-krka-sibenik",
+  "title": "Kirándulás Krkára Šibenikből | Privát transzfer, fix €100 | TAXI Antonio",
+  "description": "Privát oda-vissza taxitranszfer Krkára Šibenikből. Fix €100 autónként, legfeljebb 4 utas, ajtótól ajtóig szállodáktól, apartmanoktól, állomásoktól és a kompkikötőtől. Nem túra, csak az odaút és a visszaút.",
+  "keywords": "kirándulás krkára šibenikből, oda-vissza transzfer krkára, taxi krkára šibenikből, krka transzfer šibenik, šibenikből krka nemzeti park",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privát kirándulás Krkára Šibenikből",
+      "description": "Privát kirándulás a Krka Nemzeti Parkba Šibenikből egy helyi, angolul beszélő sofőrrel. Fix ár 100 euró autónként, legfeljebb 4 utas részére, ajtótól ajtóig felvétellel szállodáktól, apartmanoktól, a busz- és vasútállomásról, valamint a kompkikötőtől.",
+      "touristType": "Természet és városnézés",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Privát jármű, oda-vissza út Šibenikből a Krka Nemzeti Parkba, legfeljebb 4 utas. A parkbelépő nincs benne az árban."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ez vezetett túra vagy taxitranszfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ez taxitranszfer, nem vezetett túra. Antonio helyi šibeniki taxisofőr, aki privát oda-vissza transzfert nyújt Krkára és vissza. Öné az autó és a fuvar; a parkon belül szabadon, saját tempójában fedezheti fel a látnivalókat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fel tudnak venni az Amadria Parkból, a D-Resortból vagy a Hotel Bellevue-ből?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Rendszeresen veszek fel vendégeket az Amadria Park üdülőből, a D-Resort Šibenikből, a Hotel Bellevue-ből és más šibeniki szállodákból. Küldje el a szállodája nevét, és megerősítem a pontos felvételi időpontot és találkozási helyet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Felvesznek a šibeniki kompkikötőből, a busz- vagy vasútállomásról?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Ajtótól ajtóig felveszem a vendégeket a šibeniki komp- és cirkálókikötőből, a buszállomásról, valamint a šibeniki és perkovići vasútállomásról, kérésre névtáblával."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyi időt töltünk a Krka Nemzeti Parkban?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A legtöbb vendég körülbelül 3-4 óra szabadidőt választ a parkon belül, ami elég a fő vízesések megtekintéséhez és a klasszikus pallós körséta bejárásához. Rövidebb vagy hosszabb tartózkodás is megbeszélhető a foglaláskor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A Krka belépőjegyek benne vannak az árban?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. A belépőjegyeket külön kell megvásárolni, közvetlenül a Krka Nemzeti Parktól a skradini vagy lozovaci bejáratnál, vagy online. A jegyek nagyjából 7 és 40 euró közé esnek az évszaktól függően."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hogyan foglalhatom le és fizethetem ki a šibeniki Krka-kirándulást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A foglalást 20%-os előleg (legalább 20 euró) erősíti meg, banki átutalással vagy kártyával, és számlát kap megerősítésként. A fennmaradó összeget a sofőrnek fizeti a helyszínen, készpénzben vagy kártyával."
+          }
+        }
+      ]
+    }
+  ]
+}

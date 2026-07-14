@@ -1,0 +1,85 @@
+{
+  "slug": "repteri-transzferek",
+  "title": "Reptéri transzferek Šibenikből | Fix árak | TAXI Antonio",
+  "description": "Reptéri transzferek Šibenikből a spliti, zadari, zágrábi és dubrovniki reptérre és vissza. Fix árak, járatkövetés, háztól házig. Vodice, Primošten és Skradin területén is. Foglaljon Antoniónál.",
+  "keywords": "reptéri transzfer šibenik, šibenik reptéri transzfer, spliti reptér šibenik, zadari reptér šibenik, vodice reptéri transzfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Reptéri transzfer",
+      "name": "Reptéri transzferek Šibenikből",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Spliti reptér",
+        "Zadari reptér",
+        "Zágrábi reptér",
+        "Dubrovniki reptér"
+      ],
+      "url": "https://taxisibenik.hr/hu/repteri-transzferek/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hogyan találom meg a sofőrömet a reptéren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio az érkezési csarnokban várja Önt a poggyászkiadás után, egy jól látható táblával, amelyen az Ön neve szerepel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi történik, ha késik a járatom?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A járatokat valós időben követem a foglaláskor megadott járatszám alapján. A felvételi időpont automatikusan igazodik, és a várakozásért nem számítok fel külön díjat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fix a reptéri transzfer ára?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Minden reptéri transzfer fix áras autónként, legfeljebb 4 utasig, az útdíjakkal, üzemanyaggal és poggyásszal együtt. Nincs taxióra, nincsenek meglepetések."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Biztosít gyerekülést a reptéri transzferekhez?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen, a gyerek- és ülésmagasító üléseket díjmentesen biztosítom. Csak jelezze a foglalási megjegyzésben a gyermek életkorával együtt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hogyan fizetek a reptéri transzferért?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 20%-os előleg (minimum 20 euró) megerősíti a foglalást, banki átutalással vagy kártyával. A fennmaradó összeget a sofőrnek fizeti a helyszínen, készpénzben vagy kártyával."
+          }
+        }
+      ]
+    }
+  ]
+}

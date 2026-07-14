@@ -1,0 +1,90 @@
+{
+  "slug": "taxi-zaboric",
+  "title": "Taxi Žaborić | TAXI Antonio",
+  "description": "Taxi Žaborić: transzferek a szállás elől a Split (95 €) és a Zadar repülőtérre, plusz fuvarok Šibenikbe és Vodicébe ebbe a csendes tengerparti faluba.",
+  "keywords": "taxi zaboric, zaboric taxi, zaboric reptéri transzfer, zaboric split reptér, zaboric sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Helyi taxi és reptéri transzferek",
+      "name": "Taxi Žaborić",
+      "description": "Privát fix áras taxi Žaborićból, egy csendes tengerparti faluból Brodarica és Grebaštica között, a Split repülőtérre, a Zadar repülőtérre, Šibenikbe és Vodicébe.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "areaServed": "Žaborić",
+      "url": "https://taxisibenik.hr/hu/taxi-zaboric/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxi árak Žaborićból",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Žaborić - Šibenik",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=%C5%BDabori%C4%87&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Žaborić - Vodice",
+            "price": "50",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=%C5%BDabori%C4%87&to=Vodice&price=50"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Žaborić - Split repülőtér",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=%C5%BDabori%C4%87&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Žaborić - Zadar repülőtér",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=%C5%BDabori%C4%87&to=Zadar%20Airport%20%28ZAD%29&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Van taxidroszt Žaborićban?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nincs, a faluban nincs droszt, ezért a legjobb előre foglalni. A megbeszélt időpontban a szállására megyek, így soha nem kell várakoznia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kiszolgálja a magánapartmanokat Žaborićban?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Az apartmanja vagy nyaralója ajtaja elől veszem fel. Csak küldje el a címet a foglaláskor."
+          }
+        }
+      ]
+    }
+  ]
+}

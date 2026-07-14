@@ -1,0 +1,84 @@
+{
+  "slug": "kirandulas-plitvice-sibenik",
+  "title": "Kirándulás Plitvicére Šibenikből | Privát transzfer, fix 500 € | TAXI Antonio",
+  "description": "Privát oda-vissza taxitranszfer a Plitvicei-tavakhoz Šibenikből. Fix 500 € autónként, legfeljebb 4 utas, háztól házig a šibeniki szállodáktól, apartmanoktól, állomásoktól és a kikötőtől. Nem szervezett túra, csak az odaút és a visszaút.",
+  "keywords": "kirándulás plitvicére šibenikből, oda-vissza transzfer plitvicére, taxi plitvicére šibenikből, plitvicei-tavak šibenikből, šibenik plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privát kirándulás a Plitvicei-tavakhoz Šibenikből",
+      "description": "Privát kirándulás a Plitvicei-tavak Nemzeti Parkba Šibenikből egy helyi, angolul beszélő sofőrrel. Fix ár, 500 euró autónként, legfeljebb 4 utas részére, háztól házig felvétellel a šibeniki szállodáktól, apartmanoktól, a busz- és vasútállomástól, valamint a kompkikötőtől.",
+      "touristType": "Természet és városnézés",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "500",
+        "priceCurrency": "EUR",
+        "description": "Privát jármű, oda-vissza út Šibenikből a Plitvicei-tavak Nemzeti Parkba, legfeljebb 4 utas. A parkba szóló belépőjegyek nem tartoznak bele."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ez idegenvezetős túra vagy taxitranszfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ez taxitranszfer, nem idegenvezetős túra. Antonio helyi sofőr, aki privát oda-vissza transzfert nyújt Šibenikből Plitvicére és vissza. Öné az autó és a fuvar; a parkon belül szabadon, saját tempójában fedezheti fel a látnivalókat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a taxi Plitvicére Šibenikből?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A privát oda-vissza transzfer Šibenikből a Plitvicei-tavakhoz fix 500 euró autónként, legfeljebb 4 utas részére, az útdíjakkal, az üzemanyaggal és a parknál töltött várakozási idővel együtt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyi ideig tart a kirándulás Šibenikből Plitvicére?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az út oda körülbelül két óra, két óra tizenöt perc irányonként, plusz nagyjából 4-6 óra a tavak bejárása. Ez egy egész napos program, általában 9-10 óra háztól házig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A Plitvicei belépőjegyek benne vannak az árban?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. A belépőjegyeket külön kell megvásárolni a Plitvicei-tavak Nemzeti Parktól, a bejáratnál vagy online. A jegyek nagyjából 10-40 euróba kerülnek a szezontól függően, és tartalmazzák a panorámavonatot és az elektromos hajót a parkon belül."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hogyan foglalhatom le és fizethetem ki a kirándulást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A foglalást egy 20%-os előleg (legalább 20 euró) erősíti meg, banki átutalással vagy kártyával, és visszaigazolásként számlát kap. A fennmaradó összeget a sofőrnek fizeti a helyszínen, készpénzben vagy kártyával."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "ajanlatok",
+  "title": "Ajánlatok és last-minute transzferek | TAXI Antonio",
+  "description": "Last-minute és üresjáratos taxitranszfer-ajánlatok Šibenik környékén kedvezményes áron. Foglaljon el egy fix felvételi időablakot, és utazzon olcsóbban. Rendszeresen frissül.",
+  "keywords": "sibenik taxi ajánlatok, last minute transzfer sibenik, olcsó reptéri transzfer sibenik, üresjáratos taxi horvátország, kedvezményes split reptéri transzfer",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Ajánlatok és last-minute transzferek",
+    "description": "Last-minute és üresjáratos taxitranszfer-ajánlatok Šibenik környékén kedvezményes áron.",
+    "url": "https://taxisibenik.hr/hu/ajanlatok/",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Taxi Antonio",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" }
+    }
+  }
+}

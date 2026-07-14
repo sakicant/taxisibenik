@@ -1,0 +1,84 @@
+{
+  "slug": "kirandulas-krka-split",
+  "title": "Kirándulás Krkára Splitből | Privát transzfer, fix €290 | TAXI Antonio",
+  "description": "Privát oda-vissza taxitranszfer Krkára Splitből. Fix €290 autónként, legfeljebb 4 utas, ajtótól ajtóig splittől szállodáktól, a cirkálókikötőtől és az óvárostól. Nem túra, csak az odaút és a visszaút.",
+  "keywords": "kirándulás krkára splitből, oda-vissza transzfer krkára splitből, taxi krkára splitből, krka splitből, splitből krka nemzeti park",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privát kirándulás Krkára Splitből",
+      "description": "Privát kirándulás a Krka Nemzeti Parkba Splitből egy helyi, angolul beszélő sofőrrel. Fix ár 290 euró autónként, legfeljebb 4 utas részére, ajtótól ajtóig felvétellel spliti szállodáktól, a cirkálókikötőtől, a busz- és vasútállomásról, valamint az óvárostól.",
+      "touristType": "Természet és városnézés",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "142"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "290",
+        "priceCurrency": "EUR",
+        "description": "Privát jármű, oda-vissza út Splitből a Krka Nemzeti Parkba, legfeljebb 4 utas. A parkbelépő nincs benne az árban."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ez vezetett túra vagy taxitranszfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ez taxitranszfer, nem vezetett túra. Antonio helyi sofőr, aki privát oda-vissza transzfert nyújt Splitből Krkára és vissza. Öné az autó és a fuvar; a parkon belül szabadon, saját tempójában fedezheti fel a látnivalókat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a taxi Krkára Splitből?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Egy privát oda-vissza transzfer Splitből a Krka Nemzeti Parkba fix 290 euró autónként, legfeljebb 4 utas részére, az útdíjakkal, üzemanyaggal és körülbelül 3-4 óra várakozási idővel együtt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Felvesznek a spliti szállodáktól és a cirkálókikötőtől?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Ajtótól ajtóig felveszem Önt a spliti szállodáktól és apartmanoktól, az óvárosból, a busz- és vasútállomásról, valamint közvetlenül a spliti cirkálókikötőnél és a kompterminálnál, kérésre névtáblával."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyi ideig tart a kirándulás Splitből Krkára?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az út körülbelül egy órától egy óra tizenöt percig tart egy irányban, plusz körülbelül 3-4 óra szabadidő a parkon belül. Rövidebb vagy hosszabb tartózkodás is megbeszélhető a foglaláskor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hogyan foglalhatom le és fizethetem ki a kirándulást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A foglalást 20%-os előleg (legalább 20 euró) erősíti meg, banki átutalással vagy kártyával, és számlát kap megerősítésként. A fennmaradó összeget a sofőrnek fizeti a helyszínen, készpénzben vagy kártyával."
+          }
+        }
+      ]
+    }
+  ]
+}
