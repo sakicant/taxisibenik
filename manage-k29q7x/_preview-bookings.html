@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<!-- STATIC PREVIEW of admin/index.php (overview) with sample data. Not used in production. -->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Bookings | TAXI Antonio Admin (preview)</title>
+<link rel="stylesheet" href="admin.css">
+</head>
+<body class="admin-page">
+  <header class="admin-header">
+    <strong>TAXI Antonio &mdash; Bookings</strong>
+    <nav class="admin-nav">
+      <a href="_preview-bookings.html" class="active">Bookings</a>
+      <a href="_preview-offers.html">Offers</a>
+      <a class="admin-logout" href="#">Log out</a>
+    </nav>
+  </header>
+
+  <div class="admin-wrap">
+    <form class="admin-search" method="GET" action="#">
+      <input type="search" name="q" placeholder="Search name, email, route...">
+      <button type="submit" class="admin-btn">Search</button>
+    </form>
+
+    <nav class="admin-chips">
+      <a class="admin-chip active" href="#">All (5)</a>
+      <a class="admin-chip status-new" href="#">Bookings (2)</a>
+      <a class="admin-chip status-confirmed" href="#">Upcoming (1)</a>
+      <a class="admin-chip status-completed" href="#">Completed (1)</a>
+      <a class="admin-chip status-cancelled" href="#">Cancelled (1)</a>
+    </nav>
+
+    <div class="admin-table-wrap">
+      <table class="admin-table">
+        <thead>
+          <tr><th>Ref</th><th>Client</th><th>Route</th><th>Date</th><th>Time</th><th>Status</th></tr>
+        </thead>
+        <tbody>
+          <tr class="row-link status-new" onclick="location.href='_preview-booking-detail.html'">
+            <td class="col-ref"><a href="_preview-booking-detail.html">#48</a></td>
+            <td>John Smith</td>
+            <td class="col-route">Šibenik - center <span>&rarr;</span> Split Airport (SPU)</td>
+            <td>20 Jul 2026</td><td>06:45</td>
+            <td><span class="status-badge status-new">Bookings</span></td>
+          </tr>
+          <tr class="row-link status-new" onclick="location.href='_preview-booking-detail.html'">
+            <td class="col-ref"><a href="_preview-booking-detail.html">#49</a></td>
+            <td>Anna Kowalski</td>
+            <td class="col-route">Vodice <span>&rarr;</span> Zadar Airport (ZAD)</td>
+            <td>21 Jul 2026</td><td>09:15</td>
+            <td><span class="status-badge status-new">Bookings</span></td>
+          </tr>
+          <tr class="row-link status-confirmed" onclick="location.href='_preview-booking-detail.html'">
+            <td class="col-ref"><a href="_preview-booking-detail.html">#47</a></td>
+            <td>Maria García</td>
+            <td class="col-route">Marina Zaton <span>&rarr;</span> Zadar Airport (ZAD)</td>
+            <td>18 Jul 2026</td><td>10:00</td>
+            <td><span class="status-badge status-confirmed">Upcoming</span></td>
+          </tr>
+          <tr class="row-link status-completed" onclick="location.href='_preview-booking-detail.html'">
+            <td class="col-ref"><a href="_preview-booking-detail.html">#46</a></td>
+            <td>Tom Weber</td>
+            <td class="col-route">Knin <span>&rarr;</span> Split Airport (SPU)</td>
+            <td>10 Jul 2026</td><td>05:30</td>
+            <td><span class="status-badge status-completed">Completed</span></td>
+          </tr>
+          <tr class="row-link status-cancelled" onclick="location.href='_preview-booking-detail.html'">
+            <td class="col-ref"><a href="_preview-booking-detail.html">#45</a></td>
+            <td>Luca Rossi</td>
+            <td class="col-route">Primošten <span>&rarr;</span> Split Airport (SPU)</td>
+            <td>9 Jul 2026</td><td>14:00</td>
+            <td><span class="status-badge status-cancelled">Cancelled</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>

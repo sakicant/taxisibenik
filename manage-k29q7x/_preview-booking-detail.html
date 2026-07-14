@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<!-- STATIC PREVIEW of admin/booking.php (detail) with sample data. Not used in production. -->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Booking #48 | TAXI Antonio Admin (preview)</title>
+<link rel="stylesheet" href="admin.css">
+</head>
+<body class="admin-page">
+  <header class="admin-header">
+    <strong>TAXI Antonio &mdash; Booking</strong>
+    <nav class="admin-nav">
+      <a href="_preview-bookings.html">Bookings</a>
+      <a href="_preview-offers.html">Offers</a>
+      <a class="admin-logout" href="#">Log out</a>
+    </nav>
+  </header>
+
+  <div class="admin-wrap">
+    <p class="admin-back"><a href="_preview-bookings.html">&larr; Back to all bookings</a></p>
+
+    <article class="booking-card booking-detail status-new">
+      <div class="booking-head">
+        <div>
+          <span class="booking-id">#48</span>
+          <span class="booking-route">Šibenik - center &rarr; Split Airport (SPU)</span>
+          <span class="booking-trip">One way</span>
+        </div>
+        <span class="booking-received">received 12 Jul 2026 14:32</span>
+      </div>
+
+      <div class="booking-grid">
+        <div><span>Pickup</span><strong>2026-07-20 06:45</strong></div>
+        <div><span>Passengers</span><strong>2</strong></div>
+        <div><span>Luggage</span><strong>3</strong></div>
+        <div><span>Quoted price</span><strong>95</strong></div>
+        <div><span>Name</span><strong>John Smith</strong></div>
+        <div><span>Email</span><strong><a href="#">john.smith@example.com</a></strong></div>
+        <div><span>Phone</span><strong>+44 7700 900123</strong></div>
+        <div><span>Pickup details</span><strong>Hotel Bellevue, room 214</strong></div>
+        <div><span>Destination details</span><strong>Flight BA342, T1 departures</strong></div>
+      </div>
+
+      <p class="booking-notes"><span>Customer notes:</span> Please bring one child booster seat.</p>
+
+      <form class="booking-edit" onsubmit="return false">
+        <div class="booking-edit-row">
+          <label>Status
+            <select>
+              <option selected>Booking (unpaid)</option>
+              <option>Upcoming (confirmed)</option>
+              <option>Completed</option>
+              <option>Cancelled</option>
+            </select>
+          </label>
+          <label>Payment
+            <select><option selected>Unpaid</option><option>Deposit paid</option><option>Paid in full</option></select>
+          </label>
+        </div>
+        <label class="booking-edit-notes">Private notes (only you see these)
+          <textarea rows="3" placeholder="Add a private note..."></textarea>
+        </label>
+        <p class="booking-edit-hint">Marking a deposit or full payment on a new booking moves it to Upcoming automatically.</p>
+        <button type="submit" class="admin-btn">Save changes</button>
+      </form>
+
+      <form class="booking-delete" onsubmit="return false"><button type="submit" class="admin-link-danger">Delete booking</button></form>
+    </article>
+  </div>
+</body>
+</html>

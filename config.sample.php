@@ -19,7 +19,7 @@ return [
     'mail_from' => 'noreply@taxisibenik.hr',
 
     // Admin dashboard login.
-    // Username you type at /admin/, and a password HASH (not the raw password).
+    // Username you type at the admin login page, and a password HASH (not the raw password).
     // Generate the hash once by running, on the server:
     //   php -r "echo password_hash('your-strong-password', PASSWORD_DEFAULT), PHP_EOL;"
     // then paste the printed string below.
