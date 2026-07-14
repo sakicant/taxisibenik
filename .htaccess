@@ -108,6 +108,12 @@ Options -Indexes
   RewriteRule ^taxi-sibenik-to-vodice/?$ /taxi-sibenik-vodice/ [R=301,L]
   RewriteRule ^taxi-transfer-sibenik-to-split-airport/?$ /taxi-sibenik-split-airport/ [R=301,L]
   RewriteRule ^taxi-transfer-split-airport-to-sibenik/?$ /taxi-split-airport-sibenik/ [R=301,L]
+  # --- Skradin content moved to sister site taxiskradin.hr ---
+  # /taxi-skradin and the removed ACI Marina Skradin hub (all languages) go
+  # to taxiskradin.hr, which keeps the same slugs.
+  RewriteRule ^taxi-skradin/?$ https://taxiskradin.hr/ [R=301,L]
+  RewriteRule ^(aci-marina-skradin-transfers)/?$ https://taxiskradin.hr/$1/ [R=301,L]
+  RewriteRule ^([a-z]{2}/aci-marina-skradin-[a-z]+)/?$ https://taxiskradin.hr/$1/ [R=301,L]
 </IfModule>
 
 # Never allow the browser to fetch credentials, raw config, or the SQL schema,

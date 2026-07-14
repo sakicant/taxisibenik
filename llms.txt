@@ -4,31 +4,44 @@
 
 ## Key facts
 
-- One driver, one car: Antonio Šakić, a Škoda Superb seating up to 4 passengers with luggage.
+- One driver, one car: Antonio Šakić, a Škoda Superb seating up to 4 passengers with luggage. Antonio speaks Croatian and English.
 - Fixed prices per car (not per person), agreed before travel. A 20% advance payment (minimum €20) confirms a booking; the balance is paid on the day in cash or by card.
 - Bookings need at least 2 hours' notice.
-- Serves Šibenik and the wider Dalmatian coast and interior, and all four regional airports: Split (SPU), Zadar (ZAD), Zagreb (ZAG) and Dubrovnik (DBV).
+- Serves Šibenik and the wider Dalmatian coast and interior, and all four regional airports: Split (SPU), Zadar (ZAD), Zagreb (ZAG) and Dubrovnik (DBV). Airport transfers cover both the commercial terminals and the private/general-aviation terminals used for private jets and charter flights.
 - For larger groups or a van, Antonio arranges it through a hand-picked network of trusted local drivers, staying the single point of contact.
+
+## Languages
+
+The whole site is published in 11 languages. English is served at the root; each other language lives under its own prefix with localized slugs: Croatian /hr/, German /de/, Polish /pl/, Czech /cs/, Italian /it/, French /fr/, Dutch /nl/, Slovenian /sl/, Hungarian /hu/, Slovak /sk/. Every page links to its alternates via hreflang.
 
 ## Main pages
 
 - [Taxi Šibenik (home)](https://taxisibenik.hr/): Local taxi and transfers across Šibenik and the region.
-- [Airport Transfers](https://taxisibenik.hr/airport-transfers-from-sibenik/): Fixed-price transfers to and from Split, Zadar, Zagreb and Dubrovnik airports, with flight monitoring.
+- [Airport Transfers](https://taxisibenik.hr/airport-transfers-from-sibenik/): Fixed-price transfers to and from Split, Zadar, Zagreb and Dubrovnik airports, commercial and private terminals, with flight monitoring.
 - [City-to-City Transfers](https://taxisibenik.hr/sibenik-transfers/): Private transfers between Šibenik and cities across Dalmatia (Split, Zadar, Dubrovnik, Zagreb, Trogir and more).
 - [Day Trips](https://taxisibenik.hr/daytrips/): Private round-trip day trips to Krka National Park and Plitvice Lakes.
 - [About Antonio](https://taxisibenik.hr/about/): The driver, the car and how the one-person service works.
 - [Book a Transfer](https://taxisibenik.hr/book/): Booking form with a prefilled trip summary and fixed price.
 - [Contact](https://taxisibenik.hr/contact/): Phone, WhatsApp and email.
+- [FAQ](https://taxisibenik.hr/frequently-asked-questions/): Answers on booking, pricing, payments and local trips.
+
+## Hotel and marina transfers
+
+Dedicated transfer pages for the main Šibenik hotels and marinas: Amadria Park (https://taxisibenik.hr/amadria-park-sibenik-transfers/), D-Resort (https://taxisibenik.hr/d-resort-sibenik-transfers/), Bellevue (https://taxisibenik.hr/bellevue-sibenik-transfers/), D-Marin Marina Mandalina (https://taxisibenik.hr/d-marin-mandalina-transfers/) and Marina Zaton (https://taxisibenik.hr/marina-zaton-transfers/). Many more marinas along the coast (Trogir, Rogoznica, Primošten, Vodice, Tribunj, Murter and others) are bookable as fixed-price transfer destinations.
 
 ## Popular day trips
 
-- [Day Trip to Krka from Šibenik](https://taxisibenik.hr/day-trip-krka-national-park-sibenik/): Private round-trip transfer to the Krka waterfalls, fixed €100.
-- [Day Trip to Plitvice from Šibenik](https://taxisibenik.hr/day-trip-plitvice-lakes-national-park-sibenik/): Private round-trip transfer to Plitvice Lakes, fixed €500.
+- [Day Trip to Krka from Šibenik](https://taxisibenik.hr/day-trip-krka-national-park-sibenik/): Private round-trip transfer to the Krka waterfalls.
+- [Day Trip to Plitvice from Šibenik](https://taxisibenik.hr/day-trip-plitvice-lakes-national-park-sibenik/): Private round-trip transfer to Plitvice Lakes.
 
 ## Routes
 
-Individual fixed-price route pages exist for hundreds of specific journeys, one per direction, following the pattern https://taxisibenik.hr/taxi-<from>-to-<to>/ (for example, https://taxisibenik.hr/taxi-sibenik-to-split-airport/). Each lists the fixed fare and lets visitors book directly.
+Individual fixed-price route pages exist for hundreds of specific journeys, one per direction, following the pattern https://taxisibenik.hr/taxi-<from>-to-<to>/ (for example, https://taxisibenik.hr/taxi-sibenik-to-split-airport/). Each lists the fixed fare and lets visitors book directly. Localized language versions follow each language's own slug pattern.
 
 ## Service area towns
 
-Local taxi pages cover Šibenik, Bilice, Brodarica, Jadrija, Zablaće, Žaborić, Srima, Vodice, Tromilja, Lozovac, Perković, Grebaštica, Bilo, Drniš and Knin, following the pattern https://taxisibenik.hr/taxi-<town>/.
+Local taxi pages cover Šibenik and the surrounding towns, following the pattern https://taxisibenik.hr/taxi-<town>/ (Bilice, Brodarica, Jadrija, Zablaće, Žaborić, Srima, Vodice, Tromilja, Lozovac, Perković, Grebaštica, Bilo, Drniš, Knin, and more).
+
+## Sister site
+
+Skradin-based transfers are handled by [taxiskradin.hr](https://taxiskradin.hr/), run by the same driver.

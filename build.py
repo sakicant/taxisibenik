@@ -240,22 +240,38 @@ def page_priority(slug):
 
 
 def write_sitemap(pages):
+    """One combined sitemap. Every <url> carries xhtml:link alternates for each
+    language variant of that page plus itself, and an x-default to English."""
     today = datetime.date.today().isoformat()
-    urls = []
-    for page_id, variants in sorted(pages.items()):
+    entries = []  # (loc, priority, alternates[list of (hreflang, href)], xdefault)
+    for page_id, variants in pages.items():
+        alts = [(lang, canonical_url(lang, variants[lang].get("slug", "")))
+                for lang in LANGUAGES if lang in variants]
+        default_lang = DEFAULT_LANG if DEFAULT_LANG in variants else (
+            next(iter(variants)) if variants else None)
+        xdefault = canonical_url(default_lang, variants[default_lang].get("slug", "")) if default_lang else None
         for lang, meta in variants.items():
-            slug = meta.get("slug", "")
-            urls.append((canonical_url(lang, slug), page_priority(slug)))
-    urls.sort()
+            loc = canonical_url(lang, meta.get("slug", ""))
+            entries.append((loc, page_priority(meta.get("slug", "")), alts, xdefault))
+    entries.sort(key=lambda e: e[0])
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
-             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    for loc, prio in urls:
-        lines.append(
-            f"  <url><loc>{loc}</loc><lastmod>{today}</lastmod>"
-            f"<changefreq>weekly</changefreq><priority>{prio}</priority></url>")
+             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+             'xmlns:xhtml="http://www.w3.org/1999/xhtml">']
+    for loc, prio, alts, xdefault in entries:
+        block = [f"  <url>",
+                 f"    <loc>{loc}</loc>",
+                 f"    <lastmod>{today}</lastmod>",
+                 f"    <changefreq>weekly</changefreq>",
+                 f"    <priority>{prio}</priority>"]
+        for lang, href in alts:
+            block.append(f'    <xhtml:link rel="alternate" hreflang="{lang}" href="{href}"/>')
+        if xdefault:
+            block.append(f'    <xhtml:link rel="alternate" hreflang="x-default" href="{xdefault}"/>')
+        block.append("  </url>")
+        lines.append("\n".join(block))
     lines.append("</urlset>")
     write(os.path.join(ROOT, "sitemap.xml"), "\n".join(lines) + "\n")
-    print(f"built sitemap.xml ({len(urls)} URLs)")
+    print(f"built sitemap.xml ({len(entries)} URLs, with hreflang alternates)")
 
 
 def main():

@@ -5,6 +5,7 @@ User-agent: *
 Disallow: /admin/
 Disallow: /booking-submit.php
 Disallow: /contact.php
+Disallow: /offers-api.php
 Allow: /
 
 # AI crawlers (explicitly allowed to read and cite the site)
