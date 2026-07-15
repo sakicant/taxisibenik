@@ -58,6 +58,8 @@ if ($name === '') $errors[] = 'your name';
 if ($email === '' || !filter_var($email, FILTER_VALIDATE_EMAIL)) $errors[] = 'a valid email';
 if ($pickupDate === '') $errors[] = 'pickup date';
 if ($pickupTime === '') $errors[] = 'pickup time';
+if ($phone === '') $errors[] = 'a phone number';
+if ($flight === '') $errors[] = 'pickup details';
 
 if ($errors) {
     http_response_code(400);
@@ -132,11 +134,13 @@ $headers = 'From: TAXI Antonio <' . $c['mail_from'] . ">\r\n" .
            'Reply-To: ' . $email . "\r\n" .
            "Content-Type: text/plain; charset=utf-8\r\n";
 
-// Notify Antonio.
+// Notify Antonio. The host tells us which site the booking came from.
+$host = $_SERVER['HTTP_HOST'] ?? 'taxisibenik.hr';
+$host = preg_replace('/^www\./i', '', preg_replace('/[^a-z0-9.\-]/i', '', $host));
 @mail(
     $c['admin_email'],
-    'New booking #' . $id . ': ' . $pickup . ' to ' . $dropoff,
-    "New booking request (#{$id}) from taxisibenik.hr:\n\n{$summary}\n\nManage it in the admin dashboard.",
+    'New Booking Request (' . $host . ')',
+    "New booking request (#{$id}) from {$host}:\n\n{$summary}\n\nManage it in the admin dashboard.",
     $headers
 );
 
