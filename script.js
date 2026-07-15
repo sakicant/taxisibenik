@@ -3088,7 +3088,7 @@ if (offersList) {
         offersList.parentNode.insertBefore(fdiv, offersList);
         fdiv.querySelector('#offers-from').addEventListener('change', function () {
           const v = this.value;
-          offersList.querySelectorAll('.offer-card').forEach((c) => {
+          offersList.querySelectorAll('.rlo').forEach((c) => {
             c.style.display = (!v || c.getAttribute('data-from') === v) ? '' : 'none';
           });
         });
@@ -3097,6 +3097,7 @@ if (offersList) {
       offersList.innerHTML = offers.map((o) => {
         const price = Math.round(Number(o.price));
         const orig = o.original_price ? Math.round(Number(o.original_price)) : null;
+        const pct = (orig && orig > price) ? Math.round((1 - price / orig) * 100) : null;
         const dateStr = fmtDate(o.offer_date);
         const win = (o.window_start && o.window_end) ? (hm(o.window_start) + ' - ' + hm(o.window_end)) : '';
         const priceLine = '€' + price + (orig ? ' (instead of €' + orig + ')' : '');
@@ -3110,20 +3111,56 @@ if (offersList) {
           o.route_from + ' to ' + o.route_to + '\nDate: ' + dateStr + (win ? '\nTime: ' + win : '') +
           '\nOffer price: ' + priceLine + '\n\nMy name: \nPassengers: \nPhone: ';
         const mail = 'mailto:info@taxisibenik.hr?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
-        return '<article class="offer-card" data-from="' + esc(o.route_from) + '">' +
-          '<div class="offer-when">' +
-          '<div class="offer-meta"><span class="offer-lbl">Date</span><span class="offer-date">' + esc(dateStr) + '</span></div>' +
-          (win ? '<div class="offer-meta"><span class="offer-lbl">Available pickup window</span><span class="offer-window">' + esc(win) + '</span></div>' : '') +
+        // The offer expires 1 hour before the pickup window opens.
+        let expires = '';
+        if (o.offer_date && o.window_start) {
+          const start = new Date(o.offer_date + 'T' + (String(o.window_start).length === 5 ? o.window_start + ':00' : o.window_start));
+          if (!isNaN(start)) expires = new Date(start.getTime() - 3600000).toISOString();
+        }
+        const rail = (pct != null)
+          ? '<span class="rlo__save-k">Save</span><span class="rlo__save-n">' + pct + '%</span><span class="rlo__save-s">on the empty<br>return run</span>'
+          : '<span class="rlo__save-k">Special</span><span class="rlo__save-n rlo__save-word">Offer</span>';
+        return '<div class="rlo" data-from="' + esc(o.route_from) + '"' + (expires ? ' data-expires="' + expires + '"' : '') + '>' +
+          '<div class="rlo__save">' + rail + '</div>' +
+          '<div class="rlo__body">' +
+          '<div class="rlo__top"><span class="rlo__tag"><span class="rlo__dot"></span>Return-leg offer</span>' +
+          (expires ? '<span class="rlo__countdown"><span class="rlo__cd-k">Offer ends in</span><span class="rlo__cd-t">--:--:--</span></span>' : '') +
           '</div>' +
-          '<div class="offer-route">' + esc(o.route_from) + ' <span>to</span> ' + esc(o.route_to) + '</div>' +
-          '<div class="offer-price">' + (orig ? '<span class="offer-orig">€' + orig + '</span>' : '') +
-          '<span class="offer-now">€' + price + '</span>' +
-          (o.capacity ? '<span class="offer-seats">up to ' + Number(o.capacity) + '</span>' : '') + '</div>' +
-          '<div class="offer-actions">' +
-          '<a class="btn btn-primary" href="' + wa + '" target="_blank" rel="noopener">Book through WhatsApp</a>' +
-          '<a class="btn btn-secondary" href="' + mail + '">Book through Email</a>' +
-          '</div></article>';
+          '<div class="rlo__route"><span>' + esc(o.route_from) + '</span><span class="rlo__arrow">&#10230;</span><span>' + esc(o.route_to) + '</span></div>' +
+          '<div class="rlo__meta">' +
+          '<div><div class="rlo__k">Date</div><div class="rlo__date">' + esc(dateStr) + '</div></div>' +
+          (win ? '<div><div class="rlo__k">Available pickup window</div><div class="rlo__window">' + esc(win) + '</div></div>' : '') +
+          (o.capacity ? '<div><div class="rlo__k">Seats</div><div class="rlo__pax">up to ' + Number(o.capacity) + ' pax</div></div>' : '') +
+          '<div class="rlo__price">' + (orig ? '<span class="rlo__old">€' + orig + '</span>' : '') + '<span class="rlo__new">€' + price + '</span></div>' +
+          '</div>' +
+          '<div class="rlo__cta">' +
+          '<a class="rlo__btn rlo__btn--wa" href="' + wa + '" target="_blank" rel="noopener">Book through WhatsApp</a>' +
+          '<a class="rlo__btn rlo__btn--mail" href="' + mail + '">Book through Email</a>' +
+          '</div></div></div>';
       }).join('');
+
+      // Countdown: each banner expires 1 hour before its window; remove it at zero.
+      let offersTimer = null;
+      const tickOffers = function () {
+        const now = Date.now();
+        offersList.querySelectorAll('.rlo[data-expires]').forEach((el) => {
+          const ms = new Date(el.getAttribute('data-expires')).getTime() - now;
+          if (ms <= 0) { el.remove(); return; }
+          const out = el.querySelector('.rlo__cd-t');
+          if (out) {
+            const h = String(Math.floor(ms / 3.6e6)).padStart(2, '0');
+            const m = String(Math.floor(ms / 6e4) % 60).padStart(2, '0');
+            const s = String(Math.floor(ms / 1e3) % 60).padStart(2, '0');
+            out.textContent = h + ':' + m + ':' + s;
+          }
+        });
+        if (!offersList.querySelector('.rlo')) {
+          offersList.innerHTML = '<p class="offers-status">No special offers right now. Check back soon, or <a href="/contact/">contact me</a> for a fixed price on any route.</p>';
+          if (offersTimer) clearInterval(offersTimer);
+        }
+      };
+      tickOffers();
+      offersTimer = setInterval(tickOffers, 1000);
     })
     .catch(() => {
       offersList.innerHTML = '<p class="offers-status">Could not load offers right now. Please <a href="/contact/">contact me</a> and I\'ll share what\'s available.</p>';
@@ -3132,7 +3169,7 @@ if (offersList) {
 
 // Cookie consent banner + Google Analytics gated behind "Accept".
 // Analytics only loads once the visitor accepts; "Reject" leaves it off.
-const GA_ID = 'G-XXXXXXXXXX'; // TODO: replace with your GA4 Measurement ID
+const GA_ID = 'G-HBG0GSXSHZ'; // GA4 Measurement ID for taxisibenik.hr
 function loadAnalytics() {
   if (!GA_ID || GA_ID.indexOf('G-XXXX') === 0 || window.__gaLoaded) return;
   window.__gaLoaded = true;
