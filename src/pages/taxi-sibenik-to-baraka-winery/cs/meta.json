@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sibenik-baraka-winery",
+  "title": "Taxi Šibenik - Baraka Winery | Pevná cena €30 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Šibenik - Baraka Winery. Pevná cena €30 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "keywords": "taxi šibenik - baraka winery, transfer šibenik - baraka winery, letištní transfer šibenik - baraka winery",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromý taxi transfer",
+      "name": "Taxi Šibenik - Baraka Winery",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Šibenik - Baraka Winery, 30 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Baraka Winery"
+      ],
+      "url": "https://taxisibenik.hr/cs/taxi-sibenik-baraka-winery/",
+      "offers": {
+        "@type": "Offer",
+        "price": "30",
+        "priceCurrency": "EUR",
+        "description": "Soukromá jednosměrná jízda, trasa Šibenik - Baraka Winery, za vozidlo až pro 4 cestující. Zpáteční 60 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolik stojí taxi na trase Šibenik - Baraka Winery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevně 30 za vozidlo až pro 4 cestující, jednosměrná, zavazadla v ceně. Zpáteční jízda je 60."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kde mě vyzvednete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "U vaší přesné adresy, ať jde o dům, hotel nebo apartmán. Pošlete adresu při rezervaci a potvrdím místo setkání."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S jakým předstihem rezervovat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alespoň 2 hodiny předem, abych potvrdil vozidlo a čas vyzvednutí. Pro rychlou jízdu zavolejte nebo napište na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

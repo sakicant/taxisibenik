@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sibenik-bibich-winery",
+  "title": "Taxi Šibenik - Bibich Winery | Vaste prijs €60 | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Šibenik - Bibich Winery. Vaste prijs €60 per voertuig, tot 4 passagiers, van deur tot deur. Boek rechtstreeks bij Antonio.",
+  "keywords": "taxi šibenik - bibich winery, transfer šibenik - bibich winery, luchthaventransfer šibenik - bibich winery",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privé taxitransfer",
+      "name": "Taxi Šibenik - Bibich Winery",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Šibenik - Bibich Winery, 60 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Bibich Winery"
+      ],
+      "url": "https://taxisibenik.hr/nl/taxi-sibenik-bibich-winery/",
+      "offers": {
+        "@type": "Offer",
+        "price": "60",
+        "priceCurrency": "EUR",
+        "description": "Privérit enkele reis, traject Šibenik - Bibich Winery, per voertuig tot 4 passagiers. Retour 120 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hoeveel kost een taxi op het traject Šibenik - Bibich Winery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vast 60 per voertuig tot 4 passagiers, enkele reis, bagage inbegrepen. Een retour kost 120."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Waar haalt u me op?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aan uw exacte adres, of het nu een huis, hotel of appartement is. Stuur het adres bij de reservering en ik bevestig de ontmoetingsplek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe ver van tevoren reserveren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minstens 2 uur van tevoren, zodat ik het voertuig en de ophaaltijd kan bevestigen. Voor een snelle rit belt u of schrijft u me op WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

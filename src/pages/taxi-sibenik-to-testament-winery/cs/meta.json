@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sibenik-testament-winery",
+  "title": "Taxi Šibenik - Testament Winery | Pevná cena €30 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Šibenik - Testament Winery. Pevná cena €30 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "keywords": "taxi šibenik - testament winery, transfer šibenik - testament winery, letištní transfer šibenik - testament winery",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Soukromý taxi transfer",
+      "name": "Taxi Šibenik - Testament Winery",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Šibenik - Testament Winery, 30 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Testament Winery"
+      ],
+      "url": "https://taxisibenik.hr/cs/taxi-sibenik-testament-winery/",
+      "offers": {
+        "@type": "Offer",
+        "price": "30",
+        "priceCurrency": "EUR",
+        "description": "Soukromá jednosměrná jízda, trasa Šibenik - Testament Winery, za vozidlo až pro 4 cestující. Zpáteční 60 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolik stojí taxi na trase Šibenik - Testament Winery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevně 30 za vozidlo až pro 4 cestující, jednosměrná, zavazadla v ceně. Zpáteční jízda je 60."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kde mě vyzvednete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "U vaší přesné adresy, ať jde o dům, hotel nebo apartmán. Pošlete adresu při rezervaci a potvrdím místo setkání."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S jakým předstihem rezervovat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alespoň 2 hodiny předem, abych potvrdil vozidlo a čas vyzvednutí. Pro rychlou jízdu zavolejte nebo napište na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

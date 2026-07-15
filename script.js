@@ -75,7 +75,12 @@ if (quoteWidget) {
       "Knin": 95,
       "NP Plitvice Lakes": 310,
       "Zagreb": 485,
-      "Zagreb Airport (ZAG)": 485
+      "Zagreb Airport (ZAG)": 485,
+      "Testament Winery": 30,
+      "Rak Winery": 25,
+      "Baraka Winery": 30,
+      "Sladić Winery": 60,
+      "Bibich Winery": 60
     },
     "Šibenik Bus Station": {
       "Šibenik - center": 10,
@@ -2621,6 +2626,7 @@ if (quoteWidget) {
     { label: 'Airports', items: ['Split Airport (SPU)', 'Zadar Airport (ZAD)', 'Dubrovnik Airport (DBV)', 'Zagreb Airport (ZAG)'] },
     { label: 'Hotels', items: ['Amadria Park Hotel Šibenik', 'Amadria Park Camp', 'D-Resort Hotel Šibenik', 'Bellevue Superior Hotel Šibenik'] },
     { label: 'Marinas', items: ['D-Marin Marina Mandalina Šibenik', 'Marina ACI Skradin', 'Marina Zaton', 'ACI Marina Vodice', 'Marina Tribunj', 'Marina Hramina', 'ACI Marina Jezera', 'Marina Betina', 'Marina Kremik', 'Marina Frapa', 'ACI Marina Trogir', 'Marina Trogir (SCT)', 'Marina Baotić', 'Marina Agana'] },
+    { label: 'Wineries', items: ['Testament Winery', 'Rak Winery', 'Baraka Winery', 'Sladić Winery', 'Bibich Winery'] },
     { label: 'NP Krka', items: ['NP Krka - Skradin entrance', 'NP Krka - Lozovac entrance', 'NP Krka - Roški Slap entrance'] },
     { label: 'Cities and towns', items: ['Vodice', 'Tribunj', 'Zaton', 'Srima', 'Skradin - center', 'Grebaštica', 'Tisno', 'Murter', 'Betina', 'Jezera', 'Bilo', 'Primošten', 'Rogoznica', 'Pirovac', 'Tromilja', 'Lozovac', 'Drniš', 'Knin', 'Perković', 'Zadar', 'Split', 'Dubrovnik', 'Zagreb', 'Trogir', 'Seget', 'Čiovo', 'Makarska', 'Novalja'] },
     { label: 'Plitvice', items: ['NP Plitvice Lakes'] }

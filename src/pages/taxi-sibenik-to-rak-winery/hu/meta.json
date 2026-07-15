@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sibenik-rak-winery",
+  "title": "Taxi Šibenik - Rak Winery | Fix ár €25 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Šibenik - Rak Winery. Fix ár €25 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi šibenik - rak winery, transzfer šibenik - rak winery, reptéri transzfer šibenik - rak winery",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Šibenik - Rak Winery",
+      "description": "Privát taxi és transzfer fix áron, Šibenik - Rak Winery, 25 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Rak Winery"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-sibenik-rak-winery/",
+      "offers": {
+        "@type": "Offer",
+        "price": "25",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Šibenik - Rak Winery, járművenként max. 4 utasra. Oda-vissza 50 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül egy taxi a Šibenik - Rak Winery útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 25 járművenként max. 4 utasra, egy irány, csomag beleértve. Az oda-vissza út 50."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol vesz fel engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A pontos címén, legyen az ház, hotel vagy apartman. Küldje el a címet a foglaláskor, és megerősítem a találkozási pontot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy megerősítsem a járművet és a felvétel idejét. Gyors útért hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

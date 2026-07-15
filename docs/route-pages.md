@@ -1544,3 +1544,11 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Vodice | Perković | `taxi-vodice-to-perkovic` | 70 |
 | Perković | Skradin | `taxi-perkovic-to-skradin` | 60 |
 | Skradin | Perković | `taxi-skradin-to-perkovic` | 60 |
+
+## Winery transfers from Šibenik (added later)
+
+| Šibenik | Testament Winery | `taxi-sibenik-to-testament-winery` | 30 |
+| Šibenik | Rak Winery | `taxi-sibenik-to-rak-winery` | 25 |
+| Šibenik | Baraka Winery | `taxi-sibenik-to-baraka-winery` | 30 |
+| Šibenik | Sladić Winery | `taxi-sibenik-to-sladic-winery` | 60 |
+| Šibenik | Bibich Winery | `taxi-sibenik-to-bibich-winery` | 60 |

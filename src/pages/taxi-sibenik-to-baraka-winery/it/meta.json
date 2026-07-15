@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sibenik-baraka-winery",
+  "title": "Taxi Šibenik - Baraka Winery | Prezzo fisso €30 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Šibenik - Baraka Winery. Prezzo fisso €30 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi šibenik - baraka winery, transfer šibenik - baraka winery, transfer aeroporto šibenik - baraka winery",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Šibenik - Baraka Winery",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Šibenik - Baraka Winery, 30 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Baraka Winery"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-sibenik-baraka-winery/",
+      "offers": {
+        "@type": "Offer",
+        "price": "30",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Šibenik - Baraka Winery, per veicolo fino a 4 passeggeri. Andata e ritorno 60 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Šibenik - Baraka Winery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 30 per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Andata e ritorno 60."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove effettui il ritiro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al tuo indirizzo esatto, che sia casa, hotel o appartamento. Invia l'indirizzo alla prenotazione e confermo il punto d'incontro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

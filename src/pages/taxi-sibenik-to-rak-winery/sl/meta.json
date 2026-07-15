@@ -1,0 +1,73 @@
+{
+  "slug": "taksi-sibenik-rak-winery",
+  "title": "Taksi Šibenik - Rak Winery | Fiksna cena €25 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Šibenik - Rak Winery. Fiksna cena €25 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "keywords": "taksi šibenik - rak winery, prevoz šibenik - rak winery, letališki prevoz šibenik - rak winery",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Šibenik - Rak Winery",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Šibenik - Rak Winery, 25 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Rak Winery"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-sibenik-rak-winery/",
+      "offers": {
+        "@type": "Offer",
+        "price": "25",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Šibenik - Rak Winery, na vozilo do 4 potnike. Povratno 50 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Šibenik - Rak Winery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 25 na vozilo do 4 potnike, enosmerno, prtljaga vključena. Povratna vožnja je 50."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kje me poberete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašem točnem naslovu, naj bo to hiša, hotel ali apartma. Pošljite naslov ob rezervaciji in potrdim mesto srečanja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in uro prevzema. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}
