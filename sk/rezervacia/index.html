@@ -196,7 +196,7 @@
           </div>
           <div class="quote-field">
             <label for="book-time">Čas vyzdvihnutia</label>
-            <input type="time" id="book-time" name="book-time" required>
+            <select id="book-time" name="book-time" required><option value="">--:--</option></select>
           </div>
         </div>
         <p class="form-hint">Rezervujte si prosím aspoň 2 hodiny vopred, aby som mohol potvrdiť vozidlo a vaše vyzdvihnutie. Potrebujete jazdu skôr? <a href="tel:+385994471013">Zavolajte mi</a> alebo <a href="https://wa.me/385994471013?text=Dobr%C3%BD%20de%C5%88%20Antonio%2C%20na%C5%A1iel%20som%20v%C3%A1s%20cez%20va%C5%A1u%20webov%C3%BA%20str%C3%A1nku%20taxisibenik.hr%20a%20m%C3%A1m%20ot%C3%A1zku%3A%20" target="_blank" rel="noopener">napíšte na WhatsApp</a>.</p>
@@ -208,7 +208,7 @@
           </div>
           <div class="quote-field">
             <label for="book-return-time">Čas návratu</label>
-            <input type="time" id="book-return-time" name="book-return-time">
+            <select id="book-return-time" name="book-return-time"><option value="">--:--</option></select>
           </div>
         </div>
 
@@ -237,6 +237,13 @@
       </form>
     </div>
   </section>
+  <script>
+  (function(){
+    var o='';
+    for(var h=0;h<24;h++){for(var m=0;m<60;m+=5){var t=(h<10?'0':'')+h+':'+(m<10?'0':'')+m;o+='<option value="'+t+'">'+t+'</option>';}}
+    ['book-time','book-return-time'].forEach(function(id){var s=document.getElementById(id);if(s)s.insertAdjacentHTML('beforeend',o);});
+  })();
+  </script>
 
 </main>
 <footer class="site-footer">

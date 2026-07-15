@@ -196,7 +196,7 @@
           </div>
           <div class="quote-field">
             <label for="book-time">Abholzeit</label>
-            <input type="time" id="book-time" name="book-time" required>
+            <select id="book-time" name="book-time" required><option value="">--:--</option></select>
           </div>
         </div>
         <p class="form-hint">Bitte buchen Sie mindestens 2 Stunden im Voraus, damit ich das Fahrzeug und Ihre Abholung bestätigen kann. Brauchen Sie früher eine Fahrt? <a href="tel:+385994471013">Rufen Sie mich an</a> oder <a href="https://wa.me/385994471013?text=Hallo%20Antonio%2C%20ich%20habe%20Sie%20%C3%BCber%20Ihre%20Website%20taxisibenik.hr%20gefunden%20und%20habe%20eine%20Anfrage%3A%20" target="_blank" rel="noopener">schreiben Sie mir auf WhatsApp</a>.</p>
@@ -208,7 +208,7 @@
           </div>
           <div class="quote-field">
             <label for="book-return-time">Rückreisezeit</label>
-            <input type="time" id="book-return-time" name="book-return-time">
+            <select id="book-return-time" name="book-return-time"><option value="">--:--</option></select>
           </div>
         </div>
 
@@ -237,6 +237,13 @@
       </form>
     </div>
   </section>
+  <script>
+  (function(){
+    var o='';
+    for(var h=0;h<24;h++){for(var m=0;m<60;m+=5){var t=(h<10?'0':'')+h+':'+(m<10?'0':'')+m;o+='<option value="'+t+'">'+t+'</option>';}}
+    ['book-time','book-return-time'].forEach(function(id){var s=document.getElementById(id);if(s)s.insertAdjacentHTML('beforeend',o);});
+  })();
+  </script>
 
 </main>
 <footer class="site-footer">

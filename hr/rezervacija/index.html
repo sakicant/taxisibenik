@@ -196,7 +196,7 @@
           </div>
           <div class="quote-field">
             <label for="book-time">Vrijeme preuzimanja</label>
-            <input type="time" id="book-time" name="book-time" required>
+            <select id="book-time" name="book-time" required><option value="">--:--</option></select>
           </div>
         </div>
         <p class="form-hint">Molim vas rezervirajte barem 2 sata unaprijed kako bih mogao potvrditi vozilo i vaše preuzimanje. Trebate vožnju ranije? <a href="tel:+385994471013">Nazovite me</a> ili <a href="https://wa.me/385994471013?text=Pozdrav%20Antonio%2C%20prona%C5%A1ao%20sam%20vas%20preko%20va%C5%A1e%20web%20stranice%20taxisibenik.hr%20i%20imam%20upit%3A%20" target="_blank" rel="noopener">pišite na WhatsApp</a>.</p>
@@ -208,7 +208,7 @@
           </div>
           <div class="quote-field">
             <label for="book-return-time">Vrijeme povratka</label>
-            <input type="time" id="book-return-time" name="book-return-time">
+            <select id="book-return-time" name="book-return-time"><option value="">--:--</option></select>
           </div>
         </div>
 
@@ -237,6 +237,13 @@
       </form>
     </div>
   </section>
+  <script>
+  (function(){
+    var o='';
+    for(var h=0;h<24;h++){for(var m=0;m<60;m+=5){var t=(h<10?'0':'')+h+':'+(m<10?'0':'')+m;o+='<option value="'+t+'">'+t+'</option>';}}
+    ['book-time','book-return-time'].forEach(function(id){var s=document.getElementById(id);if(s)s.insertAdjacentHTML('beforeend',o);});
+  })();
+  </script>
 
 </main>
 <footer class="site-footer">
