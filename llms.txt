@@ -7,6 +7,7 @@
 - One driver, one car: Antonio Šakić, a Škoda Superb seating up to 4 passengers with luggage. Antonio speaks Croatian and English.
 - Fixed prices per car (not per person), agreed before travel. A 20% advance payment (minimum €20) confirms a booking; the balance is paid on the day in cash or by card.
 - Bookings need at least 2 hours' notice.
+- Office hours: Mon-Fri 07:00-14:00 and 16:00-21:00, Sat-Sun 06:00-16:00. Available 24/7 for rides booked in advance, including weekends and holidays.
 - Serves Šibenik and the wider Dalmatian coast and interior, and all four regional airports: Split (SPU), Zadar (ZAD), Zagreb (ZAG) and Dubrovnik (DBV). Airport transfers cover both the commercial terminals and the private/general-aviation terminals used for private jets and charter flights.
 - For larger groups or a van, Antonio arranges it through a hand-picked network of trusted local drivers, staying the single point of contact.
 
@@ -24,10 +25,16 @@ The whole site is published in 11 languages. English is served at the root; each
 - [Book a Transfer](https://taxisibenik.hr/book/): Booking form with a prefilled trip summary and fixed price.
 - [Contact](https://taxisibenik.hr/contact/): Phone, WhatsApp and email.
 - [FAQ](https://taxisibenik.hr/frequently-asked-questions/): Answers on booking, pricing, payments and local trips.
+- [Special Offers](https://taxisibenik.hr/special-offers/): Last-minute and return-leg discounts on specific dates and routes.
+- [Become a Partner](https://taxisibenik.hr/partners/): For travel agents, apartment and villa owners, and agencies who need a reliable local driver for their guests.
 
 ## Hotel and marina transfers
 
 Dedicated transfer pages for the main Šibenik hotels and marinas: Amadria Park (https://taxisibenik.hr/amadria-park-sibenik-transfers/), D-Resort (https://taxisibenik.hr/d-resort-sibenik-transfers/), Bellevue (https://taxisibenik.hr/bellevue-sibenik-transfers/), D-Marin Marina Mandalina (https://taxisibenik.hr/d-marin-mandalina-transfers/) and Marina Zaton (https://taxisibenik.hr/marina-zaton-transfers/). Many more marinas along the coast (Trogir, Rogoznica, Primošten, Vodice, Tribunj, Murter and others) are bookable as fixed-price transfer destinations.
+
+## Winery transfers
+
+Fixed-price transport (transport only, not a guided tour) from Šibenik to local wineries: Testament, Rak and Baraka near Šibenik, and Sladić and Bibich near Skradin. One-way and return fares are shown, and the wineries are bookable in the quote widget. Antonio drives you there and back and can share local tips, but does not sell or charge for tours or tastings. Index: https://taxisibenik.hr/winery-transfers-from-sibenik/.
 
 ## Popular day trips
 

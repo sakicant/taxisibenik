@@ -2,7 +2,6 @@
 # All crawlers, including AI assistants, are welcome to index the public site.
 
 User-agent: *
-Disallow: /admin/
 Disallow: /booking-submit.php
 Disallow: /contact.php
 Disallow: /offers-api.php
