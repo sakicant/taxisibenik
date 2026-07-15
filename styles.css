@@ -302,6 +302,8 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 /* Photo-hero crops: keep the car (and the IVAN sign) in frame */
 .hero-photo-amadria .hero-bg img { object-position: center 72%; }
 .hero-photo-dresort .hero-bg img { object-position: center 66%; }
+.hero-photo-transfers .hero-bg img { object-position: center bottom; }
+.hero-photo-airport .hero-bg img { object-position: center 58%; }
 
 /* Route pages: at-a-glance facts strip */
 .route-facts-section { background: var(--white); padding: 32px 0; }
@@ -1132,6 +1134,22 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 .page-hero h1 { color: var(--white); font-size: clamp(1.9rem, 4vw, 2.8rem); }
 .page-hero-sub { color: var(--gray-400); max-width: 600px; margin: 12px auto 0; }
 .page-hero .hero-actions { margin-top: 28px; }
+.page-hero-marina {
+  position: relative;
+  background-image: url('/assets/img/taxi-antonio-skoda-superb-marina-mandalina-land.webp');
+  background-size: cover;
+  background-position: center 60%;
+  background-repeat: no-repeat;
+  padding-bottom: 96px;
+}
+.page-hero-marina::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(rgba(17,17,17,0.48), rgba(17,17,17,0.64));
+  z-index: 0;
+}
+.page-hero-marina > .container { position: relative; z-index: 1; }
 
 /* Prose content pages */
 .page-content { padding: 70px 0 110px; }
