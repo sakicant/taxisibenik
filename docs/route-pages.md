@@ -19,7 +19,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Betina | Lozovac | `taxi-betina-to-lozovac` | 85 |
 | Betina | Primošten | `taxi-betina-to-primosten` | 120 |
 | Betina | Rogoznica | `taxi-betina-to-rogoznica` | 135 |
-| Betina | Skradin | `taxi-betina-to-skradin` | 75 |
 | Betina | Split | `taxi-betina-to-split` | 180 |
 | Betina | Split Airport | `taxi-betina-to-split-airport` | 150 |
 | Betina | Srima | `taxi-betina-to-srima` | 70 |
@@ -49,7 +48,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Bilice | Pirovac | `taxi-bilice-to-pirovac` | 70 |
 | Bilice | Primošten | `taxi-bilice-to-primosten` | 55 |
 | Bilice | Rogoznica | `taxi-bilice-to-rogoznica` | 65 |
-| Bilice | Skradin | `taxi-bilice-to-skradin` | 40 |
 | Bilice | Split | `taxi-bilice-to-split` | 140 |
 | Bilice | Split Airport | `taxi-bilice-to-split-airport` | 100 |
 | Bilice | Srima | `taxi-bilice-to-srima` | 45 |
@@ -79,7 +77,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Bilo | Pirovac | `taxi-bilo-to-pirovac` | 90 |
 | Bilo | Primošten | `taxi-bilo-to-primosten` | 45 |
 | Bilo | Rogoznica | `taxi-bilo-to-rogoznica` | 25 |
-| Bilo | Skradin | `taxi-bilo-to-skradin` | 85 |
 | Bilo | Split | `taxi-bilo-to-split` | 120 |
 | Bilo | Split Airport | `taxi-bilo-to-split-airport` | 80 |
 | Bilo | Srima | `taxi-bilo-to-srima` | 65 |
@@ -110,7 +107,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Brodarica | Pirovac | `taxi-brodarica-to-pirovac` | 55 |
 | Brodarica | Primošten | `taxi-brodarica-to-primosten` | 50 |
 | Brodarica | Rogoznica | `taxi-brodarica-to-rogoznica` | 65 |
-| Brodarica | Skradin | `taxi-brodarica-to-skradin` | 55 |
 | Brodarica | Split | `taxi-brodarica-to-split` | 140 |
 | Brodarica | Split Airport | `taxi-brodarica-to-split-airport` | 95 |
 | Brodarica | Srima | `taxi-brodarica-to-srima` | 35 |
@@ -140,7 +136,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Drniš | Pirovac | `taxi-drnis-to-pirovac` | 85 |
 | Drniš | Primošten | `taxi-drnis-to-primosten` | 85 |
 | Drniš | Rogoznica | `taxi-drnis-to-rogoznica` | 90 |
-| Drniš | Skradin | `taxi-drnis-to-skradin` | 65 |
 | Drniš | Split | `taxi-drnis-to-split` | 110 |
 | Drniš | Split Airport | `taxi-drnis-to-split-airport` | 80 |
 | Drniš | Srima | `taxi-drnis-to-srima` | 69 |
@@ -172,7 +167,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Dubrovnik | Pirovac | `taxi-dubrovnik-to-pirovac` | 520 |
 | Dubrovnik | Primošten | `taxi-dubrovnik-to-primosten` | 450 |
 | Dubrovnik | Rogoznica | `taxi-dubrovnik-to-rogoznica` | 420 |
-| Dubrovnik | Skradin | `taxi-dubrovnik-to-skradin` | 480 |
 | Dubrovnik | Split | `taxi-dubrovnik-to-split` | 360 |
 | Dubrovnik | Split Airport | `taxi-dubrovnik-to-split-airport` | 450 |
 | Dubrovnik | Srima | `taxi-dubrovnik-to-srima` | 499 |
@@ -204,7 +198,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Dubrovnik Airport | Pirovac | `taxi-dubrovnik-airport-to-pirovac` | 520 |
 | Dubrovnik Airport | Primošten | `taxi-dubrovnik-airport-to-primosten` | 450 |
 | Dubrovnik Airport | Rogoznica | `taxi-dubrovnik-airport-to-rogoznica` | 420 |
-| Dubrovnik Airport | Skradin | `taxi-dubrovnik-airport-to-skradin` | 485 |
 | Dubrovnik Airport | Split | `taxi-dubrovnik-airport-to-split` | 360 |
 | Dubrovnik Airport | Split Airport | `taxi-dubrovnik-airport-to-split-airport` | 450 |
 | Dubrovnik Airport | Srima | `taxi-dubrovnik-airport-to-srima` | 499 |
@@ -235,7 +228,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Grebaštica | Pirovac | `taxi-grebastica-to-pirovac` | 85 |
 | Grebaštica | Primošten | `taxi-grebastica-to-primosten` | 45 |
 | Grebaštica | Rogoznica | `taxi-grebastica-to-rogoznica` | 30 |
-| Grebaštica | Skradin | `taxi-grebastica-to-skradin` | 80 |
 | Grebaštica | Split | `taxi-grebastica-to-split` | 120 |
 | Grebaštica | Split Airport | `taxi-grebastica-to-split-airport` | 90 |
 | Grebaštica | Srima | `taxi-grebastica-to-srima` | 60 |
@@ -263,7 +255,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Jezera | Lozovac | `taxi-jezera-to-lozovac` | 90 |
 | Jezera | Primošten | `taxi-jezera-to-primosten` | 105 |
 | Jezera | Rogoznica | `taxi-jezera-to-rogoznica` | 120 |
-| Jezera | Skradin | `taxi-jezera-to-skradin` | 70 |
 | Jezera | Split | `taxi-jezera-to-split` | 170 |
 | Jezera | Split Airport | `taxi-jezera-to-split-airport` | 135 |
 | Jezera | Srima | `taxi-jezera-to-srima` | 55 |
@@ -291,7 +282,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Knin | Pirovac | `taxi-knin-to-pirovac` | 115 |
 | Knin | Primošten | `taxi-knin-to-primosten` | 115 |
 | Knin | Rogoznica | `taxi-knin-to-rogoznica` | 120 |
-| Knin | Skradin | `taxi-knin-to-skradin` | 95 |
 | Knin | Split | `taxi-knin-to-split` | 140 |
 | Knin | Split Airport | `taxi-knin-to-split-airport` | 110 |
 | Knin | Srima | `taxi-knin-to-srima` | 99 |
@@ -322,7 +312,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Lozovac | Pirovac | `taxi-lozovac-to-pirovac` | 80 |
 | Lozovac | Primošten | `taxi-lozovac-to-primosten` | 80 |
 | Lozovac | Rogoznica | `taxi-lozovac-to-rogoznica` | 95 |
-| Lozovac | Skradin | `taxi-lozovac-to-skradin` | 25 |
 | Lozovac | Split | `taxi-lozovac-to-split` | 145 |
 | Lozovac | Split Airport | `taxi-lozovac-to-split-airport` | 95 |
 | Lozovac | Srima | `taxi-lozovac-to-srima` | 55 |
@@ -357,7 +346,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Murter | Lozovac | `taxi-murter-to-lozovac` | 100 |
 | Murter | Primošten | `taxi-murter-to-primosten` | 120 |
 | Murter | Rogoznica | `taxi-murter-to-rogoznica` | 135 |
-| Murter | Skradin | `taxi-murter-to-skradin` | 75 |
 | Murter | Split | `taxi-murter-to-split` | 180 |
 | Murter | Split Airport | `taxi-murter-to-split-airport` | 150 |
 | Murter | Srima | `taxi-murter-to-srima` | 70 |
@@ -393,7 +381,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Pirovac | Lozovac | `taxi-pirovac-to-lozovac` | 80 |
 | Pirovac | Primošten | `taxi-pirovac-to-primosten` | 100 |
 | Pirovac | Rogoznica | `taxi-pirovac-to-rogoznica` | 115 |
-| Pirovac | Skradin | `taxi-pirovac-to-skradin` | 65 |
 | Pirovac | Split | `taxi-pirovac-to-split` | 170 |
 | Pirovac | Split Airport | `taxi-pirovac-to-split-airport` | 125 |
 | Pirovac | Srima | `taxi-pirovac-to-srima` | 50 |
@@ -421,7 +408,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Primošten | Lozovac | `taxi-primosten-to-lozovac` | 80 |
 | Primošten | Murter | `taxi-primosten-to-murter` | 120 |
 | Primošten | Pirovac | `taxi-primosten-to-pirovac` | 100 |
-| Primošten | Skradin | `taxi-primosten-to-skradin` | 80 |
 | Primošten | Split | `taxi-primosten-to-split` | 130 |
 | Primošten | Split Airport | `taxi-primosten-to-split-airport` | 80 |
 | Primošten | Srima | `taxi-primosten-to-srima` | 75 |
@@ -450,7 +436,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Rogoznica | Lozovac | `taxi-rogoznica-to-lozovac` | 95 |
 | Rogoznica | Murter | `taxi-rogoznica-to-murter` | 135 |
 | Rogoznica | Pirovac | `taxi-rogoznica-to-pirovac` | 115 |
-| Rogoznica | Skradin | `taxi-rogoznica-to-skradin` | 90 |
 | Rogoznica | Split | `taxi-rogoznica-to-split` | 75 |
 | Rogoznica | Split Airport | `taxi-rogoznica-to-split-airport` | 80 |
 | Rogoznica | Srima | `taxi-rogoznica-to-srima` | 90 |
@@ -467,36 +452,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Rogoznica | Zaton | `taxi-rogoznica-to-zaton` | 90 |
 | Rogoznica | Šibenik | `taxi-rogoznica-to-sibenik` | 65 |
 | Rogoznica | Žaborić | `taxi-rogoznica-to-zaboric` | 40 |
-| Skradin | Betina | `taxi-skradin-to-betina` | 75 |
-| Skradin | Bilice | `taxi-skradin-to-bilice` | 40 |
-| Skradin | Bilo | `taxi-skradin-to-bilo` | 85 |
-| Skradin | Brodarica | `taxi-skradin-to-brodarica` | 55 |
-| Skradin | Drniš | `taxi-skradin-to-drnis` | 65 |
-| Skradin | Dubrovnik | `taxi-skradin-to-dubrovnik` | 480 |
-| Skradin | Dubrovnik Airport | `taxi-skradin-to-dubrovnik-airport` | 485 |
-| Skradin | Grebaštica | `taxi-skradin-to-grebastica` | 80 |
-| Skradin | Jezera | `taxi-skradin-to-jezera` | 70 |
-| Skradin | Knin | `taxi-skradin-to-knin` | 95 |
-| Skradin | Lozovac | `taxi-skradin-to-lozovac` | 25 |
-| Skradin | Murter | `taxi-skradin-to-murter` | 75 |
-| Skradin | Pirovac | `taxi-skradin-to-pirovac` | 65 |
-| Skradin | Primošten | `taxi-skradin-to-primosten` | 80 |
-| Skradin | Rogoznica | `taxi-skradin-to-rogoznica` | 90 |
-| Skradin | Split | `taxi-skradin-to-split` | 140 |
-| Skradin | Split Airport | `taxi-skradin-to-split-airport` | 110 |
-| Skradin | Srima | `taxi-skradin-to-srima` | 65 |
-| Skradin | Tisno | `taxi-skradin-to-tisno` | 65 |
-| Skradin | Tribunj | `taxi-skradin-to-tribunj` | 60 |
-| Skradin | Trogir | `taxi-skradin-to-trogir` | 100 |
-| Skradin | Vodice | `taxi-skradin-to-vodice` | 60 |
-| Skradin | Zablaće | `taxi-skradin-to-zablace` | 50 |
-| Skradin | Zadar | `taxi-skradin-to-zadar` | 130 |
-| Skradin | Zadar Airport | `taxi-skradin-to-zadar-airport` | 105 |
-| Skradin | Zagreb | `taxi-skradin-to-zagreb` | 480 |
-| Skradin | Zagreb Airport | `taxi-skradin-to-zagreb-airport` | 485 |
-| Skradin | Zaton | `taxi-skradin-to-zaton` | 60 |
-| Skradin | Šibenik | `taxi-skradin-to-sibenik` | 50 |
-| Skradin | Žaborić | `taxi-skradin-to-zaboric` | 75 |
 | Split | Betina | `taxi-split-to-betina` | 180 |
 | Split | Bilice | `taxi-split-to-bilice` | 140 |
 | Split | Bilo | `taxi-split-to-bilo` | 120 |
@@ -514,7 +469,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Split | Pirovac | `taxi-split-to-pirovac` | 170 |
 | Split | Primošten | `taxi-split-to-primosten` | 130 |
 | Split | Rogoznica | `taxi-split-to-rogoznica` | 75 |
-| Split | Skradin | `taxi-split-to-skradin` | 140 |
 | Split | Srima | `taxi-split-to-srima` | 150 |
 | Split | Tisno | `taxi-split-to-tisno` | 160 |
 | Split | Tribunj | `taxi-split-to-tribunj` | 170 |
@@ -545,7 +499,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Split Airport | Pirovac | `taxi-split-airport-to-pirovac` | 125 |
 | Split Airport | Primošten | `taxi-split-airport-to-primosten` | 80 |
 | Split Airport | Rogoznica | `taxi-split-airport-to-rogoznica` | 80 |
-| Split Airport | Skradin | `taxi-split-airport-to-skradin` | 110 |
 | Split Airport | Srima | `taxi-split-airport-to-srima` | 115 |
 | Split Airport | Tisno | `taxi-split-airport-to-tisno` | 130 |
 | Split Airport | Tribunj | `taxi-split-airport-to-tribunj` | 120 |
@@ -574,7 +527,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Srima | Pirovac | `taxi-srima-to-pirovac` | 50 |
 | Srima | Primošten | `taxi-srima-to-primosten` | 75 |
 | Srima | Rogoznica | `taxi-srima-to-rogoznica` | 90 |
-| Srima | Skradin | `taxi-srima-to-skradin` | 65 |
 | Srima | Split | `taxi-srima-to-split` | 150 |
 | Srima | Split Airport | `taxi-srima-to-split-airport` | 115 |
 | Srima | Tisno | `taxi-srima-to-tisno` | 50 |
@@ -599,7 +551,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Tisno | Lozovac | `taxi-tisno-to-lozovac` | 80 |
 | Tisno | Primošten | `taxi-tisno-to-primosten` | 80 |
 | Tisno | Rogoznica | `taxi-tisno-to-rogoznica` | 115 |
-| Tisno | Skradin | `taxi-tisno-to-skradin` | 65 |
 | Tisno | Split | `taxi-tisno-to-split` | 160 |
 | Tisno | Split Airport | `taxi-tisno-to-split-airport` | 130 |
 | Tisno | Srima | `taxi-tisno-to-srima` | 50 |
@@ -627,7 +578,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Tribunj | Murter | `taxi-tribunj-to-murter` | 60 |
 | Tribunj | Primošten | `taxi-tribunj-to-primosten` | 90 |
 | Tribunj | Rogoznica | `taxi-tribunj-to-rogoznica` | 105 |
-| Tribunj | Skradin | `taxi-tribunj-to-skradin` | 60 |
 | Tribunj | Split | `taxi-tribunj-to-split` | 170 |
 | Tribunj | Split Airport | `taxi-tribunj-to-split-airport` | 120 |
 | Tribunj | Srima | `taxi-tribunj-to-srima` | 35 |
@@ -656,7 +606,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Trogir | Murter | `taxi-trogir-to-murter` | 150 |
 | Trogir | Pirovac | `taxi-trogir-to-pirovac` | 125 |
 | Trogir | Rogoznica | `taxi-trogir-to-rogoznica` | 30 |
-| Trogir | Skradin | `taxi-trogir-to-skradin` | 100 |
 | Trogir | Srima | `taxi-trogir-to-srima` | 115 |
 | Trogir | Tisno | `taxi-trogir-to-tisno` | 130 |
 | Trogir | Tribunj | `taxi-trogir-to-tribunj` | 120 |
@@ -713,7 +662,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Vodice | Pirovac | `taxi-vodice-to-pirovac` | 50 |
 | Vodice | Primošten | `taxi-vodice-to-primosten` | 70 |
 | Vodice | Rogoznica | `taxi-vodice-to-rogoznica` | 80 |
-| Vodice | Skradin | `taxi-vodice-to-skradin` | 60 |
 | Vodice | Split | `taxi-vodice-to-split` | 150 |
 | Vodice | Split Airport | `taxi-vodice-to-split-airport` | 115 |
 | Vodice | Tisno | `taxi-vodice-to-tisno` | 50 |
@@ -742,7 +690,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Zablaće | Pirovac | `taxi-zablace-to-pirovac` | 55 |
 | Zablaće | Primošten | `taxi-zablace-to-primosten` | 50 |
 | Zablaće | Rogoznica | `taxi-zablace-to-rogoznica` | 65 |
-| Zablaće | Skradin | `taxi-zablace-to-skradin` | 50 |
 | Zablaće | Split | `taxi-zablace-to-split` | 140 |
 | Zablaće | Split Airport | `taxi-zablace-to-split-airport` | 95 |
 | Zablaće | Srima | `taxi-zablace-to-srima` | 35 |
@@ -773,7 +720,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Zadar | Pirovac | `taxi-zadar-to-pirovac` | 110 |
 | Zadar | Primošten | `taxi-zadar-to-primosten` | 170 |
 | Zadar | Rogoznica | `taxi-zadar-to-rogoznica` | 170 |
-| Zadar | Skradin | `taxi-zadar-to-skradin` | 130 |
 | Zadar | Split | `taxi-zadar-to-split` | 230 |
 | Zadar | Split Airport | `taxi-zadar-to-split-airport` | 210 |
 | Zadar | Srima | `taxi-zadar-to-srima` | 110 |
@@ -805,7 +751,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Zadar Airport | Pirovac | `taxi-zadar-airport-to-pirovac` | 100 |
 | Zadar Airport | Primošten | `taxi-zadar-airport-to-primosten` | 160 |
 | Zadar Airport | Rogoznica | `taxi-zadar-airport-to-rogoznica` | 160 |
-| Zadar Airport | Skradin | `taxi-zadar-airport-to-skradin` | 105 |
 | Zadar Airport | Split | `taxi-zadar-airport-to-split` | 210 |
 | Zadar Airport | Split Airport | `taxi-zadar-airport-to-split-airport` | 200 |
 | Zadar Airport | Srima | `taxi-zadar-airport-to-srima` | 100 |
@@ -835,7 +780,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Zagreb | Pirovac | `taxi-zagreb-to-pirovac` | 480 |
 | Zagreb | Primošten | `taxi-zagreb-to-primosten` | 499 |
 | Zagreb | Rogoznica | `taxi-zagreb-to-rogoznica` | 499 |
-| Zagreb | Skradin | `taxi-zagreb-to-skradin` | 480 |
 | Zagreb | Split | `taxi-zagreb-to-split` | 520 |
 | Zagreb | Split Airport | `taxi-zagreb-to-split-airport` | 550 |
 | Zagreb | Srima | `taxi-zagreb-to-srima` | 480 |
@@ -867,7 +811,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Zagreb Airport | Pirovac | `taxi-zagreb-airport-to-pirovac` | 480 |
 | Zagreb Airport | Primošten | `taxi-zagreb-airport-to-primosten` | 499 |
 | Zagreb Airport | Rogoznica | `taxi-zagreb-airport-to-rogoznica` | 499 |
-| Zagreb Airport | Skradin | `taxi-zagreb-airport-to-skradin` | 485 |
 | Zagreb Airport | Split | `taxi-zagreb-airport-to-split` | 520 |
 | Zagreb Airport | Split Airport | `taxi-zagreb-airport-to-split-airport` | 550 |
 | Zagreb Airport | Srima | `taxi-zagreb-airport-to-srima` | 480 |
@@ -897,7 +840,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Zaton | Pirovac | `taxi-zaton-to-pirovac` | 50 |
 | Zaton | Primošten | `taxi-zaton-to-primosten` | 75 |
 | Zaton | Rogoznica | `taxi-zaton-to-rogoznica` | 90 |
-| Zaton | Skradin | `taxi-zaton-to-skradin` | 60 |
 | Zaton | Split | `taxi-zaton-to-split` | 150 |
 | Zaton | Split Airport | `taxi-zaton-to-split-airport` | 115 |
 | Zaton | Tisno | `taxi-zaton-to-tisno` | 50 |
@@ -928,7 +870,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Šibenik | Pirovac | `taxi-sibenik-to-pirovac` | 50 |
 | Šibenik | Primošten | `taxi-sibenik-to-primosten` | 50 |
 | Šibenik | Rogoznica | `taxi-sibenik-to-rogoznica` | 65 |
-| Šibenik | Skradin | `taxi-sibenik-to-skradin` | 50 |
 | Šibenik | Split | `taxi-sibenik-to-split` | 140 |
 | Šibenik | Split Airport | `taxi-sibenik-to-split-airport` | 95 |
 | Šibenik | Srima | `taxi-sibenik-to-srima` | 25 |
@@ -958,7 +899,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Žaborić | Pirovac | `taxi-zaboric-to-pirovac` | 70 |
 | Žaborić | Primošten | `taxi-zaboric-to-primosten` | 45 |
 | Žaborić | Rogoznica | `taxi-zaboric-to-rogoznica` | 40 |
-| Žaborić | Skradin | `taxi-zaboric-to-skradin` | 75 |
 | Žaborić | Split | `taxi-zaboric-to-split` | 130 |
 | Žaborić | Split Airport | `taxi-zaboric-to-split-airport` | 95 |
 | Žaborić | Srima | `taxi-zaboric-to-srima` | 50 |
@@ -1009,8 +949,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Pirovac | Seget | `taxi-pirovac-to-seget` | 125 |
 | Seget | Rogoznica | `taxi-seget-to-rogoznica` | 30 |
 | Rogoznica | Seget | `taxi-rogoznica-to-seget` | 30 |
-| Seget | Skradin | `taxi-seget-to-skradin` | 100 |
-| Skradin | Seget | `taxi-skradin-to-seget` | 100 |
 | Seget | Srima | `taxi-seget-to-srima` | 115 |
 | Srima | Seget | `taxi-srima-to-seget` | 115 |
 | Seget | Tisno | `taxi-seget-to-tisno` | 130 |
@@ -1067,8 +1005,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Pirovac | Čiovo | `taxi-pirovac-to-ciovo` | 140 |
 | Čiovo | Rogoznica | `taxi-ciovo-to-rogoznica` | 45 |
 | Rogoznica | Čiovo | `taxi-rogoznica-to-ciovo` | 45 |
-| Čiovo | Skradin | `taxi-ciovo-to-skradin` | 115 |
-| Skradin | Čiovo | `taxi-skradin-to-ciovo` | 115 |
 | Čiovo | Srima | `taxi-ciovo-to-srima` | 130 |
 | Srima | Čiovo | `taxi-srima-to-ciovo` | 130 |
 | Čiovo | Tisno | `taxi-ciovo-to-tisno` | 145 |
@@ -1113,8 +1049,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Primošten | ACI Marina Vodice | `taxi-primosten-to-aci-marina-vodice` | 70 |
 | ACI Marina Vodice | Rogoznica | `taxi-aci-marina-vodice-to-rogoznica` | 80 |
 | Rogoznica | ACI Marina Vodice | `taxi-rogoznica-to-aci-marina-vodice` | 80 |
-| ACI Marina Vodice | Skradin | `taxi-aci-marina-vodice-to-skradin` | 60 |
-| Skradin | ACI Marina Vodice | `taxi-skradin-to-aci-marina-vodice` | 60 |
 | ACI Marina Vodice | Split | `taxi-aci-marina-vodice-to-split` | 150 |
 | Split | ACI Marina Vodice | `taxi-split-to-aci-marina-vodice` | 150 |
 | ACI Marina Vodice | Split Airport | `taxi-aci-marina-vodice-to-split-airport` | 115 |
@@ -1153,8 +1087,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Primošten | Marina Tribunj | `taxi-primosten-to-marina-tribunj` | 90 |
 | Marina Tribunj | Rogoznica | `taxi-marina-tribunj-to-rogoznica` | 105 |
 | Rogoznica | Marina Tribunj | `taxi-rogoznica-to-marina-tribunj` | 105 |
-| Marina Tribunj | Skradin | `taxi-marina-tribunj-to-skradin` | 60 |
-| Skradin | Marina Tribunj | `taxi-skradin-to-marina-tribunj` | 60 |
 | Marina Tribunj | Split | `taxi-marina-tribunj-to-split` | 170 |
 | Split | Marina Tribunj | `taxi-split-to-marina-tribunj` | 170 |
 | Marina Tribunj | Split Airport | `taxi-marina-tribunj-to-split-airport` | 120 |
@@ -1193,8 +1125,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Primošten | Marina Hramina | `taxi-primosten-to-marina-hramina` | 120 |
 | Marina Hramina | Rogoznica | `taxi-marina-hramina-to-rogoznica` | 135 |
 | Rogoznica | Marina Hramina | `taxi-rogoznica-to-marina-hramina` | 135 |
-| Marina Hramina | Skradin | `taxi-marina-hramina-to-skradin` | 75 |
-| Skradin | Marina Hramina | `taxi-skradin-to-marina-hramina` | 75 |
 | Marina Hramina | Split | `taxi-marina-hramina-to-split` | 180 |
 | Split | Marina Hramina | `taxi-split-to-marina-hramina` | 180 |
 | Marina Hramina | Split Airport | `taxi-marina-hramina-to-split-airport` | 150 |
@@ -1233,8 +1163,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Primošten | ACI Marina Jezera | `taxi-primosten-to-aci-marina-jezera` | 105 |
 | ACI Marina Jezera | Rogoznica | `taxi-aci-marina-jezera-to-rogoznica` | 120 |
 | Rogoznica | ACI Marina Jezera | `taxi-rogoznica-to-aci-marina-jezera` | 120 |
-| ACI Marina Jezera | Skradin | `taxi-aci-marina-jezera-to-skradin` | 70 |
-| Skradin | ACI Marina Jezera | `taxi-skradin-to-aci-marina-jezera` | 70 |
 | ACI Marina Jezera | Split | `taxi-aci-marina-jezera-to-split` | 170 |
 | Split | ACI Marina Jezera | `taxi-split-to-aci-marina-jezera` | 170 |
 | ACI Marina Jezera | Split Airport | `taxi-aci-marina-jezera-to-split-airport` | 135 |
@@ -1273,8 +1201,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Primošten | Marina Betina | `taxi-primosten-to-marina-betina` | 120 |
 | Marina Betina | Rogoznica | `taxi-marina-betina-to-rogoznica` | 135 |
 | Rogoznica | Marina Betina | `taxi-rogoznica-to-marina-betina` | 135 |
-| Marina Betina | Skradin | `taxi-marina-betina-to-skradin` | 75 |
-| Skradin | Marina Betina | `taxi-skradin-to-marina-betina` | 75 |
 | Marina Betina | Split | `taxi-marina-betina-to-split` | 180 |
 | Split | Marina Betina | `taxi-split-to-marina-betina` | 180 |
 | Marina Betina | Split Airport | `taxi-marina-betina-to-split-airport` | 150 |
@@ -1311,8 +1237,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Murter | Marina Kremik | `taxi-murter-to-marina-kremik` | 130 |
 | Marina Kremik | Pirovac | `taxi-marina-kremik-to-pirovac` | 110 |
 | Pirovac | Marina Kremik | `taxi-pirovac-to-marina-kremik` | 110 |
-| Marina Kremik | Skradin | `taxi-marina-kremik-to-skradin` | 85 |
-| Skradin | Marina Kremik | `taxi-skradin-to-marina-kremik` | 85 |
 | Marina Kremik | Split | `taxi-marina-kremik-to-split` | 100 |
 | Split | Marina Kremik | `taxi-split-to-marina-kremik` | 100 |
 | Marina Kremik | Split Airport | `taxi-marina-kremik-to-split-airport` | 80 |
@@ -1353,8 +1277,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Murter | Marina Frapa | `taxi-murter-to-marina-frapa` | 135 |
 | Marina Frapa | Pirovac | `taxi-marina-frapa-to-pirovac` | 115 |
 | Pirovac | Marina Frapa | `taxi-pirovac-to-marina-frapa` | 115 |
-| Marina Frapa | Skradin | `taxi-marina-frapa-to-skradin` | 90 |
-| Skradin | Marina Frapa | `taxi-skradin-to-marina-frapa` | 90 |
 | Marina Frapa | Split | `taxi-marina-frapa-to-split` | 75 |
 | Split | Marina Frapa | `taxi-split-to-marina-frapa` | 75 |
 | Marina Frapa | Split Airport | `taxi-marina-frapa-to-split-airport` | 80 |
@@ -1395,8 +1317,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Murter | ACI Marina Trogir | `taxi-murter-to-aci-marina-trogir` | 165 |
 | ACI Marina Trogir | Pirovac | `taxi-aci-marina-trogir-to-pirovac` | 140 |
 | Pirovac | ACI Marina Trogir | `taxi-pirovac-to-aci-marina-trogir` | 140 |
-| ACI Marina Trogir | Skradin | `taxi-aci-marina-trogir-to-skradin` | 115 |
-| Skradin | ACI Marina Trogir | `taxi-skradin-to-aci-marina-trogir` | 115 |
 | ACI Marina Trogir | Srima | `taxi-aci-marina-trogir-to-srima` | 130 |
 | Srima | ACI Marina Trogir | `taxi-srima-to-aci-marina-trogir` | 130 |
 | ACI Marina Trogir | Tisno | `taxi-aci-marina-trogir-to-tisno` | 145 |
@@ -1433,8 +1353,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Murter | Marina Trogir (SCT) | `taxi-murter-to-marina-trogir-sct` | 165 |
 | Marina Trogir (SCT) | Pirovac | `taxi-marina-trogir-sct-to-pirovac` | 140 |
 | Pirovac | Marina Trogir (SCT) | `taxi-pirovac-to-marina-trogir-sct` | 140 |
-| Marina Trogir (SCT) | Skradin | `taxi-marina-trogir-sct-to-skradin` | 115 |
-| Skradin | Marina Trogir (SCT) | `taxi-skradin-to-marina-trogir-sct` | 115 |
 | Marina Trogir (SCT) | Srima | `taxi-marina-trogir-sct-to-srima` | 130 |
 | Srima | Marina Trogir (SCT) | `taxi-srima-to-marina-trogir-sct` | 130 |
 | Marina Trogir (SCT) | Tisno | `taxi-marina-trogir-sct-to-tisno` | 145 |
@@ -1471,8 +1389,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Murter | Marina Baotić | `taxi-murter-to-marina-baotic` | 150 |
 | Marina Baotić | Pirovac | `taxi-marina-baotic-to-pirovac` | 125 |
 | Pirovac | Marina Baotić | `taxi-pirovac-to-marina-baotic` | 125 |
-| Marina Baotić | Skradin | `taxi-marina-baotic-to-skradin` | 100 |
-| Skradin | Marina Baotić | `taxi-skradin-to-marina-baotic` | 100 |
 | Marina Baotić | Srima | `taxi-marina-baotic-to-srima` | 115 |
 | Srima | Marina Baotić | `taxi-srima-to-marina-baotic` | 115 |
 | Marina Baotić | Tisno | `taxi-marina-baotic-to-tisno` | 130 |
@@ -1509,8 +1425,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Murter | Marina Agana | `taxi-murter-to-marina-agana` | 150 |
 | Marina Agana | Pirovac | `taxi-marina-agana-to-pirovac` | 125 |
 | Pirovac | Marina Agana | `taxi-pirovac-to-marina-agana` | 125 |
-| Marina Agana | Skradin | `taxi-marina-agana-to-skradin` | 100 |
-| Skradin | Marina Agana | `taxi-skradin-to-marina-agana` | 100 |
 | Marina Agana | Srima | `taxi-marina-agana-to-srima` | 115 |
 | Srima | Marina Agana | `taxi-srima-to-marina-agana` | 115 |
 | Marina Agana | Tisno | `taxi-marina-agana-to-tisno` | 130 |
@@ -1542,8 +1456,6 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Šibenik | Perković | `taxi-sibenik-to-perkovic` | 55 |
 | Perković | Vodice | `taxi-perkovic-to-vodice` | 70 |
 | Vodice | Perković | `taxi-vodice-to-perkovic` | 70 |
-| Perković | Skradin | `taxi-perkovic-to-skradin` | 60 |
-| Skradin | Perković | `taxi-skradin-to-perkovic` | 60 |
 
 ## Winery transfers from Šibenik (added later)
 
