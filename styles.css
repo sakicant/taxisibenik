@@ -304,6 +304,8 @@ a.nav-lang-item:hover { color: var(--gold); background: rgba(255,255,255,0.05); 
 .hero-photo-dresort .hero-bg img { object-position: center 66%; }
 .hero-photo-transfers .hero-bg img { object-position: center bottom; }
 .hero-photo-airport .hero-bg img { object-position: center 58%; }
+.hero.hero-photo-bibich .hero-bg img { object-position: center 62%; }
+.hero.hero-photo-vineyard .hero-bg img { object-position: center 72%; }
 
 /* Route pages: at-a-glance facts strip */
 .route-facts-section { background: var(--white); padding: 32px 0; }
