@@ -1,0 +1,97 @@
+{
+  "slug": "taxi-repter-dubrovnik-jadrija",
+  "title": "Taxi Dubrovnik repülőtér - Jadrija | Fix ár €490 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Dubrovnik repülőtér - Jadrija. Fix ár €490 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi dubrovnik repülőtér - jadrija, transzfer dubrovnik repülőtér - jadrija, reptéri transzfer dubrovnik repülőtér - jadrija",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Dubrovnik repülőtér - Jadrija",
+      "description": "Privát taxi és transzfer fix áron, Dubrovnik repülőtér - Jadrija, 490 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik repülőtér",
+        "Jadrija"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-repter-dubrovnik-jadrija/",
+      "offers": {
+        "@type": "Offer",
+        "price": "490",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Dubrovnik repülőtér - Jadrija, járművenként max. 4 utasra. Oda-vissza 980 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Milyen hosszú az útvonal és mennyi ideig tart az út?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Dubrovnik repülőtér - Jadrija útvonalon az út körülbelül 309 km, és normál forgalomban nagyjából 4 h 30 min alatt tart, a nyári csúcsidőben kicsit tovább. A felvételt úgy tervezem, hogy egy lassabb szakasz soha ne siettesse Önt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol fogad engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A megérkezési csarnokban, közvetlenül a csomagfelvétel után, névtáblával. Segítek a csomaggal, és a járműhöz kísérem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi van, ha a járatom késik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Semmi gond. A járatát valós időben követem, és a felvételt a tényleges leszálláshoz igazítom, a várakozásért felár nélkül."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Felvesz a privát repülési terminálról is?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Az érkezőket a kereskedelmi terminálon és a magánrepülőgépek és charterjáratok által használt privát és általános célú repülési terminálon egyaránt várom. A foglaláskor csak adja meg, melyik terminálhoz vagy FBO-hoz érkezik."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a transzfer a Dubrovnik repülőtér - Jadrija útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 490 járművenként max. 4 utasra, egy irány, útdíj és csomag beleértve. Az oda-vissza út 980."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy a járatához igazítsam. Aznapi felvételhez hirtelen változás után hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

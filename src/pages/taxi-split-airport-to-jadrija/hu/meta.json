@@ -1,0 +1,97 @@
+{
+  "slug": "taxi-repter-split-jadrija",
+  "title": "Taxi Split repülőtér - Jadrija | Fix ár €115 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Split repülőtér - Jadrija. Fix ár €115 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi split repülőtér - jadrija, transzfer split repülőtér - jadrija, reptéri transzfer split repülőtér - jadrija",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Split repülőtér - Jadrija",
+      "description": "Privát taxi és transzfer fix áron, Split repülőtér - Jadrija, 115 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Split repülőtér",
+        "Jadrija"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-repter-split-jadrija/",
+      "offers": {
+        "@type": "Offer",
+        "price": "115",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Split repülőtér - Jadrija, járművenként max. 4 utasra. Oda-vissza 230 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Milyen hosszú az útvonal és mennyi ideig tart az út?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Split repülőtér - Jadrija útvonalon az út körülbelül 67 km, és normál forgalomban nagyjából 75 min alatt tart, a nyári csúcsidőben kicsit tovább. A felvételt úgy tervezem, hogy egy lassabb szakasz soha ne siettesse Önt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol fogad engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A megérkezési csarnokban, közvetlenül a csomagfelvétel után, névtáblával. Segítek a csomaggal, és a járműhöz kísérem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi van, ha a járatom késik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Semmi gond. A járatát valós időben követem, és a felvételt a tényleges leszálláshoz igazítom, a várakozásért felár nélkül."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Felvesz a privát repülési terminálról is?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Az érkezőket a kereskedelmi terminálon és a magánrepülőgépek és charterjáratok által használt privát és általános célú repülési terminálon egyaránt várom. A foglaláskor csak adja meg, melyik terminálhoz vagy FBO-hoz érkezik."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül a transzfer a Split repülőtér - Jadrija útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 115 járművenként max. 4 utasra, egy irány, útdíj és csomag beleértve. Az oda-vissza út 230."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy a járatához igazítsam. Aznapi felvételhez hirtelen változás után hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

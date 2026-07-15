@@ -1,0 +1,97 @@
+{
+  "slug": "taxi-letisko-dubrovnik-jadrija",
+  "title": "Taxi Letisko Dubrovnik - Jadrija | Pevná cena €490 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Letisko Dubrovnik - Jadrija. Pevná cena €490 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "keywords": "taxi letisko dubrovnik - jadrija, transfer letisko dubrovnik - jadrija, letiskový transfer letisko dubrovnik - jadrija",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Súkromný taxi transfer",
+      "name": "Taxi Letisko Dubrovnik - Jadrija",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Letisko Dubrovnik - Jadrija, 490 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Letisko Dubrovnik",
+        "Jadrija"
+      ],
+      "url": "https://taxisibenik.hr/sk/taxi-letisko-dubrovnik-jadrija/",
+      "offers": {
+        "@type": "Offer",
+        "price": "490",
+        "priceCurrency": "EUR",
+        "description": "Súkromná jednosmerná jazda, Letisko Dubrovnik - Jadrija, za vozidlo pre max. 4 cestujúcich. Spiatočne 980 eur."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Aká dlhá je trasa a ako dlho trvá cesta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na trase Letisko Dubrovnik - Jadrija je cesta približne 309 km a za bežnej premávky trvá zhruba 4 h 30 min, v letnej špičke o niečo dlhšie. Vyzdvihnutie plánujem tak, aby Vás pomalší úsek nikdy netlačil do času."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kde ma privítate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "V príletovej hale, hneď po výdaji batožiny, s tabuľkou s menom. Pomôžem s batožinou a odprevadím Vás k vozidlu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Čo ak môj let mešká?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Žiadny problém. Váš let sledujem v reálnom čase a vyzdvihnutie prispôsobím skutočnému pristátiu, bez príplatku za čakanie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vyzdvihnete ma aj z terminálu súkromného letectva?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Áno. Prílety vyzdvihujem na komerčnom termináli aj na termináli súkromného a všeobecného letectva, ktorý slúži pre súkromné lietadlá a charterové lety. Pri rezervácii mi stačí povedať svoj terminál alebo FBO."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koľko stojí transfer na trase Letisko Dubrovnik - Jadrija?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pevných 490 za vozidlo pre max. 4 cestujúcich, jednosmerne, mýto a batožina v cene. Spiatočná cesta stojí 980."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "S akým predstihom mám rezervovať?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aspoň 2 hodiny vopred, aby som ho prispôsobil Vášmu letu. Pre vyzdvihnutie v ten istý deň po náhlej zmene zavolajte alebo napíšte na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

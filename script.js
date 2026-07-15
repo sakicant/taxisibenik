@@ -854,6 +854,7 @@ if (quoteWidget) {
       "Split": 150,
       "Dubrovnik": 490,
       "Dubrovnik Airport (DBV)": 490,
+      "Zagreb Airport (ZAG)": 485,
       "Vodice": 30,
       "Tribunj": 35,
       "Pirovac": 50,

@@ -1531,3 +1531,16 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Zaton | Marina Agana | `taxi-zaton-to-marina-agana` | 115 |
 | Marina Agana | Šibenik | `taxi-marina-agana-to-sibenik` | 95 |
 | Šibenik | Marina Agana | `taxi-sibenik-to-marina-agana` | 95 |
+
+## Jadrija airport arrivals + Perković town routes (added later)
+
+| Split Airport | Jadrija | `taxi-split-airport-to-jadrija` | 115 |
+| Zadar Airport | Jadrija | `taxi-zadar-airport-to-jadrija` | 125 |
+| Zagreb Airport | Jadrija | `taxi-zagreb-airport-to-jadrija` | 485 |
+| Dubrovnik Airport | Jadrija | `taxi-dubrovnik-airport-to-jadrija` | 490 |
+| Perković | Šibenik | `taxi-perkovic-to-sibenik` | 55 |
+| Šibenik | Perković | `taxi-sibenik-to-perkovic` | 55 |
+| Perković | Vodice | `taxi-perkovic-to-vodice` | 70 |
+| Vodice | Perković | `taxi-vodice-to-perkovic` | 70 |
+| Perković | Skradin | `taxi-perkovic-to-skradin` | 60 |
+| Skradin | Perković | `taxi-skradin-to-perkovic` | 60 |
