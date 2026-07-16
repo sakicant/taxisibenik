@@ -3086,21 +3086,31 @@ if (offersList) {
         offersList.innerHTML = '<p class="offers-status">No special offers right now. Check back soon, or <a href="/contact/">contact me</a> for a fixed price on any route.</p>';
         return;
       }
-      // Filter by pickup: a dropdown of the distinct starting points.
+      // Filters: distinct pickups and destinations. A card shows only when it
+      // matches both the selected pickup and the selected destination.
       const froms = Array.from(new Set(offers.map((o) => o.route_from).filter(Boolean))).sort();
-      if (froms.length > 1 && !document.getElementById('offers-from')) {
+      const tos = Array.from(new Set(offers.map((o) => o.route_to).filter(Boolean))).sort();
+      if ((froms.length > 1 || tos.length > 1) && !document.getElementById('offers-from')) {
+        const opt = (arr) => arr.map((x) => '<option value="' + esc(x) + '">' + esc(x) + '</option>').join('');
         const fdiv = document.createElement('div');
         fdiv.className = 'offers-filter';
-        fdiv.innerHTML = '<label for="offers-from">Filter by pickup</label>' +
-          '<select id="offers-from"><option value="">All pickups</option>' +
-          froms.map((f) => '<option value="' + esc(f) + '">' + esc(f) + '</option>').join('') + '</select>';
+        fdiv.innerHTML =
+          '<div class="offers-filter__field"><label for="offers-from">Filter by pickup</label>' +
+          '<select id="offers-from"><option value="">All pickups</option>' + opt(froms) + '</select></div>' +
+          '<div class="offers-filter__field"><label for="offers-to">Filter by destination</label>' +
+          '<select id="offers-to"><option value="">All destinations</option>' + opt(tos) + '</select></div>';
         offersList.parentNode.insertBefore(fdiv, offersList);
-        fdiv.querySelector('#offers-from').addEventListener('change', function () {
-          const v = this.value;
+        const applyFilter = function () {
+          const vf = (document.getElementById('offers-from') || {}).value || '';
+          const vt = (document.getElementById('offers-to') || {}).value || '';
           offersList.querySelectorAll('.rlo').forEach((c) => {
-            c.style.display = (!v || c.getAttribute('data-from') === v) ? '' : 'none';
+            const okF = !vf || c.getAttribute('data-from') === vf;
+            const okT = !vt || c.getAttribute('data-to') === vt;
+            c.style.display = (okF && okT) ? '' : 'none';
           });
-        });
+        };
+        fdiv.querySelector('#offers-from').addEventListener('change', applyFilter);
+        fdiv.querySelector('#offers-to').addEventListener('change', applyFilter);
       }
 
       offersList.innerHTML = offers.map((o) => {
@@ -3129,7 +3139,7 @@ if (offersList) {
         const rail = (pct != null)
           ? '<span class="rlo__save-k">Save</span><span class="rlo__save-n">' + pct + '%</span><span class="rlo__save-s">on the empty<br>return run</span>'
           : '<span class="rlo__save-k">Special</span><span class="rlo__save-n rlo__save-word">Offer</span>';
-        return '<div class="rlo" data-from="' + esc(o.route_from) + '"' + (expires ? ' data-expires="' + expires + '"' : '') + '>' +
+        return '<div class="rlo" data-from="' + esc(o.route_from) + '" data-to="' + esc(o.route_to) + '"' + (expires ? ' data-expires="' + expires + '"' : '') + '>' +
           '<div class="rlo__save">' + rail + '</div>' +
           '<div class="rlo__body">' +
           '<div class="rlo__top"><span class="rlo__tag"><span class="rlo__dot"></span>Return-leg offer</span>' +
