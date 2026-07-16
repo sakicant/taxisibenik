@@ -3206,3 +3206,28 @@ if (cookieBanner) {
   if (accept) accept.addEventListener('click', () => { setConsent('accepted'); loadAnalytics(); });
   if (reject) reject.addEventListener('click', () => setConsent('rejected'));
 }
+
+// Lazy-load below-the-fold Trustindex widgets (reviews + footer certificates).
+// The hero rating badge stays a normal <script> so it renders instantly.
+(function () {
+  var lazies = document.querySelectorAll('.ti-lazy[data-src]');
+  if (!lazies.length) return;
+  function load(el) {
+    if (el.dataset.loaded) return;
+    el.dataset.loaded = '1';
+    var s = document.createElement('script');
+    s.src = el.getAttribute('data-src');
+    s.defer = true; s.async = true;
+    el.appendChild(s);
+  }
+  if (!('IntersectionObserver' in window)) {
+    lazies.forEach(load);
+    return;
+  }
+  var io = new IntersectionObserver(function (entries, obs) {
+    entries.forEach(function (e) {
+      if (e.isIntersecting) { load(e.target); obs.unobserve(e.target); }
+    });
+  }, { rootMargin: '600px' });
+  lazies.forEach(function (el) { io.observe(el); });
+})();
