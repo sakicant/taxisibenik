@@ -61,6 +61,22 @@ if ($action === 'delete' && $id > 0) {
                 $eo   = $eoIn === '' ? null : (float) $eoIn;
                 $ins->execute([$ef, $to, $date, $ws, $we, $ep, $eo, $capacity, $note, $status]);
             }
+
+            // Extra destinations: same pickup, date, window, capacity, note,
+            // status; each with its own destination and price = its own offer.
+            $exTo      = (array) ($_POST['extra_to'] ?? []);
+            $exToPrice = (array) ($_POST['extra_to_price'] ?? []);
+            $exToOrig  = (array) ($_POST['extra_to_original'] ?? []);
+            foreach ($exTo as $i => $rawTo) {
+                $et = mb_substr(trim((string) $rawTo), 0, 120);
+                $ep = (float) ($exToPrice[$i] ?? 0);
+                if ($et === '' || $ep <= 0) {
+                    continue;
+                }
+                $eoIn = trim((string) ($exToOrig[$i] ?? ''));
+                $eo   = $eoIn === '' ? null : (float) $eoIn;
+                $ins->execute([$from, $et, $date, $ws, $we, $ep, $eo, $capacity, $note, $status]);
+            }
         }
     }
 }

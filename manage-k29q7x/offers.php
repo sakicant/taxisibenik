@@ -94,6 +94,21 @@ function ev($v) { return $v === null ? '' : e($v); }
           <button type="button" class="offer-extra-remove" aria-label="Remove this pickup">&times;</button>
         </div>
       </template>
+
+      <fieldset class="offer-extra">
+        <legend>More destinations for the same trip (optional)</legend>
+        <p class="offer-extra-hint">Same pickup, date and time window as above &mdash; just a different destination and price. Each line is saved as its own offer.</p>
+        <div id="offer-extra-to-rows"></div>
+        <button type="button" class="admin-btn admin-btn-ghost" id="offer-add-dropoff">+ Add another destination</button>
+      </fieldset>
+      <template id="offer-extra-to-template">
+        <div class="offer-extra-row">
+          <label>Destination <input type="text" name="extra_to[]" class="js-extra-to" list="tx-locations" placeholder="Zadar Airport"></label>
+          <label>Price (&euro;) <input type="number" name="extra_to_price[]" step="1" min="1" placeholder="you set this"></label>
+          <label>Normal price (&euro;) <input type="number" name="extra_to_original[]" class="js-extra-to-normal" step="1" min="1" placeholder="auto"></label>
+          <button type="button" class="offer-extra-remove" aria-label="Remove this destination">&times;</button>
+        </div>
+      </template>
       <?php endif; ?>
       <datalist id="tx-locations"></datalist>
 
@@ -161,6 +176,40 @@ function ev($v) { return $v === null ? '' : e($v); }
           // When the shared destination changes, refresh every extra row too.
           if (to) to.addEventListener('change', function () {
             rows.querySelectorAll('.offer-extra-row').forEach(fillRow);
+          });
+        }
+
+        // Extra destinations: same pickup, different destination + price.
+        var addToBtn = document.getElementById('offer-add-dropoff');
+        var toRows = document.getElementById('offer-extra-to-rows');
+        var toTpl = document.getElementById('offer-extra-to-template');
+        function fillToRow(row) {
+          if (!window.txPrice || !from) return;
+          var d = row.querySelector('.js-extra-to');
+          var n = row.querySelector('.js-extra-to-normal');
+          if (!d || !n || n.dataset.manual) return;
+          var p = window.txPrice(from.value.trim(), d.value.trim());
+          if (p != null) n.value = p;
+        }
+        if (addToBtn && toRows && toTpl) {
+          addToBtn.addEventListener('click', function () {
+            toRows.appendChild(toTpl.content.cloneNode(true));
+          });
+          toRows.addEventListener('click', function (e) {
+            var btn = e.target.closest('.offer-extra-remove');
+            if (btn) btn.closest('.offer-extra-row').remove();
+          });
+          toRows.addEventListener('change', function (e) {
+            if (e.target.classList.contains('js-extra-to')) {
+              fillToRow(e.target.closest('.offer-extra-row'));
+            }
+          });
+          toRows.addEventListener('input', function (e) {
+            if (e.target.classList.contains('js-extra-to-normal')) e.target.dataset.manual = '1';
+          });
+          // When the shared pickup changes, refresh every extra destination row.
+          if (from) from.addEventListener('change', function () {
+            toRows.querySelectorAll('.offer-extra-row').forEach(fillToRow);
           });
         }
       })();

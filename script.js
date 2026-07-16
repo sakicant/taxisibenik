@@ -3090,27 +3090,38 @@ if (offersList) {
       // matches both the selected pickup and the selected destination.
       const froms = Array.from(new Set(offers.map((o) => o.route_from).filter(Boolean))).sort();
       const tos = Array.from(new Set(offers.map((o) => o.route_to).filter(Boolean))).sort();
-      if ((froms.length > 1 || tos.length > 1) && !document.getElementById('offers-from')) {
+      // Distinct dates: keep the raw value for matching, show it formatted.
+      // Undated offers group under a single "Flexible date" entry, listed last.
+      const dateVals = Array.from(new Set(offers.map((o) => o.offer_date || 'flexible')));
+      dateVals.sort((a, b) => (a === 'flexible' ? 1 : b === 'flexible' ? -1 : a.localeCompare(b)));
+      if ((froms.length > 1 || tos.length > 1 || dateVals.length > 1) && !document.getElementById('offers-from')) {
         const opt = (arr) => arr.map((x) => '<option value="' + esc(x) + '">' + esc(x) + '</option>').join('');
+        const dopt = dateVals.map((d) => '<option value="' + esc(d) + '">' +
+          esc(d === 'flexible' ? 'Flexible date' : fmtDate(d)) + '</option>').join('');
         const fdiv = document.createElement('div');
         fdiv.className = 'offers-filter';
         fdiv.innerHTML =
           '<div class="offers-filter__field"><label for="offers-from">Filter by pickup</label>' +
           '<select id="offers-from"><option value="">All pickups</option>' + opt(froms) + '</select></div>' +
           '<div class="offers-filter__field"><label for="offers-to">Filter by destination</label>' +
-          '<select id="offers-to"><option value="">All destinations</option>' + opt(tos) + '</select></div>';
+          '<select id="offers-to"><option value="">All destinations</option>' + opt(tos) + '</select></div>' +
+          '<div class="offers-filter__field"><label for="offers-date">Filter by date</label>' +
+          '<select id="offers-date"><option value="">All dates</option>' + dopt + '</select></div>';
         offersList.parentNode.insertBefore(fdiv, offersList);
         const applyFilter = function () {
           const vf = (document.getElementById('offers-from') || {}).value || '';
           const vt = (document.getElementById('offers-to') || {}).value || '';
+          const vd = (document.getElementById('offers-date') || {}).value || '';
           offersList.querySelectorAll('.rlo').forEach((c) => {
             const okF = !vf || c.getAttribute('data-from') === vf;
             const okT = !vt || c.getAttribute('data-to') === vt;
-            c.style.display = (okF && okT) ? '' : 'none';
+            const okD = !vd || c.getAttribute('data-date') === vd;
+            c.style.display = (okF && okT && okD) ? '' : 'none';
           });
         };
         fdiv.querySelector('#offers-from').addEventListener('change', applyFilter);
         fdiv.querySelector('#offers-to').addEventListener('change', applyFilter);
+        fdiv.querySelector('#offers-date').addEventListener('change', applyFilter);
       }
 
       offersList.innerHTML = offers.map((o) => {
@@ -3139,7 +3150,7 @@ if (offersList) {
         const rail = (pct != null)
           ? '<span class="rlo__save-k">Save</span><span class="rlo__save-n">' + pct + '%</span><span class="rlo__save-s">on the empty<br>return run</span>'
           : '<span class="rlo__save-k">Special</span><span class="rlo__save-n rlo__save-word">Offer</span>';
-        return '<div class="rlo" data-from="' + esc(o.route_from) + '" data-to="' + esc(o.route_to) + '"' + (expires ? ' data-expires="' + expires + '"' : '') + '>' +
+        return '<div class="rlo" data-from="' + esc(o.route_from) + '" data-to="' + esc(o.route_to) + '" data-date="' + esc(o.offer_date || 'flexible') + '"' + (expires ? ' data-expires="' + expires + '"' : '') + '>' +
           '<div class="rlo__save">' + rail + '</div>' +
           '<div class="rlo__body">' +
           '<div class="rlo__top"><span class="rlo__tag"><span class="rlo__dot"></span>Return-leg offer</span>' +
