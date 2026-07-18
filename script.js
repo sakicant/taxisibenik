@@ -3006,7 +3006,7 @@ if (bookingPageForm) {
       const data = await response.json().catch(() => null);
 
       if (response.ok && data && data.success) {
-        bookingPageNote.textContent = 'Thanks! Your booking request has been sent. Antonio will confirm shortly.';
+        bookingPageNote.textContent = 'Thanks! Your booking request has been received. Antonio will email you soon to confirm availability and send instructions for the advance payment that fully confirms your reservation.';
         bookingPageForm.reset();
       } else {
         bookingPageNote.textContent = (data && data.error) || 'Something went wrong. Please call or WhatsApp me instead.';

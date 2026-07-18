@@ -228,9 +228,9 @@ def build(frm, to, slug):
     wa = "https://wa.me/385994471013?text=" + quote(
         "Pozdravljeni Antonio, rad bi rezerviral prevoz %s (€%d).\n"
         "Moji podatki:\n- Datum prevzema: \n- Ura prevzema: \n- Potniki: \n- Naslov prevzema: \n- Moje ime: " % (rel, p))
-    trust_line = ("Takojšnja potrditev po e-pošti &middot; Brez skritih stroškov &middot; Spremljanje leta vključeno"
+    trust_line = ("Potrjeno po predplačilu &middot; Brez skritih stroškov &middot; Spremljanje leta vključeno"
                   if typ in ("to_airport", "from_airport")
-                  else "Takojšnja potrditev po e-pošti &middot; Brez skritih stroškov &middot; Fiksna cena, brez taksimetra")
+                  else "Potrjeno po predplačilu &middot; Brez skritih stroškov &middot; Fiksna cena, brez taksimetra")
 
     content = '''  <section id="hero" class="hero daytrip-hero">
     <div class="hero-bg">

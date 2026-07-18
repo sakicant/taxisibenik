@@ -246,9 +246,9 @@ def build(frm, to, slug):
     wa = "https://wa.me/385994471013?text=" + quote(
         "Ciao Antonio, vorrei prenotare il transfer %s (€%d).\n"
         "I miei dati:\n- Data di ritiro: \n- Ora di ritiro: \n- Passeggeri: \n- Indirizzo di ritiro: \n- Il mio nome: " % (rel, p))
-    trust_line = ("Conferma immediata via email &middot; Nessun costo nascosto &middot; Monitoraggio del volo incluso"
+    trust_line = ("Confermato dopo l'acconto &middot; Nessun costo nascosto &middot; Monitoraggio del volo incluso"
                   if typ in ("to_airport", "from_airport")
-                  else "Conferma immediata via email &middot; Nessun costo nascosto &middot; Prezzo fisso, senza tassametro")
+                  else "Confermato dopo l'acconto &middot; Nessun costo nascosto &middot; Prezzo fisso, senza tassametro")
 
     content = '''  <section id="hero" class="hero daytrip-hero">
     <div class="hero-bg">

@@ -151,7 +151,7 @@ SIG;
 $custSummaryHtml = nl2br(htmlspecialchars($summary, ENT_QUOTES, 'UTF-8'));
 $custBody = '<div style="font-family:sans-serif;font-size:14px;color:#000;line-height:1.6">'
     . '<p>Hi ' . htmlspecialchars($name, ENT_QUOTES, 'UTF-8') . ',</p>'
-    . '<p>Thank you for your booking request. I have received it and will get back to you as soon as I am available.</p>'
+    . '<p>Thank you for your booking request. I have received it and will email you soon to confirm availability and send instructions for the advance payment that fully confirms your reservation.</p>'
     . '<p><strong>Your request:</strong><br>' . $custSummaryHtml . '</p>'
     . '<p>If anything is wrong, just reply to this email.</p>'
     . '<p>Best regards,<br>Antonio Šakić</p>'
