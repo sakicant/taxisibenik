@@ -310,6 +310,12 @@ Options -Indexes
   RewriteRule ^taxi-zadar-airport-skradin/?$ https://taxiskradin.hr/taxi-zadar-airport-to-skradin/ [R=301,L]
   RewriteRule ^taxi-split-airport-skradin/?$ https://taxiskradin.hr/taxi-split-airport-to-skradin/ [R=301,L]
   RewriteRule ^taxi-skradin-split-airport/?$ https://taxiskradin.hr/taxi-skradin-to-split-airport/ [R=301,L]
+  RewriteRule ^taxi-skradin-trogir/?$ https://taxiskradin.hr/taxi-skradin-to-trogir/ [R=301,L]
+  RewriteRule ^taxi-trogir-skradin/?$ https://taxiskradin.hr/taxi-trogir-to-skradin/ [R=301,L]
+  RewriteRule ^taxi-skradin-makarska/?$ https://taxiskradin.hr/taxi-skradin-to-makarska/ [R=301,L]
+  RewriteRule ^taxi-makarska-skradin/?$ https://taxiskradin.hr/taxi-makarska-to-skradin/ [R=301,L]
+  RewriteRule ^taxi-skradin-roski-slap/?$ https://taxiskradin.hr/taxi-skradin-to-roski-slap/ [R=301,L]
+  RewriteRule ^skradin-winery-transfers/?$ https://taxiskradin.hr/skradin-winery-transfers/ [R=301,L]
 </IfModule>
 
 # Never allow the browser to fetch credentials, raw config, or the SQL schema,
