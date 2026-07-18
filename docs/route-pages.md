@@ -8,6 +8,7 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 
 | From | To | EN slug | One-way EUR |
 |---|---|---|---|
+| Šibenik | Skradin | `taxi-sibenik-to-skradin` | 50 |
 | Betina | Bilice | `taxi-betina-to-bilice` | 90 |
 | Betina | Bilo | `taxi-betina-to-bilo` | 110 |
 | Betina | Brodarica | `taxi-betina-to-brodarica` | 80 |

@@ -80,7 +80,13 @@ def build(frm, to, slug):
     rp = p * 2
     typ = route_type(frm, to)
     rev = slug_of.get((to, frm))
-    revlink = ('<a href="/%s/">%s to %s</a>' % (rev, to, frm)) if rev else ("%s to %s" % (to, frm))
+    if rev:
+        revlink = '<a href="/%s/">%s to %s</a>' % (rev, to, frm)
+    elif frm == "Šibenik" and to == "Skradin":
+        # The reverse leg (Skradin -> Šibenik) lives on the sister site taxiskradin.hr.
+        revlink = '<a href="https://taxiskradin.hr/taxi-skradin-to-sibenik/">%s to %s</a>' % (to, frm)
+    else:
+        revlink = "%s to %s" % (to, frm)
     book = book_link(frm, to, p)
 
     dd = DIST.get("%s|%s" % (frm, to))
