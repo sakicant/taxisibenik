@@ -1465,3 +1465,13 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Šibenik | Baraka Winery | `taxi-sibenik-to-baraka-winery` | 30 |
 | Šibenik | Sladić Winery | `taxi-sibenik-to-sladic-winery` | 60 |
 | Šibenik | Bibich Winery | `taxi-sibenik-to-bibich-winery` | 60 |
+| Šibenik | Biograd na Moru | `taxi-sibenik-to-biograd-na-moru` | 110 |
+| Biograd na Moru | Šibenik | `taxi-biograd-na-moru-to-sibenik` | 110 |
+| Šibenik | Pakoštane | `taxi-sibenik-to-pakostane` | 95 |
+| Pakoštane | Šibenik | `taxi-pakostane-to-sibenik` | 95 |
+| Šibenik | Marina Pakoštane | `taxi-sibenik-to-marina-pakostane` | 95 |
+| Marina Pakoštane | Šibenik | `taxi-marina-pakostane-to-sibenik` | 95 |
+| Šibenik | Sukošan | `taxi-sibenik-to-sukosan` | 130 |
+| Sukošan | Šibenik | `taxi-sukosan-to-sibenik` | 130 |
+| Šibenik | D-Marin Dalmacija | `taxi-sibenik-to-d-marin-dalmacija` | 130 |
+| D-Marin Dalmacija | Šibenik | `taxi-d-marin-dalmacija-to-sibenik` | 130 |

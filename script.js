@@ -34,6 +34,11 @@ const quoteWidget = document.getElementById('quote-widget');
 if (quoteWidget) {
   const PRICES = {
     "Šibenik - center": {
+      "Biograd na Moru": 110,
+      "Pakoštane": 95,
+      "Marina Pakoštane": 95,
+      "Sukošan": 130,
+      "D-Marin Dalmacija": 130,
       "Šibenik Bus Station": 10,
       "Šibenik Ferry Port": 10,
       "D-Marin Marina Mandalina Šibenik": 15,
@@ -2626,9 +2631,9 @@ if (quoteWidget) {
     { label: 'Airports', items: ['Split Airport (SPU)', 'Zadar Airport (ZAD)', 'Dubrovnik Airport (DBV)', 'Zagreb Airport (ZAG)'] },
     { label: 'NP Krka', items: ['NP Krka - Skradin entrance', 'NP Krka - Lozovac entrance', 'NP Krka - Roški Slap entrance'] },
     { label: 'Hotels', items: ['Amadria Park Hotel Šibenik', 'Amadria Park Camp', 'D-Resort Hotel Šibenik', 'Bellevue Superior Hotel Šibenik'] },
-    { label: 'Marinas', items: ['D-Marin Marina Mandalina Šibenik', 'Marina ACI Skradin', 'Marina Zaton', 'ACI Marina Vodice', 'Marina Tribunj', 'Marina Hramina', 'ACI Marina Jezera', 'Marina Betina', 'Marina Kremik', 'Marina Frapa', 'ACI Marina Trogir', 'Marina Trogir (SCT)', 'Marina Baotić', 'Marina Agana'] },
+    { label: 'Marinas', items: ['D-Marin Marina Mandalina Šibenik', 'Marina ACI Skradin', 'Marina Zaton', 'ACI Marina Vodice', 'Marina Tribunj', 'Marina Hramina', 'ACI Marina Jezera', 'Marina Betina', 'Marina Kremik', 'Marina Frapa', 'ACI Marina Trogir', 'Marina Trogir (SCT)', 'Marina Baotić', 'Marina Agana', 'Marina Pakoštane', 'D-Marin Dalmacija'] },
     { label: 'Wineries', items: ['Testament Winery', 'Rak Winery', 'Baraka Winery', 'Sladić Winery', 'Bibich Winery'] },
-    { label: 'Cities and towns', items: ['Vodice', 'Tribunj', 'Zaton', 'Srima', 'Skradin - center', 'Grebaštica', 'Tisno', 'Murter', 'Betina', 'Jezera', 'Bilo', 'Primošten', 'Rogoznica', 'Pirovac', 'Tromilja', 'Lozovac', 'Drniš', 'Knin', 'Perković', 'Zadar', 'Split', 'Dubrovnik', 'Zagreb', 'Trogir', 'Seget', 'Čiovo', 'Makarska', 'Novalja'] },
+    { label: 'Cities and towns', items: ['Vodice', 'Tribunj', 'Zaton', 'Srima', 'Skradin - center', 'Grebaštica', 'Tisno', 'Murter', 'Betina', 'Jezera', 'Bilo', 'Primošten', 'Rogoznica', 'Biograd na Moru', 'Pakoštane', 'Sukošan', 'Pirovac', 'Tromilja', 'Lozovac', 'Drniš', 'Knin', 'Perković', 'Zadar', 'Split', 'Dubrovnik', 'Zagreb', 'Trogir', 'Seget', 'Čiovo', 'Makarska', 'Novalja'] },
     { label: 'Plitvice', items: ['NP Plitvice Lakes'] }
   ];
 
