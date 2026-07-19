@@ -1,14 +1,14 @@
 {
   "slug": "special-offers",
-  "title": "Special Offers & Last-Minute Transfers | TAXI Antonio",
-  "description": "Last-minute and empty-leg taxi transfer offers around Šibenik at a discount. Grab a fixed pickup window and travel for less. Updated regularly.",
-  "keywords": "sibenik taxi offers, last minute transfer sibenik, cheap airport transfer sibenik, empty leg taxi croatia, discounted split airport transfer",
+  "title": "Šibenik Taxi Special Offers | Best-Price Transfer Deals",
+  "description": "Limited-time special offers on Šibenik taxi transfers: last-minute and empty-leg rides at the best price. Fixed fares, one driver, book before they are gone.",
+  "keywords": "sibenik taxi special offers, best price taxi transfer sibenik, limited time transfer offer, last minute taxi sibenik, cheap split airport transfer",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Special Offers & Last-Minute Transfers",
-    "description": "Last-minute and empty-leg taxi transfer offers around Šibenik at a discounted price.",
+    "name": "Šibenik Taxi Special Offers: Best-Price Transfer Deals",
+    "description": "Limited-time special offers on Šibenik taxi and transfer rides at the best price: last-minute and empty-leg deals, fixed fares.",
     "url": "https://taxisibenik.hr/special-offers/",
     "provider": {
       "@type": "LocalBusiness",
