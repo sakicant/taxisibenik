@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-tromilja-murter",
+  "title": "Taxi Tromilja - Murter | Precio fijo €95 | TAXI Antonio",
+  "description": "Taxi y traslado privado, Tromilja - Murter. Precio fijo €95 por vehículo, hasta 4 pasajeros, puerta a puerta. Reserve directamente con Antonio.",
+  "keywords": "taxi tromilja - murter, traslado tromilja - murter, traslado al aeropuerto tromilja - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Traslado privado en taxi",
+      "name": "Taxi Tromilja - Murter",
+      "description": "Taxi y traslado privado a precio fijo, Tromilja - Murter, 95 euros por vehículo para hasta 4 pasajeros, puerta a puerta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Tromilja",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/es/taxi-tromilja-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "95",
+        "priceCurrency": "EUR",
+        "description": "Trayecto privado de ida, Tromilja - Murter, por vehículo para hasta 4 pasajeros. Ida y vuelta 190 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿A qué distancia está el trayecto y cuánto dura el viaje?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El trayecto Tromilja - Murter tiene unos 42 km y dura alrededor de 55 min con tráfico normal, un poco más en plena temporada de verano. Planifico la recogida de modo que un trayecto lento nunca le meta prisa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto cuesta un taxi en el trayecto Tromilja - Murter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fijo 95 por vehículo para hasta 4 pasajeros, solo ida, equipaje incluido. Un viaje de ida y vuelta cuesta 190."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde me recoge?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En su dirección exacta, ya sea casa, hotel o apartamento. Envíe la dirección al reservar y le confirmo el punto de encuentro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Con cuánta antelación debo reservar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al menos 2 horas antes, para que pueda confirmar el vehículo y la hora de recogida. Para un viaje de última hora, llame o escriba por WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

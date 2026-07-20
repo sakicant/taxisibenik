@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-plitvice-lakes-national-park-split",
+  "title": "Celodnevni izlet na Plitvice iz Splita | Privatni transfer, fiksnih €650 | TAXI Antonio",
+  "description": "Privatni povratni taksi transfer na Plitvička jezera iz Splita. Fiksnih €650 po vozilu, do 4 putnika, od vrata do vrata iz splitskih hotela, kruzerske luke i starog grada. Nije tura, samo prevoz tamo i nazad.",
+  "keywords": "celodnevni izlet na plitvice iz splita, povratni transfer na plitvice, taksi do plitvica iz splita, plitvička jezera iz splita, split do plitvica",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privatni celodnevni izlet na Plitvička jezera iz Splita",
+      "description": "Privatni celodnevni izlet u Nacionalni park Plitvička jezera iz Splita sa lokalnim vozačem koji govori engleski. Fiksna cena od 650 evra po vozilu za do 4 putnika, sa preuzimanjem od vrata do vrata u splitskim hotelima, kruzerskoj luci, na autobuskoj i železničkoj stanici i u starom gradu.",
+      "touristType": "Priroda i razgledanje",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "650",
+        "priceCurrency": "EUR",
+        "description": "Privatno vozilo, povratna vožnja Split do Nacionalnog parka Plitvička jezera, do 4 putnika. Ulaznice za park nisu uključene."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Da li je ovo tura sa vodičem ili taksi transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ovo je taksi transfer, a ne tura sa vodičem. Antonio je lokalni vozač koji pruža privatni povratni transfer iz Splita do Plitvica i nazad. Dobijate vozilo i vožnju, a unutar parka slobodno istražujete sami, svojim tempom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi do Plitvica iz Splita?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privatni povratni transfer iz Splita do Plitvičkih jezera košta fiksnih 650 evra po vozilu za do 4 putnika, sa uključenim putarinama, gorivom i vremenom čekanja kod parka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko traje celodnevni izlet iz Splita na Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja traje oko dva i po do tri sata u jednom smeru, plus otprilike 4 do 6 sati za obilazak jezera. To je dug ceo dan, obično 11 do 12 sati od vrata do vrata, pa je rani polazak neophodan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li su ulaznice za Plitvice uključene u cenu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ne. Ulaznice se kupuju posebno od Nacionalnog parka Plitvička jezera, na ulazu ili preko interneta. Ulaznice koštaju otprilike 10 do 40 evra zavisno od sezone i uključuju panoramski voz i električni brod unutar parka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako se rezerviše i plaća celodnevni izlet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Avans od 20% (najmanje 20 evra) potvrđuje rezervaciju, bankovnim prenosom ili karticom, a dobijate račun kao potvrdu. Ostatak se plaća vozaču na dan vožnje, gotovinom ili karticom."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-primosten",
+  "title": "从 Primošten 出发的 Krka 一日游 | 私人接送，固定 €155 | TAXI Antonio",
+  "description": "从 Primošten 前往 Krka 的私人往返出租车接送。每车固定 155 欧元，最多 4 位乘客，从 Primošten、Zečevo 和 Rogoznica 的酒店和公寓门到门接送。不是旅行团，只是送您往返。",
+  "keywords": "从 primosten 出发的 krka 一日游, primosten 到 krka, primosten 打车去 krka, krka 接送 primosten, 从 rogoznica 去 krka, 从 zecevo 去 krka, primosten 到 krka 国家公园",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "从 Primošten 出发的 Krka 私人一日游",
+      "description": "由讲英语的本地司机驾驶，从 Primošten 前往 Krka 国家公园的私人一日游。每车固定 155 欧元，最多 4 位乘客，在 Primošten、Zečevo 一带和 Rogoznica 的酒店和公寓提供门到门接送。",
+      "touristType": "自然与观光",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "155",
+        "priceCurrency": "EUR",
+        "description": "私人车辆，Primošten 至 Krka 国家公园往返，最多 4 位乘客。不含公园门票。"
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "这是导游团还是出租车接送？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "这是出租车接送，不是导游团。Antonio 是一位本地司机，提供从 Primošten 到 Krka 的私人往返接送。您得到的是车辆和驾驶服务；在公园内您可以按自己的节奏自由游览。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "除了 Primošten，你们也在 Zečevo 一带和 Rogoznica 接客吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的。Zečevo 一带和 Rogoznica 的接送价格与 Primošten 相同。我会到任何酒店、公寓或别墅门口接您，包括 Rogoznica 的 Marina Frapa。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "从 Primošten 打车去 Krka 多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "从 Primošten 到 Krka 湖区的私人往返接送为每车固定 155 欧元，最多 4 位乘客，含油费和在公园的等待时间。Zečevo 一带和 Rogoznica 的接客价格相同。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "我们在 Krka 国家公园可以停留多久？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "大多数客人选择在公园内自由活动 3 到 4 小时，足以看完主要瀑布并走完经典的木栈道环线。预订时也可以约定更短或更长的停留时间。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "价格包含 Krka 门票吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不包含。门票需另行购买，直接在 Krka 国家公园的 Skradin 或 Lozovac 入口或网上购买。视季节票价约为 7 到 40 欧元。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "从 Primošten 到 Krka 的一日游怎么预订和付款？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "支付 20% 预付款（最低 20 欧元）即可确认预订，可通过银行转账或刷卡，并会收到发票作为确认。余款在当天付给司机，现金或刷卡均可。"
+          }
+        }
+      ]
+    }
+  ]
+}

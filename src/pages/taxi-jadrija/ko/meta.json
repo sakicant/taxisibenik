@@ -1,0 +1,90 @@
+{
+  "slug": "taxi-jadrija",
+  "title": "Taxi Jadrija | TAXI Antonio",
+  "description": "Taxi Jadrija: 시베니크 시내와 버스, 기차역까지 짧은 현지 이동과 스플리트, 자다르 공항까지 고정 요금 이동. 문 앞에서 픽업해 드립니다.",
+  "keywords": "taxi jadrija, 야드리야 택시, 야드리야 해변 택시, 야드리야 시베니크, 야드리야 공항 이동",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "지역 택시 및 공항 이동 서비스",
+      "name": "Taxi Jadrija",
+      "description": "시베니크 반도 끝의 Jadrija 해변에서 Šibenik 시내, 버스 및 기차역, 스플리트 공항, 자다르 공항까지 고정 요금으로 운행하는 프라이빗 택시입니다.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Jadrija",
+      "url": "https://taxisibenik.hr/ko/taxi-jadrija/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Jadrija 출발 택시 요금",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Jadrija에서 Šibenik까지 택시",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Jadrija&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Jadrija에서 Šibenik 버스 및 기차역까지 택시",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Jadrija&to=%C5%A0ibenik%20Bus%20Station&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Jadrija에서 스플리트 공항까지 택시",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Jadrija&to=Split%20Airport%20%28SPU%29&price=115"
+          },
+          {
+            "@type": "Offer",
+            "name": "Jadrija에서 자다르 공항까지 택시",
+            "price": "125",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Jadrija&to=Zadar%20Airport%20%28ZAD%29&price=125"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jadrija는 주로 짧은 현지 이동만 있나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네, 대부분은 시베니크 시내나 역까지 가는 짧은 이동입니다. 다만 필요하실 때는 스플리트와 자다르 공항까지 가는 긴 이동도 운행합니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "버스나 기차역까지 데려다주실 수 있나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. Šibenik의 버스터미널과 기차역은 서로 붙어 있으며, Jadrija에서 출발하면 차량당 €30 고정 요금입니다."
+          }
+        }
+      ]
+    }
+  ]
+}

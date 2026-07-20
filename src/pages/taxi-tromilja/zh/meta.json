@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-tromilja",
+  "title": "Tromilja 出租车 | TAXI Antonio",
+  "description": "Tromilja 出租车：从这个 Bilice 附近的宁静内陆村落出发，固定价格接送前往 Split（90 €）和 Zadar 机场，以及往返 Šibenik。",
+  "keywords": "tromilja 出租车, tromilja taxi, tromilja 机场接送, tromilja 到 split 机场, tromilja 到 sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "本地出租车与机场接送",
+      "name": "Tromilja 出租车",
+      "description": "从 Bilice 附近的宁静内陆村落 Tromilja 出发的私人固定价格出租车，前往 Split 机场、Zadar 机场和 Šibenik。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Tromilja",
+      "url": "https://taxisibenik.hr/zh/taxi-tromilja/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "从 Tromilja 出发的出租车价格",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Tromilja 到 Šibenik 出租车",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Tromilja&to=%C5%A0ibenik%20-%20center&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Tromilja 到 Split 机场出租车",
+            "price": "90",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Tromilja&to=Split%20Airport%20%28SPU%29&price=90"
+          },
+          {
+            "@type": "Offer",
+            "name": "Tromilja 到 Zadar 机场出租车",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Tromilja&to=Zadar%20Airport%20%28ZAD%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "您能从 Tromilja 送我去 Krka 瀑布吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。Tromilja 离 Krka 国家公园很近，我提供含等候时间的一日游，您可以从容游览。详情请见我的一日游页面，我会为您确认价格。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Tromilja 到 Split 机场多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "每车固定 €90，最多 4 位乘客，已包含过路费、燃油和行李。"
+          }
+        }
+      ]
+    }
+  ]
+}

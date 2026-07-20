@@ -1,0 +1,21 @@
+{
+  "slug": "special-offers",
+  "title": "Specialerbjudanden taxi Šibenik | Transfer till bästa pris",
+  "description": "Tidsbegränsade specialerbjudanden på taxitransfer i Šibenik: sista minuten och tomma returresor till bästa pris. Fasta priser, en chaufför, boka innan de tar slut.",
+  "keywords": "specialerbjudanden taxi sibenik, bästa pris transfer sibenik, tidsbegränsat transfererbjudande, sista minuten taxi sibenik, billig transfer split flygplats",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Specialerbjudanden taxi Šibenik: transfer till bästa pris",
+    "description": "Tidsbegränsade specialerbjudanden på taxi och transfer i Šibenik till bästa pris: sista minuten och tomma returresor, fasta priser.",
+    "url": "https://taxisibenik.hr/sv/special-offers/",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Taxi Antonio",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" }
+    }
+  }
+}

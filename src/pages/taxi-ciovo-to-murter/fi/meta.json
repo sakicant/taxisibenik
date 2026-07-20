@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-ciovo-murter",
+  "title": "Taksi Čiovo - Murter | Kiinteä hinta €165 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Čiovo - Murter. Kiinteä hinta €165 per auto, enintään 4 matkustajaa, ovelta ovelle. Varaa suoraan Antoniolta.",
+  "keywords": "taksi čiovo - murter, kuljetus čiovo - murter, lentokenttäkuljetus čiovo - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Čiovo - Murter",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Čiovo - Murter, 165 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-ciovo-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "165",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Čiovo - Murter, per auto enintään 4 matkustajalle. Meno ja paluu 330 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Paljonko taksi maksaa reitillä Čiovo - Murter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 165 per auto enintään 4 matkustajalle, yhdensuuntainen matka, matkatavarat mukana. Meno-paluumatka maksaa 330."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mistä noudatte minut?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tarkasta osoitteestasi, olipa se talo, hotelli tai huoneisto. Lähetä osoite varauksen yhteydessä, niin vahvistan tapaamispaikan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin vahvistaa auton ja noutoajan. Lyhyellä varoitusajalla soita tai kirjoita WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

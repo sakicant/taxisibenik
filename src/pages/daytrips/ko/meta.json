@@ -1,0 +1,75 @@
+{
+  "slug": "daytrips",
+  "title": "시베니크 당일 여행 | 프라이빗 크르카 & 플리트비체 | TAXI Antonio",
+  "description": "시베니크와 달마티아 전역에서 출발하는 크르카 국립공원과 플리트비체 호수 프라이빗 당일 여행. 현지 기사와 함께하는 고정 요금 도어투도어 왕복 이동. 투어가 아니라 오가는 이동 서비스입니다.",
+  "keywords": "시베니크 당일 여행, 시베니크 데이트립, 크로아티아 프라이빗 당일 여행, 크르카 당일 여행, 플리트비체 당일 여행, 크르카 여행, 플리트비체 여행",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private day trips and excursions",
+      "name": "시베니크와 달마티아 출발 당일 여행",
+      "description": "시베니크 현지 기사와 함께하는 크르카 국립공원과 플리트비체 호수 프라이빗 고정 요금 당일 여행. 시베니크, Vodice, Primošten, 스플리트, 자다르에서 출발하는 도어투도어 왕복 이동, 차량 1대당 최대 4명.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "152" }
+      },
+      "areaServed": ["Šibenik", "Vodice", "Primošten", "Split", "Zadar"],
+      "url": "https://taxisibenik.hr/ko/daytrips/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "달마티아 출발 프라이빗 당일 여행",
+        "itemListElement": [
+          { "@type": "Offer", "name": "시베니크 출발 크르카 당일 여행", "price": "100", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/ko/day-trip-krka-national-park-sibenik/" },
+          { "@type": "Offer", "name": "Vodice 출발 크르카 당일 여행", "price": "125", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/ko/day-trip-krka-national-park-vodice/" },
+          { "@type": "Offer", "name": "Primošten 출발 크르카 당일 여행", "price": "155", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/ko/day-trip-krka-national-park-primosten/" },
+          { "@type": "Offer", "name": "자다르 출발 크르카 당일 여행", "price": "260", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/ko/day-trip-krka-national-park-zadar/" },
+          { "@type": "Offer", "name": "스플리트 출발 크르카 당일 여행", "price": "290", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/ko/day-trip-krka-national-park-split/" },
+          { "@type": "Offer", "name": "시베니크 출발 플리트비체 당일 여행", "price": "500", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/ko/day-trip-plitvice-lakes-national-park-sibenik/" },
+          { "@type": "Offer", "name": "스플리트 출발 플리트비체 당일 여행", "price": "650", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/ko/day-trip-plitvice-lakes-national-park-split/" }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "시베니크에서 어떤 당일 여행을 예약할 수 있나요?",
+          "acceptedAnswer": { "@type": "Answer", "text": "가장 인기 있는 두 가지 당일 여행은 크르카 국립공원과 플리트비체 호수 국립공원입니다. 두 여행 모두 호텔이나 아파트 문 앞에서 출발하는 프라이빗 고정 요금 왕복 이동이며, 공원 안에서는 각자의 속도로 둘러보실 자유 시간이 주어집니다." }
+        },
+        {
+          "@type": "Question",
+          "name": "가이드 투어인가요, 택시 이동인가요?",
+          "acceptedAnswer": { "@type": "Answer", "text": "가이드가 있는 단체 투어가 아니라 프라이빗 택시 이동입니다. Antonio는 편안한 Škoda Superb로 모셔다드리고 다시 모셔 오는 현지 기사입니다. 공원 안에서는 가이드도, 단체 동행도 없이 자유롭게 둘러보시면 됩니다." }
+        },
+        {
+          "@type": "Question",
+          "name": "크르카나 플리트비체 당일 여행 요금은 얼마인가요?",
+          "acceptedAnswer": { "@type": "Answer", "text": "프라이빗 크르카 당일 여행은 시베니크 출발 기준 차량 1대당 고정 100유로부터 시작합니다. 플리트비체 호수 당일 여행은 시베니크 출발 기준 차량 1대당 500유로입니다. 요금은 최대 4명까지 차량 1대 기준이며 출발 도시에 따라 달라집니다." }
+        },
+        {
+          "@type": "Question",
+          "name": "시베니크 외의 도시에서도 픽업하나요?",
+          "acceptedAnswer": { "@type": "Answer", "text": "네. 크르카 당일 여행은 시베니크, Vodice, Primošten, 자다르, 스플리트에서 출발하고, 플리트비체 당일 여행은 시베니크와 스플리트에서 출발합니다. 각 도시마다 고정 요금과 상세 내용을 담은 페이지가 있습니다." }
+        },
+        {
+          "@type": "Question",
+          "name": "공원 입장권이 포함되어 있나요?",
+          "acceptedAnswer": { "@type": "Answer", "text": "아니요. 요금에는 프라이빗 이동과 대기 시간만 포함됩니다. 크르카와 플리트비체 입장권은 입구나 온라인에서 따로 구매하시며, 시즌에 따라 약 7유로에서 40유로 정도입니다." }
+        },
+        {
+          "@type": "Question",
+          "name": "당일 여행은 어떻게 예약하나요?",
+          "acceptedAnswer": { "@type": "Answer", "text": "WhatsApp으로 메시지를 보내시거나, 전화하시거나, 문의 페이지를 이용해 주세요. 20%의 선입금(최소 20유로)으로 날짜가 확정되며, 잔액은 당일 기사에게 지불하시면 됩니다." }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "special-offers",
+  "title": "시베니크 택시 특가 | 최저가 이동 서비스 혜택",
+  "description": "시베니크 택시 이동의 기간 한정 특가: 막바지 예약과 공차 회송 구간을 최저가로 이용하세요. 고정 요금, 기사 한 명, 마감 전에 예약하세요.",
+  "keywords": "시베니크 택시 특가, 시베니크 최저가 택시 이동, 기간 한정 이동 특가, 시베니크 막바지 택시, 저렴한 스플리트 공항 이동",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "시베니크 택시 특가: 최저가 이동 서비스 혜택",
+    "description": "시베니크 택시 및 이동 서비스의 기간 한정 특가: 막바지 예약과 공차 회송 혜택을 최저가 고정 요금으로 제공합니다.",
+    "url": "https://taxisibenik.hr/ko/special-offers/",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Taxi Antonio",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" }
+    }
+  }
+}

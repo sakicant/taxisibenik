@@ -1,0 +1,60 @@
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">연락하기</span>
+      <h1>TAXI Šibenik 문의</h1>
+      <p class="page-hero-sub">콜센터가 아니라 저와 직접 연결됩니다. 전화, WhatsApp, 또는 아래 양식으로 메시지를 보내 주세요.</p>
+      <div class="hero-actions">
+        <a href="tel:+385994471013" class="btn btn-primary">지금 택시 전화하기</a>
+        <a href="https://wa.me/385994471013?text=Hello%20Antonio%2C%20I%20found%20you%20through%20your%20website%20taxisibenik.hr%20and%20I%20have%20an%20inquiry%3A%20" target="_blank" rel="noopener" class="btn btn-secondary">WhatsApp 메시지 보내기</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="contact contact-page">
+    <div class="container contact-inner">
+      <div class="contact-info">
+        <span class="eyebrow">서비스</span>
+        <ul class="contact-details">
+          <li><a href="/ko/">시베니크 현지 택시</a></li>
+          <li><a href="https://taxiskradin.hr" target="_blank" rel="noopener">스크라딘 택시</a></li>
+          <li><a href="/ko/airport-transfers-from-sibenik/">공항 이동</a></li>
+          <li><a href="/ko/sibenik-transfers/">도시 간 이동</a></li>
+          <li><a href="/ko/daytrips/">당일 여행</a></li>
+        </ul>
+      </div>
+
+      <form class="contact-form" id="contact-form" action="/contact.php" method="POST">
+        <input type="text" name="company" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <h3>메시지 보내기</h3>
+        <label for="name">이름</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">이메일</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="phone">WhatsApp 번호 (선택)</label>
+        <input type="tel" id="phone" name="phone" placeholder="국가 번호를 포함해 주세요">
+
+        <label for="topic">문의 주제</label>
+        <select id="topic" name="topic" required>
+          <option value="General inquiry">일반 문의</option>
+          <option value="Booking">예약</option>
+          <option value="Quote request">견적 요청</option>
+          <option value="Day trip">당일 여행</option>
+          <option value="Partnership proposal">제휴 제안</option>
+          <option value="Complaint">불만 사항</option>
+          <option value="Other">기타</option>
+        </select>
+
+        <label for="message">메시지</label>
+        <textarea id="message" name="message" rows="5" required placeholder="픽업 장소, 날짜, 목적지를 알려 주세요..."></textarea>
+
+        <label class="form-consent">
+          <input type="checkbox" name="consent" value="1" required>
+          <span><a href="/ko/privacy-policy/">개인정보 처리방침</a>을 읽었으며 이에 동의합니다.</span>
+        </label>
+        <button type="submit" class="btn btn-primary">메시지 보내기</button>
+        <p class="form-note" id="form-note"></p>
+      </form>
+    </div>
+  </section>

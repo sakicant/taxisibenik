@@ -1,0 +1,145 @@
+{
+  "slug": "amadria-park-sibenik-transfers",
+  "title": "Traslados Amadria Park | Precios fijos | TAXI Antonio",
+  "description": "Traslados privados hacia y desde Amadria Park Šibenik, sus hoteles y su camping. Precios fijos reservando con antelación: aeropuerto de Split 95 €, aeropuerto de Zadar 130 €, Krka desde 45 €. Puerta a puerta, un solo conductor local.",
+  "keywords": "traslados amadria park, taxi amadria park, traslado amadria park sibenik, traslado aeropuerto amadria park, taxi solaris sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Traslados de taxi al aeropuerto y por la ciudad para hoteles",
+      "name": "Traslados Amadria Park Šibenik",
+      "description": "Traslados privados de taxi a precio fijo hacia y desde el resort Amadria Park de Šibenik, cubriendo todos los hoteles del resort y el camping. Traslados al aeropuerto, traslados entre ciudades y excursiones a Krka, reservados con antelación a un precio acordado de antemano.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Amadria Park Šibenik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/es/amadria-park-sibenik-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Precios fijos de traslado desde Amadria Park",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Amadria Park al aeropuerto de Split",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park al aeropuerto de Zadar",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park al aeropuerto de Zagreb",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park al aeropuerto de Dubrovnik",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park al centro de Šibenik",
+            "price": "18",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park al Parque Nacional de Krka (Lozovac)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park a Split",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park a Zadar",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuánto cuesta un taxi de Amadria Park al aeropuerto de Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un traslado privado de Amadria Park al aeropuerto de Split cuesta 95 euros fijos por coche para hasta 4 pasajeros, reservando con antelación. Peajes, combustible y equipaje están incluidos, y el precio es el mismo en ambos sentidos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Recogen en todos los hoteles de Amadria Park y en el camping?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Recojo en la puerta de todos los hoteles del resort y en la recepción del Amadria Park Camp, a los mismos precios fijos. Dígame el nombre de su hotel al reservar y le confirmo el punto de encuentro exacto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Debo reservar mi traslado a Amadria Park con antelación?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Todos los precios indicados son precios fijos para traslados reservados con antelación. Reservar antes garantiza el coche, la hora de recogida y el precio, algo especialmente importante para vuelos tempranos y en temporada alta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Recibe a los clientes que llegan al aeropuerto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Para las llegadas sigo su vuelo en tiempo real, espero en la sala de llegadas con un cartel con su nombre y le llevo directo a su hotel de Amadria Park o al camping. La espera por vuelos retrasados es gratuita."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Pueden llevarnos de Amadria Park al Parque Nacional de Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Un traslado de ida a la entrada de Lozovac cuesta 45 euros y a la entrada de Skradin 50 euros. También ofrezco una excursión privada de día completo con tiempo de espera incluido y recogida en su hotel de Amadria Park."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo se paga el traslado?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un anticipo del 20% (mínimo 20 euros) confirma la reserva, por transferencia bancaria o tarjeta. El resto se paga al conductor el mismo día, en efectivo o con tarjeta."
+          }
+        }
+      ]
+    }
+  ]
+}

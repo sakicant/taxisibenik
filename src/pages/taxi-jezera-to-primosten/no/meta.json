@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-jezera-primosten",
+  "title": "Taxi Jezera - Primošten | Fastpris €105 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Jezera - Primošten. Fastpris €105 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi jezera - primošten, transport jezera - primošten, flyplasstransport jezera - primošten",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Jezera - Primošten",
+      "description": "Privat taxi og transport til fastpris, strekningen Jezera - Primošten, 105 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Jezera",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-jezera-primosten/",
+      "offers": {
+        "@type": "Offer",
+        "price": "105",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Jezera - Primošten, per bil for opptil 4 passasjerer. Tur og retur 210 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er strekningen og hvor lenge tar turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på strekningen Jezera - Primošten er rundt 56 km lang og tar omtrent 70 min ved normal trafikk, litt lenger i høysesongen om sommeren. Jeg planlegger henting slik at en langsom strekning aldri gjør deg stresset."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster en taxi på strekningen Jezera - Primošten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 105 per bil for opptil 4 passasjerer, en vei, bagasje inkludert. Tur og retur koster 210."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor henter du meg?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "På den nøyaktige adressen din, enten det er hus, hotell eller leilighet. Send adressen ved bestilling, så bekrefter jeg møtestedet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan bekrefte bil og hentetidspunkt. For en tur på kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

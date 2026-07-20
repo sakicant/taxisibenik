@@ -245,8 +245,13 @@ def build(frm, to, slug):
         for h, t in whys)
 
     wa = "https://wa.me/385994471013?text=" + quote(
-        "Hallo Antonio, ich möchte den Transfer %s (€%d) buchen.\n"
-        "Meine Angaben:\n- Abholdatum: \n- Abholzeit: \n- Fahrgäste: \n- Abholadresse: \n- Mein Name: " % (rel, p))
+        """Hi Antonio, I would like to book the %s to %s transfer (€%d).
+My details:
+- Pickup date:
+- Pickup time:
+- Passengers:
+- Pickup address:
+- My name: """ % (frm, to, p))
     trust_line = ("Bestätigt nach Anzahlung &middot; Keine versteckten Kosten &middot; Flugüberwachung inklusive"
                   if typ in ("to_airport", "from_airport")
                   else "Bestätigt nach Anzahlung &middot; Keine versteckten Kosten &middot; Festpreis, kein Taxameter")

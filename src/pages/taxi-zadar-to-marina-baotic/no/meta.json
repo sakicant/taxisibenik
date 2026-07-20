@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zadar-marina-baotic",
+  "title": "Taxi Zadar - Marina Baotić | Fastpris €210 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Zadar - Marina Baotić. Fastpris €210 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi zadar - marina baotić, transport zadar - marina baotić, flyplasstransport zadar - marina baotić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Zadar - Marina Baotić",
+      "description": "Privat taxi og transport til fastpris, strekningen Zadar - Marina Baotić, 210 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Marina Baotić"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-zadar-marina-baotic/",
+      "offers": {
+        "@type": "Offer",
+        "price": "210",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Zadar - Marina Baotić, per bil for opptil 4 passasjerer. Tur og retur 420 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster en transport på strekningen Zadar - Marina Baotić?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 210 per bil for opptil 4 passasjerer, en vei, med bompenger, drivstoff og bagasje. Tur og retur koster 420."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du hente rett ved marinaen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg møter deg ved inngangen eller i resepsjonen til marinaen og hjelper med bagasjen, slik at du går rett fra bryggen til bilen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du tilpasse transporten til båten min?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Send meg charter-, innsjekk- eller avgangstiden din ved bestilling, så planlegger jeg hentingen rundt den."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan bekrefte bil og hentetidspunkt. For en tur på kort varsel, ring eller skriv til meg direkte på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

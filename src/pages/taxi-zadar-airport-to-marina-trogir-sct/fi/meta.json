@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zadar-lentoasema-marina-trogir-sct",
+  "title": "Taksi Zadarin lentoasema - Marina Trogir (SCT) | Kiinteä hinta €215 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Zadarin lentoasema - Marina Trogir (SCT). Kiinteä hinta €215 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi zadarin lentoasema - marina trogir (sct), kuljetus zadarin lentoasema - marina trogir (sct), lentokenttäkuljetus zadarin lentoasema - marina trogir (sct)",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Zadarin lentoasema - Marina Trogir (SCT)",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Zadarin lentoasema - Marina Trogir (SCT), 215 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadarin lentoasema",
+        "Marina Trogir (SCT)"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-zadar-lentoasema-marina-trogir-sct/",
+      "offers": {
+        "@type": "Offer",
+        "price": "215",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Zadarin lentoasema - Marina Trogir (SCT), per auto enintään 4 matkustajalle. Meno ja paluu 430 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Missä otatte minut vastaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Saapumisaulassa, heti matkatavaroiden noudon jälkeen, kyltillä jossa on nimesi. Autan matkatavaroiden kanssa ja saatan sinut autolle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Entä jos lentoni on myöhässä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ei ongelmaa. Seuraan lentoasi reaaliajassa ja mukautan noudon todelliseen laskeutumiseen, ilman lisämaksua odotusajasta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko kuljetus maksaa reitillä Zadarin lentoasema - Marina Trogir (SCT)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 215 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatka maksaa 430."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin suunnitella lentosi ympärille. Saman päivän noutoa varten lyhyen muutoksen jälkeen soita tai kirjoita WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

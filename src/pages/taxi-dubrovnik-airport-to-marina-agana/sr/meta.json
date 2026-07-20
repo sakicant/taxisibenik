@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aerodrom-dubrovnik-marina-agana",
+  "title": "Taksi Aerodrom Dubrovnik - Marina Agana | Fiksna cena €420 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Aerodrom Dubrovnik - Marina Agana. Fiksno €420 po vozilu, do 4. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi aerodrom dubrovnik - marina agana, transfer aerodrom dubrovnik - marina agana, prevoz aerodrom dubrovnik - marina agana",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Aerodrom Dubrovnik - Marina Agana",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Aerodrom Dubrovnik - Marina Agana, 420 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Aerodrom Dubrovnik",
+        "Marina Agana"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-aerodrom-dubrovnik-marina-agana/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Aerodrom Dubrovnik - Marina Agana, po vozilu za do 4 putnika. Povratno 840 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Gde me dočekujete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "U dolaznoj zoni, odmah nakon preuzimanja prtljaga, s natpisom s vašim imenom. Pomažem s prtljagom i vodim vas do vozila."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Šta ako mi let kasni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nema problema. Let pratim u realnom vremenu i prilagođavam preuzimanje stvarnom sletanju, bez dodatne naplate čekanja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta transfer na relaciji Aerodrom Dubrovnik - Marina Agana?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 420 po vozilu za do 4 putnika, jedan smer, putarine i prtljag uključeni. Povratna vožnja je 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da planiram prema vašem letu. Za isti dan nakon nagle promene pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

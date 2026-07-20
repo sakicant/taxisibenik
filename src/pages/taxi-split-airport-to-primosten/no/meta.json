@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-split-lufthavn-primosten",
+  "title": "Taxi Split lufthavn - Primošten | Fastpris €80 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Split lufthavn - Primošten. Fastpris €80 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi split lufthavn - primošten, transport split lufthavn - primošten, flyplasstransport split lufthavn - primošten",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Split lufthavn - Primošten",
+      "description": "Privat taxi og transport til fastpris, strekningen Split lufthavn - Primošten, 80 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Split lufthavn",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-split-lufthavn-primosten/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Split lufthavn - Primošten, per bil for opptil 4 passasjerer. Tur og retur 160 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er strekningen og hvor lenge tar turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på strekningen Split lufthavn - Primošten er rundt 38 km lang og tar omtrent 45 min ved normal trafikk, litt lenger i høysesongen om sommeren. Jeg planlegger henting slik at en langsom strekning aldri gjør deg stresset."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor tar du imot meg?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I ankomsthallen, rett etter bagasjeutleveringen, med et skilt med navnet ditt. Jeg hjelper med bagasjen og følger deg til bilen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hva om flyet mitt er forsinket?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ikke noe problem. Jeg følger flyet ditt i sanntid og tilpasser hentingen til den faktiske landingen, uten tillegg for ventetiden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster transporten på strekningen Split lufthavn - Primošten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 80 per bil for opptil 4 passasjerer, en vei, bompenger og bagasje inkludert. Tur og retur koster 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan planlegge rundt flyet ditt. For en henting samme dag etter en endring på kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

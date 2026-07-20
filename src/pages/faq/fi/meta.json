@@ -1,0 +1,79 @@
+{
+  "slug": "frequently-asked-questions",
+  "title": "Usein kysytyt kysymykset | TAXI Antonio",
+  "description": "Nopeat vastaukset varauksesta, hinnoista ja paikallisista matkoista Šibenikin ympäristössä.",
+  "keywords": "usein kysytyt kysymykset",
+  "og_image": "https://taxisibenik.hr/assets/og-image.png",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Miten varaan taksin Šibenikistä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Soita numeroon +385 99 447 1013, lähetä minulle viesti WhatsAppissa tai sähköpostia. Tarvitsen noutopaikkasi, määränpääsi ja toivotun nouto- tai saapumisajan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun tulisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Otan vastaan viime hetken pyyntöjä työaikojeni puitteissa, mutta etukäteen varaaminen takaa saatavuuden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mitä \"kiinteä hinta\" tarkoittaa? Mitä siihen sisältyy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteisiin hintoihini sisältyvät kuljetus, polttoaine, tietullit ja apu matkatavaroiden kanssa. Ei piilokuluja. Lisäpysähdykset tai pitkät odotukset voivat maksaa enemmän, ja kerron siitä aina etukäteen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Otatko ennakkomaksuja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Varauksen vahvistaminen edellyttää 20 %:n ennakkomaksua (vähintään 20 euroa). Enintään 20 euron kyydit edellyttävät koko summan maksamista etukäteen. Voit halutessasi maksaa myös koko summan etukäteen. Ennakkomaksut voi suorittaa tilisiirrolla (SEPA) tai kortilla, ja loppusumma maksetaan minulle kuljetuspäivänä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Teetkö noutoja Šibenikin sairaalasta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Vien matkustajia Šibenikin yleissairaalaan ja sieltä pois, ja saan ajaa sairaala-alueelle, joten pitkää kävelyä parkkipaikalta ei tarvita. Kerro jos tarvitset apua sisäänkäynnille asti."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voitko viedä minut lautalle saarille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Jätän ja noudan Šibenikin lautta- ja katamaraanisatamasta, josta lähdetään Zlarinille, Prvićille, Kaprijelle ja Žirjelle, sekä veneelle Obonjaniin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Noudatko Šibenikin hotelleista sekä linja-auto- ja rautatieasemilta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Palvelen kaikkia paikallisia hotelleja, linja-autoasemaa, Šibenikin ja Perkovićin rautatieasemia sekä lauttasatamaa, apuna matkatavaroissa ja nimikyltti pyynnöstä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hyväksytkö korttimaksut autossa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä, hyväksyn kortit ja muut lähimaksutavat."
+          }
+        }
+      ]
+    }
+  ]
+}

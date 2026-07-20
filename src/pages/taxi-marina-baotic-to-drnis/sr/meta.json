@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-baotic-drnis",
+  "title": "Taksi Marina Baotić - Drniš | Fiksna cena €80 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Marina Baotić - Drniš. Fiksno €80 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi marina baotić - drniš, transfer marina baotić - drniš, prevoz marina baotić - drniš",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Marina Baotić - Drniš",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Marina Baotić - Drniš, 80 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Baotić",
+        "Drniš"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-marina-baotic-drnis/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Marina Baotić - Drniš, po vozilu za do 4 putnika. Povratno 160 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko košta transfer na relaciji Marina Baotić - Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 80 po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Povratna vožnja je 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Možete li da me preuzmete u samoj marini?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Dočekujem vas na ulazu u marinu ili na recepciji i pomažem s prtljagom, da s pontona odmah dođete do vozila."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Možete li da uskladite transfer s mojim plovilom?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Pošaljite mi vreme najma, prijave ili polaska pri rezervaciji i planiram preuzimanje prema njemu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da potvrdim vozilo i vreme preuzimanja. Za brži termin pozovite ili pišite direktno na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

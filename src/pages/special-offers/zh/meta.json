@@ -1,0 +1,21 @@
+{
+  "slug": "special-offers",
+  "title": "Šibenik 出租车特价优惠 | 最优价格接送折扣",
+  "description": "Šibenik 出租车接送的限时特价：最后一刻和空驶回程行程，价格最优。固定车费，一位司机，售完即止，尽快预订。",
+  "keywords": "sibenik 出租车特价, sibenik 最优价格接送, 限时接送优惠, sibenik 最后一刻打车, 便宜的斯普利特机场接送",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Šibenik 出租车特价优惠：最优价格接送折扣",
+    "description": "Šibenik 出租车和接送行程的限时特价，价格最优：最后一刻和空驶回程折扣，固定车费。",
+    "url": "https://taxisibenik.hr/zh/special-offers/",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Taxi Antonio",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" }
+    }
+  }
+}

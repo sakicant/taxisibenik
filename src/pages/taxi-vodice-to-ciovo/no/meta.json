@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-vodice-ciovo",
+  "title": "Taxi Vodice - Čiovo | Fastpris €125 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Vodice - Čiovo. Fastpris €125 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi vodice - čiovo, transport vodice - čiovo, flyplasstransport vodice - čiovo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Vodice - Čiovo",
+      "description": "Privat taxi og transport til fastpris, strekningen Vodice - Čiovo, 125 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Vodice",
+        "Čiovo"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-vodice-ciovo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Vodice - Čiovo, per bil for opptil 4 passasjerer. Tur og retur 250 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster en taxi på strekningen Vodice - Čiovo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 125 per bil for opptil 4 passasjerer, en vei, bagasje inkludert. Tur og retur koster 250."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor henter du meg?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "På den nøyaktige adressen din, enten det er hus, hotell eller leilighet. Send adressen ved bestilling, så bekrefter jeg møtestedet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan bekrefte bil og hentetidspunkt. For en tur på kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

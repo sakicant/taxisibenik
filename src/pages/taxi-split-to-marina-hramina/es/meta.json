@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-split-marina-hramina",
+  "title": "Taxi Split - Marina Hramina | Precio fijo €180 | TAXI Antonio",
+  "description": "Taxi y traslado privado, Split - Marina Hramina. Precio fijo €180 por vehículo, hasta 4 pasajeros, puerta a puerta. Reserve directamente con Antonio.",
+  "keywords": "taxi split - marina hramina, traslado split - marina hramina, traslado al aeropuerto split - marina hramina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Traslado privado en taxi",
+      "name": "Taxi Split - Marina Hramina",
+      "description": "Taxi y traslado privado a precio fijo, Split - Marina Hramina, 180 euros por vehículo para hasta 4 pasajeros, puerta a puerta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Split",
+        "Marina Hramina"
+      ],
+      "url": "https://taxisibenik.hr/es/taxi-split-marina-hramina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "180",
+        "priceCurrency": "EUR",
+        "description": "Trayecto privado de ida, Split - Marina Hramina, por vehículo para hasta 4 pasajeros. Ida y vuelta 360 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuánto cuesta un traslado en el trayecto Split - Marina Hramina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fijo 180 por vehículo para hasta 4 pasajeros, solo ida, con peajes, combustible y equipaje. Un viaje de ida y vuelta cuesta 360."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Puede recogerme directamente en la marina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Le encuentro en la entrada o en la recepción de la marina y le ayudo con el equipaje, para que vaya directo del pantalán al vehículo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Puede ajustar el traslado a mi barco?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Envíeme al reservar la hora de su chárter, su check-in o su salida y planifico la recogida en torno a ella."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Con cuánta antelación debo reservar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al menos 2 horas antes, para que pueda confirmar el vehículo y la hora de recogida. Para un viaje de última hora, llame o escríbame directamente por WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

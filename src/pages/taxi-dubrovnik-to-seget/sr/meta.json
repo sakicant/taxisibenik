@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-dubrovnik-seget",
+  "title": "Taksi Dubrovnik - Seget | Fiksna cena €420 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Dubrovnik - Seget. Fiksno €420 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi dubrovnik - seget, transfer dubrovnik - seget, prevoz dubrovnik - seget",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Dubrovnik - Seget",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Dubrovnik - Seget, 420 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik",
+        "Seget"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-dubrovnik-seget/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Dubrovnik - Seget, po vozilu za do 4 putnika. Povratno 840 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Dubrovnik - Seget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 420 po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Povratna vožnja je 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li je transfer privatan ili deljen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Svaki je transfer privatan i od vrata do vrata, u Škodi Superb. Bez deljenja vozila i bez dodatnih zaustavljanja osim ako ih zatražite."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Možete li da stanete usput?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Na dužim rutama rado stanem za kafu, fotografiju ili kratku znamenitost. Samo javite pri rezervaciji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da potvrdim vozilo i vreme preuzimanja. Za brži termin pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

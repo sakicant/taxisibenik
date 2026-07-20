@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "タクシー Perković | TAXI Antonio",
+  "description": "タクシー Perković：シベニク地域の主要鉄道駅でホームまでお迎えに上がり、シベニク、Vodice、クルカ国立公園などへそのままお送りします。",
+  "keywords": "タクシー perkovic, perkovic タクシー, perkovic 鉄道駅 タクシー, perkovic 駅 送迎, perkovic から シベニク, perkovic から クルカ",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "地域内タクシーおよび空港送迎",
+      "name": "タクシー Perković",
+      "description": "シベニク地域の主要鉄道駅であるPerkovićで列車をお出迎えし、シベニク、Vodice、クルカ国立公園、Drniš、Knin、スプリット空港へお送りする貸切タクシーです。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/ja/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Perković駅ではどこで待ち合わせますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ホーム、またはご希望であれば駅の出口でお待ちします。お名前をご用意し、お荷物もお手伝いしますので、そのまま車までお進みいただけます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Perkovićへの列車が遅れた場合はどうなりますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "列車の運行状況を確認し、追加料金なしでお迎え時刻を合わせますので、実際のご到着時刻にお待ちしています。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Perkovićにタクシー乗り場はありますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "いいえ、駅にタクシー乗り場はありませんので、事前のご予約をおすすめします。列車の時刻と行き先をお知らせいただければ、お降りになる際にお待ちしています。"
+          }
+        }
+      ]
+    }
+  ]
+}

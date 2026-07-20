@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-zablace",
+  "title": "Taxi Zablaće | TAXI Antonio",
+  "description": "Taxi Zablaće: kiinteähintaiset lentokenttäkuljetukset Splitiin (€95) ja Zadariin leirintä- ja rantavieraille Amadria Parkin lähellä, sekä kyydit Šibenikiin ja Vodiceen.",
+  "keywords": "taxi zablace, zablace taksi, zablace leirintäalue taksi, zablace lentokenttäkuljetus, amadria park zablace taksi, zablace split lentokentälle",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Paikallinen taksi ja lentokenttäkuljetukset",
+      "name": "Taxi Zablaće",
+      "description": "Yksityinen kiinteähintainen taksi Zablaćesta, leirintäalueen ja Amadria Parkin alueelta Šibenikin lounaispuolelta, Splitin lentokentälle, Zadarin lentokentälle, Šibenikiin ja Vodiceen.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Zablaće",
+      "url": "https://taxisibenik.hr/fi/taxi-zablace/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksin hinnat Zablaćesta",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće Šibenikiin",
+            "price": "18",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Zabla%C4%87e&to=%C5%A0ibenik%20-%20center&price=18"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće Vodiceen",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Zabla%C4%87e&to=Vodice&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće Splitin lentokentälle",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Zabla%C4%87e&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće Zadarin lentokentälle",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Zabla%C4%87e&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Noudatko leirintäalueelta ja Amadria Parkin alueelta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Noudan sinut leirintäalueen vastaanotosta, huoneistoltasi tai viereiseltä Amadria Parkin alueelta, ja autossa on tilaa matkatavaroille ja varusteille. Lähetä tarkka paikka varauksen yhteydessä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Onko autossa tilaa leirintä- ja rantavarusteille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Škoda Superbissa on iso tavaratila matkalaukuille, leirintävarusteille ja rantatavaroille. Kerro jos mukana on pyöriä tai isoja tavaroita, niin osaan varautua."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko maksaa Zablaće Splitin lentokentälle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä €95 autoa kohti, enintään 4 matkustajaa, tietullit ja matkatavarat mukaan lukien, sama hinta molempiin suuntiin."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-makarska-novalja",
+  "title": "Taksi Makarska - Novalja | Kiinteä hinta €420 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Makarska - Novalja. Kiinteä hinta €420 per auto, enintään 4 matkustajaa, ovelta ovelle. Varaa suoraan Antoniolta.",
+  "keywords": "taksi makarska - novalja, kuljetus makarska - novalja, lentokenttäkuljetus makarska - novalja",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Makarska - Novalja",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Makarska - Novalja, 420 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Makarska",
+        "Novalja"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-makarska-novalja/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Makarska - Novalja, per auto enintään 4 matkustajalle. Meno ja paluu 840 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kuinka pitkä reitti on ja kuinka kauan matka kestää?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matka reitillä Makarska - Novalja on noin 262 km ja kestää noin 3 h 20 min normaalissa liikenteessä, kesän huippukaudella hieman kauemmin. Suunnittelen noudon niin, ettei hidas matka koskaan aiheuta kiirettä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko taksi maksaa reitillä Makarska - Novalja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 420 per auto enintään 4 matkustajalle, yhdensuuntainen matka, matkatavarat mukana. Meno-paluumatka maksaa 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mistä noudatte minut?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tarkasta osoitteestasi, olipa se talo, hotelli tai huoneisto. Lähetä osoite varauksen yhteydessä, niin vahvistan tapaamispaikan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin vahvistaa auton ja noutoajan. Lyhyellä varoitusajalla soita tai kirjoita WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

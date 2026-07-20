@@ -1,0 +1,79 @@
+{
+  "slug": "frequently-asked-questions",
+  "title": "Preguntas frecuentes | TAXI Antonio",
+  "description": "Respuestas rápidas sobre reservas, precios y viajes locales por Šibenik.",
+  "keywords": "preguntas frecuentes",
+  "og_image": "https://taxisibenik.hr/assets/og-image.png",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo reservo un taxi en Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Llame al +385 99 447 1013, escríbame por WhatsApp o mándeme un email. Necesito su lugar de recogida, el destino y la hora de recogida o de llegada que prefiere."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Con cuánta antelación debo reservar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Acepto peticiones de última hora dentro de mi horario de trabajo, pero reservar con antelación garantiza la disponibilidad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué significa \"precio fijo\"? ¿Qué incluye?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mis precios fijos incluyen el transporte, el combustible, los peajes y la ayuda con el equipaje. Sin cargos ocultos. Las paradas adicionales o las esperas largas pueden costar más, y siempre se lo digo de antemano."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Piden un anticipo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Confirmar una reserva requiere un anticipo del 20% (mínimo 20 €). Los viajes de 20 € o menos se pagan íntegramente por adelantado. También puede pagar el importe completo por adelantado si lo prefiere. Los anticipos se pueden hacer por transferencia bancaria (SEPA) o con tarjeta, y el resto se liquida conmigo el día del traslado."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hacen recogidas en el hospital de Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Llevo y recojo pasajeros en el Hospital General de Šibenik y tengo permiso para entrar en el recinto del hospital, así que no hay que caminar desde un aparcamiento. Dígame si necesita ayuda para llegar hasta la entrada."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Pueden llevarme al ferry para las islas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Dejo y recojo pasajeros en el puerto de ferris y catamaranes de Šibenik para Zlarin, Prvić, Kaprije y Žirje, y para el barco a Obonjan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Recogen en los hoteles de Šibenik y en las estaciones de autobús y tren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Cubro todos los hoteles locales, la estación de autobuses, las estaciones de tren de Šibenik y Perković y el puerto de ferris, con ayuda con el equipaje y cartel con su nombre si lo pide."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Aceptan pago con tarjeta en el coche?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, acepto tarjetas y otros métodos de pago sin contacto."
+          }
+        }
+      ]
+    }
+  ]
+}

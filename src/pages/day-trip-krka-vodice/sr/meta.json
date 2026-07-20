@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-vodice",
+  "title": "Celodnevni izlet na Krku iz Vodica | Privatni transfer, fiksnih €125 | TAXI Antonio",
+  "description": "Privatni povratni taksi transfer na Krku iz Vodica. Fiksnih €125 po vozilu, do 4 putnika, od vrata do vrata iz hotela i apartmana u Vodicama, Srimi i Tribunju. Nije tura, samo prevoz tamo i nazad.",
+  "keywords": "celodnevni izlet na krku iz vodica, krka iz vodica, taksi do krke iz vodica, transfer krka vodice, krka iz srime, krka iz tribunja, vodice do nacionalnog parka krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privatni celodnevni izlet na Krku iz Vodica",
+      "description": "Privatni celodnevni izlet u Nacionalni park Krka iz Vodica sa lokalnim vozačem koji govori engleski. Fiksna cena od 125 evra po vozilu za do 4 putnika, sa preuzimanjem od vrata do vrata u hotelima i apartmanima u Vodicama, Srimi i Tribunju.",
+      "touristType": "Priroda i razgledanje",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Privatno vozilo, povratna vožnja Vodice do Nacionalnog parka Krka, do 4 putnika. Ulaznice za park nisu uključene."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Da li je ovo tura sa vodičem ili taksi transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ovo je taksi transfer, a ne tura sa vodičem. Antonio je lokalni vozač koji pruža privatni povratni transfer iz Vodica do Krke i nazad. Dobijate vozilo i vožnju, a unutar parka slobodno istražujete sami, svojim tempom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li preuzimate goste u Srimi i Tribunju, a ne samo u Vodicama?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Preuzimanje u Srimi i Tribunju je po istoj fiksnoj ceni kao i u Vodicama. Dolazim po vas od vrata do vrata iz bilo kog hotela, apartmana ili vile u Vodicama, Srimi ili Tribunju, uključujući marinu i rivu u Vodicama."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi do Krke iz Vodica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privatni povratni transfer iz Vodica do Krke košta fiksnih 125 evra po vozilu za do 4 putnika, sa uključenim gorivom i vremenom čekanja kod parka. Ista cena važi i za preuzimanja u Srimi i Tribunju."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko vremena provodimo u Nacionalnom parku Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Većina gostiju bira oko 3 do 4 sata slobodnog vremena u parku, dovoljno da vide glavne vodopade i prošetaju klasičnom kružnom stazom. Kraći ili duži boravak može se dogovoriti prilikom rezervacije."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li su ulaznice za Krku uključene u cenu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ne. Ulaznice se kupuju posebno, direktno od Nacionalnog parka Krka na ulazu Skradin ili Lozovac ili preko interneta. Ulaznice koštaju otprilike 7 do 40 evra zavisno od sezone."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako se rezerviše i plaća celodnevni izlet iz Vodica na Krku?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Avans od 20% (najmanje 20 evra) potvrđuje rezervaciju, bankovnim prenosom ili karticom, a dobijate račun kao potvrdu. Ostatak se plaća vozaču na dan vožnje, gotovinom ili karticom."
+          }
+        }
+      ]
+    }
+  ]
+}

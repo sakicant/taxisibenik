@@ -1,0 +1,75 @@
+{
+  "slug": "daytrips",
+  "title": "Päiväretket Šibenikistä | Yksityiset Krka- ja Plitvice-retket | TAXI Antonio",
+  "description": "Yksityiset päiväretket Šibenikistä ja ympäri Dalmatiaa Krkan kansallispuistoon ja Plitvicen järville. Kiinteähintaiset edestakaiset kuljetukset ovelta ovelle paikallisen kuljettajan kanssa. Ei kiertoajelu, vaan kyyti sinne ja takaisin.",
+  "keywords": "päiväretket sibenikistä, sibenik päiväretket, yksityinen päiväretki kroatia, krka päiväretki, plitvice päiväretki, päiväretki krkaan, päiväretki plitvicelle",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityiset päiväretket ja retkikuljetukset",
+      "name": "Päiväretket Šibenikistä ja Dalmatiasta",
+      "description": "Yksityiset, kiinteähintaiset päiväretket Krkan kansallispuistoon ja Plitvicen järville paikallisen šibenikiläisen kuljettajan kanssa. Edestakaiset kuljetukset ovelta ovelle Šibenikistä, Vodicesta, Primoštenista, Splitistä ja Zadarista, enintään 4 matkustajaa autoa kohden.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "152" }
+      },
+      "areaServed": ["Šibenik", "Vodice", "Primošten", "Split", "Zadar"],
+      "url": "https://taxisibenik.hr/fi/daytrips/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Yksityiset päiväretket Dalmatiasta",
+        "itemListElement": [
+          { "@type": "Offer", "name": "Päiväretki Krkaan Šibenikistä", "price": "100", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/fi/day-trip-krka-national-park-sibenik/" },
+          { "@type": "Offer", "name": "Päiväretki Krkaan Vodicesta", "price": "125", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/fi/day-trip-krka-national-park-vodice/" },
+          { "@type": "Offer", "name": "Päiväretki Krkaan Primoštenista", "price": "155", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/fi/day-trip-krka-national-park-primosten/" },
+          { "@type": "Offer", "name": "Päiväretki Krkaan Zadarista", "price": "260", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/fi/day-trip-krka-national-park-zadar/" },
+          { "@type": "Offer", "name": "Päiväretki Krkaan Splitistä", "price": "290", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/fi/day-trip-krka-national-park-split/" },
+          { "@type": "Offer", "name": "Päiväretki Plitvicelle Šibenikistä", "price": "500", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/fi/day-trip-plitvice-lakes-national-park-sibenik/" },
+          { "@type": "Offer", "name": "Päiväretki Plitvicelle Splitistä", "price": "650", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/fi/day-trip-plitvice-lakes-national-park-split/" }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mitä päiväretkiä voin varata Šibenikistä?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Kaksi suosituinta päiväretkeä ovat Krkan kansallispuisto ja Plitvicen järvien kansallispuisto. Molemmat ovat yksityisiä, kiinteähintaisia edestakaisia kuljetuksia ovelta ovelle hotellistasi tai huoneistostasi, ja puistossa sinulla on vapaata aikaa tutustua kohteeseen omaan tahtiisi." }
+        },
+        {
+          "@type": "Question",
+          "name": "Ovatko nämä opastettuja kiertoajeluja vai taksikuljetuksia?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Ne ovat yksityisiä taksikuljetuksia, eivät opastettuja ryhmäretkiä. Antonio on paikallinen kuljettaja, joka vie sinut perille ja takaisin mukavalla Škoda Superbilla. Puistossa voit tutustua kohteeseen omin päin, ilman opasta ja ilman ryhmää." }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko päiväretki Krkaan tai Plitvicelle maksaa?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yksityinen päiväretki Krkaan alkaa kiinteästä 100 eurosta autoa kohden Šibenikistä. Päiväretki Plitvicen järville maksaa 500 euroa autoa kohden Šibenikistä. Hinnat ovat autokohtaisia enintään 4 matkustajalle ja riippuvat noutokaupungistasi." }
+        },
+        {
+          "@type": "Question",
+          "name": "Noudatteko muistakin kaupungeista kuin Šibenikistä?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Kyllä. Krkan päiväretket lähtevät Šibenikistä, Vodicesta, Primoštenista, Zadarista ja Splitistä, ja Plitvicen päiväretket Šibenikistä ja Splitistä. Jokaisella kaupungilla on oma kiinteä hintansa ja oma sivunsa, jolla kaikki tiedot." }
+        },
+        {
+          "@type": "Question",
+          "name": "Sisältyvätkö puiston pääsyliput hintaan?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Eivät. Hinta kattaa vain yksityisen kuljetuksen ja odotusajan. Krkan ja Plitvicen liput ostetaan erikseen portilta tai verkosta, ja ne maksavat noin 7 eurosta 40 euroon vuodenajasta riippuen." }
+        },
+        {
+          "@type": "Question",
+          "name": "Miten varaan päiväretken?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Lähetä minulle viesti WhatsAppissa, soita tai käytä yhteystietosivua. 20 %:n ennakkomaksu (vähintään 20 euroa) vahvistaa päivämäärän, ja loppusumma maksetaan kuljettajalle matkapäivänä." }
+        }
+      ]
+    }
+  ]
+}

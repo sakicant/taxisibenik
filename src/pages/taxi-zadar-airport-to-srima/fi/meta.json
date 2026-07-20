@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadar-lentoasema-srima",
+  "title": "Taksi Zadarin lentoasema - Srima | Kiinteä hinta €100 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Zadarin lentoasema - Srima. Kiinteä hinta €100 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi zadarin lentoasema - srima, kuljetus zadarin lentoasema - srima, lentokenttäkuljetus zadarin lentoasema - srima",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Zadarin lentoasema - Srima",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Zadarin lentoasema - Srima, 100 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadarin lentoasema",
+        "Srima"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-zadar-lentoasema-srima/",
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Zadarin lentoasema - Srima, per auto enintään 4 matkustajalle. Meno ja paluu 200 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kuinka pitkä reitti on ja kuinka kauan matka kestää?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matka reitillä Zadarin lentoasema - Srima on noin 67 km ja kestää noin 60 min normaalissa liikenteessä, kesän huippukaudella hieman kauemmin. Suunnittelen noudon niin, ettei hidas matka koskaan aiheuta kiirettä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Missä otatte minut vastaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Saapumisaulassa, heti matkatavaroiden noudon jälkeen, kyltillä jossa on nimesi. Autan matkatavaroiden kanssa ja saatan sinut autolle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Entä jos lentoni on myöhässä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ei ongelmaa. Seuraan lentoasi reaaliajassa ja mukautan noudon todelliseen laskeutumiseen, ilman lisämaksua odotusajasta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko kuljetus maksaa reitillä Zadarin lentoasema - Srima?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 100 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatka maksaa 200."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin suunnitella lentosi ympärille. Saman päivän noutoa varten lyhyen muutoksen jälkeen soita tai kirjoita WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

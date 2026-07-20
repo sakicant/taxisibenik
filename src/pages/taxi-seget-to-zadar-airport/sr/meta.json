@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-seget-aerodrom-zadar",
+  "title": "Taksi Seget - Aerodrom Zadar | Fiksna cena €200 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Seget - Aerodrom Zadar. Fiksno €200 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi seget - aerodrom zadar, transfer seget - aerodrom zadar, prevoz seget - aerodrom zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Seget - Aerodrom Zadar",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Seget - Aerodrom Zadar, 200 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Seget",
+        "Aerodrom Zadar"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-seget-aerodrom-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "200",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Seget - Aerodrom Zadar, po vozilu za do 4 putnika. Povratno 400 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Seget - Aerodrom Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 200 po vozilu, jedan smer, za do 4 putnika. Cena je po vozilu, ne po osobi, i uključuje putarine, gorivo i prtljag. Povratna vožnja je 400."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kada treba da krenem na let?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Po pravilu oko 3 sata pre međunarodnog leta i 2 sata pre domaćeg. Recite mi vreme leta i potvrdiću tačno vreme preuzimanja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vozite li do samog odlaznog terminala?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Vozim vas direktno do odlaznog terminala i pomažem s prtljagom. Bez hoda od parkinga i bez shuttle busa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da potvrdim vozilo i preuzimanje, a ranije za rane jutarnje letove i sezonu. Za brži termin pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

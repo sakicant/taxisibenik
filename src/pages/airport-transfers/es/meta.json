@@ -1,0 +1,85 @@
+{
+  "slug": "airport-transfers-from-sibenik",
+  "title": "Traslados al aeropuerto desde Šibenik | Precios fijos | TAXI Antonio",
+  "description": "Traslados al aeropuerto desde Šibenik hacia y desde los aeropuertos de Split, Zadar, Zagreb y Dubrovnik. Precios fijos, seguimiento de vuelos, puerta a puerta. También en Vodice, Primošten y Skradin. Reserve con Antonio.",
+  "keywords": "traslados aeropuerto sibenik, traslado aeropuerto šibenik, aeropuerto de split a sibenik, aeropuerto de zadar a sibenik, traslado aeropuerto vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Traslado al aeropuerto",
+      "name": "Traslados al aeropuerto desde Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Aeropuerto de Split",
+        "Aeropuerto de Zadar",
+        "Aeropuerto de Zagreb",
+        "Aeropuerto de Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/es/airport-transfers-from-sibenik/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo encuentro a mi conductor en el aeropuerto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio espera en la sala de llegadas, después de la recogida de equipajes, con un cartel bien visible con su nombre."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué pasa si mi vuelo se retrasa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Los vuelos se siguen en tiempo real con el número de vuelo que usted indica al reservar. La hora de recogida se ajusta automáticamente y no hay ningún cargo extra por la espera."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El precio del traslado al aeropuerto es fijo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Cada traslado al aeropuerto tiene un precio fijo por coche para hasta 4 pasajeros, con peajes, combustible y equipaje incluidos. Sin taxímetro y sin sorpresas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Ofrecen sillas infantiles para los traslados al aeropuerto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, las sillas infantiles y los elevadores son gratuitos. Solo tiene que pedirlos en las notas de la reserva indicando la edad del niño."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo se paga un traslado al aeropuerto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un anticipo del 20% (mínimo 20 euros) confirma la reserva, por transferencia bancaria o tarjeta. El resto se paga al conductor el mismo día, en efectivo o con tarjeta."
+          }
+        }
+      ]
+    }
+  ]
+}

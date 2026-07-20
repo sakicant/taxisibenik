@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-krka-national-park-split",
+  "title": "スプリト発クルカ日帰り旅行 | プライベート送迎、固定 €290 | TAXI Antonio",
+  "description": "スプリト発クルカ行きのプライベート往復タクシー送迎。1台あたり固定 €290、最大4名まで。スプリトのホテル、クルーズ港、旧市街からドアツードア。ツアーではなく、往復の送迎のみです。",
+  "keywords": "スプリト発 クルカ 日帰り, スプリトから クルカ 往復 送迎, スプリトから クルカ タクシー, スプリトから クルカ, スプリトから クルカ国立公園",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "スプリト発クルカへのプライベート日帰り旅行",
+      "description": "英語を話す地元ドライバーによる、スプリト発クルカ国立公園へのプライベート日帰り旅行。最大4名までの1台あたり固定290ユーロで、スプリトのホテル、クルーズ港、バスターミナルと鉄道駅、旧市街からのドアツードアのお迎え付きです。",
+      "touristType": "自然と観光",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "290",
+        "priceCurrency": "EUR",
+        "description": "プライベート車両、スプリトからクルカ国立公園への往復、最大4名まで。公園の入場券は含まれません。"
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "これはガイド付きツアーですか、それともタクシー送迎ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ガイド付きツアーではなく、タクシー送迎です。アントニオは地元のドライバーで、スプリトからクルカまでのプライベートな往復送迎をご提供します。お客様には車と運転をご利用いただき、公園の中ではご自分のペースで自由に見て回っていただけます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "スプリトからクルカまでのタクシーはいくらですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "スプリトからクルカ国立公園へのプライベート往復送迎は、最大4名までの1台あたり固定290ユーロで、通行料、燃料、3〜4時間ほどの待機時間が含まれます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "スプリトのホテルやクルーズ港からのお迎えは可能ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。スプリトのホテルやアパートメント、旧市街、バスターミナルと鉄道駅、さらにスプリトのクルーズ港とフェリーターミナルまで直接、ドアツードアでお迎えに上がります。ご希望に応じて名前を書いたボードをお持ちします。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "スプリトからクルカへの日帰り旅行はどのくらいかかりますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "片道の移動が1時間から1時間15分ほどで、これに公園内での3〜4時間ほどの自由時間が加わります。ご予約時にご相談いただければ、短くも長くもできます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "日帰り旅行はどう予約して支払いますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "銀行振込またはカードによる20%の前払金（最低20ユーロ）で予約が確定し、確認として請求書をお送りします。残額は当日、現金またはカードでドライバーにお支払いいただきます。"
+          }
+        }
+      ]
+    }
+  ]
+}

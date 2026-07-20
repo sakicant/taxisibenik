@@ -1,0 +1,253 @@
+{
+  "slug": "",
+  "title": "希贝尼克出租车 - 值得信赖的服务 | Taxi Antonio",
+  "description": "希贝尼克出租车，提供随叫随到的市内用车、医院和酒店接送、汽车站与渡轮港口接送以及海岛连接。司机会讲英语。直接向 Antonio 预订。",
+  "keywords": "taxi šibenik, 希贝尼克出租车, 希贝尼克医院出租车, 希贝尼克酒店出租车, 希贝尼克渡轮港口出租车, taxi zlarin prvic",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-home-land.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "TAXI Šibenik & Skradin - Antonio",
+      "url": "https://taxisibenik.hr/zh/",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "areaServed": [
+        "Šibenik",
+        "Skradin",
+        "斯普利特",
+        "扎达尔",
+        "杜布罗夫尼克",
+        "萨格勒布"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Šibenik",
+        "postalCode": "22000",
+        "addressCountry": "HR"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "152"
+      },
+      "priceRange": "€€",
+      "alternateName": "TAXI Antonio",
+      "@id": "https://taxisibenik.hr/zh/#business",
+      "image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
+      "paymentAccepted": "现金、信用卡",
+      "currenciesAccepted": "EUR",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6956974,
+        "longitude": 15.7891511
+      },
+      "hasMap": "https://www.google.com/maps?cid=4748268601430744277",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "14:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "16:00",
+          "closes": "21:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "06:00",
+          "closes": "16:00"
+        }
+      ],
+      "sameAs": [
+        "https://web.facebook.com/profile.php?id=61579783829997",
+        "https://www.instagram.com/taxi_sibenik/",
+        "https://www.tiktok.com/@taxisibenik",
+        "https://www.tripadvisor.com/Attraction_Review-g295375-d24821165-Reviews-TAXI_Sibenik_Skradin_Antonio-Sibenik_Sibenik_Knin_County_Dalmatia.html",
+        "https://www.google.com/maps?cid=4748268601430744277"
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "出租车与接送服务",
+      "name": "TAXI Antonio 的希贝尼克出租车服务",
+      "areaServed": {
+        "@type": "City",
+        "name": "Šibenik"
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "出租车与接送服务",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "希贝尼克市内出租车"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "机场接送"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "城际接送"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "酒店接送"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "前往 Krka 和普利特维采的一日游"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "怎么在希贝尼克预订出租车？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "拨打 +385 99 447 1013，通过 WhatsApp 发消息，或发送电子邮件。Antonio 需要知道上车地点、目的地，以及希望的上车或抵达时间。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "我应该提前多久预订？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "在工作时间内也接受临时用车请求，但提前预订才能确保有车。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "“固定价格”是什么意思？包含哪些内容？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "固定价格包含车费、油费、过路费以及行李搬运帮助。没有隐藏费用。途中加停或长时间等待可能会另外收费，都会提前告知。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "需要支付预付款吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "需要。确认预订需支付 20% 预付款（最低 20 欧元）。价格在 20 欧元及以下的行程需要全额预付。预付款可通过银行转账（SEPA）或刷卡支付，余款在接送当天结清。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "车上可以刷卡付款吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以，接受刷卡和其他非接触式支付方式。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你们在希贝尼克提供医院接送吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "提供。Antonio 接送往返 Šibenik 综合医院的乘客，并获准把车开进医院院内，所以不必从停车场走很远。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "可以送我去坐前往各岛的渡轮吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。Antonio 在 Šibenik 的渡轮和双体船码头接送客人，这里有前往 Zlarin、Prvić、Kaprije 和 Žirje 的船，也有去 Obonjan 的船。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你们在希贝尼克的酒店、汽车站和火车站接客吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "接。Antonio 服务所有本地酒店、汽车站、Šibenik 和 Perković 火车站以及渡轮港口，可协助搬行李，也可按需举牌接客。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "如果我的航班延误怎么办？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "抵达航班会被实时监控，接机时间自动调整，不额外收费。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "如果我需要取消怎么办？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "取消须通过电子邮件以书面形式提出。预订时间前 72 小时以上取消，银行转账可全额退款，刷卡支付则全额退款并扣除 10 欧元手续费。72 小时以内取消或未出现恕不退款。改期随时免费。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "可以接待更大的团队吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Škoda Superb 最多可坐 4 位乘客。人数更多时，可以通过本地精挑细选的合作伙伴安排。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "提供儿童座椅吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "提供，儿童座椅和增高垫可按需准备。"
+          }
+        }
+      ]
+    }
+  ]
+}

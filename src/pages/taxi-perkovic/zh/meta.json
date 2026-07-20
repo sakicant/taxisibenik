@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Perković 出租车 | TAXI Antonio",
+  "description": "Perković 出租车：在服务 Šibenik 地区的主要火车站提供站台接站，并可继续前往 Šibenik、Vodice、Krka 等地。",
+  "keywords": "perkovic 出租车, perkovic taxi, perkovic 火车站出租车, perkovic 火车站接送, perkovic 到 sibenik, perkovic 到 krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "本地出租车与机场接送",
+      "name": "Perković 出租车",
+      "description": "在服务 Šibenik 地区的主要火车站 Perković 接站的私人出租车，可继续前往 Šibenik、Vodice、Krka、Drniš、Knin 和 Split 机场。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/zh/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "您在 Perković 车站的哪里接我？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "在站台上，或者您愿意的话在车站出口处。我会准备好写有您名字的牌子，并帮您拿行李，让您直接走到车边。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "如果我去 Perković 的火车晚点怎么办？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "我会跟踪您的列车并相应调整接站时间，不额外收费，火车实际到站时我就在那里。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Perković 有出租车候客站吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "没有，车站没有候客站，所以最好提前预订。把您的列车时间和目的地发给我，您一下车我就在那里等着。"
+          }
+        }
+      ]
+    }
+  ]
+}

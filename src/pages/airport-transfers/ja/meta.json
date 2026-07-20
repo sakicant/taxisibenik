@@ -1,0 +1,85 @@
+{
+  "slug": "airport-transfers-from-sibenik",
+  "title": "シベニクの空港送迎 | 固定料金 | TAXI Antonio",
+  "description": "スプリト、ザダル、ザグレブ、ドゥブロヴニクの各空港とシベニクを結ぶ空港送迎。固定料金、フライト監視、ドアツードア。ヴォディツェ、プリモシュテン、スクラディンにも対応。アントニオにご予約ください。",
+  "keywords": "シベニク 空港 送迎, シベニク 空港 タクシー, スプリト空港 シベニク, ザダル空港 シベニク, ヴォディツェ 空港 送迎",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "空港送迎",
+      "name": "シベニク発着の空港送迎",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split Airport",
+        "Zadar Airport",
+        "Zagreb Airport",
+        "Dubrovnik Airport"
+      ],
+      "url": "https://taxisibenik.hr/ja/airport-transfers-from-sibenik/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "空港でドライバーを見つけるにはどうすればよいですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "アントニオは手荷物受取所を出た到着ロビーで、お名前をはっきり書いたボードを持ってお待ちしています。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "フライトが遅れた場合はどうなりますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ご予約時にお知らせいただいた便名をもとに、フライトをリアルタイムで監視しています。お迎え時刻は自動的に調整され、待機に追加料金はかかりません。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "空港送迎の料金は固定ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。すべての空港送迎は最大4名までの1台あたりの固定料金で、通行料、燃料、荷物が含まれます。メーターも想定外の請求もありません。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "空港送迎でチャイルドシートは用意してもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい、チャイルドシートとブースターシートを無料でご用意します。ご予約時の備考欄にお子様の年齢とともにご希望をお書きください。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "空港送迎の支払い方法を教えてください。",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "銀行振込またはカードによる20%の前払金（最低20ユーロ）で予約が確定します。残額は当日、現金またはカードでドライバーにお支払いいただきます。"
+          }
+        }
+      ]
+    }
+  ]
+}

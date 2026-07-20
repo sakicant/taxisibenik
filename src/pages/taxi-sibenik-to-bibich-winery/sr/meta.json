@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sibenik-bibich-winery",
+  "title": "Taksi Šibenik - Bibich Winery | Fiksna cena €60 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Šibenik - Bibich Winery. Fiksno €60 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi šibenik - bibich winery, transfer šibenik - bibich winery, prevoz šibenik - bibich winery",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Šibenik - Bibich Winery",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Šibenik - Bibich Winery, 60 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Bibich Winery"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-sibenik-bibich-winery/",
+      "offers": {
+        "@type": "Offer",
+        "price": "60",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Šibenik - Bibich Winery, po vozilu za do 4 putnika. Povratno 120 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Šibenik - Bibich Winery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 60 po vozilu za do 4 putnika, jedan smer, prtljag uključen. Povratna vožnja je 120."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gde me preuzimate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašoj tačnoj adresi, bila to kuća, hotel ili apartman. Pošaljite adresu pri rezervaciji i potvrdiću mesto sastanka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da potvrdim vozilo i vreme preuzimanja. Za brži termin pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

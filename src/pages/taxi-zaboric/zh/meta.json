@@ -1,0 +1,90 @@
+{
+  "slug": "taxi-zaboric",
+  "title": "Žaborić 出租车 | TAXI Antonio",
+  "description": "Žaborić 出租车：门口接送前往 Split 机场（€95）和 Zadar 机场，以及从这个安静海滨村庄前往 Šibenik 和 Vodice 的行程。",
+  "keywords": "zaboric 出租车, žaborić 打车, zaboric 机场接送, zaboric 到 split 机场, zaboric 到 sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "本地出租车与机场接送",
+      "name": "Žaborić 出租车",
+      "description": "从位于 Brodarica 与 Grebaštica 之间的安静海滨村庄 Žaborić 出发，前往 Split 机场、Zadar 机场、Šibenik 和 Vodice 的私人固定价格出租车。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Žaborić",
+      "url": "https://taxisibenik.hr/zh/taxi-zaboric/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "从 Žaborić 出发的出租车价格",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Žaborić 到 Šibenik 出租车",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=%C5%BDabori%C4%87&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Žaborić 到 Vodice 出租车",
+            "price": "50",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=%C5%BDabori%C4%87&to=Vodice&price=50"
+          },
+          {
+            "@type": "Offer",
+            "name": "Žaborić 到 Split 机场出租车",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=%C5%BDabori%C4%87&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Žaborić 到 Zadar 机场出租车",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=%C5%BDabori%C4%87&to=Zadar%20Airport%20%28ZAD%29&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Žaborić 有出租车候客点吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "没有，村里没有候客点，所以最好提前预订。我会在约定的时间到您的住处接您，让您不用等待。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "您接送 Žaborić 的私人公寓吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "接送。我会在您的公寓或度假屋门口接您。预订时把地址发给我即可。"
+          }
+        }
+      ]
+    }
+  ]
+}

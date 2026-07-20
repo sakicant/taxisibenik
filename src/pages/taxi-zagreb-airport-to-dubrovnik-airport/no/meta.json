@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zagreb-lufthavn-dubrovnik-lufthavn",
+  "title": "Taxi Zagreb lufthavn - Dubrovnik lufthavn | Fastpris €795 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Zagreb lufthavn - Dubrovnik lufthavn. Fastpris €795 per bil, opptil 4. Bestill direkte hos Antonio.",
+  "keywords": "taxi zagreb lufthavn - dubrovnik lufthavn, transport zagreb lufthavn - dubrovnik lufthavn, flyplasstransport zagreb lufthavn - dubrovnik lufthavn",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Zagreb lufthavn - Dubrovnik lufthavn",
+      "description": "Privat taxi og transport til fastpris, strekningen Zagreb lufthavn - Dubrovnik lufthavn, 795 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zagreb lufthavn",
+        "Dubrovnik lufthavn"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-zagreb-lufthavn-dubrovnik-lufthavn/",
+      "offers": {
+        "@type": "Offer",
+        "price": "795",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Zagreb lufthavn - Dubrovnik lufthavn, per bil for opptil 4 passasjerer. Tur og retur 1590 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er strekningen og hvor lenge tar turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på strekningen Zagreb lufthavn - Dubrovnik lufthavn er rundt 634 km lang og tar omtrent 7 h 40 min ved normal trafikk, litt lenger i høysesongen om sommeren. Jeg planlegger henting slik at en langsom strekning aldri gjør deg stresset."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster en taxi på strekningen Zagreb lufthavn - Dubrovnik lufthavn?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 795 per bil, en vei, for opptil 4 passasjerer. Prisen gjelder per bil, ikke per person, og inkluderer bompenger, drivstoff og bagasje. Tur og retur koster 1590."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Når bør jeg dra til flyplassen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vanligvis omtrent 3 timer før en internasjonal flyvning og 2 timer før en innenriks flyvning. Gi meg flytiden din, så bekrefter jeg nøyaktig henting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kjører du helt til avgangsterminalen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg kjører deg rett til avgangsterminalen og hjelper med bagasjen. Ingen gange fra parkeringen og ingen shuttle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan bekrefte bil og henting, og tidligere for tidlige fly og høysesong. For en tur på kort varsel, ring eller skriv til meg på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

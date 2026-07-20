@@ -1,0 +1,79 @@
+{
+  "slug": "frequently-asked-questions",
+  "title": "Često postavljana pitanja | TAXI Antonio",
+  "description": "Brzi odgovori o rezervacijama, cenama i lokalnim vožnjama oko Šibenika.",
+  "keywords": "cesto postavljana pitanja",
+  "og_image": "https://taxisibenik.hr/assets/og-image.png",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kako da rezervišem taksi iz Šibenika?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pozovite +385 99 447 1013, pišite mi na WhatsApp ili pošaljite email. Treba mi mesto preuzimanja, odredište i željeno vreme preuzimanja ili dolaska."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Primam zahteve u poslednji čas unutar svog radnog vremena, ali rezervacija unapred garantuje dostupnost."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Šta znači \"fiksna cena\"? Šta je uključeno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Moje fiksne cene uključuju prevoz, gorivo, putarine i pomoć oko prtljaga. Bez skrivenih troškova. Dodatna stajanja ili duže čekanje mogu koštati više, i to vam uvek kažem unapred."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li naplaćujete avans?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Potvrda rezervacije zahteva avans od 20% (najmanje €20). Vožnje čija je cena €20 ili niža plaćaju se u celosti unapred. Ako želite, možete i ceo iznos platiti unapred. Avans se plaća bankovnim prenosom (SEPA) ili karticom, a ostatak se izmiruje sa mnom na dan transfera."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li vozite do bolnice u Šibeniku?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Vozim putnike do i od Opšte bolnice Šibenik i smem da uđem u krug bolnice, tako da nema dugog hodanja sa parkinga. Javite mi ako vam treba pomoć do ulaza."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Možete li me odvesti do trajekta za ostrva?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Dovozim i preuzimam putnike u šibenskoj trajektnoj i katamaranskoj luci za Zlarin, Prvić, Kaprije i Žirje, kao i za brod za Obonjan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li preuzimate goste iz šibenskih hotela, sa autobuske i železničke stanice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Opslužujem sve lokalne hotele, autobusku stanicu, železničke stanice Šibenik i Perković i trajektnu luku, uz pomoć oko prtljaga i tablu sa imenom na zahtev."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li primate kartice u vozilu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, primam kartice i druge beskontaktne načine plaćanja."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-grebastica",
+  "title": "Taxi Grebaštica | TAXI Antonio",
+  "description": "Taxi Grebaštica: 캠핑장과 해변 픽업, 스플리트 공항(€90), Šibenik, Vodice까지 고정 요금 이동. 미리 예약하시면 문 앞에서 모십니다.",
+  "keywords": "taxi grebastica, 그레바슈티차 택시, 그레바슈티차 캠핑장 택시, 그레바슈티차 공항 이동, 그레바슈티차 스플리트 공항, 그레바슈티차 시베니크",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "지역 택시 및 공항 이동 서비스",
+      "name": "Taxi Grebaštica",
+      "description": "시베니크 남쪽의 캠핑과 해변 마을 Grebaštica에서 스플리트 공항, Šibenik, Vodice까지 고정 요금으로 운행하는 프라이빗 택시입니다.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Grebaštica",
+      "url": "https://taxisibenik.hr/ko/taxi-grebastica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Grebaštica 출발 택시 요금",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Grebaštica에서 Šibenik까지 택시",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Greba%C5%A1tica&to=%C5%A0ibenik%20-%20center&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Grebaštica에서 Vodice까지 택시",
+            "price": "55",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Greba%C5%A1tica&to=Vodice&price=55"
+          },
+          {
+            "@type": "Offer",
+            "name": "Grebaštica에서 스플리트 공항까지 택시",
+            "price": "90",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Greba%C5%A1tica&to=Split%20Airport%20%28SPU%29&price=90"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Grebaštica의 캠핑장에서도 픽업이 가능한가요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. 캠핑장 리셉션이나 아파트 앞에서 모시며, 캠핑 장비와 해변용 짐을 실을 공간도 있습니다. 예약하실 때 정확한 위치를 보내 주세요."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Grebaštica에 택시 정류장이 있나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "없습니다. 그래서 미리 예약하시는 편이 가장 좋습니다. 마을에서 택시를 찾아 헤매지 않으시도록 약속한 시간에 제가 찾아갑니다."
+          }
+        }
+      ]
+    }
+  ]
+}

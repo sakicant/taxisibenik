@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sibenik-sukosan",
+  "title": "Taxi Šibenik - Sukošan | Fix ár €130 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Šibenik - Sukošan. Fix ár €130 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi šibenik - sukošan, transzfer šibenik - sukošan, reptéri transzfer šibenik - sukošan",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi Šibenik - Sukošan",
+      "description": "Privát taxi és transzfer fix áron, Šibenik - Sukošan, 130 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Sukošan"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-sibenik-sukosan/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, Šibenik - Sukošan, járművenként max. 4 utasra. Oda-vissza 260 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül egy taxi a Šibenik - Sukošan útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 130 járművenként max. 4 utasra, egy irány, csomag beleértve. Az oda-vissza út 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol vesz fel engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A pontos címén, legyen az ház, hotel vagy apartman. Küldje el a címet a foglaláskor, és megerősítem a találkozási pontot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy megerősítsem a járművet és a felvétel idejét. Gyors útért hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

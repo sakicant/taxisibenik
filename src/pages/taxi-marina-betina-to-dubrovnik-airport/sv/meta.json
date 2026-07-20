@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-betina-flygplats-dubrovnik",
+  "title": "Taxi Marina Betina - Dubrovnik flygplats | Fast pris €535 | TAXI Antonio",
+  "description": "Privat taxi och transfer, Marina Betina - Dubrovnik flygplats. Fast pris €535 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "keywords": "taxi marina betina - dubrovnik flygplats, transfer marina betina - dubrovnik flygplats, flygplatstransfer marina betina - dubrovnik flygplats",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransfer",
+      "name": "Taxi Marina Betina - Dubrovnik flygplats",
+      "description": "Privat taxi och transfer till fast pris, Marina Betina - Dubrovnik flygplats, 535 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Betina",
+        "Dubrovnik flygplats"
+      ],
+      "url": "https://taxisibenik.hr/sv/taxi-marina-betina-flygplats-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "535",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat resa, Marina Betina - Dubrovnik flygplats, per fordon för upp till 4 passagerare. Tur och retur 1070 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hur mycket kostar en taxi på sträckan Marina Betina - Dubrovnik flygplats?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 535 per fordon, enkel resa, för upp till 4 passagerare. Priset gäller per fordon, inte per person, och inkluderar vägtull, bränsle och bagage. En tur och retur kostar 1070."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "När bör jag åka till flygplatsen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vanligtvis cirka 3 timmar före ett internationellt flyg och 2 timmar före ett inrikesflyg. Berätta din flygtid, så bekräftar jag den exakta upphämtningen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kör du ända fram till avgångsterminalen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jag kör dig direkt till avgångsterminalen och hjälper till med bagaget. Ingen promenad från parkeringen och ingen shuttlebuss."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur långt i förväg bör jag boka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timmar i förväg, så att jag kan bekräfta fordon och upphämtning, och tidigare för tidiga flyg och högsäsongen. För en resa med kort varsel, ring eller skriv till mig på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

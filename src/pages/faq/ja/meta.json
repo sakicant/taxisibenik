@@ -1,0 +1,79 @@
+{
+  "slug": "frequently-asked-questions",
+  "title": "よくあるご質問 | TAXI Antonio",
+  "description": "ご予約、料金、シベニク周辺の移動についてのすぐに分かる回答をまとめました。",
+  "keywords": "よくあるご質問",
+  "og_image": "https://taxisibenik.hr/assets/og-image.png",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "シベニクでタクシーを予約するにはどうすればよいですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "+385 99 447 1013 にお電話いただくか、WhatsApp でメッセージをお送りいただくか、メールをお送りください。お迎え場所、目的地、ご希望のお迎えまたは到着時刻をお知らせください。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "どのくらい前に予約すればよいですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "営業時間内であれば直前のご依頼もお受けしますが、事前にご予約いただければ確実にご乗車いただけます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "「固定料金」とは何ですか。何が含まれていますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "固定料金には輸送、燃料、通行料、荷物のお手伝いが含まれます。隠れた費用はありません。途中の立ち寄りや長時間の待機は追加料金となる場合がありますが、必ず事前にお伝えします。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "前払いは必要ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。予約の確定には20%の前払金（最低20ユーロ）が必要です。料金が20ユーロ以下の乗車は全額前払いとなります。ご希望であれば全額を前払いいただくことも可能です。前払いは銀行振込 (SEPA) またはカードでお支払いいただけ、残額は送迎当日に私にお支払いいただきます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "シベニクの病院へのお迎えはしていますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。シベニク総合病院への送迎を行っており、病院の敷地内まで車で入ることが許可されているため、駐車場から長く歩く必要はありません。入口までの介助が必要な場合はお知らせください。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "島へのフェリー乗り場まで送ってもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。Zlarin、Prvić、Kaprije、Žirje 行きのフェリーとカタマラン、そして Obonjan 行きの船が発着するシベニクの港での送迎に対応しています。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "シベニクのホテルやバス・鉄道の駅からのお迎えはできますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。地元のすべてのホテル、バスターミナル、シベニク駅と Perković 駅、フェリーターミナルに対応しており、ご希望に応じて荷物のお手伝いや名前を書いたボードでのお出迎えも行います。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "車内でカード払いはできますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい、カードやその他の非接触決済に対応しています。"
+          }
+        }
+      ]
+    }
+  ]
+}

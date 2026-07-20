@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-dubrovnik-lufthavn-marina-baotic",
+  "title": "Taxi Dubrovnik lufthavn - Marina Baotić | Fastpris €420 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Dubrovnik lufthavn - Marina Baotić. Fastpris €420 per bil, opptil 4. Bestill direkte hos Antonio.",
+  "keywords": "taxi dubrovnik lufthavn - marina baotić, transport dubrovnik lufthavn - marina baotić, flyplasstransport dubrovnik lufthavn - marina baotić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Dubrovnik lufthavn - Marina Baotić",
+      "description": "Privat taxi og transport til fastpris, strekningen Dubrovnik lufthavn - Marina Baotić, 420 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik lufthavn",
+        "Marina Baotić"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-dubrovnik-lufthavn-marina-baotic/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Dubrovnik lufthavn - Marina Baotić, per bil for opptil 4 passasjerer. Tur og retur 840 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor tar du imot meg?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I ankomsthallen, rett etter bagasjeutleveringen, med et skilt med navnet ditt. Jeg hjelper med bagasjen og følger deg til bilen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hva om flyet mitt er forsinket?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ikke noe problem. Jeg følger flyet ditt i sanntid og tilpasser hentingen til den faktiske landingen, uten tillegg for ventetiden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster transporten på strekningen Dubrovnik lufthavn - Marina Baotić?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 420 per bil for opptil 4 passasjerer, en vei, bompenger og bagasje inkludert. Tur og retur koster 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan planlegge rundt flyet ditt. For en henting samme dag etter en endring på kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

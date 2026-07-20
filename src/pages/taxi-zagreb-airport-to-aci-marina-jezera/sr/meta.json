@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aerodrom-zagreb-aci-marina-jezera",
+  "title": "Taksi Aerodrom Zagreb - ACI Marina Jezera | Fiksna cena €485 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Aerodrom Zagreb - ACI Marina Jezera. Fiksno €485 po vozilu, do 4. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi aerodrom zagreb - aci marina jezera, transfer aerodrom zagreb - aci marina jezera, prevoz aerodrom zagreb - aci marina jezera",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Aerodrom Zagreb - ACI Marina Jezera",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Aerodrom Zagreb - ACI Marina Jezera, 485 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Aerodrom Zagreb",
+        "ACI Marina Jezera"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-aerodrom-zagreb-aci-marina-jezera/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Aerodrom Zagreb - ACI Marina Jezera, po vozilu za do 4 putnika. Povratno 970 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Gde me dočekujete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "U dolaznoj zoni, odmah nakon preuzimanja prtljaga, s natpisom s vašim imenom. Pomažem s prtljagom i vodim vas do vozila."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Šta ako mi let kasni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nema problema. Let pratim u realnom vremenu i prilagođavam preuzimanje stvarnom sletanju, bez dodatne naplate čekanja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta transfer na relaciji Aerodrom Zagreb - ACI Marina Jezera?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 485 po vozilu za do 4 putnika, jedan smer, putarine i prtljag uključeni. Povratna vožnja je 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da planiram prema vašem letu. Za isti dan nakon nagle promene pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

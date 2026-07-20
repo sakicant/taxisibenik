@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zadar-ciovo",
+  "title": "Taxi Zadar - Čiovo | Fastpris €225 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Zadar - Čiovo. Fastpris €225 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi zadar - čiovo, transport zadar - čiovo, flyplasstransport zadar - čiovo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Zadar - Čiovo",
+      "description": "Privat taxi og transport til fastpris, strekningen Zadar - Čiovo, 225 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Čiovo"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-zadar-ciovo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "225",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Zadar - Čiovo, per bil for opptil 4 passasjerer. Tur og retur 450 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster en taxi på strekningen Zadar - Čiovo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 225 per bil for opptil 4 passasjerer, en vei, med bompenger, drivstoff og bagasje. Tur og retur koster 450."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Er transporten privat eller delt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hver transport er privat og dør til dør, i en Škoda Superb. Ingen deling av bilen og ingen ekstra stopp, med mindre du ønsker det."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du stoppe underveis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. På lengre strekninger stopper jeg gjerne for en kaffe, et bilde eller en kort severdighet. Bare si fra ved bestilling."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan bekrefte bil og hentetidspunkt. For en tur på kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

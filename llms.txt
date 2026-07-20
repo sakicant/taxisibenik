@@ -13,7 +13,7 @@
 
 ## Languages
 
-The whole site is published in 11 languages. English is served at the root; each other language lives under its own prefix with localized slugs: Croatian /hr/, German /de/, Polish /pl/, Czech /cs/, Italian /it/, French /fr/, Dutch /nl/, Slovenian /sl/, Hungarian /hu/, Slovak /sk/. Every page links to its alternates via hreflang.
+The whole site is published in 19 languages. English is served at the root; each other language lives under its own prefix: Croatian /hr/, German /de/, Polish /pl/, Czech /cs/, Italian /it/, French /fr/, Dutch /nl/, Slovenian /sl/, Hungarian /hu/, Slovak /sk/, Spanish /es/, Swedish /sv/, Serbian (Latin) /sr/, Norwegian /no/, Chinese /zh/, Korean /ko/, Finnish /fi/ and Japanese /ja/. The ten original languages use localized slugs; the newer ones keep Latin slugs. Every page links to its alternates via hreflang.
 
 ## Main pages
 
@@ -51,4 +51,4 @@ Local taxi pages cover Šibenik and the surrounding towns, following the pattern
 
 ## Sister site
 
-Skradin-based transfers are handled by [taxiskradin.hr](https://taxiskradin.hr/), run by the same driver.
+Skradin-based transfers are handled by [taxiskradin.hr](https://taxiskradin.hr/), run by the same driver. The two sites are complementary, not competing: Šibenik-origin journeys are published here and Skradin-origin journeys (including Krka National Park, Roški Slap, the Plastovo wineries and ACI Marina Skradin) live on taxiskradin.hr. Every route page exists on exactly one of the two domains, and the pair cross-links so a visitor always reaches the correct page for their direction of travel.

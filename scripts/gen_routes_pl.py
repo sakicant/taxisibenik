@@ -226,8 +226,13 @@ def build(frm, to, slug):
     why_html = "\n".join('        <div class="why-book-item">\n          <h3>%s</h3>\n          <p>%s</p>\n        </div>' % (h, t) for h, t in whys)
 
     wa = "https://wa.me/385994471013?text=" + quote(
-        "Cześć Antonio, chciałbym zarezerwować transfer %s (€%d).\n"
-        "Moje dane:\n- Data odbioru: \n- Godzina odbioru: \n- Pasażerowie: \n- Adres odbioru: \n- Moje imię: " % (rel, p))
+        """Hi Antonio, I would like to book the %s to %s transfer (€%d).
+My details:
+- Pickup date:
+- Pickup time:
+- Passengers:
+- Pickup address:
+- My name: """ % (frm, to, p))
     trust_line = ("Potwierdzone po zaliczce &middot; Bez ukrytych opłat &middot; Monitorowanie lotu w cenie"
                   if typ in ("to_airport", "from_airport")
                   else "Potwierdzone po zaliczce &middot; Bez ukrytych opłat &middot; Stała cena, bez taksometru")

@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-flygplats-zagreb-drnis",
+  "title": "Taxi Zagreb flygplats - Drniš | Fast pris €450 | TAXI Antonio",
+  "description": "Privat taxi och transfer, Zagreb flygplats - Drniš. Fast pris €450 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "keywords": "taxi zagreb flygplats - drniš, transfer zagreb flygplats - drniš, flygplatstransfer zagreb flygplats - drniš",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransfer",
+      "name": "Taxi Zagreb flygplats - Drniš",
+      "description": "Privat taxi och transfer till fast pris, Zagreb flygplats - Drniš, 450 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zagreb flygplats",
+        "Drniš"
+      ],
+      "url": "https://taxisibenik.hr/sv/taxi-flygplats-zagreb-drnis/",
+      "offers": {
+        "@type": "Offer",
+        "price": "450",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat resa, Zagreb flygplats - Drniš, per fordon för upp till 4 passagerare. Tur och retur 900 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hur långt är sträckan och hur lång tid tar resan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Resan Zagreb flygplats - Drniš är cirka 369 km lång och tar ungefär 4 h 5 min vid normal trafik, något längre under högsommaren. Jag planerar upphämtningen så att en långsam sträcka aldrig gör dig stressad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Var möter du mig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I ankomsthallen, direkt efter bagageutlämningen, med en skylt med ditt namn. Jag hjälper till med bagaget och följer dig till fordonet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vad händer om mitt flyg är försenat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Inga problem. Jag följer ditt flyg i realtid och anpassar upphämtningen efter den faktiska landningen, utan tillägg för väntetiden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur mycket kostar transfern på sträckan Zagreb flygplats - Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 450 per fordon för upp till 4 passagerare, enkel resa, vägtull och bagage ingår. En tur och retur kostar 900."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur långt i förväg bör jag boka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timmar i förväg, så att jag kan planera kring ditt flyg. För en upphämtning samma dag efter en ändring med kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

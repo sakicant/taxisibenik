@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zablace-split-lentoasema",
+  "title": "Taksi Zablaće - Splitin lentoasema | Kiinteä hinta €95 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Zablaće - Splitin lentoasema. Kiinteä hinta €95 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi zablaće - splitin lentoasema, kuljetus zablaće - splitin lentoasema, lentokenttäkuljetus zablaće - splitin lentoasema",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Zablaće - Splitin lentoasema",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Zablaće - Splitin lentoasema, 95 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zablaće",
+        "Splitin lentoasema"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-zablace-split-lentoasema/",
+      "offers": {
+        "@type": "Offer",
+        "price": "95",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Zablaće - Splitin lentoasema, per auto enintään 4 matkustajalle. Meno ja paluu 190 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kuinka pitkä reitti on ja kuinka kauan matka kestää?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matka reitillä Zablaće - Splitin lentoasema on noin 57 km ja kestää noin 60 min normaalissa liikenteessä, kesän huippukaudella hieman kauemmin. Suunnittelen noudon niin, ettei hidas matka koskaan aiheuta kiirettä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko taksi maksaa reitillä Zablaće - Splitin lentoasema?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 95 per auto, yhdensuuntainen matka, enintään 4 matkustajalle. Hinta on per auto, ei per henkilö, ja sisältää tietullit, polttoaineen ja matkatavarat. Meno-paluumatka maksaa 190."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milloin minun pitäisi lähteä lentoasemalle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yleensä noin 3 tuntia ennen kansainvälistä ja 2 tuntia ennen kotimaista lentoa. Kerro lentoaikasi, niin vahvistan tarkan noutoajan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ajatteko lähtöterminaaliin asti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Vien sinut suoraan lähtöterminaaliin ja autan matkatavaroiden kanssa. Ei kävelyä parkkipaikalta eikä bussikuljetusta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin vahvistaa auton ja noudon, ja aikaisemmin varhaisia lentoja ja huippukautta varten. Lyhyellä varoitusajalla soita tai kirjoita minulle WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

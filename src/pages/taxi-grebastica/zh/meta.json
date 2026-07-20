@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-grebastica",
+  "title": "Grebaštica 出租车 | TAXI Antonio",
+  "description": "Grebaštica 出租车：在营地和海滩接客，固定价格接送前往 Split 机场（90 €）、Šibenik 和 Vodice。提前预订，上门接客。",
+  "keywords": "grebastica 出租车, grebastica taxi, grebastica 营地出租车, grebastica 机场接送, grebastica 到 split 机场, grebastica 到 sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "本地出租车与机场接送",
+      "name": "Grebaštica 出租车",
+      "description": "从 Šibenik 以南的海滨露营和海滩村庄 Grebaštica 出发的私人固定价格出租车，前往 Split 机场、Šibenik 和 Vodice。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Grebaštica",
+      "url": "https://taxisibenik.hr/zh/taxi-grebastica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "从 Grebaštica 出发的出租车价格",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Grebaštica 到 Šibenik 出租车",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Greba%C5%A1tica&to=%C5%A0ibenik%20-%20center&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Grebaštica 到 Vodice 出租车",
+            "price": "55",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Greba%C5%A1tica&to=Vodice&price=55"
+          },
+          {
+            "@type": "Offer",
+            "name": "Grebaštica 到 Split 机场出租车",
+            "price": "90",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Greba%C5%A1tica&to=Split%20Airport%20%28SPU%29&price=90"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "您会到 Grebaštica 的营地接客吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "会的。我可以在营地前台或您的公寓接您，车上有足够空间放露营和海滩装备。预订时把准确位置发给我。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Grebaštica 有出租车候客站吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "没有，所以最好提前预订。我会按约定时间来接您，不必让您在村里到处找车。"
+          }
+        }
+      ]
+    }
+  ]
+}

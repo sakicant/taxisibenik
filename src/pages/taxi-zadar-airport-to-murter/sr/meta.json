@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-aerodrom-zadar-murter",
+  "title": "Taksi Aerodrom Zadar - Murter | Fiksna cena €120 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Aerodrom Zadar - Murter. Fiksno €120 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi aerodrom zadar - murter, transfer aerodrom zadar - murter, prevoz aerodrom zadar - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Aerodrom Zadar - Murter",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Aerodrom Zadar - Murter, 120 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Aerodrom Zadar",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-aerodrom-zadar-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "120",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Aerodrom Zadar - Murter, po vozilu za do 4 putnika. Povratno 240 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolika je udaljenost i koliko traje vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Aerodrom Zadar - Murter duga je oko 74 km i traje otprilike 70 min u uobičajenom saobraćaju, nešto duže u letnjim gužvama. Polazak planiram tako da vas usporeni deo nikad ne požuri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gde me dočekujete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "U dolaznoj zoni, odmah nakon preuzimanja prtljaga, s natpisom s vašim imenom. Pomažem s prtljagom i vodim vas do vozila."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Šta ako mi let kasni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nema problema. Let pratim u realnom vremenu i prilagođavam preuzimanje stvarnom sletanju, bez dodatne naplate čekanja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta transfer na relaciji Aerodrom Zadar - Murter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 120 po vozilu za do 4 putnika, jedan smer, putarine i prtljag uključeni. Povratna vožnja je 240."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da planiram prema vašem letu. Za isti dan nakon nagle promene pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

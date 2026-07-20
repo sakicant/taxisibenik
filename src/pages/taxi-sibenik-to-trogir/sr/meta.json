@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-sibenik-trogir",
+  "title": "Taksi Šibenik - Trogir | Fiksna cena €95 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Šibenik - Trogir. Fiksno €95 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi šibenik - trogir, transfer šibenik - trogir, prevoz šibenik - trogir",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Šibenik - Trogir",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Šibenik - Trogir, 95 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Trogir"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-sibenik-trogir/",
+      "offers": {
+        "@type": "Offer",
+        "price": "95",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Šibenik - Trogir, po vozilu za do 4 putnika. Povratno 190 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolika je udaljenost i koliko traje vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Šibenik - Trogir duga je oko 55 km i traje otprilike 60 min u uobičajenom saobraćaju, nešto duže u letnjim gužvama. Polazak planiram tako da vas usporeni deo nikad ne požuri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Šibenik - Trogir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 95 po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Povratna vožnja je 190."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li je transfer privatan ili deljen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Svaki je transfer privatan i od vrata do vrata, u Škodi Superb. Bez deljenja vozila i bez dodatnih zaustavljanja osim ako ih zatražite."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Možete li da stanete usput?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Na dužim rutama rado stanem za kafu, fotografiju ili kratku znamenitost. Samo javite pri rezervaciji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da potvrdim vozilo i vreme preuzimanja. Za brži termin pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

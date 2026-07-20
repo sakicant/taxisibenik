@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-split-lentoasema-drnis",
+  "title": "Taksi Splitin lentoasema - Drniš | Kiinteä hinta €80 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Splitin lentoasema - Drniš. Kiinteä hinta €80 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi splitin lentoasema - drniš, kuljetus splitin lentoasema - drniš, lentokenttäkuljetus splitin lentoasema - drniš",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Splitin lentoasema - Drniš",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Splitin lentoasema - Drniš, 80 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Splitin lentoasema",
+        "Drniš"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-split-lentoasema-drnis/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Splitin lentoasema - Drniš, per auto enintään 4 matkustajalle. Meno ja paluu 160 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kuinka pitkä reitti on ja kuinka kauan matka kestää?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matka reitillä Splitin lentoasema - Drniš on noin 54 km ja kestää noin 70 min normaalissa liikenteessä, kesän huippukaudella hieman kauemmin. Suunnittelen noudon niin, ettei hidas matka koskaan aiheuta kiirettä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Missä otatte minut vastaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Saapumisaulassa, heti matkatavaroiden noudon jälkeen, kyltillä jossa on nimesi. Autan matkatavaroiden kanssa ja saatan sinut autolle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Entä jos lentoni on myöhässä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ei ongelmaa. Seuraan lentoasi reaaliajassa ja mukautan noudon todelliseen laskeutumiseen, ilman lisämaksua odotusajasta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko kuljetus maksaa reitillä Splitin lentoasema - Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 80 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatka maksaa 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin suunnitella lentosi ympärille. Saman päivän noutoa varten lyhyen muutoksen jälkeen soita tai kirjoita WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-brodarica",
+  "title": "Taxi Brodarica | TAXI Antonio",
+  "description": "Taxi Brodarica: noudot Krapanjin lauttalaiturilta ja rantabulevardilta sekä kiinteähintaiset lentokenttäkuljetukset Splitiin (€95) ja Zadariin ja kyydit Šibenikiin.",
+  "keywords": "taxi brodarica, brodarica taksi, brodarica krapanj lautta, brodarica lentokenttäkuljetus, brodarica split lentokentälle, taxi brodarica sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Paikallinen taksi ja lentokenttäkuljetukset",
+      "name": "Taxi Brodarica",
+      "description": "Yksityinen kiinteähintainen taksi Brodaricasta, Šibenikin eteläpuolelta ja Krapanjin lauttalaiturilta, Splitin lentokentälle, Zadarin lentokentälle ja Šibenikiin.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Brodarica",
+      "url": "https://taxisibenik.hr/fi/taxi-brodarica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksin hinnat Brodaricasta",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Brodarica Šibenikiin",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Brodarica%20-%20%C5%A0ibenik&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Brodarica Splitin lentokentälle",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Brodarica%20-%20%C5%A0ibenik&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Brodarica Zadarin lentokentälle",
+            "price": "135",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Brodarica%20-%20%C5%A0ibenik&to=Zadar%20Airport%20%28ZAD%29&price=135"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Voitko jättää minut Krapanjin lautalle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Ajan sinut suoraan Brodarican rantaan lauttalaiturille, josta lautta lähtee Krapanjiin, ja voin hakea sinut sieltä myös paluumatkalla."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Palveletko koko Brodarican rantaa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä, sekä rantakadulla että sen takana olevilla kaduilla. Lähetä osoitteesi tai majoituksesi nimi, niin vahvistan tarkan tapaamispaikan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Onko lentokenttäkuljetuksen hinta kiinteä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Splitin lentokenttä on €95 ja Zadarin lentokenttä €135 autoa kohti, enintään 4 matkustajaa, tietullit ja matkatavarat mukaan lukien."
+          }
+        }
+      ]
+    }
+  ]
+}

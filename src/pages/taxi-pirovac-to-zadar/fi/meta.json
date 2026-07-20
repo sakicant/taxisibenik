@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-pirovac-zadar",
+  "title": "Taksi Pirovac - Zadar | Kiinteä hinta €105 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Pirovac - Zadar. Kiinteä hinta €105 per auto, enintään 4 matkustajaa, ovelta ovelle. Varaa suoraan Antoniolta.",
+  "keywords": "taksi pirovac - zadar, kuljetus pirovac - zadar, lentokenttäkuljetus pirovac - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Pirovac - Zadar",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Pirovac - Zadar, 105 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Pirovac",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-pirovac-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "105",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Pirovac - Zadar, per auto enintään 4 matkustajalle. Meno ja paluu 210 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kuinka pitkä reitti on ja kuinka kauan matka kestää?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matka reitillä Pirovac - Zadar on noin 53 km ja kestää noin 60 min normaalissa liikenteessä, kesän huippukaudella hieman kauemmin. Suunnittelen noudon niin, ettei hidas matka koskaan aiheuta kiirettä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko taksi maksaa reitillä Pirovac - Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 105 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullien, polttoaineen ja matkatavaroiden kanssa. Meno-paluumatka maksaa 210."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Onko kuljetus yksityinen vai jaettu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jokainen kuljetus on yksityinen ja ovelta ovelle, Škoda Superbissa. Ei auton jakamista eikä ylimääräisiä pysähdyksiä, ellet niin toivo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voitteko pysähtyä matkan varrella?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Pidemmillä matkoilla pysähdyn mielelläni kahville, valokuvalle tai lyhyelle nähtävyydelle. Kerro vain varauksen yhteydessä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin vahvistaa auton ja noutoajan. Lyhyellä varoitusajalla soita tai kirjoita WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

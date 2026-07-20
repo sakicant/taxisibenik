@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-bilo-rogoznica",
+  "title": "Taksi Bilo - Rogoznica | Fiksna cena €25 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Bilo - Rogoznica. Fiksno €25 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi bilo - rogoznica, transfer bilo - rogoznica, prevoz bilo - rogoznica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Bilo - Rogoznica",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Bilo - Rogoznica, 25 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Bilo",
+        "Rogoznica"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-bilo-rogoznica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "25",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Bilo - Rogoznica, po vozilu za do 4 putnika. Povratno 50 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolika je udaljenost i koliko traje vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Bilo - Rogoznica duga je oko 12 km i traje otprilike 15 min u uobičajenom saobraćaju, nešto duže u letnjim gužvama. Polazak planiram tako da vas usporeni deo nikad ne požuri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Bilo - Rogoznica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 25 po vozilu za do 4 putnika, jedan smer, prtljag uključen. Povratna vožnja je 50."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gde me preuzimate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašoj tačnoj adresi, bila to kuća, hotel ili apartman. Pošaljite adresu pri rezervaciji i potvrdiću mesto sastanka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da potvrdim vozilo i vreme preuzimanja. Za brži termin pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

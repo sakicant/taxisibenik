@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-flygplats-dubrovnik-seget",
+  "title": "Taxi Dubrovnik flygplats - Seget | Fast pris €420 | TAXI Antonio",
+  "description": "Privat taxi och transfer, Dubrovnik flygplats - Seget. Fast pris €420 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "keywords": "taxi dubrovnik flygplats - seget, transfer dubrovnik flygplats - seget, flygplatstransfer dubrovnik flygplats - seget",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransfer",
+      "name": "Taxi Dubrovnik flygplats - Seget",
+      "description": "Privat taxi och transfer till fast pris, Dubrovnik flygplats - Seget, 420 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik flygplats",
+        "Seget"
+      ],
+      "url": "https://taxisibenik.hr/sv/taxi-flygplats-dubrovnik-seget/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat resa, Dubrovnik flygplats - Seget, per fordon för upp till 4 passagerare. Tur och retur 840 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Var möter du mig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I ankomsthallen, direkt efter bagageutlämningen, med en skylt med ditt namn. Jag hjälper till med bagaget och följer dig till fordonet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vad händer om mitt flyg är försenat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Inga problem. Jag följer ditt flyg i realtid och anpassar upphämtningen efter den faktiska landningen, utan tillägg för väntetiden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur mycket kostar transfern på sträckan Dubrovnik flygplats - Seget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 420 per fordon för upp till 4 passagerare, enkel resa, vägtull och bagage ingår. En tur och retur kostar 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur långt i förväg bör jag boka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timmar i förväg, så att jag kan planera kring ditt flyg. För en upphämtning samma dag efter en ändring med kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

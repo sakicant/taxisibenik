@@ -1,0 +1,79 @@
+{
+  "slug": "frequently-asked-questions",
+  "title": "Vanliga frågor | TAXI Antonio",
+  "description": "Snabba svar om bokning, priser och lokala resor runt Šibenik.",
+  "keywords": "vanliga frågor",
+  "og_image": "https://taxisibenik.hr/assets/og-image.png",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hur bokar jag en taxi från Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ring +385 99 447 1013, skriv till mig på WhatsApp eller skicka ett e-postmeddelande. Jag behöver veta var du ska hämtas, vart du ska och önskad tid för upphämtning eller ankomst."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur långt i förväg bör jag boka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jag tar emot förfrågningar i sista minuten inom mina arbetstider, men bokar du i förväg är bilen garanterad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vad betyder \"fast pris\"? Vad ingår?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mina fasta priser inkluderar transport, bränsle, vägtullar och hjälp med bagaget. Inga dolda avgifter. Extra stopp eller lång väntetid kan kosta mer, och jag säger alltid till i förväg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Tar du förskottsbetalning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. För att bekräfta en bokning krävs 20 % i förskott (minst 20 €). Resor som kostar 20 € eller mindre betalas helt i förskott. Du kan också betala hela beloppet i förväg om du vill. Förskottsbetalning sker via banköverföring (SEPA) eller kort, och resten betalar du till mig på transferdagen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hämtar du vid sjukhuset i Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jag kör passagerare till och från Šibeniks allmänna sjukhus och får köra in på sjukhusområdet, så du slipper gå långt från en parkering. Säg till om du behöver hjälp fram till entrén."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du köra mig till färjan till öarna?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jag lämnar av och hämtar upp vid färje- och katamaranhamnen i Šibenik för Zlarin, Prvić, Kaprije och Žirje, samt båten till Obonjan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hämtar du vid hotellen i Šibenik samt buss- och tågstationen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jag kör till alla lokala hotell, busstationen, tågstationerna i Šibenik och Perković samt färjehamnen, med hjälp med bagaget och namnskylt på begäran."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan man betala med kort i bilen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, jag tar kort och andra kontaktlösa betalsätt."
+          }
+        }
+      ]
+    }
+  ]
+}

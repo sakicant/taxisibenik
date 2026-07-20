@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sibenik-testament-winery",
+  "title": "Taksi Šibenik - Testament Winery | Fiksna cena €30 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Šibenik - Testament Winery. Fiksno €30 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi šibenik - testament winery, transfer šibenik - testament winery, prevoz šibenik - testament winery",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Šibenik - Testament Winery",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Šibenik - Testament Winery, 30 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Testament Winery"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-sibenik-testament-winery/",
+      "offers": {
+        "@type": "Offer",
+        "price": "30",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Šibenik - Testament Winery, po vozilu za do 4 putnika. Povratno 60 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Šibenik - Testament Winery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 30 po vozilu za do 4 putnika, jedan smer, prtljag uključen. Povratna vožnja je 60."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gde me preuzimate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašoj tačnoj adresi, bila to kuća, hotel ili apartman. Pošaljite adresu pri rezervaciji i potvrdiću mesto sastanka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da potvrdim vozilo i vreme preuzimanja. Za brži termin pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

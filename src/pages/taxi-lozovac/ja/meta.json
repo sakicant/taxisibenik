@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-lozovac",
+  "title": "タクシー Lozovac | TAXI Antonio",
+  "description": "タクシー Lozovac：クルカ国立公園の入口（Skradinski Buk）での送迎、クルカ日帰りプラン、スプリット空港（€95）への固定料金送迎。直接ご予約ください。",
+  "keywords": "タクシー lozovac, lozovac タクシー, クルカ国立公園 タクシー, lozovac クルカ 入口, クルカの滝 タクシー, lozovac から スプリット空港, lozovac から シベニク",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "地域内タクシーおよび空港送迎",
+      "name": "タクシー Lozovac",
+      "description": "Skradinski Bukの滝へ向かうクルカ国立公園の主要入口Lozovacでの貸切タクシーです。公園の日帰りプラン、小旅行、固定料金の空港送迎を承ります。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Lozovac",
+      "url": "https://taxisibenik.hr/ja/taxi-lozovac/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Lozovac発のタクシー料金",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "タクシー Lozovac - シベニク",
+            "price": "45",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Lozovac&to=%C5%A0ibenik%20-%20center&price=45"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Lozovac - Vodice",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Lozovac&to=Vodice&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Lozovac - クルカ国立公園（Skradin入口）",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Lozovac&to=NP%20Krka%20-%20Skradin%20entrance&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Lozovac - スプリット空港",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Lozovac&to=Split%20Airport%20%28SPU%29&price=95"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Lozovacからクルカの入口までどのくらいですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lozovacはクルカ国立公園の車道入口そのものですので、すでにSkradinski Bukの滝のゲートに到着していることになります。入口のすぐ前でお降ろしします。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "公園を見学している間、待っていてもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。待ち時間込みの貸切クルカ日帰りプランをご用意しています。滝までお連れし、ご自分のペースでご見学いただく間お待ちして、お戻りまでお送りします。日帰りツアーのページをご覧ください。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Skradinの入口にも行ってもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。滝までボートで向かうクルカのSkradin入口までの送迎は、1台あたり固定 €25 です。"
+          }
+        }
+      ]
+    }
+  ]
+}

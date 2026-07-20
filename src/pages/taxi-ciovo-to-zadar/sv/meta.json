@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-ciovo-zadar",
+  "title": "Taxi Čiovo - Zadar | Fast pris €225 | TAXI Antonio",
+  "description": "Privat taxi och transfer, Čiovo - Zadar. Fast pris €225 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "keywords": "taxi čiovo - zadar, transfer čiovo - zadar, flygplatstransfer čiovo - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransfer",
+      "name": "Taxi Čiovo - Zadar",
+      "description": "Privat taxi och transfer till fast pris, Čiovo - Zadar, 225 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/sv/taxi-ciovo-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "225",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat resa, Čiovo - Zadar, per fordon för upp till 4 passagerare. Tur och retur 450 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hur mycket kostar en taxi på sträckan Čiovo - Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 225 per fordon för upp till 4 passagerare, enkel resa, med vägtull, bränsle och bagage. En tur och retur kostar 450."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Är transfern privat eller delad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Varje transfer är privat och dörr till dörr, i en Škoda Superb. Ingen delning av fordonet och inga extra stopp, om du inte önskar det."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du stanna på vägen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. På längre sträckor stannar jag gärna för en kaffe, ett foto eller en kort sevärdhet. Säg bara till vid bokningen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur långt i förväg bör jag boka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timmar i förväg, så att jag kan bekräfta fordon och upphämtningstid. För en resa med kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

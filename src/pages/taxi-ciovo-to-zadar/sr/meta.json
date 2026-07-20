@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-ciovo-zadar",
+  "title": "Taksi Čiovo - Zadar | Fiksna cena €225 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Čiovo - Zadar. Fiksno €225 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi čiovo - zadar, transfer čiovo - zadar, prevoz čiovo - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Čiovo - Zadar",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Čiovo - Zadar, 225 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-ciovo-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "225",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Čiovo - Zadar, po vozilu za do 4 putnika. Povratno 450 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Čiovo - Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 225 po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Povratna vožnja je 450."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li je transfer privatan ili deljen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Svaki je transfer privatan i od vrata do vrata, u Škodi Superb. Bez deljenja vozila i bez dodatnih zaustavljanja osim ako ih zatražite."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Možete li da stanete usput?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Na dužim rutama rado stanem za kafu, fotografiju ili kratku znamenitost. Samo javite pri rezervaciji."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da potvrdim vozilo i vreme preuzimanja. Za brži termin pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

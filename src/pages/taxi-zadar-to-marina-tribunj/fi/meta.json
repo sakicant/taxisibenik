@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zadar-marina-tribunj",
+  "title": "Taksi Zadar - Marina Tribunj | Kiinteä hinta €110 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Zadar - Marina Tribunj. Kiinteä hinta €110 per auto, enintään 4 matkustajaa, ovelta ovelle. Varaa suoraan Antoniolta.",
+  "keywords": "taksi zadar - marina tribunj, kuljetus zadar - marina tribunj, lentokenttäkuljetus zadar - marina tribunj",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Zadar - Marina Tribunj",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Zadar - Marina Tribunj, 110 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Marina Tribunj"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-zadar-marina-tribunj/",
+      "offers": {
+        "@type": "Offer",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Zadar - Marina Tribunj, per auto enintään 4 matkustajalle. Meno ja paluu 220 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Paljonko kuljetus maksaa reitillä Zadar - Marina Tribunj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 110 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullien, polttoaineen ja matkatavaroiden kanssa. Meno-paluumatka maksaa 220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voitteko noutaa suoraan marinalta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Tapaan sinut marinan sisäänkäynnillä tai vastaanotossa ja autan matkatavaroiden kanssa, jotta pääset suoraan laiturilta autoon."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voitteko sovittaa kuljetuksen veneeni mukaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Lähetä minulle varauksen yhteydessä charter-, sisäänkirjautumis- tai lähtöaikasi, niin suunnittelen noudon sen ympärille."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin vahvistaa auton ja noutoajan. Lyhyellä varoitusajalla soita tai kirjoita minulle suoraan WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-sibenik",
+  "title": "시베니크 출발 크르카 당일 여행 | 프라이빗 이동, 고정 €100 | TAXI Antonio",
+  "description": "시베니크에서 출발하는 크르카 프라이빗 왕복 택시 이동. 차량 1대당 고정 €100, 최대 4명, 호텔과 아파트, 역, 페리 항구에서 도어투도어 픽업. 투어가 아니라 오가는 이동 서비스입니다.",
+  "keywords": "시베니크 출발 크르카 당일 여행, 크르카 왕복 이동, 시베니크 크르카 택시, 크르카 이동 시베니크, 시베니크에서 크르카 국립공원",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "시베니크 출발 프라이빗 크르카 당일 여행",
+      "description": "영어가 가능한 현지 기사와 함께하는 시베니크 출발 크르카 국립공원 프라이빗 당일 여행. 최대 4명까지 차량 1대당 고정 100유로이며, 호텔과 아파트, 버스 및 기차역, 페리 항구에서 도어투도어로 픽업해 드립니다.",
+      "touristType": "Nature and sightseeing",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "프라이빗 차량, 시베니크에서 크르카 국립공원 왕복, 최대 4명. 공원 입장권은 포함되지 않습니다."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "가이드 투어인가요, 택시 이동인가요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "가이드 투어가 아니라 택시 이동입니다. Antonio는 크르카까지 왕복 프라이빗 이동을 제공하는 시베니크 현지 택시 기사입니다. 차량과 운전을 제공해 드리며, 공원 안에서는 각자의 속도로 자유롭게 둘러보시면 됩니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Amadria Park, D-Resort, Hotel Bellevue에서도 픽업하나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. Amadria Park 리조트, D-Resort Šibenik, Hotel Bellevue를 비롯한 시베니크 호텔에서 손님을 자주 모십니다. 호텔 이름을 알려 주시면 정확한 픽업 시간과 만나는 장소를 확인해 드립니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "시베니크 페리 항구나 버스 터미널, 기차역에서도 픽업하나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. 시베니크 페리 및 크루즈 항구, 버스 터미널, 시베니크와 Perković 기차역에서 도어투도어로 모시며, 요청하시면 이름표를 들고 기다립니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "크르카 국립공원에서 얼마나 머무르나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "대부분의 손님은 공원 안에서 3~4시간 정도의 자유 시간을 선택하십니다. 주요 폭포를 보고 대표적인 보드워크 코스를 걷기에 충분한 시간입니다. 예약하실 때 더 짧게 또는 더 길게 조정하실 수 있습니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "크르카 입장권이 요금에 포함되어 있나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "아니요. 입장권은 Skradin이나 Lozovac 입구에서 크르카 국립공원으로부터 직접 구매하시거나 온라인으로 따로 구매하십니다. 요금은 시즌에 따라 약 7유로에서 40유로 정도입니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "시베니크에서 크르카로 가는 당일 여행은 어떻게 예약하고 결제하나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "20%의 선입금(최소 20유로)을 계좌 이체나 카드로 결제하시면 예약이 확정되고, 확인용 인보이스를 받으십니다. 잔액은 당일 기사에게 현금이나 카드로 지불하시면 됩니다."
+          }
+        }
+      ]
+    }
+  ]
+}

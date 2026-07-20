@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadar-dubrovnik-lufthavn",
+  "title": "Taxi Zadar - Dubrovnik lufthavn | Fastpris €625 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Zadar - Dubrovnik lufthavn. Fastpris €625 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi zadar - dubrovnik lufthavn, transport zadar - dubrovnik lufthavn, flyplasstransport zadar - dubrovnik lufthavn",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Zadar - Dubrovnik lufthavn",
+      "description": "Privat taxi og transport til fastpris, strekningen Zadar - Dubrovnik lufthavn, 625 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Dubrovnik lufthavn"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-zadar-dubrovnik-lufthavn/",
+      "offers": {
+        "@type": "Offer",
+        "price": "625",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Zadar - Dubrovnik lufthavn, per bil for opptil 4 passasjerer. Tur og retur 1250 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er strekningen og hvor lenge tar turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på strekningen Zadar - Dubrovnik lufthavn er rundt 372 km lang og tar omtrent 5 h 5 min ved normal trafikk, litt lenger i høysesongen om sommeren. Jeg planlegger henting slik at en langsom strekning aldri gjør deg stresset."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster en taxi på strekningen Zadar - Dubrovnik lufthavn?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 625 per bil, en vei, for opptil 4 passasjerer. Prisen gjelder per bil, ikke per person, og inkluderer bompenger, drivstoff og bagasje. Tur og retur koster 1250."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Når bør jeg dra til flyplassen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vanligvis omtrent 3 timer før en internasjonal flyvning og 2 timer før en innenriks flyvning. Gi meg flytiden din, så bekrefter jeg nøyaktig henting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kjører du helt til avgangsterminalen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg kjører deg rett til avgangsterminalen og hjelper med bagasjen. Ingen gange fra parkeringen og ingen shuttle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan bekrefte bil og henting, og tidligere for tidlige fly og høysesong. For en tur på kort varsel, ring eller skriv til meg på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

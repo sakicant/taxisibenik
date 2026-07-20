@@ -1,0 +1,87 @@
+{
+  "slug": "sibenik-transfers",
+  "title": "Traslados desde Šibenik | Precios fijos | TAXI Antonio",
+  "description": "Traslados desde Šibenik hacia y desde Split, Zadar, Dubrovnik, Zagreb, Trogir y más allá. Precios fijos, privados y de puerta a puerta, un solo conductor local. Reserve directamente con Antonio.",
+  "keywords": "traslados sibenik, traslado šibenik, taxi sibenik split, sibenik a zadar, sibenik a dubrovnik, sibenik a zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Traslado en taxi entre ciudades",
+      "name": "Traslados desde Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/es/sibenik-transfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuánto cuesta un traslado en taxi de Šibenik a Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un traslado privado de Šibenik a Split cuesta 140 euros fijos por coche para hasta 4 pasajeros, con peajes, combustible y equipaje incluidos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Los precios de los traslados son fijos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Cada traslado entre ciudades tiene un precio fijo por coche para hasta 4 pasajeros, acordado de antemano. Sin taxímetro y sin sorpresas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El traslado es privado o compartido?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Todos los traslados son privados y de puerta a puerta, en un Škoda Superb. No se comparte vehículo ni se hacen paradas extra salvo que usted las pida."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Pueden parar por el camino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. En los traslados largos paro encantado a tomar un café, hacer una foto o ver algo rápido. Dígamelo al reservar y lo tengo en cuenta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo se paga un traslado?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un anticipo del 20% (mínimo 20 euros) confirma la reserva, por transferencia bancaria o tarjeta. El resto se paga al conductor el mismo día, en efectivo o con tarjeta."
+          }
+        }
+      ]
+    }
+  ]
+}

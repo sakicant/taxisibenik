@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-zablace",
+  "title": "Taxi Zablaće | TAXI Antonio",
+  "description": "Taxi Zablaće: 캠핑장과 해변 손님, Amadria Park 인근을 위한 스플리트(€95)와 자다르 공항 고정 요금 이동, 그리고 Šibenik과 Vodice행 운행.",
+  "keywords": "taxi zablace, 자블라체 택시, 자블라체 캠핑장 택시, 자블라체 공항 이동, amadria park 자블라체 택시, 자블라체 스플리트 공항",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "지역 택시 및 공항 이동 서비스",
+      "name": "Taxi Zablaće",
+      "description": "Šibenik 남서쪽의 캠핑장과 Amadria Park 일대인 Zablaće에서 스플리트 공항, 자다르 공항, Šibenik, Vodice까지 운행하는 고정 요금 프라이빗 택시입니다.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Zablaće",
+      "url": "https://taxisibenik.hr/ko/taxi-zablace/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Zablaće 출발 택시 요금",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Zablaće에서 Šibenik까지 택시",
+            "price": "18",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Zabla%C4%87e&to=%C5%A0ibenik%20-%20center&price=18"
+          },
+          {
+            "@type": "Offer",
+            "name": "Zablaće에서 Vodice까지 택시",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Zabla%C4%87e&to=Vodice&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Zablaće에서 스플리트 공항까지 택시",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Zabla%C4%87e&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Zablaće에서 자다르 공항까지 택시",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Zabla%C4%87e&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "캠핑장이나 Amadria Park 일대에서도 픽업해 주시나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. 캠핑장 리셉션, 아파트, 또는 가까운 Amadria Park 일대에서 모시러 가며 짐과 장비를 실을 공간도 넉넉합니다. 예약하실 때 정확한 위치를 알려 주세요."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "캠핑 용품과 해변 용품을 실을 공간이 있나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. Škoda Superb는 트렁크가 넓어 여행 가방, 캠핑 장비, 해변 용품을 실을 수 있습니다. 자전거나 부피가 큰 짐이 있으시면 미리 알려 주시면 준비해 두겠습니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zablaće에서 스플리트 공항까지 요금은 얼마인가요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "최대 4인까지 차량당 €95 고정 요금이며 통행료와 수하물이 포함됩니다. 양방향 모두 같은 요금입니다."
+          }
+        }
+      ]
+    }
+  ]
+}

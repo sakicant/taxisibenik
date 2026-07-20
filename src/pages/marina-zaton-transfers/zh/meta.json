@@ -1,0 +1,139 @@
+{
+  "slug": "marina-zaton-transfers",
+  "title": "Marina Zaton 接送 | 固定价格 | TAXI Antonio",
+  "description": "从希贝尼克附近的 Marina Zaton 出发前往斯普利特、扎达尔、萨格勒布和杜布罗夫尼克机场及各城市的私人接送。固定价格，泊位接客，一位本地司机。",
+  "keywords": "marina zaton 接送, zaton 码头出租车, marina zaton 机场接送, zaton 斯普利特机场",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "码头出租车与机场接送",
+      "name": "Marina Zaton 接送服务",
+      "description": "从希贝尼克附近的 Marina Zaton 出发前往斯普利特、扎达尔、萨格勒布和杜布罗夫尼克机场及各城市的私人接送。固定价格，泊位接客，一位本地司机。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/zh/marina-zaton-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "从 Marina Zaton 出发的固定接送价格",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton 到斯普利特机场",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton 到扎达尔机场",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton 到萨格勒布机场",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton 到杜布罗夫尼克机场",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton 到斯普利特",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton 到扎达尔",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton 到杜布罗夫尼克",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton 到 Trogir",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton 到 Vodice",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton 到 Krka 国家公园（Lozovac）",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton 到 Šibenik",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "在 Marina Zaton 的哪里接客？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "就在码头，可以在您的泊位旁或码头前台，看您方便。预订时告诉我您的浮桥编号或船名，我会找到您。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "到斯普利特机场的接送多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "按车计算的固定价格，最多 4 位乘客，出发前就谈妥，含过路费、油费和行李。每条线路的价格请见上方价目表。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "我应该提前多久预订？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "至少提前 2 小时，以便我确认车辆和接客时间；清晨航班和旺季请更早预订。如需更快用车，请直接打电话或用 WhatsApp 联系我。"
+          }
+        }
+      ]
+    }
+  ]
+}

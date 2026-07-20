@@ -1,0 +1,87 @@
+{
+  "slug": "sibenik-transfers",
+  "title": "Šibenikin kuljetukset | Kiinteät hinnat | TAXI Antonio",
+  "description": "Šibenikin kuljetukset Splitiin, Zadariin, Dubrovnikiin, Zagrebiin, Trogiriin ja kauemmaksi sekä takaisin. Kiinteät hinnat, yksityinen kuljetus ovelta ovelle, yksi paikallinen kuljettaja. Varaa suoraan Antoniolta.",
+  "keywords": "sibenik kuljetukset, šibenik kuljetus, taksi sibenik split, sibenikistä zadariin, sibenikistä dubrovnikiin, sibenikistä zagrebiin",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Kaupunkien välinen taksikuljetus",
+      "name": "Šibenikin kuljetukset",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/fi/sibenik-transfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Paljonko taksikuljetus Šibenikistä Splitiin maksaa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yksityinen kuljetus Šibenikistä Splitiin maksaa kiinteät 140 euroa autoa kohden enintään 4 matkustajalle, ja hintaan sisältyvät tietullit, polttoaine ja matkatavarat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ovatko kuljetusten hinnat kiinteitä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Jokainen kaupunkien välinen kuljetus on kiinteähintainen autoa kohden enintään 4 matkustajalle, sovittuna etukäteen. Ei taksamittaria eikä yllätyksiä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Onko kuljetus yksityinen vai jaettu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jokainen kuljetus on yksityinen ja ovelta ovelle, Škoda Superbilla. Autoa ei jaeta muiden kanssa eikä matkalla ole ylimääräisiä pysähdyksiä, ellet niitä pyydä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voitteko pysähtyä matkan varrella?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Pidemmillä matkoilla pysähdyn mielelläni kahville, valokuvaamaan tai katsomaan nopeasti jotain nähtävyyttä. Kerro siitä varatessasi, niin huomioin sen aikataulussa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Miten maksan kuljetuksen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "20 %:n ennakkomaksu (vähintään 20 euroa) vahvistaa varauksen, tilisiirrolla tai kortilla. Loppusumma maksetaan kuljettajalle matkapäivänä käteisellä tai kortilla."
+          }
+        }
+      ]
+    }
+  ]
+}

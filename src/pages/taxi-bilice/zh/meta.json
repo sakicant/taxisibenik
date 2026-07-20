@@ -1,0 +1,119 @@
+{
+  "slug": "taxi-bilice",
+  "title": "Bilice 出租车 | TAXI Antonio",
+  "description": "Bilice 出租车：固定价格机场接送，前往 Split（100 €）和 Zadar，以及往返 Šibenik 的短途接送。为公寓和别墅住客提供上门接客。",
+  "keywords": "bilice 出租车, bilice taxi, bilice 机场接送, bilice 到 split 机场, bilice 到 sibenik, taxi bilice sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "本地出租车与机场接送",
+      "name": "Bilice 出租车",
+      "description": "从 Šibenik 以北的 Bilice 出发的私人固定价格出租车和机场接送，前往 Split 机场、Zadar 机场、Šibenik、Vodice 和 Krka 国家公园。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Bilice",
+      "url": "https://taxisibenik.hr/zh/taxi-bilice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "从 Bilice 出发的出租车价格",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Bilice 到 Šibenik 出租车",
+            "price": "20",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Bilice&to=%C5%A0ibenik%20-%20center&price=20"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bilice 到 Vodice 出租车",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Bilice&to=Vodice&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bilice 到 Krka 国家公园（Lozovac）出租车",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Bilice&to=NP%20Krka%20-%20Lozovac%20entrance&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bilice 到 Split 机场出租车",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Bilice&to=Split%20Airport%20%28SPU%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bilice 到 Zadar 机场出租车",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Bilice&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bilice 到 Split 出租车",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Bilice&to=Split&price=140"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bilice 到 Zadar 出租车",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Bilice&to=Zadar&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "您会到 Bilice 的公寓和别墅上门接客吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "会的。我会直接到您在 Bilice 住宿的门口接您，帮您装好行李，然后门到门送达。预订时把地址发给我就可以。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "从 Bilice 出发的机场接送最早可以几点？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "只要提前预订，任何时间都可以，白天或夜间均可。对于 Split 或 Zadar 的早班航班，我会与您确认接客时间，确保您有充裕时间抵达航站楼。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "去机场的价格真的是固定的吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的。这里的每个价格都是每车固定价，最多 4 位乘客，已包含过路费、燃油和行李。没有计价器。"
+          }
+        }
+      ]
+    }
+  ]
+}

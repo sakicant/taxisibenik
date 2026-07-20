@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadar-drnis",
+  "title": "Taxi Zadar - Drniš | Fastpris €110 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Zadar - Drniš. Fastpris €110 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi zadar - drniš, transport zadar - drniš, flyplasstransport zadar - drniš",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Zadar - Drniš",
+      "description": "Privat taxi og transport til fastpris, strekningen Zadar - Drniš, 110 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Drniš"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-zadar-drnis/",
+      "offers": {
+        "@type": "Offer",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Zadar - Drniš, per bil for opptil 4 passasjerer. Tur og retur 220 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er strekningen og hvor lenge tar turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på strekningen Zadar - Drniš er rundt 107 km lang og tar omtrent 1 h 30 min ved normal trafikk, litt lenger i høysesongen om sommeren. Jeg planlegger henting slik at en langsom strekning aldri gjør deg stresset."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster en taxi på strekningen Zadar - Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 110 per bil for opptil 4 passasjerer, en vei, med bompenger, drivstoff og bagasje. Tur og retur koster 220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Er transporten privat eller delt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hver transport er privat og dør til dør, i en Škoda Superb. Ingen deling av bilen og ingen ekstra stopp, med mindre du ønsker det."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du stoppe underveis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. På lengre strekninger stopper jeg gjerne for en kaffe, et bilde eller en kort severdighet. Bare si fra ved bestilling."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan bekrefte bil og hentetidspunkt. For en tur på kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

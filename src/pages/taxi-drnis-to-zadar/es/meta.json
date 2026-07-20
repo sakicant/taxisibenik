@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-drnis-zadar",
+  "title": "Taxi Drniš - Zadar | Precio fijo €110 | TAXI Antonio",
+  "description": "Taxi y traslado privado, Drniš - Zadar. Precio fijo €110 por vehículo, hasta 4 pasajeros, puerta a puerta. Reserve directamente con Antonio.",
+  "keywords": "taxi drniš - zadar, traslado drniš - zadar, traslado al aeropuerto drniš - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Traslado privado en taxi",
+      "name": "Taxi Drniš - Zadar",
+      "description": "Taxi y traslado privado a precio fijo, Drniš - Zadar, 110 euros por vehículo para hasta 4 pasajeros, puerta a puerta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Drniš",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/es/taxi-drnis-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "description": "Trayecto privado de ida, Drniš - Zadar, por vehículo para hasta 4 pasajeros. Ida y vuelta 220 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿A qué distancia está el trayecto y cuánto dura el viaje?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El trayecto Drniš - Zadar tiene unos 107 km y dura alrededor de 1 h 30 min con tráfico normal, un poco más en plena temporada de verano. Planifico la recogida de modo que un trayecto lento nunca le meta prisa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto cuesta un taxi en el trayecto Drniš - Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fijo 110 por vehículo para hasta 4 pasajeros, solo ida, con peajes, combustible y equipaje. Un viaje de ida y vuelta cuesta 220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El traslado es privado o compartido?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cada traslado es privado y puerta a puerta, en un Škoda Superb. Sin compartir el vehículo y sin paradas adicionales, salvo que usted lo desee."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Puede parar por el camino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. En los trayectos más largos, paro con gusto para un café, una foto o un breve punto de interés. Solo dígamelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Con cuánta antelación debo reservar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al menos 2 horas antes, para que pueda confirmar el vehículo y la hora de recogida. Para un viaje de última hora, llame o escriba por WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

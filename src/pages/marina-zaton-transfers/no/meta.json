@@ -1,0 +1,139 @@
+{
+  "slug": "marina-zaton-transfers",
+  "title": "Transport fra Marina Zaton | Faste priser | TAXI Antonio",
+  "description": "Privat transport fra Marina Zaton nær Šibenik til flyplassene og byene Split, Zadar, Zagreb og Dubrovnik. Faste priser, henting ved båtplassen, én lokal sjåfør.",
+  "keywords": "marina zaton transport, zaton marina taxi, marina zaton flyplasstransport, zaton split lufthavn",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Marinataxi og flyplasstransport",
+      "name": "Transport fra Marina Zaton",
+      "description": "Privat transport fra Marina Zaton nær Šibenik til flyplassene og byene Split, Zadar, Zagreb og Dubrovnik. Faste priser, henting ved båtplassen, én lokal sjåfør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/no/marina-zaton-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Faste transportpriser fra Marina Zaton",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton til Split lufthavn",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton til Zadar lufthavn",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton til Zagreb lufthavn",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton til Dubrovnik lufthavn",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton til Split",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton til Zadar",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton til Dubrovnik",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton til Trogir",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton til Vodice",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton til Krka nasjonalpark (Lozovac)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton til Šibenik",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor henter du i Marina Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rett ved marinaen, ved båtplassen din eller resepsjonen, alt etter hva som passer. Oppgi pontongen eller båtnavnet når du bestiller, så finner jeg deg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hva koster transport til Split lufthavn?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En fast pris per bil for opptil 4 passasjerer, avtalt før du reiser, med bompenger, drivstoff og bagasje inkludert. Se prislisten over for alle ruter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så rekker jeg å bekrefte bilen og hentetidspunktet, og tidligere for morgenfly og høysesong. Trenger du en tur før det, ring eller send WhatsApp direkte."
+          }
+        }
+      ]
+    }
+  ]
+}

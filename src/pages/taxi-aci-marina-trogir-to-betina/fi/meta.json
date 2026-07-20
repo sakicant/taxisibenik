@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-trogir-betina",
+  "title": "Taksi ACI Marina Trogir - Betina | Kiinteä hinta €165 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti ACI Marina Trogir - Betina. Kiinteä hinta €165 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi aci marina trogir - betina, kuljetus aci marina trogir - betina, lentokenttäkuljetus aci marina trogir - betina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi ACI Marina Trogir - Betina",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti ACI Marina Trogir - Betina, 165 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Trogir",
+        "Betina"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-aci-marina-trogir-betina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "165",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti ACI Marina Trogir - Betina, per auto enintään 4 matkustajalle. Meno ja paluu 330 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Paljonko kuljetus maksaa reitillä ACI Marina Trogir - Betina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 165 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullien, polttoaineen ja matkatavaroiden kanssa. Meno-paluumatka maksaa 330."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voitteko noutaa suoraan marinalta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Tapaan sinut marinan sisäänkäynnillä tai vastaanotossa ja autan matkatavaroiden kanssa, jotta pääset suoraan laiturilta autoon."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voitteko sovittaa kuljetuksen veneeni mukaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Lähetä minulle varauksen yhteydessä charter-, sisäänkirjautumis- tai lähtöaikasi, niin suunnittelen noudon sen ympärille."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin vahvistaa auton ja noutoajan. Lyhyellä varoitusajalla soita tai kirjoita minulle suoraan WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

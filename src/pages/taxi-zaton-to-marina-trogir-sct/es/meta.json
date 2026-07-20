@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zaton-marina-trogir-sct",
+  "title": "Taxi Zaton - Marina Trogir (SCT) | Precio fijo €130 | TAXI Antonio",
+  "description": "Taxi y traslado privado, Zaton - Marina Trogir (SCT). Precio fijo €130 por vehículo, hasta 4 pasajeros, puerta a puerta. Reserve directamente con Antonio.",
+  "keywords": "taxi zaton - marina trogir (sct), traslado zaton - marina trogir (sct), traslado al aeropuerto zaton - marina trogir (sct)",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Traslado privado en taxi",
+      "name": "Taxi Zaton - Marina Trogir (SCT)",
+      "description": "Taxi y traslado privado a precio fijo, Zaton - Marina Trogir (SCT), 130 euros por vehículo para hasta 4 pasajeros, puerta a puerta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zaton",
+        "Marina Trogir (SCT)"
+      ],
+      "url": "https://taxisibenik.hr/es/taxi-zaton-marina-trogir-sct/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Trayecto privado de ida, Zaton - Marina Trogir (SCT), por vehículo para hasta 4 pasajeros. Ida y vuelta 260 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuánto cuesta un traslado en el trayecto Zaton - Marina Trogir (SCT)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fijo 130 por vehículo para hasta 4 pasajeros, solo ida, con peajes, combustible y equipaje. Un viaje de ida y vuelta cuesta 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Puede recogerme directamente en la marina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Le encuentro en la entrada o en la recepción de la marina y le ayudo con el equipaje, para que vaya directo del pantalán al vehículo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Puede ajustar el traslado a mi barco?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Envíeme al reservar la hora de su chárter, su check-in o su salida y planifico la recogida en torno a ella."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Con cuánta antelación debo reservar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al menos 2 horas antes, para que pueda confirmar el vehículo y la hora de recogida. Para un viaje de última hora, llame o escríbame directamente por WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

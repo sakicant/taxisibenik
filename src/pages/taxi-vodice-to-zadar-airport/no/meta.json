@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-vodice-zadar-lufthavn",
+  "title": "Taxi Vodice - Zadar lufthavn | Fastpris €100 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Vodice - Zadar lufthavn. Fastpris €100 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi vodice - zadar lufthavn, transport vodice - zadar lufthavn, flyplasstransport vodice - zadar lufthavn",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Vodice - Zadar lufthavn",
+      "description": "Privat taxi og transport til fastpris, strekningen Vodice - Zadar lufthavn, 100 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Vodice",
+        "Zadar lufthavn"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-vodice-zadar-lufthavn/",
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Vodice - Zadar lufthavn, per bil for opptil 4 passasjerer. Tur og retur 200 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er strekningen og hvor lenge tar turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på strekningen Vodice - Zadar lufthavn er rundt 64 km lang og tar omtrent 60 min ved normal trafikk, litt lenger i høysesongen om sommeren. Jeg planlegger henting slik at en langsom strekning aldri gjør deg stresset."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster en taxi på strekningen Vodice - Zadar lufthavn?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 100 per bil, en vei, for opptil 4 passasjerer. Prisen gjelder per bil, ikke per person, og inkluderer bompenger, drivstoff og bagasje. Tur og retur koster 200."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Når bør jeg dra til flyplassen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vanligvis omtrent 3 timer før en internasjonal flyvning og 2 timer før en innenriks flyvning. Gi meg flytiden din, så bekrefter jeg nøyaktig henting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kjører du helt til avgangsterminalen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg kjører deg rett til avgangsterminalen og hjelper med bagasjen. Ingen gange fra parkeringen og ingen shuttle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan bekrefte bil og henting, og tidligere for tidlige fly og høysesong. For en tur på kort varsel, ring eller skriv til meg på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

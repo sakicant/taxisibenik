@@ -1,0 +1,85 @@
+{
+  "slug": "airport-transfers-from-sibenik",
+  "title": "시베니크 공항 이동 | 고정 요금 | TAXI Antonio",
+  "description": "스플리트, 자다르, 자그레브, 두브로브니크 공항을 오가는 시베니크 공항 이동. 고정 요금, 항공편 실시간 확인, 문 앞에서 문 앞까지. Vodice, Primošten, Skradin도 이용 가능. Antonio와 함께 예약하세요.",
+  "keywords": "시베니크 공항 이동, šibenik 공항 이동, 스플리트 공항에서 시베니크, 자다르 공항에서 시베니크, vodice 공항 이동",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Airport transfer",
+      "name": "시베니크 출발 공항 이동",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split Airport",
+        "Zadar Airport",
+        "Zagreb Airport",
+        "Dubrovnik Airport"
+      ],
+      "url": "https://taxisibenik.hr/ko/airport-transfers-from-sibenik/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "공항에서 기사를 어떻게 찾나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio가 수하물 찾는 곳을 지나 도착 홀에서 성함이 적힌 표지판을 들고 기다립니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "항공편이 지연되면 어떻게 하나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "예약 시 알려 주신 항공편 번호로 항공편을 실시간 확인합니다. 픽업 시간은 자동으로 조정되며 대기에 따른 추가 요금은 없습니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "공항 이동 요금은 고정인가요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. 모든 공항 이동은 최대 4명까지 차량 1대 기준 고정 요금이며, 통행료와 연료비, 수하물이 포함됩니다. 미터기도, 예상 밖 요금도 없습니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "공항 이동 시 카시트를 제공하나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네, 카시트와 부스터 시트를 무료로 제공합니다. 예약 메모에 아이의 나이와 함께 요청해 주세요."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "공항 이동 요금은 어떻게 결제하나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "계좌 이체 또는 카드로 20%의 선입금(최소 20유로)을 하시면 예약이 확정됩니다. 잔액은 이동 당일 기사에게 현금 또는 카드로 지불하시면 됩니다."
+          }
+        }
+      ]
+    }
+  ]
+}

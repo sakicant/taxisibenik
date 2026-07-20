@@ -1,0 +1,85 @@
+{
+  "slug": "airport-transfers-from-sibenik",
+  "title": "Flyplasstransport fra Šibenik | Faste priser | TAXI Antonio",
+  "description": "Flyplasstransport til og fra Šibenik og flyplassene i Split, Zadar, Zagreb og Dubrovnik. Faste priser, flyovervåking, dør til dør. Betjener også Vodice, Primošten og Skradin. Bestill hos Antonio.",
+  "keywords": "sibenik flyplasstransport, šibenik flyplasstransport, split lufthavn til sibenik, zadar lufthavn til sibenik, vodice flyplasstransport",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Flyplasstransport",
+      "name": "Flyplasstransport fra Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split lufthavn",
+        "Zadar lufthavn",
+        "Zagreb lufthavn",
+        "Dubrovnik lufthavn"
+      ],
+      "url": "https://taxisibenik.hr/no/airport-transfers-from-sibenik/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvordan finner jeg sjåføren min på flyplassen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio venter i ankomsthallen etter bagasjebåndet, med et tydelig skilt med navnet ditt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hva skjer hvis flyet mitt er forsinket?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fly overvåkes i sanntid med flynummeret du oppgir ved bestilling. Hentetidspunktet justeres automatisk, og venting koster ikke noe ekstra."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Er prisen på flyplasstransporten fast?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. All flyplasstransport har fast pris per bil for opptil 4 passasjerer, med bompenger, drivstoff og bagasje inkludert. Ingen taksameter, ingen overraskelser."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Har du barnesete til flyplasstransport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, barnesete og beltepute er gratis. Be om det i merknadene ved bestilling og oppgi barnets alder."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvordan betaler jeg for flyplasstransporten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Et forskudd på 20 % (minimum 20 euro) bekrefter bestillingen, med bankoverføring eller kort. Resten betales til sjåføren samme dag, kontant eller med kort."
+          }
+        }
+      ]
+    }
+  ]
+}

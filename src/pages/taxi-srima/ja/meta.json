@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-srima",
+  "title": "タクシー Srima | TAXI Antonio",
+  "description": "タクシー Srima：スプリット空港・ザダル空港（€110）への固定料金送迎、シベニク市内への乗車、Prvić行きフェリー乗り場（Vodice）へのお送り。ご滞在先までお迎えに上がります。",
+  "keywords": "タクシー srima, srima タクシー, srima vodice タクシー, srima 空港送迎, srima から スプリット空港, srima から ザダル空港",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "地域内タクシーおよび空港送迎",
+      "name": "タクシー Srima",
+      "description": "Vodiceに隣接するSrimaから、スプリット空港、ザダル空港、シベニクへの固定料金の貸切タクシーです。Vodiceの離島フェリー乗り場へのお送りも承ります。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Srima",
+      "url": "https://taxisibenik.hr/ja/taxi-srima/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Srima発のタクシー料金",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "タクシー Srima - シベニク",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Srima&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Srima - ザダル空港",
+            "price": "110",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Srima&to=Zadar%20Airport%20%28ZAD%29&price=110"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Srima - スプリット空港",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Srima&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Prvić行きのフェリー乗り場まで送ってもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。Prvić行きの離島フェリーはSrimaの隣のVodiceの桟橋から出ており、数分でお送りできます。ご予約の際に料金をお尋ねください。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Srimaから空港までいくらですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ザダル空港は固定 €110、スプリット空港は €115 で、いずれも1台あたり最大4名様、通行料・荷物込みです。"
+          }
+        }
+      ]
+    }
+  ]
+}

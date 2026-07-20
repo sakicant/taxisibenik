@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zagreb-lentoasema-ciovo",
+  "title": "Taksi Zagrebin lentoasema - Čiovo | Kiinteä hinta €514 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Zagrebin lentoasema - Čiovo. Kiinteä hinta €514 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi zagrebin lentoasema - čiovo, kuljetus zagrebin lentoasema - čiovo, lentokenttäkuljetus zagrebin lentoasema - čiovo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Zagrebin lentoasema - Čiovo",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Zagrebin lentoasema - Čiovo, 514 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zagrebin lentoasema",
+        "Čiovo"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-zagreb-lentoasema-ciovo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "514",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Zagrebin lentoasema - Čiovo, per auto enintään 4 matkustajalle. Meno ja paluu 1028 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Missä otatte minut vastaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Saapumisaulassa, heti matkatavaroiden noudon jälkeen, kyltillä jossa on nimesi. Autan matkatavaroiden kanssa ja saatan sinut autolle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Entä jos lentoni on myöhässä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ei ongelmaa. Seuraan lentoasi reaaliajassa ja mukautan noudon todelliseen laskeutumiseen, ilman lisämaksua odotusajasta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko kuljetus maksaa reitillä Zagrebin lentoasema - Čiovo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 514 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatka maksaa 1028."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin suunnitella lentosi ympärille. Saman päivän noutoa varten lyhyen muutoksen jälkeen soita tai kirjoita WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

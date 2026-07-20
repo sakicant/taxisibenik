@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Taxi Perković | TAXI Antonio",
+  "description": "Taxi Perković: møt meg på perrongen ved hovedjernbanestasjonen som betjener Šibenik, med videre transport til Šibenik, Vodice, Krka og lenger.",
+  "keywords": "taxi perkovic, perkovic taxi, perkovic togstasjon taxi, perkovic jernbanestasjon transport, perkovic til sibenik, perkovic til krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokal taxi og flyplasstransport",
+      "name": "Taxi Perković",
+      "description": "Privat taxi som møter tog i Perković, hovedjernbanestasjonen som betjener Šibenik-området, med videre transport til Šibenik, Vodice, Krka, Drniš, Knin og Split lufthavn.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/no/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor møter du meg på Perković stasjon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "På perrongen, eller ved stasjonsutgangen om du foretrekker det. Jeg har navnet ditt klart og hjelper med bagasjen, så du kan gå rett til bilen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hva om toget mitt til Perković er forsinket?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jeg følger toget ditt og justerer hentetidspunktet deretter, uten ekstra kostnad, så jeg er der når toget faktisk kommer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Finnes det en taxiholdeplass i Perković?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nei, det er ingen holdeplass ved stasjonen, så det er best å bestille på forhånd. Send meg togtiden og reisemålet ditt, så venter jeg når du går av."
+          }
+        }
+      ]
+    }
+  ]
+}

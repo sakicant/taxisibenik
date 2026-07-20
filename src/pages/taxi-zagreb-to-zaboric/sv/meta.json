@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zagreb-zaboric",
+  "title": "Taxi Zagreb - Žaborić | Fast pris €490 | TAXI Antonio",
+  "description": "Privat taxi och transfer, Zagreb - Žaborić. Fast pris €490 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "keywords": "taxi zagreb - žaborić, transfer zagreb - žaborić, flygplatstransfer zagreb - žaborić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransfer",
+      "name": "Taxi Zagreb - Žaborić",
+      "description": "Privat taxi och transfer till fast pris, Zagreb - Žaborić, 490 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zagreb",
+        "Žaborić"
+      ],
+      "url": "https://taxisibenik.hr/sv/taxi-zagreb-zaboric/",
+      "offers": {
+        "@type": "Offer",
+        "price": "490",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat resa, Zagreb - Žaborić, per fordon för upp till 4 passagerare. Tur och retur 980 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hur långt är sträckan och hur lång tid tar resan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Resan Zagreb - Žaborić är cirka 350 km lång och tar ungefär 3 h 50 min vid normal trafik, något längre under högsommaren. Jag planerar upphämtningen så att en långsam sträcka aldrig gör dig stressad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur mycket kostar en taxi på sträckan Zagreb - Žaborić?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 490 per fordon för upp till 4 passagerare, enkel resa, med vägtull, bränsle och bagage. En tur och retur kostar 980."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Är transfern privat eller delad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Varje transfer är privat och dörr till dörr, i en Škoda Superb. Ingen delning av fordonet och inga extra stopp, om du inte önskar det."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du stanna på vägen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. På längre sträckor stannar jag gärna för en kaffe, ett foto eller en kort sevärdhet. Säg bara till vid bokningen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur långt i förväg bör jag boka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timmar i förväg, så att jag kan bekräfta fordon och upphämtningstid. För en resa med kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

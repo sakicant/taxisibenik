@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-d-marin-dalmacija-sibenik",
+  "title": "Taxi D-Marin Dalmacija - Šibenik | Festpreis €130 | TAXI Antonio",
+  "description": "Privates Taxi und Transfer, Strecke D-Marin Dalmacija - Šibenik. Festpreis €130 pro Fahrzeug, bis zu 4. Direkt bei Antonio buchen.",
+  "keywords": "taxi d-marin dalmacija - šibenik, transfer d-marin dalmacija - šibenik, flughafentransfer d-marin dalmacija - šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privater Taxitransfer",
+      "name": "Taxi D-Marin Dalmacija - Šibenik",
+      "description": "Privates Taxi und Transfer zum Festpreis, Strecke D-Marin Dalmacija - Šibenik, 130 Euro pro Fahrzeug für bis zu 4 Fahrgäste, Tür zu Tür.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "D-Marin Dalmacija",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/de/taxi-d-marin-dalmacija-sibenik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Einfache private Fahrt, Strecke D-Marin Dalmacija - Šibenik, pro Fahrzeug für bis zu 4 Fahrgäste. Hin und zurück 260 Euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie viel kostet ein Taxi auf der Strecke D-Marin Dalmacija - Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fest 130 pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, Gepäck inklusive. Eine Hin- und Rückfahrt kostet 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo holen Sie mich ab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An Ihrer genauen Adresse, ob Haus, Hotel oder Apartment. Senden Sie die Adresse bei der Buchung und ich bestätige den Treffpunkt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie weit im Voraus sollte ich buchen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindestens 2 Stunden vorher, damit ich Fahrzeug und Abholzeit bestätigen kann. Für eine kurzfristige Fahrt rufen Sie an oder schreiben auf WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

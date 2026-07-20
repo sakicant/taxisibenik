@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-plitvice-lakes-national-park-split",
+  "title": "Dagstur til Plitvice fra Split | Privat transport, fast €650 | TAXI Antonio",
+  "description": "Privat taxi tur-retur til Plitvicesjøene fra Split. Fast €650 per bil, inntil 4 passasjerer, dør til dør fra hoteller i Split, cruiseterminalen og gamlebyen. Ikke en guidet tur, bare turen dit og tilbake.",
+  "keywords": "dagstur til plitvice fra split, tur-retur transport til plitvice, taxi til plitvice fra split, plitvicesjøene fra split, split til plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privat dagstur til Plitvicesjøene fra Split",
+      "description": "En privat dagstur til Plitvicesjøene nasjonalpark fra Split med en lokal, engelsktalende sjåfør. Fast pris på 650 euro per bil for inntil 4 passasjerer, med henting dør til dør ved hoteller i Split, cruiseterminalen, buss- og togstasjonen og gamlebyen.",
+      "touristType": "Natur og sightseeing",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "650",
+        "priceCurrency": "EUR",
+        "description": "Privat bil, tur-retur Split til Plitvicesjøene nasjonalpark, inntil 4 passasjerer. Inngangsbilletter til parken er ikke inkludert."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Er dette en guidet tur eller en taxitur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Det er en taxitur, ikke en guidet tur. Antonio er en lokal sjåfør som tilbyr privat transport tur-retur fra Split til Plitvice. Du får bilen og kjøringen; inne i parken er du fri til å utforske på egen hånd, i ditt eget tempo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hva koster en taxi til Plitvice fra Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privat transport tur-retur fra Split til Plitvicesjøene koster fast 650 euro per bil for inntil 4 passasjerer, med bompenger, drivstoff og ventetiden ved parken inkludert."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang er dagsturen fra Split til Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kjøringen tar rundt to og en halv til tre timer hver vei, pluss omtrent 4 til 6 timer til å gå rundt sjøene. Det er en lang heldagstur, vanligvis 11 til 12 timer dør til dør, så en tidlig start er helt nødvendig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Er inngangsbilletter til Plitvice inkludert i prisen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nei. Inngangsbilletter kjøpes separat fra Plitvicesjøene nasjonalpark, ved inngangen eller på nett. Billettene koster omtrent 10 til 40 euro avhengig av sesongen, og inkluderer panoramatoget og elbåten inne i parken."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvordan bestiller og betaler jeg dagsturen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En forskuddsbetaling på 20 % (minimum 20 euro) bekrefter bestillingen, med bankoverføring eller kort, og du får en faktura som bekreftelse. Resten betales til sjåføren på dagen, kontant eller med kort."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-marina-pakostane-sibenik",
+  "title": "Taxi Marina Pakoštane - Šibenik | Stała cena €95 | TAXI Antonio",
+  "description": "Taxi i prywatny transfer, trasa Marina Pakoštane - Šibenik. Stała cena €95 za pojazd, do 4 pasażerów, od drzwi do drzwi. Rezerwuj bezpośrednio u Antonio.",
+  "keywords": "taxi marina pakoštane - šibenik, transfer marina pakoštane - šibenik, transfer lotniskowy marina pakoštane - šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Prywatny transfer taxi",
+      "name": "Taxi Marina Pakoštane - Šibenik",
+      "description": "Taxi i prywatny transfer w stałej cenie, trasa Marina Pakoštane - Šibenik, 95 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Pakoštane",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/pl/taxi-marina-pakostane-sibenik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "95",
+        "priceCurrency": "EUR",
+        "description": "Prywatny przejazd w jedną stronę, trasa Marina Pakoštane - Šibenik, za pojazd do 4 pasażerów. W obie strony 190 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ile kosztuje taxi na trasie Marina Pakoštane - Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stałe 95 za pojazd do 4 pasażerów, w jedną stronę, bagaż w cenie. W obie strony 190."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Skąd mnie odbierasz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Spod Twojego dokładnego adresu, czy to dom, hotel czy apartament. Prześlij adres przy rezerwacji, a potwierdzę miejsce spotkania."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Z jakim wyprzedzeniem rezerwować?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Co najmniej 2 godziny wcześniej, żebym potwierdził pojazd i godzinę odbioru. Na szybki kurs zadzwoń lub napisz na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

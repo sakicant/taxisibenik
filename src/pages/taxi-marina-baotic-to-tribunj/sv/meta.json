@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-baotic-tribunj",
+  "title": "Taxi Marina Baotić - Tribunj | Fast pris €120 | TAXI Antonio",
+  "description": "Privat taxi och transfer, Marina Baotić - Tribunj. Fast pris €120 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "keywords": "taxi marina baotić - tribunj, transfer marina baotić - tribunj, flygplatstransfer marina baotić - tribunj",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransfer",
+      "name": "Taxi Marina Baotić - Tribunj",
+      "description": "Privat taxi och transfer till fast pris, Marina Baotić - Tribunj, 120 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Baotić",
+        "Tribunj"
+      ],
+      "url": "https://taxisibenik.hr/sv/taxi-marina-baotic-tribunj/",
+      "offers": {
+        "@type": "Offer",
+        "price": "120",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat resa, Marina Baotić - Tribunj, per fordon för upp till 4 passagerare. Tur och retur 240 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hur mycket kostar en transfer på sträckan Marina Baotić - Tribunj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 120 per fordon för upp till 4 passagerare, enkel resa, med vägtull, bränsle och bagage. En tur och retur kostar 240."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du hämta direkt vid marinan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jag möter dig vid marinans entré eller reception och hjälper till med bagaget, så att du går direkt från bryggan till fordonet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du anpassa transfern efter min båt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Skicka mig din charter-, inchecknings- eller avgångstid vid bokningen, så planerar jag upphämtningen kring den."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur långt i förväg bör jag boka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timmar i förväg, så att jag kan bekräfta fordon och upphämtningstid. För en resa med kort varsel, ring eller skriv till mig direkt på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

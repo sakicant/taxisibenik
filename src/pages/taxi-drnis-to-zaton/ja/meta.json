@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-drnis-zaton",
+  "title": "タクシー Drniš - Zaton | 固定料金 €69 | TAXI Antonio",
+  "description": "貸切タクシー・送迎、Drniš - Zaton 区間。固定料金 €69／1台、最大4名様、ドアツードア。Antonioに直接ご予約ください。",
+  "keywords": "タクシー drniš - zaton, 送迎 drniš - zaton, 空港送迎 drniš - zaton",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "貸切タクシー送迎",
+      "name": "タクシー Drniš - Zaton",
+      "description": "固定料金の貸切タクシー・送迎、Drniš - Zaton 区間、1台 69 ユーロで最大4名様、ドアツードア。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Drniš",
+        "Zaton"
+      ],
+      "url": "https://taxisibenik.hr/ja/taxi-drnis-zaton/",
+      "offers": {
+        "@type": "Offer",
+        "price": "69",
+        "priceCurrency": "EUR",
+        "description": "貸切の片道乗車、Drniš - Zaton 区間、1台で最大4名様。往復は 138 ユーロ。"
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "この区間はどのくらいの距離で、所要時間はどのくらいですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Drniš - Zaton 区間の乗車は約 40 km で、通常の交通状況で約 45 min かかります。夏のハイシーズンは少し長くなります。道が混んでいてもお急ぎにならないよう、余裕を持ってお迎えの時間を計画します。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Drniš - Zaton 区間のタクシー料金はいくらですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "片道、車1台あたり固定 69、最大4名様、荷物込み。往復は 138 です。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "どこで迎えに来てもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ご自宅、ホテル、アパートメントなど、ご指定の正確な住所でお迎えします。ご予約時に住所をお送りいただければ、待ち合わせ場所を確定します。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "どのくらい前に予約すべきですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "車とお迎え時間を確定できるよう、少なくとも2時間前までにご予約ください。直前のご乗車は、お電話またはWhatsAppでご連絡ください。"
+          }
+        }
+      ]
+    }
+  ]
+}

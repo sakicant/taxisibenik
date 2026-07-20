@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-trogir-brodarica",
+  "title": "Taksi Trogir - Brodarica | Kiinteä hinta €95 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Trogir - Brodarica. Kiinteä hinta €95 per auto, enintään 4 matkustajaa, ovelta ovelle. Varaa suoraan Antoniolta.",
+  "keywords": "taksi trogir - brodarica, kuljetus trogir - brodarica, lentokenttäkuljetus trogir - brodarica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Trogir - Brodarica",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Trogir - Brodarica, 95 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Trogir",
+        "Brodarica"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-trogir-brodarica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "95",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Trogir - Brodarica, per auto enintään 4 matkustajalle. Meno ja paluu 190 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kuinka pitkä reitti on ja kuinka kauan matka kestää?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matka reitillä Trogir - Brodarica on noin 57 km ja kestää noin 60 min normaalissa liikenteessä, kesän huippukaudella hieman kauemmin. Suunnittelen noudon niin, ettei hidas matka koskaan aiheuta kiirettä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko taksi maksaa reitillä Trogir - Brodarica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 95 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullien, polttoaineen ja matkatavaroiden kanssa. Meno-paluumatka maksaa 190."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Onko kuljetus yksityinen vai jaettu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jokainen kuljetus on yksityinen ja ovelta ovelle, Škoda Superbissa. Ei auton jakamista eikä ylimääräisiä pysähdyksiä, ellet niin toivo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voitteko pysähtyä matkan varrella?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Pidemmillä matkoilla pysähdyn mielelläni kahville, valokuvalle tai lyhyelle nähtävyydelle. Kerro vain varauksen yhteydessä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin vahvistaa auton ja noutoajan. Lyhyellä varoitusajalla soita tai kirjoita WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

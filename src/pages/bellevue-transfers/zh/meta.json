@@ -1,0 +1,145 @@
+{
+  "slug": "bellevue-sibenik-transfers",
+  "title": "希贝尼克 Bellevue Superior Hotel 接送 | 固定价格 | TAXI Antonio",
+  "description": "往返希贝尼克 Bellevue Superior Hotel 的私人接送。提前预订固定价格：斯普利特机场 €95，扎达尔机场 €130，Krka 起价 €45。门到门，一位本地司机。",
+  "keywords": "bellevue 希贝尼克接送, bellevue superior hotel 接送, bellevue 希贝尼克出租车, bellevue 机场接送, taxi bellevue sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "酒店机场与城市出租车接送",
+      "name": "希贝尼克 Bellevue Superior Hotel 接送服务",
+      "description": "往返希贝尼克市中心 Bellevue Superior Hotel 的私人固定价格出租车接送。包括机场接送、城际接送和 Krka 一日游，提前预订，价格事先谈妥。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Bellevue Superior Hotel Šibenik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/zh/bellevue-sibenik-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "从 Bellevue Superior Hotel 出发的固定接送价格",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Bellevue 到斯普利特机场",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue 到扎达尔机场",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue 到萨格勒布机场",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue 到杜布罗夫尼克机场",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue 到 Krka 国家公园（Lozovac）",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue 到 Vodice",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue 到斯普利特",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue 到扎达尔",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "从 Bellevue Superior Hotel 到斯普利特机场的出租车多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "提前预订的话，从 Bellevue Superior Hotel 到斯普利特机场的私人接送为每车固定 95 欧元，最多 4 位乘客。含过路费、油费和行李，两个方向价格相同。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "在 Bellevue Superior Hotel 的哪里接客？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "就在酒店正门口。Bellevue 位于希贝尼克市中心，我会在您预订时确认具体的接客位置，您不必在路边干等。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "我需要提前预订 Bellevue 的接送吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "需要。页面上列出的所有价格都是提前预订的固定价格。提前预订可以锁定车辆、接客时间和价格，对清晨航班和旺季尤其重要。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你们会到机场接抵达的客人吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "会。接机时我会实时监控您的航班，在到达大厅举牌等候，然后直接送您到 Bellevue。航班延误的等待不收费。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "可以带我们从 Bellevue 去 Krka 国家公园吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。前往 Krka 的 Lozovac 入口单程 45 欧元，前往 Skradin 入口 50 欧元。我也提供包含等待时间的完整私人一日游，在酒店接您。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "接送怎么付款？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "支付 20% 预付款（最低 20 欧元）即可确认预订，可通过银行转账或刷卡。余款在当天付给司机，现金或刷卡均可。"
+          }
+        }
+      ]
+    }
+  ]
+}

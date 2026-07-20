@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-grebastica-rogoznica",
+  "title": "Taxi Grebaštica - Rogoznica | Fastpris €30 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Grebaštica - Rogoznica. Fastpris €30 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi grebaštica - rogoznica, transport grebaštica - rogoznica, flyplasstransport grebaštica - rogoznica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Grebaštica - Rogoznica",
+      "description": "Privat taxi og transport til fastpris, strekningen Grebaštica - Rogoznica, 30 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Grebaštica",
+        "Rogoznica"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-grebastica-rogoznica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "30",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Grebaštica - Rogoznica, per bil for opptil 4 passasjerer. Tur og retur 60 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er strekningen og hvor lenge tar turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på strekningen Grebaštica - Rogoznica er rundt 17 km lang og tar omtrent 20 min ved normal trafikk, litt lenger i høysesongen om sommeren. Jeg planlegger henting slik at en langsom strekning aldri gjør deg stresset."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster en taxi på strekningen Grebaštica - Rogoznica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 30 per bil for opptil 4 passasjerer, en vei, bagasje inkludert. Tur og retur koster 60."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor henter du meg?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "På den nøyaktige adressen din, enten det er hus, hotell eller leilighet. Send adressen ved bestilling, så bekrefter jeg møtestedet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan bekrefte bil og hentetidspunkt. For en tur på kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

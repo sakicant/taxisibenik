@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sibenik-biograd-na-moru",
+  "title": "Taksi Šibenik - Biograd na Moru | Kiinteä hinta €110 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Šibenik - Biograd na Moru. Kiinteä hinta €110 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi šibenik - biograd na moru, kuljetus šibenik - biograd na moru, lentokenttäkuljetus šibenik - biograd na moru",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Šibenik - Biograd na Moru",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Šibenik - Biograd na Moru, 110 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Biograd na Moru"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-sibenik-biograd-na-moru/",
+      "offers": {
+        "@type": "Offer",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Šibenik - Biograd na Moru, per auto enintään 4 matkustajalle. Meno ja paluu 220 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Paljonko taksi maksaa reitillä Šibenik - Biograd na Moru?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 110 per auto enintään 4 matkustajalle, yhdensuuntainen matka, matkatavarat mukana. Meno-paluumatka maksaa 220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mistä noudatte minut?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tarkasta osoitteestasi, olipa se talo, hotelli tai huoneisto. Lähetä osoite varauksen yhteydessä, niin vahvistan tapaamispaikan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin vahvistaa auton ja noutoajan. Lyhyellä varoitusajalla soita tai kirjoita WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

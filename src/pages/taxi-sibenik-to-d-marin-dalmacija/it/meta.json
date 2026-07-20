@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sibenik-d-marin-dalmacija",
+  "title": "Taxi Šibenik - D-Marin Dalmacija | Prezzo fisso €130 | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Šibenik - D-Marin Dalmacija. Prezzo fisso €130 per veicolo, fino a 4. Prenota con Antonio.",
+  "keywords": "taxi šibenik - d-marin dalmacija, transfer šibenik - d-marin dalmacija, transfer aeroporto šibenik - d-marin dalmacija",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer taxi privato",
+      "name": "Taxi Šibenik - D-Marin Dalmacija",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Šibenik - D-Marin Dalmacija, 130 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "D-Marin Dalmacija"
+      ],
+      "url": "https://taxisibenik.hr/it/taxi-sibenik-d-marin-dalmacija/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Corsa privata di sola andata, tratta Šibenik - D-Marin Dalmacija, per veicolo fino a 4 passeggeri. Andata e ritorno 260 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto costa un taxi sulla tratta Šibenik - D-Marin Dalmacija?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fisso 130 per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Andata e ritorno 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove effettui il ritiro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al tuo indirizzo esatto, che sia casa, hotel o appartamento. Invia l'indirizzo alla prenotazione e confermo il punto d'incontro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Con quanto anticipo devo prenotare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almeno 2 ore prima, così confermo veicolo e orario di ritiro. Per una corsa last minute chiamami o scrivimi su WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

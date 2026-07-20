@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadar-lentoasema-rogoznica",
+  "title": "Taksi Zadarin lentoasema - Rogoznica | Kiinteä hinta €160 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Zadarin lentoasema - Rogoznica. Kiinteä hinta €160 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi zadarin lentoasema - rogoznica, kuljetus zadarin lentoasema - rogoznica, lentokenttäkuljetus zadarin lentoasema - rogoznica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Zadarin lentoasema - Rogoznica",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Zadarin lentoasema - Rogoznica, 160 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadarin lentoasema",
+        "Rogoznica"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-zadar-lentoasema-rogoznica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "160",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Zadarin lentoasema - Rogoznica, per auto enintään 4 matkustajalle. Meno ja paluu 320 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kuinka pitkä reitti on ja kuinka kauan matka kestää?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matka reitillä Zadarin lentoasema - Rogoznica on noin 105 km ja kestää noin 1 h 35 min normaalissa liikenteessä, kesän huippukaudella hieman kauemmin. Suunnittelen noudon niin, ettei hidas matka koskaan aiheuta kiirettä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Missä otatte minut vastaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Saapumisaulassa, heti matkatavaroiden noudon jälkeen, kyltillä jossa on nimesi. Autan matkatavaroiden kanssa ja saatan sinut autolle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Entä jos lentoni on myöhässä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ei ongelmaa. Seuraan lentoasi reaaliajassa ja mukautan noudon todelliseen laskeutumiseen, ilman lisämaksua odotusajasta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko kuljetus maksaa reitillä Zadarin lentoasema - Rogoznica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 160 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatka maksaa 320."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin suunnitella lentosi ympärille. Saman päivän noutoa varten lyhyen muutoksen jälkeen soita tai kirjoita WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

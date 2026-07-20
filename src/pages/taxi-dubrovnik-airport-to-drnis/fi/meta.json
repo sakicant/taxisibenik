@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-dubrovnik-lentoasema-drnis",
+  "title": "Taksi Dubrovnikin lentoasema - Drniš | Kiinteä hinta €450 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Dubrovnikin lentoasema - Drniš. Kiinteä hinta €450 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi dubrovnikin lentoasema - drniš, kuljetus dubrovnikin lentoasema - drniš, lentokenttäkuljetus dubrovnikin lentoasema - drniš",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Dubrovnikin lentoasema - Drniš",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Dubrovnikin lentoasema - Drniš, 450 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnikin lentoasema",
+        "Drniš"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-dubrovnik-lentoasema-drnis/",
+      "offers": {
+        "@type": "Offer",
+        "price": "450",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Dubrovnikin lentoasema - Drniš, per auto enintään 4 matkustajalle. Meno ja paluu 900 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kuinka pitkä reitti on ja kuinka kauan matka kestää?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matka reitillä Dubrovnikin lentoasema - Drniš on noin 319 km ja kestää noin 4 h 30 min normaalissa liikenteessä, kesän huippukaudella hieman kauemmin. Suunnittelen noudon niin, ettei hidas matka koskaan aiheuta kiirettä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Missä otatte minut vastaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Saapumisaulassa, heti matkatavaroiden noudon jälkeen, kyltillä jossa on nimesi. Autan matkatavaroiden kanssa ja saatan sinut autolle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Entä jos lentoni on myöhässä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ei ongelmaa. Seuraan lentoasi reaaliajassa ja mukautan noudon todelliseen laskeutumiseen, ilman lisämaksua odotusajasta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko kuljetus maksaa reitillä Dubrovnikin lentoasema - Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 450 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatka maksaa 900."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin suunnitella lentosi ympärille. Saman päivän noutoa varten lyhyen muutoksen jälkeen soita tai kirjoita WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

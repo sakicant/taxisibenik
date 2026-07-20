@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-trogir-flygplats-dubrovnik",
+  "title": "Taxi ACI Marina Trogir - Dubrovnik flygplats | Fast pris €435 | TAXI Antonio",
+  "description": "Privat taxi och transfer, ACI Marina Trogir - Dubrovnik flygplats. Fast pris €435 per fordon, upp till 4. Boka direkt hos Antonio.",
+  "keywords": "taxi aci marina trogir - dubrovnik flygplats, transfer aci marina trogir - dubrovnik flygplats, flygplatstransfer aci marina trogir - dubrovnik flygplats",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransfer",
+      "name": "Taxi ACI Marina Trogir - Dubrovnik flygplats",
+      "description": "Privat taxi och transfer till fast pris, ACI Marina Trogir - Dubrovnik flygplats, 435 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Trogir",
+        "Dubrovnik flygplats"
+      ],
+      "url": "https://taxisibenik.hr/sv/taxi-aci-marina-trogir-flygplats-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "435",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat resa, ACI Marina Trogir - Dubrovnik flygplats, per fordon för upp till 4 passagerare. Tur och retur 870 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hur mycket kostar en taxi på sträckan ACI Marina Trogir - Dubrovnik flygplats?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 435 per fordon, enkel resa, för upp till 4 passagerare. Priset gäller per fordon, inte per person, och inkluderar vägtull, bränsle och bagage. En tur och retur kostar 870."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "När bör jag åka till flygplatsen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vanligtvis cirka 3 timmar före ett internationellt flyg och 2 timmar före ett inrikesflyg. Berätta din flygtid, så bekräftar jag den exakta upphämtningen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kör du ända fram till avgångsterminalen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jag kör dig direkt till avgångsterminalen och hjälper till med bagaget. Ingen promenad från parkeringen och ingen shuttlebuss."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur långt i förväg bör jag boka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timmar i förväg, så att jag kan bekräfta fordon och upphämtning, och tidigare för tidiga flyg och högsäsongen. För en resa med kort varsel, ring eller skriv till mig på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

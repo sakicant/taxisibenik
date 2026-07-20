@@ -1,0 +1,145 @@
+{
+  "slug": "d-resort-sibenik-transfers",
+  "title": "D-Resort Šibenikin kuljetukset | Kiinteät hinnat | TAXI Antonio",
+  "description": "Yksityiskuljetukset D-Resort Šibenikiin Mandalinan niemimaalla ja sieltä pois. Kiinteät hinnat etukäteen varattuna: Splitin lentokenttä 95 €, Zadarin lentokenttä 130 €, Krka alkaen 45 €. Ovelta ovelle, yksi paikallinen kuljettaja.",
+  "keywords": "d-resort sibenik kuljetukset, d-resort hotelli kuljetus, d-resort sibenik taksi, d-resort lentokenttäkuljetus, taksi d-resort sibenik, mandalina taksi",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Hotellin lentokenttä- ja kaupunkitaksikuljetukset",
+      "name": "D-Resort Šibenikin kuljetukset",
+      "description": "Yksityiset, kiinteähintaiset taksikuljetukset D-Resort Šibenikiin Mandalinan niemimaalla ja sieltä pois. Lentokenttäkuljetukset, kaupunkien väliset kuljetukset ja Krkan päiväretket, varattuna etukäteen etukäteen sovittuun hintaan.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "D-Resort Šibenik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/fi/d-resort-sibenik-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Kiinteät kuljetushinnat D-Resort Šibenikistä",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "D-Resort Splitin lentokentälle",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort Zadarin lentokentälle",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort Zagrebin lentokentälle",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort Dubrovnikin lentokentälle",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort Šibenikin keskustaan",
+            "price": "15",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort Krkan kansallispuistoon (Lozovac)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort Splitiin",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort Zadariin",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Paljonko taksi D-Resort Šibenikistä Splitin lentokentälle maksaa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yksityiskuljetus D-Resort Šibenikistä Splitin lentokentälle on kiinteä 95 euroa per auto enintään 4 matkustajalle, etukäteen varattuna. Tietullit, polttoaine ja matkatavarat sisältyvät hintaan, ja hinta on sama molempiin suuntiin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mistä noudat D-Resortissa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aivan hotellin pääsisäänkäynniltä Mandalinan niemimaalla. Jos saavut jahdilla viereiseen D-Marin Marina Mandalinaan, noudan myös satamasta samoilla kiinteillä hinnoilla."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kannattaako D-Resortin kuljetus varata etukäteen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Kaikki listatut hinnat ovat kiinteitä hintoja etukäteen varatuille kuljetuksille. Etukäteen varaaminen takaa auton, noutoajan ja hinnan, mikä on tärkeintä aikaisten lentojen ja sesongin aikana."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Otatko saapuvat vieraat vastaan lentokentällä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Saapumisissa seuraan lentoasi reaaliajassa, odotan saapumisaulassa nimikyltin kanssa ja ajan sinut suoraan D-Resortiin. Viivästyneiden lentojen odottaminen on ilmaista."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voitko viedä meidät D-Resortista Krkan kansallispuistoon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Yhdensuuntainen kuljetus Krkan Lozovacin sisäänkäynnille on 45 euroa ja Skradinin sisäänkäynnille 50 euroa. Tarjoan myös täyden yksityisen päiväretken odotusaika mukaan lukien, noudolla hotellilta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Miten maksan kuljetuksen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "20 %:n ennakkomaksu (vähintään 20 euroa) vahvistaa varauksen, tilisiirrolla tai kortilla. Loppusumma maksetaan kuljettajalle matkapäivänä käteisellä tai kortilla."
+          }
+        }
+      ]
+    }
+  ]
+}

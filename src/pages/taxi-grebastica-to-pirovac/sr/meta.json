@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-grebastica-pirovac",
+  "title": "Taksi Grebaštica - Pirovac | Fiksna cena €85 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Grebaštica - Pirovac. Fiksno €85 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi grebaštica - pirovac, transfer grebaštica - pirovac, prevoz grebaštica - pirovac",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Grebaštica - Pirovac",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Grebaštica - Pirovac, 85 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Grebaštica",
+        "Pirovac"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-grebastica-pirovac/",
+      "offers": {
+        "@type": "Offer",
+        "price": "85",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Grebaštica - Pirovac, po vozilu za do 4 putnika. Povratno 170 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolika je udaljenost i koliko traje vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Grebaštica - Pirovac duga je oko 42 km i traje otprilike 50 min u uobičajenom saobraćaju, nešto duže u letnjim gužvama. Polazak planiram tako da vas usporeni deo nikad ne požuri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Grebaštica - Pirovac?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 85 po vozilu za do 4 putnika, jedan smer, prtljag uključen. Povratna vožnja je 170."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gde me preuzimate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašoj tačnoj adresi, bila to kuća, hotel ili apartman. Pošaljite adresu pri rezervaciji i potvrdiću mesto sastanka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da potvrdim vozilo i vreme preuzimanja. Za brži termin pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

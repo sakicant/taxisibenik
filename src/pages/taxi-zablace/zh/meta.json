@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-zablace",
+  "title": "Zablaće 出租车 | TAXI Antonio",
+  "description": "Zablaće 出租车：为 Amadria Park 附近的露营者和海滩客人提供固定价格的斯普利特（€95）和扎达尔机场接送，也可前往 Šibenik 和 Vodice。",
+  "keywords": "zablace 出租车, zablace taxi, zablace 露营地 出租车, zablace 机场接送, amadria park zablace 出租车, zablace 到斯普利特机场",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "本地出租车与机场接送",
+      "name": "Zablaće 出租车",
+      "description": "从 Šibenik 西南方的 Zablaće、露营地和 Amadria Park 一带出发，前往斯普利特机场、扎达尔机场、Šibenik 和 Vodice 的私人固定价格出租车。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Zablaće",
+      "url": "https://taxisibenik.hr/zh/taxi-zablace/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "从 Zablaće 出发的出租车价格",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Zablaće 到 Šibenik 出租车",
+            "price": "18",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Zabla%C4%87e&to=%C5%A0ibenik%20-%20center&price=18"
+          },
+          {
+            "@type": "Offer",
+            "name": "Zablaće 到 Vodice 出租车",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Zabla%C4%87e&to=Vodice&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Zablaće 到斯普利特机场出租车",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Zabla%C4%87e&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Zablaće 到扎达尔机场出租车",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Zabla%C4%87e&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "你们在露营地和 Amadria Park 一带接客吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "接。我可以在露营地前台、您的公寓或附近的 Amadria Park 一带接您，车内有足够空间放行李和装备。预订时把具体地点发给我即可。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "有地方放露营和海滩装备吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "有。Škoda Superb 的后备箱很大，可以放行李箱、露营装备和海滩用品。如果有自行车或大件物品，请告诉我，我好提前安排。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zablaće 到斯普利特机场多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "每车固定 €95，最多 4 位乘客，含过路费和行李，往返两个方向价格相同。"
+          }
+        }
+      ]
+    }
+  ]
+}

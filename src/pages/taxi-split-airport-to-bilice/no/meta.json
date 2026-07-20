@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-split-lufthavn-bilice",
+  "title": "Taxi Split lufthavn - Bilice | Fastpris €100 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Split lufthavn - Bilice. Fastpris €100 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi split lufthavn - bilice, transport split lufthavn - bilice, flyplasstransport split lufthavn - bilice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Split lufthavn - Bilice",
+      "description": "Privat taxi og transport til fastpris, strekningen Split lufthavn - Bilice, 100 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Split lufthavn",
+        "Bilice"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-split-lufthavn-bilice/",
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Split lufthavn - Bilice, per bil for opptil 4 passasjerer. Tur og retur 200 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er strekningen og hvor lenge tar turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på strekningen Split lufthavn - Bilice er rundt 53 km lang og tar omtrent 55 min ved normal trafikk, litt lenger i høysesongen om sommeren. Jeg planlegger henting slik at en langsom strekning aldri gjør deg stresset."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor tar du imot meg?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I ankomsthallen, rett etter bagasjeutleveringen, med et skilt med navnet ditt. Jeg hjelper med bagasjen og følger deg til bilen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hva om flyet mitt er forsinket?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ikke noe problem. Jeg følger flyet ditt i sanntid og tilpasser hentingen til den faktiske landingen, uten tillegg for ventetiden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster transporten på strekningen Split lufthavn - Bilice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 100 per bil for opptil 4 passasjerer, en vei, bompenger og bagasje inkludert. Tur og retur koster 200."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan planlegge rundt flyet ditt. For en henting samme dag etter en endring på kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

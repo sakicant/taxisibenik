@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-dubrovnik-lentoasema-marina-hramina",
+  "title": "Taksi Dubrovnikin lentoasema - Marina Hramina | Kiinteä hinta €535 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Dubrovnikin lentoasema - Marina Hramina. Kiinteä hinta €535 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi dubrovnikin lentoasema - marina hramina, kuljetus dubrovnikin lentoasema - marina hramina, lentokenttäkuljetus dubrovnikin lentoasema - marina hramina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Dubrovnikin lentoasema - Marina Hramina",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Dubrovnikin lentoasema - Marina Hramina, 535 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnikin lentoasema",
+        "Marina Hramina"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-dubrovnik-lentoasema-marina-hramina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "535",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Dubrovnikin lentoasema - Marina Hramina, per auto enintään 4 matkustajalle. Meno ja paluu 1070 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Missä otatte minut vastaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Saapumisaulassa, heti matkatavaroiden noudon jälkeen, kyltillä jossa on nimesi. Autan matkatavaroiden kanssa ja saatan sinut autolle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Entä jos lentoni on myöhässä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ei ongelmaa. Seuraan lentoasi reaaliajassa ja mukautan noudon todelliseen laskeutumiseen, ilman lisämaksua odotusajasta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko kuljetus maksaa reitillä Dubrovnikin lentoasema - Marina Hramina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 535 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatka maksaa 1070."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin suunnitella lentosi ympärille. Saman päivän noutoa varten lyhyen muutoksen jälkeen soita tai kirjoita WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

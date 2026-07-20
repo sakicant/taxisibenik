@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadar-lufthavn-zaton",
+  "title": "Taxi Zadar lufthavn - Zaton | Fastpris €130 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Zadar lufthavn - Zaton. Fastpris €130 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi zadar lufthavn - zaton, transport zadar lufthavn - zaton, flyplasstransport zadar lufthavn - zaton",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Zadar lufthavn - Zaton",
+      "description": "Privat taxi og transport til fastpris, strekningen Zadar lufthavn - Zaton, 130 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar lufthavn",
+        "Zaton"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-zadar-lufthavn-zaton/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Zadar lufthavn - Zaton, per bil for opptil 4 passasjerer. Tur og retur 260 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er strekningen og hvor lenge tar turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på strekningen Zadar lufthavn - Zaton er rundt 62 km lang og tar omtrent 55 min ved normal trafikk, litt lenger i høysesongen om sommeren. Jeg planlegger henting slik at en langsom strekning aldri gjør deg stresset."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor tar du imot meg?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I ankomsthallen, rett etter bagasjeutleveringen, med et skilt med navnet ditt. Jeg hjelper med bagasjen og følger deg til bilen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hva om flyet mitt er forsinket?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ikke noe problem. Jeg følger flyet ditt i sanntid og tilpasser hentingen til den faktiske landingen, uten tillegg for ventetiden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster transporten på strekningen Zadar lufthavn - Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 130 per bil for opptil 4 passasjerer, en vei, bompenger og bagasje inkludert. Tur og retur koster 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan planlegge rundt flyet ditt. For en henting samme dag etter en endring på kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-split-lentoasema-marina-kremik",
+  "title": "Taksi Splitin lentoasema - Marina Kremik | Kiinteä hinta €80 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Splitin lentoasema - Marina Kremik. Kiinteä hinta €80 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi splitin lentoasema - marina kremik, kuljetus splitin lentoasema - marina kremik, lentokenttäkuljetus splitin lentoasema - marina kremik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Splitin lentoasema - Marina Kremik",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Splitin lentoasema - Marina Kremik, 80 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Splitin lentoasema",
+        "Marina Kremik"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-split-lentoasema-marina-kremik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Splitin lentoasema - Marina Kremik, per auto enintään 4 matkustajalle. Meno ja paluu 160 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Missä otatte minut vastaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Saapumisaulassa, heti matkatavaroiden noudon jälkeen, kyltillä jossa on nimesi. Autan matkatavaroiden kanssa ja saatan sinut autolle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Entä jos lentoni on myöhässä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ei ongelmaa. Seuraan lentoasi reaaliajassa ja mukautan noudon todelliseen laskeutumiseen, ilman lisämaksua odotusajasta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko kuljetus maksaa reitillä Splitin lentoasema - Marina Kremik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 80 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatka maksaa 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin suunnitella lentosi ympärille. Saman päivän noutoa varten lyhyen muutoksen jälkeen soita tai kirjoita WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

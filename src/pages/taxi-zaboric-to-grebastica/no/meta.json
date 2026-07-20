@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zaboric-grebastica",
+  "title": "Taxi Žaborić - Grebaštica | Fastpris €35 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Žaborić - Grebaštica. Fastpris €35 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi žaborić - grebaštica, transport žaborić - grebaštica, flyplasstransport žaborić - grebaštica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Žaborić - Grebaštica",
+      "description": "Privat taxi og transport til fastpris, strekningen Žaborić - Grebaštica, 35 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Žaborić",
+        "Grebaštica"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-zaboric-grebastica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "35",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Žaborić - Grebaštica, per bil for opptil 4 passasjerer. Tur og retur 70 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er strekningen og hvor lenge tar turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på strekningen Žaborić - Grebaštica er rundt 10 km lang og tar omtrent 10 min ved normal trafikk, litt lenger i høysesongen om sommeren. Jeg planlegger henting slik at en langsom strekning aldri gjør deg stresset."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster en taxi på strekningen Žaborić - Grebaštica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 35 per bil for opptil 4 passasjerer, en vei, bagasje inkludert. Tur og retur koster 70."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor henter du meg?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "På den nøyaktige adressen din, enten det er hus, hotell eller leilighet. Send adressen ved bestilling, så bekrefter jeg møtestedet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan bekrefte bil og hentetidspunkt. For en tur på kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

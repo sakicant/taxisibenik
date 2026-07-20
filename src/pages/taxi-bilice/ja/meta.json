@@ -1,0 +1,119 @@
+{
+  "slug": "taxi-bilice",
+  "title": "タクシー Bilice | TAXI Antonio",
+  "description": "タクシー Bilice：スプリット空港（€100）やザダル空港への固定料金の空港送迎、シベニク市内への短距離のご移動も。アパートメントやヴィラのお客様は玄関先までお迎えに上がります。",
+  "keywords": "タクシー bilice, bilice タクシー, bilice 空港送迎, bilice から スプリット空港, bilice から シベニク, タクシー bilice シベニク",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "地域内タクシーおよび空港送迎",
+      "name": "タクシー Bilice",
+      "description": "シベニクの北にあるBiliceから、スプリット空港、ザダル空港、シベニク、Vodice、クルカ国立公園への固定料金の貸切タクシーおよび空港送迎です。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Bilice",
+      "url": "https://taxisibenik.hr/ja/taxi-bilice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Bilice発のタクシー料金",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "タクシー Bilice - シベニク",
+            "price": "20",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Bilice&to=%C5%A0ibenik%20-%20center&price=20"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Bilice - Vodice",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Bilice&to=Vodice&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Bilice - クルカ国立公園 (Lozovac)",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Bilice&to=NP%20Krka%20-%20Lozovac%20entrance&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Bilice - スプリット空港",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Bilice&to=Split%20Airport%20%28SPU%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Bilice - ザダル空港",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Bilice&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Bilice - スプリット",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Bilice&to=Split&price=140"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Bilice - ザダル",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Bilice&to=Zadar&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Biliceのアパートメントやヴィラまでお迎えに来てもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。Biliceのご滞在先の玄関先までお迎えに上がり、お荷物をお積みして、目的地の玄関先までお送りします。ご予約の際に住所をお知らせください。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Biliceからの空港送迎は何時から可能ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "事前にご予約いただければ、昼夜を問わず何時でも承ります。スプリットやザダルの早朝便の場合は、余裕をもってターミナルに到着できるようお迎えの時刻を確定してお伝えします。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "空港までの料金は本当に固定ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。こちらに記載の料金はすべて1台あたりの固定料金で、最大4名様、通行料・燃料・荷物込みです。メーターはありません。"
+          }
+        }
+      ]
+    }
+  ]
+}

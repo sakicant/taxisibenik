@@ -1,0 +1,145 @@
+{
+  "slug": "amadria-park-sibenik-transfers",
+  "title": "Amadria Park 이동 서비스 | 고정 요금 | TAXI Antonio",
+  "description": "Amadria Park Šibenik 호텔과 캠프를 오가는 프라이빗 이동. 사전 예약 고정 요금: 스플리트 공항 €95, 자다르 공항 €130, 크르카 €45부터. 도어투도어, 현지 기사 한 명.",
+  "keywords": "amadria park 이동, amadria park 택시, amadria park 시베니크 이동, amadria park 공항 이동, amadria park 택시, solaris 시베니크 택시",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Hotel airport and city taxi transfers",
+      "name": "Amadria Park Šibenik 이동 서비스",
+      "description": "시베니크 Amadria Park 리조트를 오가는 프라이빗 고정 요금 택시 이동으로, 리조트의 모든 호텔과 캠프를 포함합니다. 공항 이동, 도시 간 이동, 크르카 당일 여행을 미리 합의된 요금으로 사전 예약하실 수 있습니다.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Amadria Park Šibenik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/ko/amadria-park-sibenik-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Amadria Park 출발 고정 이동 요금",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Amadria Park에서 스플리트 공항",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park에서 자다르 공항",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park에서 자그레브 공항",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park에서 두브로브니크 공항",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park에서 시베니크 시내",
+            "price": "18",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park에서 크르카 국립공원 (Lozovac)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park에서 스플리트",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park에서 자다르",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Amadria Park에서 스플리트 공항까지 택시 요금은 얼마인가요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Amadria Park에서 스플리트 공항까지 프라이빗 이동은 사전 예약 시 최대 4명까지 차량 1대 기준 고정 95유로입니다. 통행료와 연료비, 수하물이 포함되며 양방향 요금이 동일합니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Amadria Park의 모든 호텔과 캠프에서 픽업하나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. 리조트 내 모든 호텔 정문과 Amadria Park Camp 리셉션에서 같은 고정 요금으로 픽업합니다. 예약하실 때 호텔 이름을 알려 주시면 정확한 만남 장소를 확인해 드립니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Amadria Park 이동을 미리 예약해야 하나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. 안내된 모든 요금은 사전 예약된 이동에 대한 고정 요금입니다. 미리 예약하시면 차량과 픽업 시간, 요금이 보장되며, 이는 이른 항공편과 성수기에 특히 중요합니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "도착하는 손님을 공항에서 맞이해 주시나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. 도착편의 경우 항공편을 실시간으로 확인하고, 도착 홀에서 이름 표지판을 들고 기다렸다가 Amadria Park 호텔이나 캠프까지 곧장 모셔다드립니다. 지연된 항공편 대기는 무료입니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Amadria Park에서 크르카 국립공원까지 데려다주실 수 있나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. 크르카 Lozovac 입구까지 편도 이동은 45유로, Skradin 입구까지는 50유로입니다. 대기 시간이 포함된 프라이빗 당일 여행도 제공하며, Amadria Park 호텔에서 픽업합니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "이동 요금은 어떻게 결제하나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "계좌 이체 또는 카드로 20%의 선입금(최소 20유로)을 하시면 예약이 확정됩니다. 잔액은 이동 당일 기사에게 현금 또는 카드로 지불하시면 됩니다."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "taxi-jadrija",
+  "title": "Taxi Jadrija | TAXI Antonio",
+  "description": "Taxi Jadrija: lyhyet paikalliskyydit Šibenikiin sekä linja-auto- ja rautatieasemalle, lisäksi kiinteähintaiset lentokenttäkuljetukset Splitiin ja Zadariin. Nouto ovelta.",
+  "keywords": "taxi jadrija, jadrija taksi, jadrija ranta taksi, jadrija sibenik, jadrija lentokenttäkuljetus",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Paikallinen taksi ja lentokenttäkuljetukset",
+      "name": "Taxi Jadrija",
+      "description": "Yksityinen kiinteähintainen taksi Jadrijan rannalta Šibenikin niemimaalla Šibenikiin, linja-auto- ja rautatieasemalle, Splitin lentokentälle ja Zadarin lentokentälle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Jadrija",
+      "url": "https://taxisibenik.hr/fi/taxi-jadrija/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksin hinnat Jadrijasta",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Jadrija Šibenikiin",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Jadrija&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Jadrija Šibenikin linja-auto- ja rautatieasemalle",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Jadrija&to=%C5%A0ibenik%20Bus%20Station&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Jadrija Splitin lentokentälle",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Jadrija&to=Split%20Airport%20%28SPU%29&price=115"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Jadrija Zadarin lentokentälle",
+            "price": "125",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Jadrija&to=Zadar%20Airport%20%28ZAD%29&price=125"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ovatko Jadrijan kyydit enimmäkseen lyhyitä paikalliskyytejä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä, useimmat matkat ovat lyhyitä kyytejä Šibenikiin tai asemalle, mutta ajan myös pidemmät lentokenttäkuljetukset Splitiin ja Zadariin kun niitä tarvitset."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voitko viedä minut linja-auto- tai rautatieasemalle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Šibenikin linja-auto- ja rautatieasema ovat vierekkäin, ja kuljetus Jadrijasta on kiinteä €30 autoa kohti."
+          }
+        }
+      ]
+    }
+  ]
+}

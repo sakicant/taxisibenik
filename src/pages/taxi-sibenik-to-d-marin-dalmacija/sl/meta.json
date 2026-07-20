@@ -1,0 +1,73 @@
+{
+  "slug": "taksi-sibenik-d-marin-dalmacija",
+  "title": "Taksi Šibenik - D-Marin Dalmacija | Fiksna cena €130 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Šibenik - D-Marin Dalmacija. Fiksna cena €130 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "keywords": "taksi šibenik - d-marin dalmacija, prevoz šibenik - d-marin dalmacija, letališki prevoz šibenik - d-marin dalmacija",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Zasebni taksi prevoz",
+      "name": "Taksi Šibenik - D-Marin Dalmacija",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Šibenik - D-Marin Dalmacija, 130 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "D-Marin Dalmacija"
+      ],
+      "url": "https://taxisibenik.hr/sl/taksi-sibenik-d-marin-dalmacija/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Zasebna enosmerna vožnja, relacija Šibenik - D-Marin Dalmacija, na vozilo do 4 potnike. Povratno 260 evrov."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko stane taksi na relaciji Šibenik - D-Marin Dalmacija?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 130 na vozilo do 4 potnike, enosmerno, prtljaga vključena. Povratna vožnja je 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kje me poberete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašem točnem naslovu, naj bo to hiša, hotel ali apartma. Pošljite naslov ob rezervaciji in potrdim mesto srečanja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako dolgo vnaprej rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vsaj 2 uri prej, da potrdim vozilo in uro prevzema. Za hitro vožnjo pokličite ali pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

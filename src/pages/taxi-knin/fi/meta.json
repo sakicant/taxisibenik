@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-knin",
+  "title": "Taxi Knin | TAXI Antonio",
+  "description": "Taxi Knin: pitkän matkan kuljetukset Šibenikiin (€95), Splitin lentokentälle (€110) ja Zadarin lentokentälle historiallisesta sisämaan rautatiekaupungista. Kiinteät hinnat.",
+  "keywords": "taxi knin, knin taksi, knin rautatieasema taksi, knin lentokenttäkuljetus, knin split lentokentälle, knin sibenik, knin linnoitus taksi",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Paikallinen taksi ja lentokenttäkuljetukset",
+      "name": "Taxi Knin",
+      "description": "Yksityinen kiinteähintainen pitkän matkan taksi Kninistä, historiallisesta sisämaan rautatiekaupungista, Šibenikiin, Splitin lentokentälle ja Zadarin lentokentälle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Knin",
+      "url": "https://taxisibenik.hr/fi/taxi-knin/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksin hinnat Kninistä",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Knin Šibenikiin",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Knin&to=%C5%A0ibenik%20-%20center&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Knin Splitin lentokentälle",
+            "price": "110",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Knin&to=Split%20Airport%20%28SPU%29&price=110"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Knin Zadarin lentokentälle",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Knin&to=Zadar%20Airport%20%28ZAD%29&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Otatko junat vastaan Kninin asemalla?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Tapaan sinut laiturilla tai aseman uloskäynnin luona, autan laukkujen kanssa ja ajan suoraan eteenpäin. Kerro junasi aika varauksen yhteydessä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Onko pitkän matkan hinta kiinteä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä, ja se sovitaan etukäteen matkan pituuden vuoksi. Knin Šibenikiin on €95, Splitin lentokentälle €110 ja Zadarin lentokentälle €140 autoa kohti, enintään 4 matkustajaa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voitko ajaa edestakaisen matkan samana päivänä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Voin odottaa tai tulla hakemaan sinut samana päivänä. Kerro aikataulut, niin vahvistan kiinteän hinnan edestakaiselle matkalle."
+          }
+        }
+      ]
+    }
+  ]
+}

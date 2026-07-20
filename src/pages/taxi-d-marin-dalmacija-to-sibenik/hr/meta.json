@@ -1,0 +1,73 @@
+{
+  "slug": "taksi-d-marin-dalmacija-sibenik",
+  "title": "Taksi D-Marin Dalmacija - Šibenik | Fiksna cijena €130 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija D-Marin Dalmacija - Šibenik. Fiksno €130 po vozilu, do 4. Rezervirajte izravno kod Antonija.",
+  "keywords": "taksi d-marin dalmacija - šibenik, transfer d-marin dalmacija - šibenik, prijevoz d-marin dalmacija - šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi D-Marin Dalmacija - Šibenik",
+      "description": "Privatni taksi i transfer po fiksnoj cijeni, relacija D-Marin Dalmacija - Šibenik, 130 eura po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "D-Marin Dalmacija",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/hr/taksi-d-marin-dalmacija-sibenik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Jednosmjerni privatni transfer, relacija D-Marin Dalmacija - Šibenik, po vozilu za do 4 putnika. Povratno 260 eura."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji D-Marin Dalmacija - Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 130 po vozilu za do 4 putnika, jedan smjer, prtljaga uključena. Povratna vožnja je 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gdje me preuzimate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašoj točnoj adresi, bila to kuća, hotel ili apartman. Pošaljite adresu pri rezervaciji i potvrdit ću mjesto sastanka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unaprijed trebam rezervirati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unaprijed da potvrdim vozilo i vrijeme preuzimanja. Za brži termin nazovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

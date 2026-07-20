@@ -1,0 +1,85 @@
+{
+  "slug": "airport-transfers-from-sibenik",
+  "title": "Flygplatstransfer Šibenik | Fasta priser | TAXI Antonio",
+  "description": "Flygplatstransfer i Šibenik till och från flygplatserna i Split, Zadar, Zagreb och Dubrovnik. Fasta priser, flygbevakning, dörr till dörr. Kör även från Vodice, Primošten och Skradin. Boka hos Antonio.",
+  "keywords": "flygplatstransfer sibenik, transfer šibenik flygplats, split flygplats till sibenik, zadar flygplats till sibenik, flygplatstransfer vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Flygplatstransfer",
+      "name": "Flygplatstransfer från Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split flygplats",
+        "Zadar flygplats",
+        "Zagreb flygplats",
+        "Dubrovnik flygplats"
+      ],
+      "url": "https://taxisibenik.hr/sv/airport-transfers-from-sibenik/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hur hittar jag min chaufför på flygplatsen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio väntar i ankomsthallen efter bagageutlämningen med en tydlig skylt med ditt namn."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vad händer om mitt flyg blir försenat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Flygen bevakas i realtid med hjälp av flightnumret du anger vid bokningen. Upphämtningstiden justeras automatiskt och väntetiden kostar inget extra."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Är priset för flygplatstransfern fast?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Varje flygplatstransfer har ett fast pris per bil för upp till 4 passagerare, med vägtullar, bränsle och bagage inkluderat. Ingen taxameter, inga överraskningar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Har du bilbarnstolar för flygplatstransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, bilbarnstol och bältesstol ingår utan kostnad. Be bara om det i bokningsnoteringarna och ange barnets ålder."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur betalar jag för en flygplatstransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En förskottsbetalning på 20 % (minst 20 euro) bekräftar bokningen, via banköverföring eller kort. Resten betalas till chauffören samma dag, kontant eller med kort."
+          }
+        }
+      ]
+    }
+  ]
+}

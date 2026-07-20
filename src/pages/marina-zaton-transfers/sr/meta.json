@@ -1,0 +1,139 @@
+{
+  "slug": "marina-zaton-transfers",
+  "title": "Transferi iz Marine Zaton | Fiksne cene | TAXI Antonio",
+  "description": "Privatni transferi iz Marine Zaton kod Šibenika do aerodroma i gradova Split, Zadar, Zagreb i Dubrovnik. Fiksne cene, preuzimanje na vezu, jedan lokalni vozač.",
+  "keywords": "marina zaton transfer, taksi marina zaton, marina zaton aerodromski transfer, zaton aerodrom split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Marina taksi i aerodromski transferi",
+      "name": "Transferi iz Marine Zaton",
+      "description": "Privatni transferi iz Marine Zaton kod Šibenika do aerodroma i gradova Split, Zadar, Zagreb i Dubrovnik. Fiksne cene, preuzimanje na vezu, jedan lokalni vozač.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/sr/marina-zaton-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fiksne cene transfera iz Marine Zaton",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do aerodroma Split",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do aerodroma Zadar",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do aerodroma Zagreb",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do aerodroma Dubrovnik",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Splita",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Zadra",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Dubrovnika",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Trogira",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Vodica",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do NP Krka (Lozovac)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton do Šibenika",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Gde preuzimate putnike u Marini Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Direktno u marini, kod vašeg veza ili na recepciji marine, kako vam odgovara. Recite mi broj pontona ili ime broda kada rezervišete i naći ću vas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta transfer do aerodroma Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksna cena po vozilu za najviše 4 putnika, dogovorena pre putovanja, sa uključenim putarinama, gorivom i prtljagom. Pogledajte cenovnik iznad za svaku rutu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Najmanje 2 sata unapred kako bih potvrdio vozilo i vreme preuzimanja, a ranije za rane jutarnje letove i glavnu sezonu. Za raniju vožnju pozovite me ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zagreb-lentoasema-marina-betina",
+  "title": "Taksi Zagrebin lentoasema - Marina Betina | Kiinteä hinta €485 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Zagrebin lentoasema - Marina Betina. Kiinteä hinta €485 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi zagrebin lentoasema - marina betina, kuljetus zagrebin lentoasema - marina betina, lentokenttäkuljetus zagrebin lentoasema - marina betina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Zagrebin lentoasema - Marina Betina",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Zagrebin lentoasema - Marina Betina, 485 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zagrebin lentoasema",
+        "Marina Betina"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-zagreb-lentoasema-marina-betina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Zagrebin lentoasema - Marina Betina, per auto enintään 4 matkustajalle. Meno ja paluu 970 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Missä otatte minut vastaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Saapumisaulassa, heti matkatavaroiden noudon jälkeen, kyltillä jossa on nimesi. Autan matkatavaroiden kanssa ja saatan sinut autolle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Entä jos lentoni on myöhässä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ei ongelmaa. Seuraan lentoasi reaaliajassa ja mukautan noudon todelliseen laskeutumiseen, ilman lisämaksua odotusajasta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko kuljetus maksaa reitillä Zagrebin lentoasema - Marina Betina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 485 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatka maksaa 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin suunnitella lentosi ympärille. Saman päivän noutoa varten lyhyen muutoksen jälkeen soita tai kirjoita WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

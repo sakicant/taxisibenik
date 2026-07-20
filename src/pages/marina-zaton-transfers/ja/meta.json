@@ -1,0 +1,139 @@
+{
+  "slug": "marina-zaton-transfers",
+  "title": "Marina Zaton の送迎 | 固定料金 | TAXI Antonio",
+  "description": "シベニク近郊の Marina Zaton から、スプリト、ザダル、ザグレブ、ドゥブロヴニクの各空港や都市へのプライベート送迎。固定料金、係留地までのお迎え、地元ドライバーが一人で対応します。",
+  "keywords": "marina zaton 送迎, zaton マリーナ タクシー, marina zaton 空港 送迎, zaton スプリト空港",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "マリーナのタクシーと空港送迎",
+      "name": "Marina Zaton の送迎",
+      "description": "シベニク近郊の Marina Zaton から、スプリト、ザダル、ザグレブ、ドゥブロヴニクの各空港や都市へのプライベート送迎。固定料金、係留地までのお迎え、地元ドライバーが一人で対応します。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/ja/marina-zaton-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Marina Zaton 発の固定送迎料金",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton からスプリト空港",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton からザダル空港",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton からザグレブ空港",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton からドゥブロヴニク空港",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton からスプリト",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton からザダル",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton からドゥブロヴニク",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton からトロギル",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton からヴォディツェ",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton からクルカ国立公園 (Lozovac)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton からシベニク",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Marina Zaton ではどこでお迎えしてもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "マリーナ内で、係留地のそばでもマリーナのレセプションでも、ご都合のよい場所でお迎えします。ご予約時に桟橋の番号か船名をお知らせいただければ、私がお探しします。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "スプリト空港までの送迎はいくらですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "最大4名までの1台あたりの固定料金で、ご出発前に合意します。通行料、燃料、荷物込みです。全ルートの料金は上の料金表をご覧ください。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "どのくらい前に予約すればよいですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "車とお迎え時刻を確定できるよう、少なくとも2時間前までにご予約ください。早朝便やハイシーズンはさらに早めのご予約をおすすめします。より早いご乗車をご希望の場合は、お電話または WhatsApp で直接ご連絡ください。"
+          }
+        }
+      ]
+    }
+  ]
+}

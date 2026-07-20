@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-brodarica",
+  "title": "Taxi Brodarica | TAXI Antonio",
+  "description": "Taxi Brodarica: recogidas en el ferri de Krapanj y a lo largo del paseo marítimo, además de traslados fijos a los aeropuertos de Split (€95) y Zadar y viajes a Šibenik.",
+  "keywords": "taxi brodarica, brodarica taxi, ferri brodarica krapanj, traslado aeropuerto brodarica, brodarica al aeropuerto de split, taxi brodarica sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi local y traslados al aeropuerto",
+      "name": "Taxi Brodarica",
+      "description": "Taxi privado a precio fijo desde Brodarica, al sur de Šibenik y junto al embarcadero del ferri de Krapanj, al aeropuerto de Split, al aeropuerto de Zadar y a Šibenik.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Brodarica",
+      "url": "https://taxisibenik.hr/es/taxi-brodarica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Tarifas de taxi desde Brodarica",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi de Brodarica a Šibenik",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/es/book/?from=Brodarica%20-%20%C5%A0ibenik&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi de Brodarica al aeropuerto de Split",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/es/book/?from=Brodarica%20-%20%C5%A0ibenik&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi de Brodarica al aeropuerto de Zadar",
+            "price": "135",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/es/book/?from=Brodarica%20-%20%C5%A0ibenik&to=Zadar%20Airport%20%28ZAD%29&price=135"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Pueden dejarme en el ferri de Krapanj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Le llevo directamente al paseo marítimo de Brodarica, junto al embarcadero del ferri que cruza a Krapanj, y también puedo recogerle allí a la vuelta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cubren todo el paseo marítimo de Brodarica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, tanto el paseo marítimo como las calles de detrás. Envíeme su dirección o el nombre de su alojamiento y le confirmaré el punto de encuentro exacto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El traslado al aeropuerto tiene un precio fijo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. El aeropuerto de Split cuesta €95 y el de Zadar €135 por coche para hasta 4 pasajeros, con peajes y equipaje incluidos."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-bilo",
+  "title": "Taxi Bilo | TAXI Antonio",
+  "description": "Taxi Bilo: 일반 택시 노선에서 벗어난 조용한 해변 마을에서 스플리트 공항(€80), Šibenik, Vodice까지 문 앞 픽업 이동 서비스입니다.",
+  "keywords": "taxi bilo, 빌로 택시, 빌로 공항 이동, 빌로 스플리트 공항, 빌로 시베니크, 빌로 보디체",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "지역 택시 및 공항 이동 서비스",
+      "name": "Taxi Bilo",
+      "description": "Grebaštica와 Primošten 사이의 작은 해변 마을 Bilo에서 스플리트 공항, Šibenik, Vodice까지 고정 요금으로 운행하는 프라이빗 택시입니다.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Bilo",
+      "url": "https://taxisibenik.hr/ko/taxi-bilo/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Bilo 출발 택시 요금",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Bilo에서 Šibenik까지 택시",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Bilo&to=%C5%A0ibenik%20-%20center&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bilo에서 Vodice까지 택시",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Bilo&to=Vodice&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bilo에서 스플리트 공항까지 택시",
+            "price": "80",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Bilo&to=Split%20Airport%20%28SPU%29&price=80"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Bilo에서는 어디에서 픽업하시나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "아파트나 휴가용 주택 문 앞에서 모십니다. 예약하실 때 주소나 지도 핀을 보내 주시면 만날 장소를 확인해 드리겠습니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bilo에서 스플리트 공항까지 요금은 얼마인가요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "최대 4인까지 차량당 €80 고정 요금이며, 통행료와 연료비, 수하물이 포함되어 있습니다."
+          }
+        }
+      ]
+    }
+  ]
+}

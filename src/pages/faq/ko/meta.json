@@ -1,0 +1,79 @@
+{
+  "slug": "frequently-asked-questions",
+  "title": "자주 묻는 질문 | TAXI Antonio",
+  "description": "예약, 요금, 시베니크 주변 현지 이동에 대한 간단한 안내입니다.",
+  "keywords": "자주 묻는 질문",
+  "og_image": "https://taxisibenik.hr/assets/og-image.png",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "시베니크에서 택시를 어떻게 예약하나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "+385 99 447 1013로 전화하시거나, WhatsApp으로 메시지를 보내시거나, 이메일을 보내 주세요. 픽업 장소, 목적지, 그리고 희망하시는 픽업 또는 도착 시간이 필요합니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "얼마나 미리 예약해야 하나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "영업 시간 내라면 당일 요청도 받지만, 미리 예약하시면 이용이 확실히 보장됩니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\"고정 요금\"은 무슨 뜻인가요? 무엇이 포함되나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "고정 요금에는 이동, 연료비, 통행료, 수하물 도움이 포함됩니다. 숨은 비용은 없습니다. 추가 경유나 긴 대기 시간이 있으면 요금이 더 들 수 있으며, 언제나 미리 말씀드립니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "선입금을 받으시나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. 예약 확정에는 20%의 선입금(최소 €20)이 필요합니다. 요금이 €20 이하인 이동은 전액을 미리 결제해 주셔야 합니다. 원하시면 전액을 미리 결제하셔도 됩니다. 선입금은 계좌 이체(SEPA) 또는 카드로 가능하며, 잔액은 이동 당일에 저에게 지불하시면 됩니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "시베니크 병원 픽업도 하시나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. 시베니크 종합병원까지 오가는 승객을 모시며, 병원 구내까지 차로 들어갈 수 있어 주차장에서 멀리 걸으실 필요가 없습니다. 입구까지 도움이 필요하시면 말씀해 주세요."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "섬으로 가는 페리까지 데려다주실 수 있나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. Zlarin, Prvić, Kaprije, Žirje로 가는 시베니크 페리 및 카타마란 항구, 그리고 Obonjan행 보트 선착장에서 하차와 픽업을 해 드립니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "시베니크 호텔, 버스 터미널, 기차역에서도 픽업하시나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. 현지 모든 호텔, 버스 터미널, 시베니크와 Perković 기차역, 페리 항구를 모두 이용하실 수 있으며, 요청하시면 수하물 도움과 이름 표지판도 준비합니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "차 안에서 카드 결제가 되나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네, 카드와 그 밖의 비접촉 결제 수단을 받습니다."
+          }
+        }
+      ]
+    }
+  ]
+}

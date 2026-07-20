@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-srima",
+  "title": "Srima 出租车 | TAXI Antonio",
+  "description": "Srima 出租车：固定价格接送前往 Split 和 Zadar 机场（110 €）、往返 Šibenik，也可送至 Vodice 渡口前往 Prvić。上门接客。",
+  "keywords": "srima 出租车, srima taxi, srima vodice 出租车, srima 机场接送, srima 到 split 机场, srima 到 zadar 机场",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "本地出租车与机场接送",
+      "name": "Srima 出租车",
+      "description": "从紧邻 Vodice 的 Srima 出发的私人固定价格出租车，前往 Split 机场、Zadar 机场和 Šibenik，也可送至 Vodice 的海岛渡口。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Srima",
+      "url": "https://taxisibenik.hr/zh/taxi-srima/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "从 Srima 出发的出租车价格",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Srima 到 Šibenik 出租车",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Srima&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Srima 到 Zadar 机场出租车",
+            "price": "110",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Srima&to=Zadar%20Airport%20%28ZAD%29&price=110"
+          },
+          {
+            "@type": "Offer",
+            "name": "Srima 到 Split 机场出租车",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Srima&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "您能送我去前往 Prvić 的渡口吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。前往 Prvić 的海岛渡轮从紧邻 Srima 的 Vodice 码头出发，我几分钟就能把您送到那里。预订时问我价格即可。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "从 Srima 到机场多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zadar 机场每车固定 €110，Split 机场每车 €115，最多 4 位乘客，含过路费和行李。"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-rogoznica-zaton",
+  "title": "Taksi Rogoznica - Zaton | Fiksna cena €90 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Rogoznica - Zaton. Fiksno €90 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi rogoznica - zaton, transfer rogoznica - zaton, prevoz rogoznica - zaton",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Rogoznica - Zaton",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Rogoznica - Zaton, 90 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Rogoznica",
+        "Zaton"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-rogoznica-zaton/",
+      "offers": {
+        "@type": "Offer",
+        "price": "90",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Rogoznica - Zaton, po vozilu za do 4 putnika. Povratno 180 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolika je udaljenost i koliko traje vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Rogoznica - Zaton duga je oko 45 km i traje otprilike 65 min u uobičajenom saobraćaju, nešto duže u letnjim gužvama. Polazak planiram tako da vas usporeni deo nikad ne požuri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Rogoznica - Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 90 po vozilu za do 4 putnika, jedan smer, prtljag uključen. Povratna vožnja je 180."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gde me preuzimate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašoj tačnoj adresi, bila to kuća, hotel ili apartman. Pošaljite adresu pri rezervaciji i potvrdiću mesto sastanka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da potvrdim vozilo i vreme preuzimanja. Za brži termin pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

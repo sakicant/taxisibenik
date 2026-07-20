@@ -1,0 +1,90 @@
+{
+  "slug": "taxi-zaboric",
+  "title": "Taksi Žaborić | TAXI Antonio",
+  "description": "Taksi Žaborić: transferi do aerodroma Split (€95) i Zadar sa preuzimanjem pred vratima, plus vožnje do Šibenika i Vodica iz ovog mirnog primorskog sela.",
+  "keywords": "taksi žaborić, žaborić taksi, žaborić transfer aerodrom, žaborić do aerodroma split, žaborić do šibenika",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokalni taksi i transferi do aerodroma",
+      "name": "Taksi Žaborić",
+      "description": "Privatni taksi po fiksnoj ceni iz Žaborića, mirnog primorskog sela između Brodarice i Grebaštice, do aerodroma Split, aerodroma Zadar, Šibenika i Vodica.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Žaborić",
+      "url": "https://taxisibenik.hr/sr/taxi-zaboric/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Cene taksija iz Žaborića",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksi Žaborić do Šibenika",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sr/book/?from=%C5%BDabori%C4%87&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Žaborić do Vodica",
+            "price": "50",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sr/book/?from=%C5%BDabori%C4%87&to=Vodice&price=50"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Žaborić do aerodroma Split",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sr/book/?from=%C5%BDabori%C4%87&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Žaborić do aerodroma Zadar",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sr/book/?from=%C5%BDabori%C4%87&to=Zadar%20Airport%20%28ZAD%29&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Postoji li taksi stajalište u Žaboriću?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ne, u selu nema stajališta, pa je najbolje rezervisati unapred. Dolazim do vašeg smeštaja u dogovoreno vreme tako da nikada ne čekate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li vozite goste privatnih apartmana u Žaboriću?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Preuzimam vas pred vratima vašeg apartmana ili kuće za odmor. Samo pošaljite adresu prilikom rezervacije."
+          }
+        }
+      ]
+    }
+  ]
+}

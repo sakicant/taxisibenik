@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-makarska-aerodrom-zagreb",
+  "title": "Taksi Makarska - Aerodrom Zagreb | Fiksna cena €610 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Makarska - Aerodrom Zagreb. Fiksno €610 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi makarska - aerodrom zagreb, transfer makarska - aerodrom zagreb, prevoz makarska - aerodrom zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Makarska - Aerodrom Zagreb",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Makarska - Aerodrom Zagreb, 610 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Makarska",
+        "Aerodrom Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-makarska-aerodrom-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "610",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Makarska - Aerodrom Zagreb, po vozilu za do 4 putnika. Povratno 1220 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolika je udaljenost i koliko traje vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Makarska - Aerodrom Zagreb duga je oko 467 km i traje otprilike 5 h 5 min u uobičajenom saobraćaju, nešto duže u letnjim gužvama. Polazak planiram tako da vas usporeni deo nikad ne požuri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Makarska - Aerodrom Zagreb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 610 po vozilu, jedan smer, za do 4 putnika. Cena je po vozilu, ne po osobi, i uključuje putarine, gorivo i prtljag. Povratna vožnja je 1220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kada treba da krenem na let?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Po pravilu oko 3 sata pre međunarodnog leta i 2 sata pre domaćeg. Recite mi vreme leta i potvrdiću tačno vreme preuzimanja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vozite li do samog odlaznog terminala?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Vozim vas direktno do odlaznog terminala i pomažem s prtljagom. Bez hoda od parkinga i bez shuttle busa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da potvrdim vozilo i preuzimanje, a ranije za rane jutarnje letove i sezonu. Za brži termin pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

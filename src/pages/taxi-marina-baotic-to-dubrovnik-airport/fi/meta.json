@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-baotic-dubrovnik-lentoasema",
+  "title": "Taksi Marina Baotić - Dubrovnikin lentoasema | Kiinteä hinta €420 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Marina Baotić - Dubrovnikin lentoasema. Kiinteä hinta €420 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi marina baotić - dubrovnikin lentoasema, kuljetus marina baotić - dubrovnikin lentoasema, lentokenttäkuljetus marina baotić - dubrovnikin lentoasema",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Marina Baotić - Dubrovnikin lentoasema",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Marina Baotić - Dubrovnikin lentoasema, 420 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Baotić",
+        "Dubrovnikin lentoasema"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-marina-baotic-dubrovnik-lentoasema/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Marina Baotić - Dubrovnikin lentoasema, per auto enintään 4 matkustajalle. Meno ja paluu 840 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Paljonko taksi maksaa reitillä Marina Baotić - Dubrovnikin lentoasema?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 420 per auto, yhdensuuntainen matka, enintään 4 matkustajalle. Hinta on per auto, ei per henkilö, ja sisältää tietullit, polttoaineen ja matkatavarat. Meno-paluumatka maksaa 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milloin minun pitäisi lähteä lentoasemalle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yleensä noin 3 tuntia ennen kansainvälistä ja 2 tuntia ennen kotimaista lentoa. Kerro lentoaikasi, niin vahvistan tarkan noutoajan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ajatteko lähtöterminaaliin asti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Vien sinut suoraan lähtöterminaaliin ja autan matkatavaroiden kanssa. Ei kävelyä parkkipaikalta eikä bussikuljetusta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin vahvistaa auton ja noudon, ja aikaisemmin varhaisia lentoja ja huippukautta varten. Lyhyellä varoitusajalla soita tai kirjoita minulle WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

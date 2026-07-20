@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-krka-national-park-split",
+  "title": "Dagsutflykt till Krka från Split | Privat transfer, fasta €290 | TAXI Antonio",
+  "description": "Privat taxitransfer tur och retur till Krka från Split. Fasta €290 per bil, upp till 4 passagerare, dörr till dörr från hotell i Split, kryssningshamnen och gamla stan. Ingen guidad tur, bara resan dit och hem.",
+  "keywords": "dagsutflykt till krka från split, transfer tur och retur till krka från split, taxi till krka från split, krka från split, split till nationalparken krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privat dagsutflykt till Krka från Split",
+      "description": "En privat dagsutflykt till nationalparken Krka från Split med en lokal engelsktalande chaufför. Fast pris på 290 euro per bil för upp till 4 passagerare, med hämtning dörr till dörr vid hotell i Split, kryssningshamnen, buss- och tågstationen och gamla stan.",
+      "touristType": "Natur och sightseeing",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "290",
+        "priceCurrency": "EUR",
+        "description": "Privat fordon, tur och retur Split till nationalparken Krka, upp till 4 passagerare. Inträdesbiljetter till parken ingår inte."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Är det en guidad tur eller en taxitransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Det är en taxitransfer, inte en guidad tur. Antonio är en lokal chaufför som kör dig privat tur och retur från Split till Krka och tillbaka. Du får bilen och körningen; inne i parken utforskar du fritt på egen hand, i din egen takt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vad kostar en taxi till Krka från Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En privat transfer tur och retur från Split till nationalparken Krka kostar fasta 290 euro per bil för upp till 4 passagerare, med vägtullar, bränsle och omkring 3 till 4 timmars väntetid inkluderat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hämtar du vid hotell i Split och vid kryssningshamnen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jag hämtar dörr till dörr vid hotell och lägenheter i Split, i gamla stan, vid buss- och tågstationen och direkt vid kryssningshamnen och färjeterminalen i Split, med namnskylt på begäran."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur lång tid tar dagsutflykten från Split till Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Resan tar omkring en timme till en timme och femton minuter åt varje håll, plus omkring 3 till 4 timmars fritid inne i parken. En kortare eller längre vistelse kan avtalas när du bokar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur bokar och betalar jag dagsutflykten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En förskottsbetalning på 20 % (minst 20 euro) bekräftar bokningen, via banköverföring eller kort, och du får en faktura som bekräftelse. Resten betalas till chauffören samma dag, kontant eller med kort."
+          }
+        }
+      ]
+    }
+  ]
+}

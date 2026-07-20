@@ -1,0 +1,253 @@
+{
+  "slug": "",
+  "title": "シベニクのタクシー - 安心してお任せいただけるサービス | Taxi Antonio",
+  "description": "シベニクのタクシー。市内の当日配車、病院やホテルへのお迎え、バスターミナルとフェリー港、島への連絡に対応します。英語を話すドライバー。アントニオに直接ご予約ください。",
+  "keywords": "タクシー シベニク, taxi šibenik, taxi sibenik, シベニク 病院 タクシー, シベニク ホテル タクシー, シベニク フェリー港 タクシー, タクシー Zlarin Prvić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-home-land.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "TAXI Šibenik & Skradin - Antonio",
+      "url": "https://taxisibenik.hr/ja/",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "areaServed": [
+        "Šibenik",
+        "Skradin",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Šibenik",
+        "postalCode": "22000",
+        "addressCountry": "HR"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "152"
+      },
+      "priceRange": "€€",
+      "alternateName": "TAXI Antonio",
+      "@id": "https://taxisibenik.hr/ja/#business",
+      "image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
+      "paymentAccepted": "Cash, Credit Card",
+      "currenciesAccepted": "EUR",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6956974,
+        "longitude": 15.7891511
+      },
+      "hasMap": "https://www.google.com/maps?cid=4748268601430744277",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "14:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "16:00",
+          "closes": "21:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "06:00",
+          "closes": "16:00"
+        }
+      ],
+      "sameAs": [
+        "https://web.facebook.com/profile.php?id=61579783829997",
+        "https://www.instagram.com/taxi_sibenik/",
+        "https://www.tiktok.com/@taxisibenik",
+        "https://www.tripadvisor.com/Attraction_Review-g295375-d24821165-Reviews-TAXI_Sibenik_Skradin_Antonio-Sibenik_Sibenik_Knin_County_Dalmatia.html",
+        "https://www.google.com/maps?cid=4748268601430744277"
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "タクシーおよび送迎サービス",
+      "name": "TAXI Antonio によるシベニクのタクシー",
+      "areaServed": {
+        "@type": "City",
+        "name": "Šibenik"
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "タクシーおよび送迎サービス",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "シベニク市内のタクシー乗車"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "空港送迎"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "都市間の送迎"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "ホテル送迎"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "クルカとプリトヴィツェへの日帰り旅行"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "シベニクでタクシーを予約するにはどうすればよいですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "+385 99 447 1013 にお電話いただくか、WhatsApp でメッセージをお送りいただくか、メールをお送りください。アントニオはお迎えの場所、行き先、ご希望のお迎え時刻または到着時刻をお伺いします。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "どのくらい前に予約すればよいですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "営業時間内であれば直前のご依頼もお受けしますが、事前にご予約いただくと確実にご利用いただけます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "「固定料金」とは何ですか。何が含まれますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "固定料金には輸送、燃料、通行料、荷物のお手伝いが含まれます。隠れた費用はありません。追加の立ち寄りや長い待機は追加料金となる場合がありますが、事前にお伝えします。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "前払金は必要ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。ご予約の確定には20%の前払金（最低20ユーロ）が必要です。20ユーロ以下の乗車は全額前払いとなります。前払金は銀行振込（SEPA）またはカードでお支払いいただけ、残額は送迎当日に精算します。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "車内でカード払いはできますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい、カードやその他の非接触の支払い方法をご利用いただけます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "シベニクの病院へのお迎えは可能ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。アントニオはシベニク総合病院への送り迎えを行っており、病院の敷地内まで車で入ることが認められていますので、駐車場から長く歩く必要はありません。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "島へ行くフェリー乗り場まで送ってもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。アントニオは Zlarin、Prvić、Kaprije、Žirje 行きのシベニクのフェリーおよびカタマラン港、そして Obonjan 行きの船着き場への送り迎えを行っています。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "シベニクのホテル、バスターミナル、鉄道駅からのお迎えは可能ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。アントニオは地元のすべてのホテル、バスターミナル、シベニク駅と Perković 駅、フェリー港に対応しており、荷物のお手伝いと、ご希望に応じて名前を書いたボードもご用意します。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "フライトが遅延した場合はどうなりますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "フライトの到着はリアルタイムで監視し、追加料金なしでお迎え時刻を自動的に調整します。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "キャンセルが必要になった場合はどうなりますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "キャンセルはメールにて書面でお願いします。ご予約の72時間より前であれば、銀行振込は全額返金、カードは10ユーロの手数料を差し引いた全額返金となります。72時間以内のキャンセルおよび無連絡の不参加は返金いたしかねます。日程の変更はいつでも無料です。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "大人数のグループにも対応できますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Škoda Superb は最大4名までご乗車いただけます。それより大人数の場合は、厳選した地元のパートナーを通じて手配いたします。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "チャイルドシートはありますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい、チャイルドシートとブースターシートをご希望に応じてご用意します。"
+          }
+        }
+      ]
+    }
+  ]
+}

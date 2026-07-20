@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-brodarica",
+  "title": "Taxi Brodarica | TAXI Antonio",
+  "description": "Taxi Brodarica: Krapanj 페리 선착장과 해안가 픽업, 스플리트(€95) 및 자다르 공항까지 고정 요금 이동, 시베니크 시내 이동도 제공합니다.",
+  "keywords": "taxi brodarica, 브로다리차 택시, 브로다리차 크라판 페리, 브로다리차 공항 이동, 브로다리차 스플리트 공항, 브로다리차 시베니크",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "지역 택시 및 공항 이동 서비스",
+      "name": "Taxi Brodarica",
+      "description": "시베니크 남쪽, Krapanj 페리 선착장이 있는 Brodarica에서 스플리트 공항, 자다르 공항, Šibenik까지 고정 요금으로 운행하는 프라이빗 택시입니다.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Brodarica",
+      "url": "https://taxisibenik.hr/ko/taxi-brodarica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Brodarica 출발 택시 요금",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Brodarica에서 Šibenik까지 택시",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Brodarica%20-%20%C5%A0ibenik&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Brodarica에서 스플리트 공항까지 택시",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Brodarica%20-%20%C5%A0ibenik&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Brodarica에서 자다르 공항까지 택시",
+            "price": "135",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Brodarica%20-%20%C5%A0ibenik&to=Zadar%20Airport%20%28ZAD%29&price=135"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Krapanj 페리 선착장까지 데려다주실 수 있나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. Krapanj로 건너가는 페리 선착장 바로 옆 Brodarica 해안가까지 모셔다 드리며, 돌아오실 때 그곳에서 다시 모시는 것도 가능합니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Brodarica 해안 지역 전체를 다니시나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네, 해안도로와 그 뒤편 골목까지 모두 다닙니다. 주소나 숙소 이름을 보내 주시면 정확한 만남 장소를 확인해 드리겠습니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "공항 이동은 고정 요금인가요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. 스플리트 공항은 €95, 자다르 공항은 €135이며 최대 4인까지 차량당 요금으로 통행료와 수하물이 포함되어 있습니다."
+          }
+        }
+      ]
+    }
+  ]
+}

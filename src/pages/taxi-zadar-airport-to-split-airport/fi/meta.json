@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadar-lentoasema-split-lentoasema",
+  "title": "Taksi Zadarin lentoasema - Splitin lentoasema | Kiinteä hinta €200 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Zadarin lentoasema - Splitin lentoasema. Kiinteä hinta €200 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi zadarin lentoasema - splitin lentoasema, kuljetus zadarin lentoasema - splitin lentoasema, lentokenttäkuljetus zadarin lentoasema - splitin lentoasema",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Zadarin lentoasema - Splitin lentoasema",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Zadarin lentoasema - Splitin lentoasema, 200 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadarin lentoasema",
+        "Splitin lentoasema"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-zadar-lentoasema-split-lentoasema/",
+      "offers": {
+        "@type": "Offer",
+        "price": "200",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Zadarin lentoasema - Splitin lentoasema, per auto enintään 4 matkustajalle. Meno ja paluu 400 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kuinka pitkä reitti on ja kuinka kauan matka kestää?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matka reitillä Zadarin lentoasema - Splitin lentoasema on noin 115 km ja kestää noin 1 h 30 min normaalissa liikenteessä, kesän huippukaudella hieman kauemmin. Suunnittelen noudon niin, ettei hidas matka koskaan aiheuta kiirettä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko taksi maksaa reitillä Zadarin lentoasema - Splitin lentoasema?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 200 per auto, yhdensuuntainen matka, enintään 4 matkustajalle. Hinta on per auto, ei per henkilö, ja sisältää tietullit, polttoaineen ja matkatavarat. Meno-paluumatka maksaa 400."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milloin minun pitäisi lähteä lentoasemalle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yleensä noin 3 tuntia ennen kansainvälistä ja 2 tuntia ennen kotimaista lentoa. Kerro lentoaikasi, niin vahvistan tarkan noutoajan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ajatteko lähtöterminaaliin asti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Vien sinut suoraan lähtöterminaaliin ja autan matkatavaroiden kanssa. Ei kävelyä parkkipaikalta eikä bussikuljetusta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin vahvistaa auton ja noudon, ja aikaisemmin varhaisia lentoja ja huippukautta varten. Lyhyellä varoitusajalla soita tai kirjoita minulle WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

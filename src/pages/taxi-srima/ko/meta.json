@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-srima",
+  "title": "Taxi Srima | TAXI Antonio",
+  "description": "Taxi Srima: 스플리트와 자다르 공항(€110)까지 고정 요금 이동, 시베니크 시내 이동, Prvić행 Vodice 페리 선착장까지 픽업. 문 앞에서 모십니다.",
+  "keywords": "taxi srima, 스리마 택시, 스리마 보디체 택시, 스리마 공항 이동, 스리마 스플리트 공항, 스리마 자다르 공항",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "지역 택시 및 공항 이동 서비스",
+      "name": "Taxi Srima",
+      "description": "Vodice 옆에 자리한 Srima에서 스플리트 공항, 자다르 공항, Šibenik까지 고정 요금으로 운행하며 Vodice 섬 페리 선착장까지도 모셔다 드리는 프라이빗 택시입니다.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Srima",
+      "url": "https://taxisibenik.hr/ko/taxi-srima/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Srima 출발 택시 요금",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Srima에서 Šibenik까지 택시",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Srima&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Srima에서 자다르 공항까지 택시",
+            "price": "110",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Srima&to=Zadar%20Airport%20%28ZAD%29&price=110"
+          },
+          {
+            "@type": "Offer",
+            "name": "Srima에서 스플리트 공항까지 택시",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ko/book/?from=Srima&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Prvić로 가는 페리 선착장까지 데려다주실 수 있나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "네. Prvić로 가는 섬 페리는 Srima 바로 옆 Vodice 선착장에서 출발하며, 몇 분이면 그곳에 내려 드릴 수 있습니다. 예약하실 때 요금을 문의해 주세요."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Srima에서 공항까지 요금은 얼마인가요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "자다르 공항은 €110, 스플리트 공항은 €115 고정 요금이며 최대 4인까지 차량당 요금으로 통행료와 수하물이 포함됩니다."
+          }
+        }
+      ]
+    }
+  ]
+}

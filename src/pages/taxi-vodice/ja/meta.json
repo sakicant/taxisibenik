@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "タクシー Vodice | TAXI Antonio",
+  "description": "タクシー Vodice：ザダル空港（€100）やスプリット空港への固定料金の送迎、マリーナやリゾートでのお迎え、クルカ日帰り、島行きフェリー乗り場への送りも。直接ご予約ください。",
+  "keywords": "タクシー vodice, vodice タクシー, vodice 空港送迎, vodice から スプリット空港, vodice から ザダル空港, vodice マリーナ タクシー, vodice から クルカ",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "地域内タクシーおよび空港送迎",
+      "name": "タクシー Vodice",
+      "description": "Vodiceの固定料金の貸切タクシーです。スプリットとザダルへの空港送迎、マリーナやリゾートでのお迎え、クルカ国立公園への日帰り、島行きフェリー乗り場への送りを承ります。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/ja/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Vodice発のタクシー料金",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "タクシー Vodice - シベニク",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Vodice - クルカ国立公園 (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Vodice - ザダル空港",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Vodice - スプリット空港",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vodiceのマリーナでクルーをお迎えいただけますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。ヨットやチャーターのクルーの皆様をマリーナで直接お迎えします。荷物や食料の積み込みスペースも十分にあり、チャーターの予定に合わせて早朝や深夜の時間帯も手配できます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vodiceで深夜も走っていますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。事前にご予約いただければ、夜のお出かけの後にお迎えに上がり、固定料金でご滞在先まで安全にお送りします。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "PrvićやZlarin行きのフェリー乗り場まで送ってもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。どちらもVodiceの海沿いから出航しますので、乗り場まで直接お送りします。ご予約の際に料金をお尋ねください。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vodiceからザダル空港までいくらですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "1台あたり固定 €100、最大4名様です。スプリット空港は €115 で、通行料と荷物込みです。"
+          }
+        }
+      ]
+    }
+  ]
+}

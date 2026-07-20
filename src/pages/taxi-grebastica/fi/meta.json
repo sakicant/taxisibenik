@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-grebastica",
+  "title": "Taxi Grebaštica | TAXI Antonio",
+  "description": "Taxi Grebaštica: noudot leirintäalueilta ja rannoilta sekä kiinteät kuljetukset Splitin lentokentälle (€90), Šibenikiin ja Vodiceen. Varaa etukäteen, nouto ovelta.",
+  "keywords": "taxi grebastica, grebastica taksi, grebastica leirintäalue taksi, grebastica lentokenttäkuljetus, grebastica split lentokentälle, grebastica sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Paikallinen taksi ja lentokenttäkuljetukset",
+      "name": "Taxi Grebaštica",
+      "description": "Yksityinen kiinteähintainen taksi Grebašticasta, rannikon leirintä- ja rantakylästä Šibenikin eteläpuolella, Splitin lentokentälle, Šibenikiin ja Vodiceen.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Grebaštica",
+      "url": "https://taxisibenik.hr/fi/taxi-grebastica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksin hinnat Grebašticasta",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Grebaštica Šibenikiin",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Greba%C5%A1tica&to=%C5%A0ibenik%20-%20center&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Grebaštica Vodiceen",
+            "price": "55",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Greba%C5%A1tica&to=Vodice&price=55"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Grebaštica Splitin lentokentälle",
+            "price": "90",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Greba%C5%A1tica&to=Split%20Airport%20%28SPU%29&price=90"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Noudatko leirintäalueilta Grebašticassa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Haen sinut leirintäalueen vastaanotolta tai asunnoltasi, ja autossa on tilaa retkeily- ja rantavarusteille. Kerro tarkka paikka varauksen yhteydessä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Onko Grebašticassa taksitolppaa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ei, joten kannattaa varata etukäteen. Tulen luoksesi sovittuun aikaan sen sijaan, että joutuisit etsimään taksia kylästä."
+          }
+        }
+      ]
+    }
+  ]
+}

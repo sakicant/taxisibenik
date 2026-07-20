@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "Vodice 出租车 | TAXI Antonio",
+  "description": "Vodice 出租车：固定价格接送前往 Zadar（100 €）和 Split 机场，码头与度假区接客，Krka 一日游，也可送至海岛渡口。直接预订。",
+  "keywords": "vodice 出租车, vodice taxi, vodice 机场接送, vodice 到 split 机场, vodice 到 zadar 机场, vodice 码头出租车, vodice 到 krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "本地出租车与机场接送",
+      "name": "Vodice 出租车",
+      "description": "Vodice 的私人固定价格出租车：前往 Split 和 Zadar 的机场接送、码头与度假区接客、Krka 国家公园一日游，以及送至海岛渡口。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/zh/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "从 Vodice 出发的出租车价格",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Vodice 到 Šibenik 出租车",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Vodice 到 Krka 国家公园（Lozovac）出租车",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Vodice 到 Zadar 机场出租车",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Vodice 到 Split 机场出租车",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "您能在 Vodice 码头接船员吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。我直接在码头接游艇和包船的船员，车上有放行李和补给的空间，也可以配合您的包船时间安排清晨或深夜的班次。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "您在 Vodice 深夜也出车吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "出车。只要提前预订，我可以在您外出玩到很晚后接您，以固定价格安全送您回住处。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "您能送我去前往 Prvić 或 Zlarin 的渡口吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。两条航线都从 Vodice 海滨出发，我可以把您直接送到码头。预订时问我价格即可。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vodice 到 Zadar 机场多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "每车固定 €100，最多 4 位乘客；Split 机场为 €115，含过路费和行李。"
+          }
+        }
+      ]
+    }
+  ]
+}

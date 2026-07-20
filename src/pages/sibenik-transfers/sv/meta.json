@@ -1,0 +1,87 @@
+{
+  "slug": "sibenik-transfers",
+  "title": "Transfer Šibenik | Fasta priser | TAXI Antonio",
+  "description": "Transfer från Šibenik till och från Split, Zadar, Dubrovnik, Zagreb, Trogir och längre bort. Fasta priser, privat dörr till dörr, en lokal chaufför. Boka direkt hos Antonio.",
+  "keywords": "transfer sibenik, šibenik transfer, taxi sibenik split, sibenik till zadar, sibenik till dubrovnik, sibenik till zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxitransfer mellan städer",
+      "name": "Transfer Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/sv/sibenik-transfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vad kostar en taxitransfer från Šibenik till Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En privat transfer från Šibenik till Split kostar fasta 140 euro per bil för upp till 4 passagerare, med vägtullar, bränsle och bagage inkluderat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Är transferpriserna fasta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Varje transfer mellan städer har ett fast pris per bil för upp till 4 passagerare, avtalat i förväg. Ingen taxameter och inga överraskningar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Är transfern privat eller delad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Varje transfer är privat och går dörr till dörr, i en Škoda Superb. Ingen delar bilen och det blir inga extra stopp om du inte ber om dem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan vi stanna på vägen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. På längre resor stannar jag gärna för en kaffe, ett foto eller en snabb sevärdhet. Säg bara till när du bokar så räknar jag in det."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur betalar jag för en transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En förskottsbetalning på 20 % (minst 20 euro) bekräftar bokningen, via banköverföring eller kort. Resten betalas till chauffören samma dag, kontant eller med kort."
+          }
+        }
+      ]
+    }
+  ]
+}

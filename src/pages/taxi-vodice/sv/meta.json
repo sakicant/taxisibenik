@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "Taxi Vodice | TAXI Antonio",
+  "description": "Taxi Vodice: fasta flygplatstransfer till Zadar (€100) och Split, hämtning vid marinan och resorterna, dagsutflykter till Krka och avlämning vid öfärjorna. Boka direkt.",
+  "keywords": "taxi vodice, vodice taxi, flygplatstransfer vodice, vodice till splits flygplats, vodice till zadars flygplats, taxi vodice marina, vodice till krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokal taxi och flygplatstransfer",
+      "name": "Taxi Vodice",
+      "description": "Privat taxi med fast pris i Vodice: flygplatstransfer till Split och Zadar, hämtning vid marinan och resorterna, dagsutflykter till nationalparken Krka och avlämning vid öfärjorna.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/sv/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxipriser från Vodice",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice till Šibenik",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sv/book/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice till nationalparken Krka (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sv/book/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice till Zadars flygplats",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sv/book/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice till Splits flygplats",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sv/book/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kan du hämta besättningar vid marinan i Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jag möter yacht- och charterbesättningar direkt vid marinan med plats för bagage och proviant, och jag kan ordna en tidig eller sen tid som passar din charter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kör du sent på kvällen i Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Om det bokas i förväg kan jag hämta dig efter en kväll ute och köra dig tryggt tillbaka till ditt boende till ett fast pris."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du köra mig till färjan till Prvić eller Zlarin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Båda avgår från strandpromenaden i Vodice och jag kan släppa av dig direkt vid färjeläget. Fråga mig om priset när du bokar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vad kostar Vodice till Zadars flygplats?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fasta €100 per bil för upp till 4 passagerare, och Splits flygplats kostar €115, vägtullar och bagage inkluderat."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-sibenik",
+  "title": "シベニク発クルカ日帰り旅行 | プライベート送迎、固定 €100 | TAXI Antonio",
+  "description": "シベニク発クルカ行きのプライベート往復タクシー送迎。1台あたり固定 €100、最大4名まで。ホテル、アパートメント、駅、フェリー港からドアツードア。ツアーではなく、往復の送迎のみです。",
+  "keywords": "シベニク発 クルカ 日帰り, クルカ 往復 送迎, シベニクから クルカ タクシー, クルカ 送迎 シベニク, シベニクから クルカ国立公園",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "シベニク発クルカへのプライベート日帰り旅行",
+      "description": "英語を話す地元ドライバーによる、シベニク発クルカ国立公園へのプライベート日帰り旅行。最大4名までの1台あたり固定100ユーロで、ホテル、アパートメント、バスターミナル、鉄道駅、フェリー港からのドアツードアのお迎え付きです。",
+      "touristType": "自然と観光",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "プライベート車両、シベニクからクルカ国立公園への往復、最大4名まで。公園の入場券は含まれません。"
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "これはガイド付きツアーですか、それともタクシー送迎ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ガイド付きツアーではなく、タクシー送迎です。アントニオはシベニクの地元タクシードライバーで、クルカまでのプライベートな往復送迎をご提供します。お客様には車と運転をご利用いただき、公園の中ではご自分のペースで自由に見て回っていただけます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Amadria Park、D-Resort、Hotel Bellevue まで迎えに来てもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。Amadria Park リゾート、D-Resort Šibenik、Hotel Bellevue をはじめ、シベニクの各ホテルへ日常的にお迎えに上がっています。ホテル名をお知らせいただければ、正確なお迎え時刻と待ち合わせ場所をご確認します。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "シベニクのフェリー港、バスターミナル、鉄道駅からのお迎えは可能ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。シベニクのフェリー港とクルーズ港、バスターミナル、シベニク駅と Perković 駅から、ドアツードアでお迎えに上がります。ご希望に応じて名前を書いたボードをお持ちします。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "クルカ国立公園ではどのくらい過ごせますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "多くのお客様は公園内で3〜4時間ほどの自由時間をお選びになります。主要な滝を見て、定番の遊歩道を一周するのに十分な時間です。ご予約時にご相談いただければ、短くも長くもできます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "クルカの入場券は料金に含まれますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "いいえ。入場券は Skradin または Lozovac の入口、あるいはオンラインで、クルカ国立公園から直接別途お買い求めください。料金は季節により、おおよそ7〜40ユーロです。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "シベニクからクルカへの日帰り旅行はどう予約して支払いますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "銀行振込またはカードによる20%の前払金（最低20ユーロ）で予約が確定し、確認として請求書をお送りします。残額は当日、現金またはカードでドライバーにお支払いいただきます。"
+          }
+        }
+      ]
+    }
+  ]
+}

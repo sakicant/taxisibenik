@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-vodice",
+  "title": "Päiväretki Krkaan Vodicesta | Yksityiskuljetus, kiinteä 125 € | TAXI Antonio",
+  "description": "Yksityinen edestakainen taksikuljetus Krkaan Vodicesta. Kiinteä 125 € autoa kohden, enintään 4 matkustajaa, ovelta ovelle Vodicen, Sriman ja Tribunjin hotelleista ja huoneistoista. Ei kiertoajelu, vaan kyyti sinne ja takaisin.",
+  "keywords": "päiväretki krkaan vodicesta, krka vodicesta, taksi krkaan vodicesta, krka kuljetus vodice, krka srimasta, krka tribunjista, vodicesta krkan kansallispuistoon",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Yksityinen päiväretki Krkaan Vodicesta",
+      "description": "Yksityinen päiväretki Krkan kansallispuistoon Vodicesta paikallisen, englantia puhuvan kuljettajan kanssa. Kiinteä hinta 125 euroa autoa kohden enintään 4 matkustajalle, nouto ovelta ovelle hotelleista ja huoneistoista Vodicessa, Srimassa ja Tribunjissa.",
+      "touristType": "Luonto ja nähtävyydet",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Yksityinen auto, edestakainen matka Vodicesta Krkan kansallispuistoon, enintään 4 matkustajaa. Puiston pääsyliput eivät sisälly hintaan."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Onko tämä opastettu kiertoajelu vai taksikuljetus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Se on taksikuljetus, ei opastettu kiertoajelu. Antonio on paikallinen kuljettaja, joka tarjoaa yksityisen edestakaisen kuljetuksen Vodicesta Krkaan ja takaisin. Saat auton ja kuljetuksen; puistossa voit tutustua kohteeseen omin päin, omaan tahtiisi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Noudatteko Vodicen lisäksi myös Srimasta ja Tribunjista?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Nouto Srimasta ja Tribunjista tapahtuu samaan kiinteään hintaan kuin Vodicesta. Noudan sinut ovelta ovelle mistä tahansa hotellista, huoneistosta tai huvilasta Vodicessa, Srimassa tai Tribunjissa, mukaan lukien Vodicen venesatama ja rantabulevardi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko taksi Krkaan maksaa Vodicesta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yksityinen edestakainen kuljetus Vodicesta Krkalle maksaa kiinteät 125 euroa autoa kohden enintään 4 matkustajalle, ja hintaan sisältyvät polttoaine sekä odotusaika puistossa. Sama hinta kattaa noudot Srimassa ja Tribunjissa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka kauan vietämme aikaa Krkan kansallispuistossa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Useimmat vieraat valitsevat noin 3 tai 4 tuntia vapaata aikaa puistossa, mikä riittää päävesiputousten näkemiseen ja klassisen pitkospuureitin kiertämiseen. Lyhyemmästä tai pidemmästä vierailusta voidaan sopia varauksen yhteydessä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sisältyvätkö Krkan pääsyliput hintaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eivät. Pääsyliput ostetaan erikseen suoraan Krkan kansallispuistolta Skradinin tai Lozovacin portilta tai verkosta. Liput maksavat noin 7 eurosta 40 euroon vuodenajasta riippuen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Miten varaan ja maksan päiväretken Vodicesta Krkaan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "20 %:n ennakkomaksu (vähintään 20 euroa) vahvistaa varauksen, tilisiirrolla tai kortilla, ja saat laskun vahvistukseksi. Loppusumma maksetaan kuljettajalle matkapäivänä käteisellä tai kortilla."
+          }
+        }
+      ]
+    }
+  ]
+}

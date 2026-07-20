@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-primosten-flygplats-zadar",
+  "title": "Taxi Primošten - Zadar flygplats | Fast pris €160 | TAXI Antonio",
+  "description": "Privat taxi och transfer, Primošten - Zadar flygplats. Fast pris €160 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "keywords": "taxi primošten - zadar flygplats, transfer primošten - zadar flygplats, flygplatstransfer primošten - zadar flygplats",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransfer",
+      "name": "Taxi Primošten - Zadar flygplats",
+      "description": "Privat taxi och transfer till fast pris, Primošten - Zadar flygplats, 160 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Primošten",
+        "Zadar flygplats"
+      ],
+      "url": "https://taxisibenik.hr/sv/taxi-primosten-flygplats-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "160",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat resa, Primošten - Zadar flygplats, per fordon för upp till 4 passagerare. Tur och retur 320 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hur långt är sträckan och hur lång tid tar resan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Resan Primošten - Zadar flygplats är cirka 100 km lång och tar ungefär 85 min vid normal trafik, något längre under högsommaren. Jag planerar upphämtningen så att en långsam sträcka aldrig gör dig stressad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur mycket kostar en taxi på sträckan Primošten - Zadar flygplats?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 160 per fordon, enkel resa, för upp till 4 passagerare. Priset gäller per fordon, inte per person, och inkluderar vägtull, bränsle och bagage. En tur och retur kostar 320."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "När bör jag åka till flygplatsen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vanligtvis cirka 3 timmar före ett internationellt flyg och 2 timmar före ett inrikesflyg. Berätta din flygtid, så bekräftar jag den exakta upphämtningen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kör du ända fram till avgångsterminalen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jag kör dig direkt till avgångsterminalen och hjälper till med bagaget. Ingen promenad från parkeringen och ingen shuttlebuss."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur långt i förväg bör jag boka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timmar i förväg, så att jag kan bekräfta fordon och upphämtning, och tidigare för tidiga flyg och högsäsongen. För en resa med kort varsel, ring eller skriv till mig på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

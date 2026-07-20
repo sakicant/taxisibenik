@@ -1,0 +1,139 @@
+{
+  "slug": "marina-zaton-transfers",
+  "title": "Marina Zatonin kuljetukset | Kiinteät hinnat | TAXI Antonio",
+  "description": "Yksityiskuljetukset Marina Zatonista lähellä Šibenikiä Splitin, Zadarin, Zagrebin ja Dubrovnikin lentokentille ja kaupunkeihin. Kiinteät hinnat, nouto laituripaikalta, yksi paikallinen kuljettaja.",
+  "keywords": "marina zaton kuljetus, zaton marina taksi, marina zaton lentokenttäkuljetus, zaton splitin lentokenttä",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Satamataksi ja lentokenttäkuljetukset",
+      "name": "Marina Zatonin kuljetukset",
+      "description": "Yksityiskuljetukset Marina Zatonista lähellä Šibenikiä Splitin, Zadarin, Zagrebin ja Dubrovnikin lentokentille ja kaupunkeihin. Kiinteät hinnat, nouto laituripaikalta, yksi paikallinen kuljettaja.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/fi/marina-zaton-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Kiinteät kuljetushinnat Marina Zatonista",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton Splitin lentokentälle",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton Zadarin lentokentälle",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton Zagrebin lentokentälle",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton Dubrovnikin lentokentälle",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton Splitiin",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton Zadariin",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton Dubrovnikiin",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton Trogiriin",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton Vodiceen",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton Krkan kansallispuistoon (Lozovac)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton Šibenikiin",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mistä noudat Marina Zatonissa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Suoraan satamasta, laituripaikaltasi tai sataman vastaanotolta, kumpi vain sopii. Kerro ponttoonisi tai veneesi nimi varatessasi, niin löydän sinut."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko kuljetus Splitin lentokentälle maksaa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä hinta per auto enintään 4 matkustajalle, sovittu ennen matkaa, tietullit, polttoaine ja matkatavarat mukaan lukien. Katso yllä olevasta hinnastosta kaikki reitit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun tulisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia etukäteen, jotta ehdin vahvistaa auton ja noutoaikasi, ja aikaisemmin aamuvarhaisten lentojen ja sesongin osalta. Nopeampaa kyytiä varten soita tai lähetä WhatsApp-viesti suoraan."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "daytrips",
+  "title": "シベニク発の日帰り旅行 | プライベートのクルカ & プリトヴィツェ | TAXI Antonio",
+  "description": "シベニクとダルマチア各地から、クルカ国立公園とプリトヴィツェ湖群への日帰り旅行。地元ドライバーによる固定料金のドアツードア往復送迎です。ツアーではなく、往復の移動そのものをご提供します。",
+  "keywords": "シベニク 日帰り 旅行, シベニク 日帰り, クロアチア プライベート 日帰り, クルカ 日帰り, プリトヴィツェ 日帰り, クルカ 日帰り 旅行, プリトヴィツェ 日帰り 旅行",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "プライベートの日帰り旅行と小旅行",
+      "name": "シベニクとダルマチア発の日帰り旅行",
+      "description": "シベニクの地元ドライバーによる、クルカ国立公園とプリトヴィツェ湖群へのプライベートかつ固定料金の日帰り旅行。シベニク、ヴォディツェ、プリモシュテン、スプリト、ザダルからのドアツードア往復送迎、1台あたり最大4名まで。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "152" }
+      },
+      "areaServed": ["Šibenik", "Vodice", "Primošten", "Split", "Zadar"],
+      "url": "https://taxisibenik.hr/ja/daytrips/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "ダルマチア発のプライベート日帰り旅行",
+        "itemListElement": [
+          { "@type": "Offer", "name": "シベニク発 クルカ日帰り旅行", "price": "100", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/ja/day-trip-krka-national-park-sibenik/" },
+          { "@type": "Offer", "name": "ヴォディツェ発 クルカ日帰り旅行", "price": "125", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/ja/day-trip-krka-national-park-vodice/" },
+          { "@type": "Offer", "name": "プリモシュテン発 クルカ日帰り旅行", "price": "155", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/ja/day-trip-krka-national-park-primosten/" },
+          { "@type": "Offer", "name": "ザダル発 クルカ日帰り旅行", "price": "260", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/ja/day-trip-krka-national-park-zadar/" },
+          { "@type": "Offer", "name": "スプリト発 クルカ日帰り旅行", "price": "290", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/ja/day-trip-krka-national-park-split/" },
+          { "@type": "Offer", "name": "シベニク発 プリトヴィツェ日帰り旅行", "price": "500", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/ja/day-trip-plitvice-lakes-national-park-sibenik/" },
+          { "@type": "Offer", "name": "スプリト発 プリトヴィツェ日帰り旅行", "price": "650", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/ja/day-trip-plitvice-lakes-national-park-split/" }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "シベニクからどのような日帰り旅行を予約できますか？",
+          "acceptedAnswer": { "@type": "Answer", "text": "最も人気のある日帰り旅行は、クルカ国立公園とプリトヴィツェ湖群国立公園の2つです。いずれもホテルやアパートメントからのドアツードアのプライベート固定料金往復送迎で、公園内ではご自分のペースで自由にお過ごしいただけます。" }
+        },
+        {
+          "@type": "Question",
+          "name": "これはガイド付きツアーですか、それともタクシーの送迎ですか？",
+          "acceptedAnswer": { "@type": "Answer", "text": "ガイド付きの団体ツアーではなく、プライベートのタクシー送迎です。アントニオは地元のドライバーで、快適な Škoda Superb で往復お送りします。公園内ではガイドも団体行動もなく、自由に散策していただけます。" }
+        },
+        {
+          "@type": "Question",
+          "name": "クルカやプリトヴィツェへの日帰り旅行はいくらですか？",
+          "acceptedAnswer": { "@type": "Answer", "text": "プライベートのクルカ日帰り旅行は、シベニク発で1台あたり固定100ユーロからです。プリトヴィツェ湖群への日帰り旅行はシベニク発で1台あたり500ユーロです。料金は最大4名までの1台あたりで、お迎えの町によって異なります。" }
+        },
+        {
+          "@type": "Question",
+          "name": "シベニク以外の町でもお迎えは可能ですか？",
+          "acceptedAnswer": { "@type": "Answer", "text": "はい。クルカへの日帰り旅行はシベニク、ヴォディツェ、プリモシュテン、ザダル、スプリトから、プリトヴィツェへの日帰り旅行はシベニクとスプリトから運行しています。町ごとに固定料金と、詳細を掲載した専用ページがあります。" }
+        },
+        {
+          "@type": "Question",
+          "name": "公園の入場券は含まれていますか？",
+          "acceptedAnswer": { "@type": "Answer", "text": "いいえ。料金にはプライベート送迎と待機時間のみが含まれます。クルカとプリトヴィツェの入場券は入口またはオンラインで別途ご購入いただき、季節によっておよそ7ユーロから40ユーロです。" }
+        },
+        {
+          "@type": "Question",
+          "name": "日帰り旅行はどのように予約しますか？",
+          "acceptedAnswer": { "@type": "Answer", "text": "WhatsApp でメッセージをお送りいただくか、お電話いただくか、お問い合わせページをご利用ください。20%の前払金（最低20ユーロ）で日付が確定し、残額は当日ドライバーにお支払いいただきます。" }
+        }
+      ]
+    }
+  ]
+}

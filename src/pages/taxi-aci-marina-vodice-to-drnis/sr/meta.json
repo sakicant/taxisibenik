@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-vodice-drnis",
+  "title": "Taksi ACI Marina Vodice - Drniš | Fiksna cena €69 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija ACI Marina Vodice - Drniš. Fiksno €69 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi aci marina vodice - drniš, transfer aci marina vodice - drniš, prevoz aci marina vodice - drniš",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi ACI Marina Vodice - Drniš",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija ACI Marina Vodice - Drniš, 69 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Vodice",
+        "Drniš"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-aci-marina-vodice-drnis/",
+      "offers": {
+        "@type": "Offer",
+        "price": "69",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija ACI Marina Vodice - Drniš, po vozilu za do 4 putnika. Povratno 138 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko košta transfer na relaciji ACI Marina Vodice - Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 69 po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Povratna vožnja je 138."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Možete li da me preuzmete u samoj marini?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Dočekujem vas na ulazu u marinu ili na recepciji i pomažem s prtljagom, da s pontona odmah dođete do vozila."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Možete li da uskladite transfer s mojim plovilom?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Pošaljite mi vreme najma, prijave ili polaska pri rezervaciji i planiram preuzimanje prema njemu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da potvrdim vozilo i vreme preuzimanja. Za brži termin pozovite ili pišite direktno na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

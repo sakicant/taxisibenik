@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-d-marin-dalmacija-sibenik",
+  "title": "Taxi D-Marin Dalmacija - Šibenik | Fix ár €130 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, D-Marin Dalmacija - Šibenik. Fix ár €130 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "keywords": "taxi d-marin dalmacija - šibenik, transzfer d-marin dalmacija - šibenik, reptéri transzfer d-marin dalmacija - šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privát taxitranszfer",
+      "name": "Taxi D-Marin Dalmacija - Šibenik",
+      "description": "Privát taxi és transzfer fix áron, D-Marin Dalmacija - Šibenik, 130 euró járművenként max. 4 utasra, háztól házig.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "D-Marin Dalmacija",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/hu/taxi-d-marin-dalmacija-sibenik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Privát egyirányú út, D-Marin Dalmacija - Šibenik, járművenként max. 4 utasra. Oda-vissza 260 euró."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül egy taxi a D-Marin Dalmacija - Šibenik útvonalon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 130 járművenként max. 4 utasra, egy irány, csomag beleértve. Az oda-vissza út 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol vesz fel engem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A pontos címén, legyen az ház, hotel vagy apartman. Küldje el a címet a foglaláskor, és megerősítem a találkozási pontot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyivel korábban foglaljak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Legalább 2 órával korábban, hogy megerősítsem a járművet és a felvétel idejét. Gyors útért hívjon vagy írjon WhatsApp-on."
+          }
+        }
+      ]
+    }
+  ]
+}

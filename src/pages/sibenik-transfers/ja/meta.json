@@ -1,0 +1,87 @@
+{
+  "slug": "sibenik-transfers",
+  "title": "シベニクの送迎 | 固定料金 | TAXI Antonio",
+  "description": "スプリト、ザダル、ドゥブロヴニク、ザグレブ、トロギルなどとシベニクを結ぶ送迎。固定料金、プライベートのドアツードア、地元ドライバーが一人で対応。アントニオに直接ご予約ください。",
+  "keywords": "シベニク 送迎, シベニク 移動, シベニク スプリト タクシー, シベニク ザダル, シベニク ドゥブロヴニク, シベニク ザグレブ",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "都市間のタクシー送迎",
+      "name": "シベニクの送迎",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/ja/sibenik-transfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "シベニクからスプリトまでのタクシー送迎はいくらですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "シベニクからスプリトへのプライベート送迎は、最大4名までの1台あたり固定140ユーロで、通行料、燃料、荷物が含まれます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "送迎の料金は固定ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。すべての都市間送迎は最大4名までの1台あたりの固定料金で、事前に合意します。メーターも想定外の請求もありません。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "送迎はプライベートですか、相乗りですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "すべての送迎は Škoda Superb によるプライベートのドアツードアです。相乗りはなく、ご依頼がない限り途中で停車することもありません。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "途中で停車してもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。長距離の送迎では、コーヒー、写真撮影、ちょっとした観光のための停車を喜んで承ります。ご予約時にお知らせいただければ、その分を計画に組み込みます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "送迎の支払い方法を教えてください。",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "銀行振込またはカードによる20%の前払金（最低20ユーロ）で予約が確定します。残額は当日、現金またはカードでドライバーにお支払いいただきます。"
+          }
+        }
+      ]
+    }
+  ]
+}

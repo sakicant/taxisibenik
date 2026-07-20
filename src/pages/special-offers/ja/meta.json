@@ -1,0 +1,21 @@
+{
+  "slug": "special-offers",
+  "title": "シベニクのタクシー特別オファー | 最安値の送迎プラン",
+  "description": "シベニクのタクシー送迎の期間限定特別オファー。直前予約と回送区間の乗車を最安値で。固定料金、ドライバーは一人。なくなる前にご予約ください。",
+  "keywords": "シベニク タクシー 特別オファー, シベニク 送迎 最安値, 期間限定 送迎 オファー, シベニク 直前 タクシー, スプリト空港 送迎 格安",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "シベニクのタクシー特別オファー: 最安値の送迎プラン",
+    "description": "シベニクのタクシーおよび送迎の期間限定特別オファーを最安値で。直前予約と回送区間のお得なプラン、固定料金。",
+    "url": "https://taxisibenik.hr/ja/special-offers/",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Taxi Antonio",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" }
+    }
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "slug": "",
+  "title": "Taksi Šibenik - Palvelu johon voit luottaa | Taxi Antonio",
+  "description": "Taksi Šibenik paikallisiin kyyteihin tarvittaessa, sairaala- ja hotellinoutoihin, linja-auto- ja lauttasatamaan sekä saariyhteyksiin. Englantia puhuva kuljettaja. Varaa suoraan Antoniolta.",
+  "keywords": "taksi šibenik, taksi sibenik, taksi sibenik sairaala, sibenik hotelli taksi, sibenik lauttasatama taksi, taksi zlarin prvic",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-home-land.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "TAXI Šibenik & Skradin - Antonio",
+      "url": "https://taxisibenik.hr/fi/",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "areaServed": [
+        "Šibenik",
+        "Skradin",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Šibenik",
+        "postalCode": "22000",
+        "addressCountry": "HR"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "152"
+      },
+      "priceRange": "€€",
+      "alternateName": "TAXI Antonio",
+      "@id": "https://taxisibenik.hr/fi/#business",
+      "image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
+      "paymentAccepted": "Käteinen, luottokortti",
+      "currenciesAccepted": "EUR",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6956974,
+        "longitude": 15.7891511
+      },
+      "hasMap": "https://www.google.com/maps?cid=4748268601430744277",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "14:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "16:00",
+          "closes": "21:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "06:00",
+          "closes": "16:00"
+        }
+      ],
+      "sameAs": [
+        "https://web.facebook.com/profile.php?id=61579783829997",
+        "https://www.instagram.com/taxi_sibenik/",
+        "https://www.tiktok.com/@taxisibenik",
+        "https://www.tripadvisor.com/Attraction_Review-g295375-d24821165-Reviews-TAXI_Sibenik_Skradin_Antonio-Sibenik_Sibenik_Knin_County_Dalmatia.html",
+        "https://www.google.com/maps?cid=4748268601430744277"
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taksi- ja kuljetuspalvelu",
+      "name": "Taksi Šibenik, TAXI Antonio",
+      "areaServed": {
+        "@type": "City",
+        "name": "Šibenik"
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksi- ja kuljetuspalvelut",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Paikalliset taksikyydit Šibenikissä"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Lentokenttäkuljetukset"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Kaupunkien väliset kuljetukset"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Hotellikuljetukset"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Päiväretket Krkaan ja Plitvicelle"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Miten varaan taksin Šibenikistä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Soita numeroon +385 99 447 1013, lähetä viesti WhatsAppissa tai sähköpostia. Antonio tarvitsee noutopaikan, määränpään sekä toivotun nouto- tai saapumisajan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Viime hetken pyynnöt otetaan vastaan aukioloaikojen puitteissa, mutta etukäteen varaaminen takaa saatavuuden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mitä \"kiinteä hinta\" tarkoittaa? Mitä siihen sisältyy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteisiin hintoihin sisältyvät kuljetus, polttoaine, tietullit ja apu matkatavaroiden kanssa. Ei piilokuluja. Ylimääräiset pysähdykset tai pitkät odotusajat voivat maksaa lisää, ja niistä kerrotaan etukäteen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Otatteko ennakkomaksuja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Varauksen vahvistaminen edellyttää 20 %:n ennakkomaksua (vähintään 20 euroa). Enintään 20 euron hintaiset kyydit maksetaan kokonaan etukäteen. Ennakkomaksut voi suorittaa tilisiirrolla (SEPA) tai kortilla, ja loppusumma maksetaan kuljetuspäivänä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voiko autossa maksaa kortilla?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä, kortit ja muut lähimaksutavat käyvät."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ajatteko sairaalanoutoja Šibenikissä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Antonio vie matkustajia Šibenikin yleissairaalaan ja sieltä pois, ja hän saa ajaa auton sairaala-alueelle, joten pitkää kävelymatkaa parkkipaikalta ei tarvitse tehdä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voitteko viedä minut lautalle saarille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Antonio jättää ja noutaa matkustajia Šibenikin lautta- ja katamaraanisatamassa, josta pääsee Zlariniin, Prvićiin, Kaprijeen ja Žirjeen, sekä veneelle Obonjaniin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Noudatteko Šibenikin hotelleista sekä linja-auto- ja rautatieasemilta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Antonio palvelee kaikkia paikallisia hotelleja, linja-autoasemaa, Šibenikin ja Perkovićin rautatieasemia sekä lauttasatamaa, ja tarjoaa apua matkatavaroiden kanssa sekä nimikyltin pyynnöstä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Entä jos lentoni myöhästyy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lentojen saapumisia seurataan reaaliajassa ja noutoaikaa mukautetaan automaattisesti ilman lisämaksua."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mitä tapahtuu jos minun täytyy peruuttaa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Peruutukset on tehtävä kirjallisesti sähköpostitse. Yli 72 tuntia ennen varausta tehdyistä peruutuksista palautetaan koko summa tilisiirrolla, tai koko summa miinus 10 euron käsittelymaksu kortilla maksettaessa. Alle 72 tunnin sisällä tehtyjä peruutuksia tai saapumatta jäämisiä ei hyvitetä. Ajankohdan siirtäminen on aina maksutonta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voitteko ottaa suuremman ryhmän?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Škoda Superbiin mahtuu enintään 4 matkustajaa. Suuremmille ryhmille kuljetus voidaan järjestää paikallisten, huolella valittujen yhteistyökumppanien kautta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Tarjoatteko turvaistuimia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä, turvaistuimia ja istuinkorokkeita on saatavilla pyynnöstä."
+          }
+        }
+      ]
+    }
+  ]
+}

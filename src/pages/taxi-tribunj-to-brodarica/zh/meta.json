@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-tribunj-brodarica",
+  "title": "Tribunj - Brodarica 出租车 | 固定价格 €45 | TAXI Antonio",
+  "description": "私人出租车与接送，Tribunj - Brodarica 路线。固定价格 €45 每车，最多 4 名乘客，门到门。直接向 Antonio 预订。",
+  "keywords": "出租车 tribunj - brodarica, 接送 tribunj - brodarica, 机场接送 tribunj - brodarica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "私人出租车接送",
+      "name": "Tribunj - Brodarica 出租车",
+      "description": "固定价格的私人出租车与接送，Tribunj - Brodarica 路线，每车 45 欧元，最多 4 名乘客，门到门。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Tribunj",
+        "Brodarica"
+      ],
+      "url": "https://taxisibenik.hr/zh/taxi-tribunj-brodarica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "45",
+        "priceCurrency": "EUR",
+        "description": "单程私人乘车，Tribunj - Brodarica 路线，每车最多 4 名乘客。往返 90 欧元。"
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "这条路线有多远，乘车需要多久？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tribunj - Brodarica 路线全程约 22 公里，正常路况下约需 30 min，夏季旺季会稍长一些。我会规划好接您的时间，让缓慢的路段绝不会让您赶时间。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Tribunj - Brodarica 路线的出租车多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "固定 45 每车，最多 4 名乘客，单程，含行李。往返为 90。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "您在哪里接我？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "在您的准确地址，无论是住宅、酒店还是公寓。预订时把地址发给我，我会确认会合地点。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "我该提前多久预订？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "至少提前 2 小时，以便我确认车辆和接送时间。临时用车请致电或在 WhatsApp 上留言。"
+          }
+        }
+      ]
+    }
+  ]
+}

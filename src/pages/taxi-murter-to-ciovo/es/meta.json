@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-murter-ciovo",
+  "title": "Taxi Murter - Čiovo | Precio fijo €165 | TAXI Antonio",
+  "description": "Taxi y traslado privado, Murter - Čiovo. Precio fijo €165 por vehículo, hasta 4 pasajeros, puerta a puerta. Reserve directamente con Antonio.",
+  "keywords": "taxi murter - čiovo, traslado murter - čiovo, traslado al aeropuerto murter - čiovo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Traslado privado en taxi",
+      "name": "Taxi Murter - Čiovo",
+      "description": "Taxi y traslado privado a precio fijo, Murter - Čiovo, 165 euros por vehículo para hasta 4 pasajeros, puerta a puerta.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Murter",
+        "Čiovo"
+      ],
+      "url": "https://taxisibenik.hr/es/taxi-murter-ciovo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "165",
+        "priceCurrency": "EUR",
+        "description": "Trayecto privado de ida, Murter - Čiovo, por vehículo para hasta 4 pasajeros. Ida y vuelta 330 euros."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuánto cuesta un taxi en el trayecto Murter - Čiovo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fijo 165 por vehículo para hasta 4 pasajeros, solo ida, equipaje incluido. Un viaje de ida y vuelta cuesta 330."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde me recoge?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En su dirección exacta, ya sea casa, hotel o apartamento. Envíe la dirección al reservar y le confirmo el punto de encuentro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Con cuánta antelación debo reservar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al menos 2 horas antes, para que pueda confirmar el vehículo y la hora de recogida. Para un viaje de última hora, llame o escriba por WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

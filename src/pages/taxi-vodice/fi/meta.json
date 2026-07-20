@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "Taxi Vodice | TAXI Antonio",
+  "description": "Taxi Vodice: kiinteähintaiset lentokenttäkuljetukset Zadariin (€100) ja Splitiin, noudot satamasta ja hotelleista, Krkan päiväretket ja kyydit saarilautalle. Varaa suoraan.",
+  "keywords": "taxi vodice, vodice taksi, vodice lentokenttäkuljetus, vodice split lentokentälle, vodice zadar lentokentälle, vodice satama taksi, vodice krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Paikallinen taksi ja lentokenttäkuljetukset",
+      "name": "Taxi Vodice",
+      "description": "Yksityinen kiinteähintainen taksi Vodicessa: lentokenttäkuljetukset Splitiin ja Zadariin, noudot satamasta ja lomakohteista, päiväretket Krkan kansallispuistoon ja kyydit saarilautalle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/fi/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksin hinnat Vodicesta",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice Šibenikiin",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice Krkan kansallispuistoon (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice Zadarin lentokentälle",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice Splitin lentokentälle",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/fi/book/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Voitko noutaa miehistön Vodicen satamasta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Tapaan purjevene- ja charter-miehistöt suoraan satamassa, autossa on tilaa matkatavaroille ja muonavaroille, ja voin sopia aikaisen tai myöhäisen ajan charterinne mukaan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ajatko myöhään yöllä Vodicessa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Kun kyyti on varattu etukäteen, voin hakea sinut illanvieton jälkeen ja viedä turvallisesti majoitukseesi kiinteään hintaan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Voitko viedä minut Prvićin tai Zlarinin lautalle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Molemmat lähtevät Vodicen rantabulevardilta ja voin jättää sinut suoraan laiturille. Kysy hintaa varauksen yhteydessä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko maksaa Vodice Zadarin lentokentälle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä €100 autoa kohti, enintään 4 matkustajaa, ja Splitin lentokenttä on €115, tietullit ja matkatavarat mukaan lukien."
+          }
+        }
+      ]
+    }
+  ]
+}

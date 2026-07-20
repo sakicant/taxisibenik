@@ -1,0 +1,84 @@
+{
+  "slug": "taxi-drnis",
+  "title": "タクシー Drniš | TAXI Antonio",
+  "description": "タクシー Drniš：生ハムで知られる内陸の町から、シベニク（€65）やスプリット空港（€80）への都市間送迎。固定料金、直接ご予約いただけます。",
+  "keywords": "タクシー drnis, drnis タクシー, drnis 空港送迎, drnis から スプリット空港, drnis から シベニク, drnis 都市間 送迎",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "地域内タクシーおよび空港送迎",
+      "name": "タクシー Drniš",
+      "description": "クルカ川流域の内陸の町Drnišから、シベニクとスプリット空港への固定料金の都市間貸切タクシーです。内陸方面へのその他のルートもご相談に応じます。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Drniš",
+      "url": "https://taxisibenik.hr/ja/taxi-drnis/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Drniš発のタクシー料金",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "タクシー Drniš - シベニク",
+            "price": "65",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Drni%C5%A1&to=%C5%A0ibenik%20-%20center&price=65"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Drniš - スプリット空港",
+            "price": "80",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Drni%C5%A1&to=Split%20Airport%20%28SPU%29&price=80"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Drnišからスプリット空港までは固定料金ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。Drnišからスプリット空港までは1台あたり固定 €80、最大4名様、通行料・荷物込みで、ご出発前に取り決めます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Drnišから往復や出張のご利用もできますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。海沿いや空港への往復送迎、出張でのご利用も承ります。ご希望の時刻をお知らせいただければ、固定料金を確定してお伝えします。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "さらに内陸のKninまで行ってもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。KninやPerković鉄道駅への内陸のルートも対応しています。これらはオンラインの料金表に載せていませんので、メッセージをいただければ料金を確定してお伝えします。"
+          }
+        }
+      ]
+    }
+  ]
+}

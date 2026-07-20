@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-flygplats-zadar-grebastica",
+  "title": "Taxi Zadar flygplats - Grebaštica | Fast pris €140 | TAXI Antonio",
+  "description": "Privat taxi och transfer, Zadar flygplats - Grebaštica. Fast pris €140 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "keywords": "taxi zadar flygplats - grebaštica, transfer zadar flygplats - grebaštica, flygplatstransfer zadar flygplats - grebaštica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransfer",
+      "name": "Taxi Zadar flygplats - Grebaštica",
+      "description": "Privat taxi och transfer till fast pris, Zadar flygplats - Grebaštica, 140 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar flygplats",
+        "Grebaštica"
+      ],
+      "url": "https://taxisibenik.hr/sv/taxi-flygplats-zadar-grebastica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "140",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat resa, Zadar flygplats - Grebaštica, per fordon för upp till 4 passagerare. Tur och retur 280 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hur långt är sträckan och hur lång tid tar resan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Resan Zadar flygplats - Grebaštica är cirka 91 km lång och tar ungefär 70 min vid normal trafik, något längre under högsommaren. Jag planerar upphämtningen så att en långsam sträcka aldrig gör dig stressad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Var möter du mig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I ankomsthallen, direkt efter bagageutlämningen, med en skylt med ditt namn. Jag hjälper till med bagaget och följer dig till fordonet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vad händer om mitt flyg är försenat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Inga problem. Jag följer ditt flyg i realtid och anpassar upphämtningen efter den faktiska landningen, utan tillägg för väntetiden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur mycket kostar transfern på sträckan Zadar flygplats - Grebaštica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 140 per fordon för upp till 4 passagerare, enkel resa, vägtull och bagage ingår. En tur och retur kostar 280."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur långt i förväg bör jag boka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timmar i förväg, så att jag kan planera kring ditt flyg. För en upphämtning samma dag efter en ändring med kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

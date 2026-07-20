@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-novalja-sibenik",
+  "title": "Taksi Novalja - Šibenik | Fiksna cena €190 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Novalja - Šibenik. Fiksno €190 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi novalja - šibenik, transfer novalja - šibenik, prevoz novalja - šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Novalja - Šibenik",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Novalja - Šibenik, 190 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Novalja",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-novalja-sibenik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "190",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Novalja - Šibenik, po vozilu za do 4 putnika. Povratno 380 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolika je udaljenost i koliko traje vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Novalja - Šibenik duga je oko 147 km i traje otprilike 2 h 5 min u uobičajenom saobraćaju, nešto duže u letnjim gužvama. Polazak planiram tako da vas usporeni deo nikad ne požuri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi na relaciji Novalja - Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 190 po vozilu za do 4 putnika, jedan smer, prtljag uključen. Povratna vožnja je 380."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gde me preuzimate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na vašoj tačnoj adresi, bila to kuća, hotel ili apartman. Pošaljite adresu pri rezervaciji i potvrdiću mesto sastanka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da potvrdim vozilo i vreme preuzimanja. Za brži termin pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-sibenik",
+  "title": "从 Šibenik 出发的 Krka 一日游 | 私人接送，固定 €100 | TAXI Antonio",
+  "description": "从 Šibenik 前往 Krka 的私人往返出租车接送。每车固定 100 欧元，最多 4 位乘客，从酒店、公寓、车站和渡轮港口门到门接送。不是旅行团，只是送您往返。",
+  "keywords": "从 sibenik 出发的 krka 一日游, krka 往返接送, sibenik 打车去 krka, krka 接送 sibenik, sibenik 到 krka 国家公园",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "从 Šibenik 出发的 Krka 私人一日游",
+      "description": "由讲英语的本地司机驾驶，从 Šibenik 前往 Krka 国家公园的私人一日游。每车固定 100 欧元，最多 4 位乘客，在酒店、公寓、长途汽车站、火车站和渡轮港口提供门到门接送。",
+      "touristType": "自然与观光",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "私人车辆，Šibenik 至 Krka 国家公园往返，最多 4 位乘客。不含公园门票。"
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "这是导游团还是出租车接送？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "这是出租车接送，不是导游团。Antonio 是 Šibenik 的本地出租车司机，提供前往 Krka 的私人往返接送。您得到的是车辆和驾驶服务；在公园内您可以按自己的节奏自由游览。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你们可以到 Amadria Park、D-Resort 或 Hotel Bellevue 接我们吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。我经常到 Amadria Park 度假村、D-Resort Šibenik、Hotel Bellevue 以及 Šibenik 的其他酒店接客。把酒店名称发给我，我会确认具体的接客时间和碰面地点。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你们在 Šibenik 渡轮港口、长途汽车站或火车站接客吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的。我在 Šibenik 渡轮和邮轮港口、长途汽车站以及 Šibenik 和 Perković 火车站提供门到门接客，可按要求举名牌。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "我们在 Krka 国家公园可以停留多久？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "大多数客人选择在公园内自由活动 3 到 4 小时，足以看完主要瀑布并走完经典的木栈道环线。预订时也可以约定更短或更长的停留时间。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "价格包含 Krka 门票吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不包含。门票需另行购买，直接在 Krka 国家公园的 Skradin 或 Lozovac 入口或网上购买。视季节票价约为 7 到 40 欧元。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "从 Šibenik 到 Krka 的一日游怎么预订和付款？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "支付 20% 预付款（最低 20 欧元）即可确认预订，可通过银行转账或刷卡，并会收到发票作为确认。余款在当天付给司机，现金或刷卡均可。"
+          }
+        }
+      ]
+    }
+  ]
+}

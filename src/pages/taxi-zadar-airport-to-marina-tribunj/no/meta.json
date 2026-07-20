@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zadar-lufthavn-marina-tribunj",
+  "title": "Taxi Zadar lufthavn - Marina Tribunj | Fastpris €100 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Zadar lufthavn - Marina Tribunj. Fastpris €100 per bil, opptil 4. Bestill direkte hos Antonio.",
+  "keywords": "taxi zadar lufthavn - marina tribunj, transport zadar lufthavn - marina tribunj, flyplasstransport zadar lufthavn - marina tribunj",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Zadar lufthavn - Marina Tribunj",
+      "description": "Privat taxi og transport til fastpris, strekningen Zadar lufthavn - Marina Tribunj, 100 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar lufthavn",
+        "Marina Tribunj"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-zadar-lufthavn-marina-tribunj/",
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Zadar lufthavn - Marina Tribunj, per bil for opptil 4 passasjerer. Tur og retur 200 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor tar du imot meg?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I ankomsthallen, rett etter bagasjeutleveringen, med et skilt med navnet ditt. Jeg hjelper med bagasjen og følger deg til bilen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hva om flyet mitt er forsinket?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ikke noe problem. Jeg følger flyet ditt i sanntid og tilpasser hentingen til den faktiske landingen, uten tillegg for ventetiden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster transporten på strekningen Zadar lufthavn - Marina Tribunj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 100 per bil for opptil 4 passasjerer, en vei, bompenger og bagasje inkludert. Tur og retur koster 200."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan planlegge rundt flyet ditt. For en henting samme dag etter en endring på kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

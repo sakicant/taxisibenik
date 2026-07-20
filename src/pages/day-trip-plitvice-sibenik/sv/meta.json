@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-plitvice-lakes-national-park-sibenik",
+  "title": "Dagsutflykt till Plitvice från Šibenik | Privat transfer, fasta €500 | TAXI Antonio",
+  "description": "Privat taxitransfer tur och retur till Plitvicesjöarna från Šibenik. Fasta €500 per bil, upp till 4 passagerare, dörr till dörr från hotell, lägenheter, stationer och hamnen i Šibenik. Ingen guidad tur, bara resan dit och hem.",
+  "keywords": "dagsutflykt till plitvice från sibenik, transfer tur och retur till plitvice, taxi till plitvice från sibenik, plitvicesjöarna från sibenik, sibenik till plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privat dagsutflykt till Plitvicesjöarna från Šibenik",
+      "description": "En privat dagsutflykt till nationalparken Plitvicesjöarna från Šibenik med en lokal engelsktalande chaufför. Fast pris på 500 euro per bil för upp till 4 passagerare, med hämtning dörr till dörr vid hotell och lägenheter i Šibenik, buss- och tågstationen och färjehamnen.",
+      "touristType": "Natur och sightseeing",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "500",
+        "priceCurrency": "EUR",
+        "description": "Privat fordon, tur och retur Šibenik till nationalparken Plitvicesjöarna, upp till 4 passagerare. Inträdesbiljetter till parken ingår inte."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Är det en guidad tur eller en taxitransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Det är en taxitransfer, inte en guidad tur. Antonio är en lokal chaufför som kör dig privat tur och retur från Šibenik till Plitvice och tillbaka. Du får bilen och körningen; inne i parken utforskar du fritt på egen hand, i din egen takt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vad kostar en taxi till Plitvice från Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En privat transfer tur och retur från Šibenik till Plitvicesjöarna kostar fasta 500 euro per bil för upp till 4 passagerare, med vägtullar, bränsle och väntetiden vid parken inkluderat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur lång är dagsutflykten från Šibenik till Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Körningen tar omkring två timmar till två timmar och femton minuter åt varje håll, plus ungefär 4 till 6 timmar för att gå runt sjöarna. Det är en heldag, oftast 9 till 10 timmar dörr till dörr."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ingår inträdesbiljetter till Plitvice i priset?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nej. Inträdesbiljetter köps separat av nationalparken Plitvicesjöarna, vid entrén eller online. Biljetter kostar ungefär 10 till 40 euro beroende på säsong, och inkluderar panoramatåget och elbåten inne i parken."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur bokar och betalar jag dagsutflykten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En förskottsbetalning på 20 % (minst 20 euro) bekräftar bokningen, via banköverföring eller kort, och du får en faktura som bekräftelse. Resten betalas till chauffören samma dag, kontant eller med kort."
+          }
+        }
+      ]
+    }
+  ]
+}

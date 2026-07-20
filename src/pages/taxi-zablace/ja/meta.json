@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-zablace",
+  "title": "タクシー Zablaće | TAXI Antonio",
+  "description": "タクシー Zablaće：Amadria Park周辺のキャンプ場やビーチにご滞在の方へ、スプリット空港（€95）とザダル空港への固定料金送迎。シベニクやVodiceへの乗車も承ります。",
+  "keywords": "タクシー zablace, zablace タクシー, zablace キャンプ場 タクシー, zablace 空港送迎, amadria park zablace タクシー, zablace から スプリット空港",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "地域内タクシーおよび空港送迎",
+      "name": "タクシー Zablaće",
+      "description": "シベニク南西のキャンプ場とAmadria Park周辺エリアZablaćeから、スプリット空港、ザダル空港、シベニク、Vodiceへの固定料金の貸切タクシーです。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Zablaće",
+      "url": "https://taxisibenik.hr/ja/taxi-zablace/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Zablaće発のタクシー料金",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "タクシー Zablaće - シベニク",
+            "price": "18",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Zabla%C4%87e&to=%C5%A0ibenik%20-%20center&price=18"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Zablaće - Vodice",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Zabla%C4%87e&to=Vodice&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Zablaće - スプリット空港",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Zabla%C4%87e&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Zablaće - ザダル空港",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Zabla%C4%87e&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "キャンプ場やAmadria Park周辺にも迎えに来てもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。キャンプ場の受付、ご滞在のアパートメント、近くのAmadria Park周辺までお迎えに上がります。お荷物や道具のスペースもあります。ご予約の際に正確な場所をお知らせください。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "キャンプ用品やビーチ用品を積むスペースはありますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。Škoda Superbには、スーツケース、キャンプ用品、ビーチ用品を積める大きなトランクがあります。自転車や大きな荷物がある場合は、事前にお知らせいただければ準備いたします。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zablaćeからスプリット空港までいくらですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "1台あたり固定 €95、最大4名様、通行料・荷物込みで、どちらの方向も同額です。"
+          }
+        }
+      ]
+    }
+  ]
+}

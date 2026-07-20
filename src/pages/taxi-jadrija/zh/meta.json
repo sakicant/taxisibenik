@@ -1,0 +1,90 @@
+{
+  "slug": "taxi-jadrija",
+  "title": "Jadrija 出租车 | TAXI Antonio",
+  "description": "Jadrija 出租车：前往 Šibenik 及长途汽车站和火车站的本地短途，以及前往 Split 和 Zadar 的固定价格机场接送。上门接客。",
+  "keywords": "jadrija 出租车, jadrija taxi, jadrija 海滩出租车, jadrija 到 sibenik, jadrija 机场接送",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "本地出租车与机场接送",
+      "name": "Jadrija 出租车",
+      "description": "从 Šibenik 半岛上的 Jadrija 海滩出发的私人固定价格出租车，前往 Šibenik、长途汽车站和火车站、Split 机场以及 Zadar 机场。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Jadrija",
+      "url": "https://taxisibenik.hr/zh/taxi-jadrija/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "从 Jadrija 出发的出租车价格",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Jadrija 到 Šibenik 出租车",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Jadrija&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Jadrija 到 Šibenik 长途汽车站和火车站出租车",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Jadrija&to=%C5%A0ibenik%20Bus%20Station&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Jadrija 到 Split 机场出租车",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Jadrija&to=Split%20Airport%20%28SPU%29&price=115"
+          },
+          {
+            "@type": "Offer",
+            "name": "Jadrija 到 Zadar 机场出租车",
+            "price": "125",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Jadrija&to=Zadar%20Airport%20%28ZAD%29&price=125"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jadrija 主要是本地短途吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的，大部分行程是进 Šibenik 或去车站的短途，但需要时我也承接前往 Split 和 Zadar 的长途机场接送。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "您能送我去长途汽车站或火车站吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。Šibenik 的长途汽车站和火车站紧挨着，从 Jadrija 出发每车固定 €30。"
+          }
+        }
+      ]
+    }
+  ]
+}

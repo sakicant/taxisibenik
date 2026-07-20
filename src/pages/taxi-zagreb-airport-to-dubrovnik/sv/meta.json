@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-flygplats-zagreb-dubrovnik",
+  "title": "Taxi Zagreb flygplats - Dubrovnik | Fast pris €795 | TAXI Antonio",
+  "description": "Privat taxi och transfer, Zagreb flygplats - Dubrovnik. Fast pris €795 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "keywords": "taxi zagreb flygplats - dubrovnik, transfer zagreb flygplats - dubrovnik, flygplatstransfer zagreb flygplats - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransfer",
+      "name": "Taxi Zagreb flygplats - Dubrovnik",
+      "description": "Privat taxi och transfer till fast pris, Zagreb flygplats - Dubrovnik, 795 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zagreb flygplats",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/sv/taxi-flygplats-zagreb-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "795",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat resa, Zagreb flygplats - Dubrovnik, per fordon för upp till 4 passagerare. Tur och retur 1590 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hur långt är sträckan och hur lång tid tar resan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Resan Zagreb flygplats - Dubrovnik är cirka 616 km lång och tar ungefär 7 h 10 min vid normal trafik, något längre under högsommaren. Jag planerar upphämtningen så att en långsam sträcka aldrig gör dig stressad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Var möter du mig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I ankomsthallen, direkt efter bagageutlämningen, med en skylt med ditt namn. Jag hjälper till med bagaget och följer dig till fordonet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vad händer om mitt flyg är försenat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Inga problem. Jag följer ditt flyg i realtid och anpassar upphämtningen efter den faktiska landningen, utan tillägg för väntetiden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur mycket kostar transfern på sträckan Zagreb flygplats - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 795 per fordon för upp till 4 passagerare, enkel resa, vägtull och bagage ingår. En tur och retur kostar 1590."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur långt i förväg bör jag boka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timmar i förväg, så att jag kan planera kring ditt flyg. För en upphämtning samma dag efter en ändring med kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

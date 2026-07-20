@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-plitvice-lakes-national-park-split",
+  "title": "Excursión de un día a Plitvice desde Split | Traslado privado, €650 fijos | TAXI Antonio",
+  "description": "Traslado privado de ida y vuelta en taxi a los lagos de Plitvice desde Split. Precio fijo de €650 por coche, hasta 4 pasajeros, puerta a puerta desde hoteles de Split, el puerto de cruceros y el casco antiguo. No es una excursión guiada, solo el viaje de ida y vuelta.",
+  "keywords": "excursion de un dia a plitvice desde split, traslado de ida y vuelta a plitvice, taxi a plitvice desde split, lagos de plitvice desde split, split a plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Excursión privada de un día a los lagos de Plitvice desde Split",
+      "description": "Una excursión privada de un día al Parque Nacional de los Lagos de Plitvice desde Split con un conductor local que habla inglés. Precio fijo de 650 euros por coche para hasta 4 pasajeros, con recogida puerta a puerta en hoteles de Split, el puerto de cruceros, la estación de autobuses y tren y el casco antiguo.",
+      "touristType": "Naturaleza y turismo",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "650",
+        "priceCurrency": "EUR",
+        "description": "Vehículo privado, ida y vuelta de Split al Parque Nacional de los Lagos de Plitvice, hasta 4 pasajeros. Las entradas del parque no están incluidas."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es una excursión guiada o un traslado en taxi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es un traslado en taxi, no una excursión guiada. Antonio es un conductor local que ofrece un traslado privado de ida y vuelta desde Split a Plitvice. Usted recibe el coche y la conducción; dentro del parque es libre de explorar por su cuenta y a su propio ritmo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto cuesta un taxi a Plitvice desde Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un traslado privado de ida y vuelta desde Split a los lagos de Plitvice cuesta 650 euros fijos por coche para hasta 4 pasajeros, con los peajes, el combustible y el tiempo de espera en el parque incluidos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto dura la excursión de un día de Split a Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El trayecto dura entre dos horas y media y tres horas en cada sentido, más unas 4 a 6 horas para recorrer los lagos. Es un día completo y largo, normalmente de 11 a 12 horas de puerta a puerta, así que salir temprano es imprescindible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Las entradas de Plitvice están incluidas en el precio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Las entradas se compran por separado al Parque Nacional de los Lagos de Plitvice, en la entrada o por internet. Cuestan aproximadamente entre 10 y 40 euros según la temporada, e incluyen el tren panorámico y el barco eléctrico dentro del parque."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo reservo y pago la excursión?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un anticipo del 20% (mínimo 20 euros) confirma la reserva, por transferencia bancaria o tarjeta, y usted recibe una factura como confirmación. El resto se paga al conductor el mismo día, en efectivo o con tarjeta."
+          }
+        }
+      ]
+    }
+  ]
+}

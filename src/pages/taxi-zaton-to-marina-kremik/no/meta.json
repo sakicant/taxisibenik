@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zaton-marina-kremik",
+  "title": "Taxi Zaton - Marina Kremik | Fastpris €80 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Zaton - Marina Kremik. Fastpris €80 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi zaton - marina kremik, transport zaton - marina kremik, flyplasstransport zaton - marina kremik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Zaton - Marina Kremik",
+      "description": "Privat taxi og transport til fastpris, strekningen Zaton - Marina Kremik, 80 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zaton",
+        "Marina Kremik"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-zaton-marina-kremik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Zaton - Marina Kremik, per bil for opptil 4 passasjerer. Tur og retur 160 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster en transport på strekningen Zaton - Marina Kremik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 80 per bil for opptil 4 passasjerer, en vei, med bompenger, drivstoff og bagasje. Tur og retur koster 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du hente rett ved marinaen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg møter deg ved inngangen eller i resepsjonen til marinaen og hjelper med bagasjen, slik at du går rett fra bryggen til bilen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du tilpasse transporten til båten min?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Send meg charter-, innsjekk- eller avgangstiden din ved bestilling, så planlegger jeg hentingen rundt den."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan bekrefte bil og hentetidspunkt. For en tur på kort varsel, ring eller skriv til meg direkte på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

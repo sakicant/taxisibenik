@@ -1,0 +1,79 @@
+{
+  "slug": "frequently-asked-questions",
+  "title": "常见问题 | TAXI Antonio",
+  "description": "关于预订、价格以及希贝尼克周边本地行程的快速解答。",
+  "keywords": "常见问题",
+  "og_image": "https://taxisibenik.hr/assets/og-image.png",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "怎么在希贝尼克预订出租车？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "拨打 +385 99 447 1013，通过 WhatsApp 给我发消息，或发送电子邮件。我需要知道您的上车地点、目的地，以及希望的上车或抵达时间。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "我应该提前多久预订？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "在我的工作时间内我也接受临时用车请求，但提前预订才能确保有车。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "“固定价格”是什么意思？包含哪些内容？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "我的固定价格包含车费、油费、过路费以及行李搬运帮助。没有隐藏费用。途中加停或长时间等待可能会另外收费，我一定会提前告诉您。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "需要支付预付款吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "需要。确认预订需支付 20% 预付款（最低 €20）。价格在 €20 及以下的行程需要全额预付。如果您愿意，也可以一次性付清全款。预付款可通过银行转账（SEPA）或刷卡支付，余款在接送当天与我结清。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你们在希贝尼克提供医院接送吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "提供。我接送往返 Šibenik 综合医院的乘客，并且获准把车开进医院院内，所以不必从停车场走很远。如果需要有人帮您走到入口，请告诉我。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "可以送我去坐前往各岛的渡轮吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。我在 Šibenik 的渡轮和双体船码头接送客人，这里有前往 Zlarin、Prvić、Kaprije 和 Žirje 的船，也有去 Obonjan 的船。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你们在希贝尼克的酒店、汽车站和火车站接客吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "接。我服务所有本地酒店、汽车站、Šibenik 和 Perković 火车站以及渡轮港口，可协助搬行李，也可按需举牌接客。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "车上可以刷卡付款吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以，我接受刷卡和其他非接触式支付方式。"
+          }
+        }
+      ]
+    }
+  ]
+}

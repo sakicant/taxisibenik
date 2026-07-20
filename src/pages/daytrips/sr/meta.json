@@ -1,0 +1,75 @@
+{
+  "slug": "daytrips",
+  "title": "Jednodnevni izleti iz Šibenika | Privatni obilasci Krke i Plitvica | TAXI Antonio",
+  "description": "Privatni jednodnevni izleti iz Šibenika i cele Dalmacije do Nacionalnog parka Krka i Plitvičkih jezera. Povratni transferi od vrata do vrata po fiksnoj ceni sa lokalnim vozačem. Nije tura, samo prevoz tamo i nazad.",
+  "keywords": "jednodnevni izleti iz sibenika, sibenik izleti, privatni jednodnevni izlet hrvatska, izlet krka, izlet plitvice, izlet do krke, izlet do plitvica",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni jednodnevni izleti i ekskurzije",
+      "name": "Jednodnevni izleti iz Šibenika i Dalmacije",
+      "description": "Privatni jednodnevni izleti po fiksnoj ceni do Nacionalnog parka Krka i Plitvičkih jezera sa lokalnim šibenskim vozačem. Povratni transferi od vrata do vrata iz Šibenika, Vodica, Primoštena, Splita i Zadra, do 4 putnika po vozilu.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "152" }
+      },
+      "areaServed": ["Šibenik", "Vodice", "Primošten", "Split", "Zadar"],
+      "url": "https://taxisibenik.hr/sr/daytrips/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Privatni jednodnevni izleti iz Dalmacije",
+        "itemListElement": [
+          { "@type": "Offer", "name": "Jednodnevni izlet do Krke iz Šibenika", "price": "100", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/sr/day-trip-krka-national-park-sibenik/" },
+          { "@type": "Offer", "name": "Jednodnevni izlet do Krke iz Vodica", "price": "125", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/sr/day-trip-krka-national-park-vodice/" },
+          { "@type": "Offer", "name": "Jednodnevni izlet do Krke iz Primoštena", "price": "155", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/sr/day-trip-krka-national-park-primosten/" },
+          { "@type": "Offer", "name": "Jednodnevni izlet do Krke iz Zadra", "price": "260", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/sr/day-trip-krka-national-park-zadar/" },
+          { "@type": "Offer", "name": "Jednodnevni izlet do Krke iz Splita", "price": "290", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/sr/day-trip-krka-national-park-split/" },
+          { "@type": "Offer", "name": "Jednodnevni izlet do Plitvica iz Šibenika", "price": "500", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/sr/day-trip-plitvice-lakes-national-park-sibenik/" },
+          { "@type": "Offer", "name": "Jednodnevni izlet do Plitvica iz Splita", "price": "650", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/sr/day-trip-plitvice-lakes-national-park-split/" }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koje jednodnevne izlete mogu da rezervišem iz Šibenika?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Dva najpopularnija izleta su Nacionalni park Krka i Nacionalni park Plitvička jezera. Oba su privatni povratni transferi po fiksnoj ceni, od vrata do vrata iz vašeg hotela ili apartmana, sa slobodnim vremenom u parku za obilazak sopstvenim tempom." }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li su ovo vođene ture ili taksi transferi?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Ovo su privatni taksi transferi, a ne vođene grupne ture. Antonio je lokalni vozač koji vas vozi tamo i nazad u udobnoj Škodi Superb. U parku ste slobodni da razgledate sami, bez vodiča i bez zajedničke grupe." }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta jednodnevni izlet do Krke ili Plitvica?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Privatni izlet do Krke počinje od fiksnih 100 evra po vozilu iz Šibenika. Izlet do Plitvičkih jezera je 500 evra po vozilu iz Šibenika. Cene su po vozilu za najviše 4 putnika i zavise od mesta preuzimanja." }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li preuzimate goste i iz drugih mesta, ne samo iz Šibenika?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Da. Izleti do Krke polaze iz Šibenika, Vodica, Primoštena, Zadra i Splita, a izleti do Plitvica iz Šibenika i Splita. Svako mesto ima svoju fiksnu cenu i svoju stranicu sa svim detaljima." }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li su ulaznice za park uključene?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Ne. Cena pokriva samo privatni prevoz i vreme čekanja. Ulaznice za Krku i Plitvice kupuju se posebno na ulazu ili onlajn i koštaju otprilike 7 do 40 evra u zavisnosti od sezone." }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako da rezervišem jednodnevni izlet?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Pišite mi na WhatsApp, pozovite ili koristite kontakt stranicu. Avans od 20% (najmanje 20 evra) potvrđuje datum, a ostatak se plaća vozaču na dan izleta." }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-knin",
+  "title": "タクシー Knin | TAXI Antonio",
+  "description": "タクシー Knin：歴史ある内陸の鉄道の町から、シベニク（€95）、スプリット空港（€110）、ザダル空港への長距離送迎。料金は固定制です。",
+  "keywords": "タクシー knin, knin タクシー, knin 鉄道駅 タクシー, knin 空港送迎, knin から スプリット空港, knin から シベニク, knin 要塞 タクシー",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "地域内タクシーおよび空港送迎",
+      "name": "タクシー Knin",
+      "description": "歴史ある内陸の鉄道の町Kninから、シベニク、スプリット空港、ザダル空港への固定料金の長距離貸切タクシーです。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Knin",
+      "url": "https://taxisibenik.hr/ja/taxi-knin/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Knin発のタクシー料金",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "タクシー Knin - シベニク",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Knin&to=%C5%A0ibenik%20-%20center&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Knin - スプリット空港",
+            "price": "110",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Knin&to=Split%20Airport%20%28SPU%29&price=110"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Knin - ザダル空港",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Knin&to=Zadar%20Airport%20%28ZAD%29&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Knin駅で列車を出迎えてもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。ホームまたは駅の出口でお待ちし、お荷物をお手伝いして、そのまま目的地までお送りします。ご予約の際に列車の時刻をお知らせください。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "長距離でも料金は固定ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。距離がありますので、事前に取り決めます。Kninからシベニクは €95、スプリット空港は €110、ザダル空港は €140 で、いずれも1台あたり最大4名様です。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "同じ日に往復してもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。お待ちすることも、同じ日に改めてお迎えに上がることもできます。ご希望の時刻をお知らせいただければ、往復の固定料金を確定してお伝えします。"
+          }
+        }
+      ]
+    }
+  ]
+}

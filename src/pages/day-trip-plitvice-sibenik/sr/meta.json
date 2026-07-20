@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-plitvice-lakes-national-park-sibenik",
+  "title": "Celodnevni izlet na Plitvice iz Šibenika | Privatni transfer, fiksnih €500 | TAXI Antonio",
+  "description": "Privatni povratni taksi transfer na Plitvička jezera iz Šibenika. Fiksnih €500 po vozilu, do 4 putnika, od vrata do vrata iz šibenskih hotela, apartmana, stanica i luke. Nije tura, samo prevoz tamo i nazad.",
+  "keywords": "celodnevni izlet na plitvice iz šibenika, povratni transfer na plitvice, taksi do plitvica iz šibenika, plitvička jezera iz šibenika, šibenik do plitvica",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privatni celodnevni izlet na Plitvička jezera iz Šibenika",
+      "description": "Privatni celodnevni izlet u Nacionalni park Plitvička jezera iz Šibenika sa lokalnim vozačem koji govori engleski. Fiksna cena od 500 evra po vozilu za do 4 putnika, sa preuzimanjem od vrata do vrata u šibenskim hotelima, apartmanima, na autobuskoj i železničkoj stanici i u luci.",
+      "touristType": "Priroda i razgledanje",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "500",
+        "priceCurrency": "EUR",
+        "description": "Privatno vozilo, povratna vožnja Šibenik do Nacionalnog parka Plitvička jezera, do 4 putnika. Ulaznice za park nisu uključene."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Da li je ovo tura sa vodičem ili taksi transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ovo je taksi transfer, a ne tura sa vodičem. Antonio je lokalni vozač koji pruža privatni povratni transfer iz Šibenika do Plitvica i nazad. Dobijate vozilo i vožnju, a unutar parka slobodno istražujete sami, svojim tempom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi do Plitvica iz Šibenika?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privatni povratni transfer iz Šibenika do Plitvičkih jezera košta fiksnih 500 evra po vozilu za do 4 putnika, sa uključenim putarinama, gorivom i vremenom čekanja kod parka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko traje celodnevni izlet iz Šibenika na Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja traje oko dva sata do dva sata i petnaest minuta u jednom smeru, plus otprilike 4 do 6 sati za obilazak jezera. To je ceo dan, obično 9 do 10 sati od vrata do vrata."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li su ulaznice za Plitvice uključene u cenu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ne. Ulaznice se kupuju posebno od Nacionalnog parka Plitvička jezera, na ulazu ili preko interneta. Ulaznice koštaju otprilike 10 do 40 evra zavisno od sezone i uključuju panoramski voz i električni brod unutar parka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako se rezerviše i plaća celodnevni izlet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Avans od 20% (najmanje 20 evra) potvrđuje rezervaciju, bankovnim prenosom ili karticom, a dobijate račun kao potvrdu. Ostatak se plaća vozaču na dan vožnje, gotovinom ili karticom."
+          }
+        }
+      ]
+    }
+  ]
+}

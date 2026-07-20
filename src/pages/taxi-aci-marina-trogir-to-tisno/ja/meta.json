@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-trogir-tisno",
+  "title": "タクシー ACI Marina Trogir - Tisno | 固定料金 €145 | TAXI Antonio",
+  "description": "貸切タクシー・送迎、ACI Marina Trogir - Tisno 区間。固定料金 €145／1台、最大4名様、ドアツードア。Antonioに直接ご予約ください。",
+  "keywords": "タクシー aci marina trogir - tisno, 送迎 aci marina trogir - tisno, 空港送迎 aci marina trogir - tisno",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "貸切タクシー送迎",
+      "name": "タクシー ACI Marina Trogir - Tisno",
+      "description": "固定料金の貸切タクシー・送迎、ACI Marina Trogir - Tisno 区間、1台 145 ユーロで最大4名様、ドアツードア。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Trogir",
+        "Tisno"
+      ],
+      "url": "https://taxisibenik.hr/ja/taxi-aci-marina-trogir-tisno/",
+      "offers": {
+        "@type": "Offer",
+        "price": "145",
+        "priceCurrency": "EUR",
+        "description": "貸切の片道乗車、ACI Marina Trogir - Tisno 区間、1台で最大4名様。往復は 290 ユーロ。"
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "ACI Marina Trogir - Tisno 区間の送迎料金はいくらですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "片道、車1台あたり固定 145、最大4名様、通行料・燃料・荷物込み。往復は 290 です。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "マリーナまで直接迎えに来てもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。マリーナの入口または受付でお待ちし、荷物のお手伝いをします。桟橋から車まで直接ご案内します。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "送迎をお船の予定に合わせてもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。ご予約時にチャーター・チェックイン・出航の時刻をお知らせいただければ、それに合わせてお迎えを計画します。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "どのくらい前に予約すべきですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "車とお迎え時間を確定できるよう、少なくとも2時間前までにご予約ください。直前のご乗車は、お電話またはWhatsAppで直接ご連絡ください。"
+          }
+        }
+      ]
+    }
+  ]
+}

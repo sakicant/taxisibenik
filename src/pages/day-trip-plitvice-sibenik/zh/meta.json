@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-plitvice-lakes-national-park-sibenik",
+  "title": "从 Šibenik 出发的普利特维采一日游 | 私人接送，固定 €500 | TAXI Antonio",
+  "description": "从 Šibenik 前往普利特维采湖群的私人往返出租车接送。每车固定 500 欧元，最多 4 位乘客，从 Šibenik 的酒店、公寓、车站和港口门到门接送。不是旅行团，只是送您往返。",
+  "keywords": "从 sibenik 出发的普利特维采一日游, 普利特维采往返接送, sibenik 打车去普利特维采, 从 sibenik 去普利特维采湖群, sibenik 到普利特维采",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "从 Šibenik 出发的普利特维采湖群私人一日游",
+      "description": "由讲英语的本地司机驾驶，从 Šibenik 前往普利特维采湖群国家公园的私人一日游。每车固定 500 欧元，最多 4 位乘客，在 Šibenik 的酒店、公寓、长途汽车站和火车站以及渡轮港口提供门到门接送。",
+      "touristType": "自然与观光",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "500",
+        "priceCurrency": "EUR",
+        "description": "私人车辆，Šibenik 至普利特维采湖群国家公园往返，最多 4 位乘客。不含公园门票。"
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "这是导游团还是出租车接送？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "这是出租车接送，不是导游团。Antonio 是一位本地司机，提供从 Šibenik 到普利特维采的私人往返接送。您得到的是车辆和驾驶服务；在公园内您可以按自己的节奏自由游览。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "从 Šibenik 打车去普利特维采多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "从 Šibenik 到普利特维采湖群的私人往返接送为每车固定 500 欧元，最多 4 位乘客，含过路费、油费和在公园的等待时间。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "从 Šibenik 到普利特维采的一日游需要多长时间？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "单程车程约 2 小时到 2 小时 15 分钟，再加上约 4 到 6 小时游览湖区。这是一整天的行程，通常从出发到返回约 9 到 10 小时。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "价格包含普利特维采门票吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不包含。门票需向普利特维采湖群国家公园另行购买，可在入口处或网上购买。视季节票价约为 10 到 40 欧元，含公园内的观景小火车和电动船。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "一日游怎么预订和付款？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "支付 20% 预付款（最低 20 欧元）即可确认预订，可通过银行转账或刷卡，并会收到发票作为确认。余款在当天付给司机，现金或刷卡均可。"
+          }
+        }
+      ]
+    }
+  ]
+}

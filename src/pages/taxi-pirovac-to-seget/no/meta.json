@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-pirovac-seget",
+  "title": "Taxi Pirovac - Seget | Fastpris €125 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Pirovac - Seget. Fastpris €125 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi pirovac - seget, transport pirovac - seget, flyplasstransport pirovac - seget",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Pirovac - Seget",
+      "description": "Privat taxi og transport til fastpris, strekningen Pirovac - Seget, 125 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Pirovac",
+        "Seget"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-pirovac-seget/",
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Pirovac - Seget, per bil for opptil 4 passasjerer. Tur og retur 250 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster en taxi på strekningen Pirovac - Seget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 125 per bil for opptil 4 passasjerer, en vei, bagasje inkludert. Tur og retur koster 250."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor henter du meg?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "På den nøyaktige adressen din, enten det er hus, hotell eller leilighet. Send adressen ved bestilling, så bekrefter jeg møtestedet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan bekrefte bil og hentetidspunkt. For en tur på kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zagreb-dubrovnik-lentoasema",
+  "title": "Taksi Zagreb - Dubrovnikin lentoasema | Kiinteä hinta €795 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Zagreb - Dubrovnikin lentoasema. Kiinteä hinta €795 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi zagreb - dubrovnikin lentoasema, kuljetus zagreb - dubrovnikin lentoasema, lentokenttäkuljetus zagreb - dubrovnikin lentoasema",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Zagreb - Dubrovnikin lentoasema",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Zagreb - Dubrovnikin lentoasema, 795 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zagreb",
+        "Dubrovnikin lentoasema"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-zagreb-dubrovnik-lentoasema/",
+      "offers": {
+        "@type": "Offer",
+        "price": "795",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Zagreb - Dubrovnikin lentoasema, per auto enintään 4 matkustajalle. Meno ja paluu 1590 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kuinka pitkä reitti on ja kuinka kauan matka kestää?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matka reitillä Zagreb - Dubrovnikin lentoasema on noin 624 km ja kestää noin 7 h 35 min normaalissa liikenteessä, kesän huippukaudella hieman kauemmin. Suunnittelen noudon niin, ettei hidas matka koskaan aiheuta kiirettä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko taksi maksaa reitillä Zagreb - Dubrovnikin lentoasema?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 795 per auto, yhdensuuntainen matka, enintään 4 matkustajalle. Hinta on per auto, ei per henkilö, ja sisältää tietullit, polttoaineen ja matkatavarat. Meno-paluumatka maksaa 1590."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milloin minun pitäisi lähteä lentoasemalle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yleensä noin 3 tuntia ennen kansainvälistä ja 2 tuntia ennen kotimaista lentoa. Kerro lentoaikasi, niin vahvistan tarkan noutoajan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ajatteko lähtöterminaaliin asti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Vien sinut suoraan lähtöterminaaliin ja autan matkatavaroiden kanssa. Ei kävelyä parkkipaikalta eikä bussikuljetusta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin vahvistaa auton ja noudon, ja aikaisemmin varhaisia lentoja ja huippukautta varten. Lyhyellä varoitusajalla soita tai kirjoita minulle WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

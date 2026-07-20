@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-jezera-dubrovnik",
+  "title": "Taxi ACI Marina Jezera - Dubrovnik | Fast pris €530 | TAXI Antonio",
+  "description": "Privat taxi och transfer, ACI Marina Jezera - Dubrovnik. Fast pris €530 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "keywords": "taxi aci marina jezera - dubrovnik, transfer aci marina jezera - dubrovnik, flygplatstransfer aci marina jezera - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransfer",
+      "name": "Taxi ACI Marina Jezera - Dubrovnik",
+      "description": "Privat taxi och transfer till fast pris, ACI Marina Jezera - Dubrovnik, 530 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Jezera",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/sv/taxi-aci-marina-jezera-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "530",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat resa, ACI Marina Jezera - Dubrovnik, per fordon för upp till 4 passagerare. Tur och retur 1060 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hur mycket kostar en transfer på sträckan ACI Marina Jezera - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 530 per fordon för upp till 4 passagerare, enkel resa, med vägtull, bränsle och bagage. En tur och retur kostar 1060."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du hämta direkt vid marinan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jag möter dig vid marinans entré eller reception och hjälper till med bagaget, så att du går direkt från bryggan till fordonet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du anpassa transfern efter min båt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Skicka mig din charter-, inchecknings- eller avgångstid vid bokningen, så planerar jag upphämtningen kring den."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur långt i förväg bör jag boka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timmar i förväg, så att jag kan bekräfta fordon och upphämtningstid. För en resa med kort varsel, ring eller skriv till mig direkt på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

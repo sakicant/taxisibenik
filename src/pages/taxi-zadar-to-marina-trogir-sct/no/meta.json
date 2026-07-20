@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zadar-marina-trogir-sct",
+  "title": "Taxi Zadar - Marina Trogir (SCT) | Fastpris €225 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Zadar - Marina Trogir (SCT). Fastpris €225 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "keywords": "taxi zadar - marina trogir (sct), transport zadar - marina trogir (sct), flyplasstransport zadar - marina trogir (sct)",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransport",
+      "name": "Taxi Zadar - Marina Trogir (SCT)",
+      "description": "Privat taxi og transport til fastpris, strekningen Zadar - Marina Trogir (SCT), 225 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Marina Trogir (SCT)"
+      ],
+      "url": "https://taxisibenik.hr/no/taxi-zadar-marina-trogir-sct/",
+      "offers": {
+        "@type": "Offer",
+        "price": "225",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat tur, strekningen Zadar - Marina Trogir (SCT), per bil for opptil 4 passasjerer. Tur og retur 450 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor mye koster en transport på strekningen Zadar - Marina Trogir (SCT)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 225 per bil for opptil 4 passasjerer, en vei, med bompenger, drivstoff og bagasje. Tur og retur koster 450."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du hente rett ved marinaen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg møter deg ved inngangen eller i resepsjonen til marinaen og hjelper med bagasjen, slik at du går rett fra bryggen til bilen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du tilpasse transporten til båten min?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Send meg charter-, innsjekk- eller avgangstiden din ved bestilling, så planlegger jeg hentingen rundt den."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forveien bør jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timer i forveien, så jeg kan bekrefte bil og hentetidspunkt. For en tur på kort varsel, ring eller skriv til meg direkte på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

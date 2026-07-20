@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Taxi Perković | TAXI Antonio",
+  "description": "Taxi Perković: vastaanotto laiturilla Šibenikin alueen tärkeimmällä rautatieasemalla ja jatkokuljetukset Šibenikiin, Vodiceen, Krkalle ja kauemmas.",
+  "keywords": "taxi perkovic, perkovic taksi, perkovic rautatieasema taksi, perkovic aseman kuljetus, perkovic sibenik, perkovic krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Paikallinen taksi ja lentokenttäkuljetukset",
+      "name": "Taxi Perković",
+      "description": "Yksityinen taksi, joka ottaa junat vastaan Perkovićissa, Šibenikin aluetta palvelevalla päärautatieasemalla, ja ajaa eteenpäin Šibenikiin, Vodiceen, Krkalle, Drnišiin, Kniniin ja Splitin lentokentälle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/fi/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Missä tapaat minut Perkovićin asemalla?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Laiturilla tai aseman uloskäynnin luona, jos niin haluat. Minulla on nimesi valmiina ja autan laukkujen kanssa, jotta pääset suoraan autoon."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Entä jos junani Perkovićiin on myöhässä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Seuraan junaasi ja siirrän noutoa sen mukaan ilman lisämaksua, joten olen paikalla silloin kun juna todella saapuu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Onko Perkovićissa taksitolppaa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ei, asemalla ei ole taksitolppaa, joten kannattaa varata etukäteen. Lähetä junasi aika ja määränpääsi, niin olen odottamassa kun astut ulos."
+          }
+        }
+      ]
+    }
+  ]
+}

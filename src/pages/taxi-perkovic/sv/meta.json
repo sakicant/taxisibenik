@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Taxi Perković | TAXI Antonio",
+  "description": "Taxi Perković: möte på perrongen vid huvudjärnvägsstationen som betjänar Šibenik, med vidare transfer till Šibenik, Vodice, Krka och längre bort.",
+  "keywords": "taxi perkovic, perkovic taxi, taxi perkovic tågstation, transfer perkovic järnvägsstation, perkovic till sibenik, perkovic till krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokal taxi och flygplatstransfer",
+      "name": "Taxi Perković",
+      "description": "Privat taxi som möter tågen i Perković, huvudjärnvägsstationen som betjänar Šibenikområdet, med vidare transfer till Šibenik, Vodice, Krka, Drniš, Knin och Splits flygplats.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/sv/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Var möter du mig vid stationen i Perković?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "På perrongen, eller vid stationsutgången om du föredrar det. Jag har ditt namn redo och hjälper till med väskorna så att du kan gå direkt till bilen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vad händer om mitt tåg till Perković är försenat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jag följer ditt tåg och anpassar upphämtningen efter det, utan extra kostnad, så jag är på plats när tåget faktiskt kommer in."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Finns det en taxistation i Perković?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nej, det finns ingen taxistation vid stationen, så det är bäst att boka i förväg. Skicka din tågtid och din destination så väntar jag när du kliver av."
+          }
+        }
+      ]
+    }
+  ]
+}

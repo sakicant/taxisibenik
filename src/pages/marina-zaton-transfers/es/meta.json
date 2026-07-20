@@ -1,0 +1,139 @@
+{
+  "slug": "marina-zaton-transfers",
+  "title": "Traslados Marina Zaton | Precios fijos | TAXI Antonio",
+  "description": "Traslados privados desde Marina Zaton, cerca de Šibenik, a los aeropuertos y ciudades de Split, Zadar, Zagreb y Dubrovnik. Precios fijos, recogida en el amarre, un solo conductor local.",
+  "keywords": "traslado marina zaton, taxi marina zaton, traslado aeropuerto marina zaton, zaton aeropuerto de split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi de marina y traslados al aeropuerto",
+      "name": "Traslados Marina Zaton",
+      "description": "Traslados privados desde Marina Zaton, cerca de Šibenik, a los aeropuertos y ciudades de Split, Zadar, Zagreb y Dubrovnik. Precios fijos, recogida en el amarre, un solo conductor local.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/es/marina-zaton-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Precios fijos de traslado desde Marina Zaton",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton al aeropuerto de Split",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton al aeropuerto de Zadar",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton al aeropuerto de Zagreb",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton al aeropuerto de Dubrovnik",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton a Split",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton a Zadar",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton a Dubrovnik",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton a Trogir",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton a Vodice",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton al PN Krka (Lozovac)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton a Šibenik",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Dónde recogen en Marina Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En la propia marina, junto a su amarre o en la recepción, lo que le venga mejor. Dígame su pantalán o el nombre del barco al reservar y le encuentro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto cuesta un traslado al aeropuerto de Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un precio fijo por coche para hasta 4 pasajeros, acordado antes del viaje, con peajes, combustible y equipaje incluidos. Consulte la lista de precios de arriba para cada ruta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Con cuánta antelación debo reservar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Al menos 2 horas antes, para poder confirmar el coche y su hora de recogida, y con más margen para vuelos de madrugada y en temporada alta. Si necesita un viaje antes, llámeme o escríbame por WhatsApp directamente."
+          }
+        }
+      ]
+    }
+  ]
+}

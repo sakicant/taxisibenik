@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-flygplats-zagreb-aci-marina-vodice",
+  "title": "Taxi Zagreb flygplats - ACI Marina Vodice | Fast pris €485 | TAXI Antonio",
+  "description": "Privat taxi och transfer, Zagreb flygplats - ACI Marina Vodice. Fast pris €485 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "keywords": "taxi zagreb flygplats - aci marina vodice, transfer zagreb flygplats - aci marina vodice, flygplatstransfer zagreb flygplats - aci marina vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransfer",
+      "name": "Taxi Zagreb flygplats - ACI Marina Vodice",
+      "description": "Privat taxi och transfer till fast pris, Zagreb flygplats - ACI Marina Vodice, 485 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zagreb flygplats",
+        "ACI Marina Vodice"
+      ],
+      "url": "https://taxisibenik.hr/sv/taxi-flygplats-zagreb-aci-marina-vodice/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat resa, Zagreb flygplats - ACI Marina Vodice, per fordon för upp till 4 passagerare. Tur och retur 970 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Var möter du mig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I ankomsthallen, direkt efter bagageutlämningen, med en skylt med ditt namn. Jag hjälper till med bagaget och följer dig till fordonet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vad händer om mitt flyg är försenat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Inga problem. Jag följer ditt flyg i realtid och anpassar upphämtningen efter den faktiska landningen, utan tillägg för väntetiden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur mycket kostar transfern på sträckan Zagreb flygplats - ACI Marina Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 485 per fordon för upp till 4 passagerare, enkel resa, vägtull och bagage ingår. En tur och retur kostar 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur långt i förväg bör jag boka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timmar i förväg, så att jag kan planera kring ditt flyg. För en upphämtning samma dag efter en ändring med kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

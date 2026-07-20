@@ -1,0 +1,145 @@
+{
+  "slug": "d-resort-sibenik-transfers",
+  "title": "Transferi D-Resort Šibenik | Fiksne cene | TAXI Antonio",
+  "description": "Privatni transferi do i od hotela D-Resort Šibenik na poluostrvu Mandalina. Fiksne cene uz rezervaciju unapred: aerodrom Split €95, aerodrom Zadar €130, Krka od €45. Od vrata do vrata, jedan lokalni vozač.",
+  "keywords": "d-resort šibenik transferi, transfer hotel d-resort, d-resort šibenik taksi, d-resort transfer aerodrom, taksi d-resort šibenik, mandalina taksi",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Hotelski transferi do aerodroma i gradski taksi",
+      "name": "Transferi D-Resort Šibenik",
+      "description": "Privatni taksi transferi po fiksnoj ceni do i od hotela D-Resort Šibenik na poluostrvu Mandalina. Transferi do aerodroma, transferi između gradova i celodnevni izleti na Krku, rezervisani unapred po ceni dogovorenoj pre polaska.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "D-Resort Šibenik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/sr/d-resort-sibenik-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fiksne cene transfera od hotela D-Resort Šibenik",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "D-Resort do aerodroma Split",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort do aerodroma Zadar",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort do aerodroma Zagreb",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort do aerodroma Dubrovnik",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort do centra Šibenika",
+            "price": "15",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort do Nacionalnog parka Krka (Lozovac)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort do Splita",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort do Zadra",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Koliko košta taksi od hotela D-Resort Šibenik do aerodroma Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privatni transfer od hotela D-Resort Šibenik do aerodroma Split košta fiksnih 95 evra po vozilu za najviše 4 putnika, uz rezervaciju unapred. Putarine, gorivo i prtljag su uključeni, a cena je ista u oba smera."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gde preuzimate goste kod D-Resorta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tačno na glavnom ulazu hotela na poluostrvu Mandalina. Ako dolazite jahtom u susednu marinu D-Marin Marina Mandalina, preuzimam vas i u marini, po istim fiksnim cenama."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Treba li da rezervišem transfer iz D-Resorta unapred?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Sve navedene cene su fiksne cene za transfere rezervisane unapred. Rezervacija unapred garantuje vozilo, vreme preuzimanja i cenu, što je najvažnije za rane letove i glavnu sezonu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da li dočekujete goste na aerodromu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Za dolaske pratim vaš let u realnom vremenu, čekam u dolaznom holu sa tablom sa imenom i vozim vas pravo do D-Resorta. Čekanje zbog kašnjenja leta je besplatno."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Možete li nas odvesti iz D-Resorta u Nacionalni park Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Transfer u jednom smeru do ulaza Lozovac košta 45 evra, a do ulaza Skradin 50 evra. Nudim i ceo privatni celodnevni izlet sa uključenim vremenom čekanja, uz preuzimanje ispred hotela."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kako se plaća transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Avans od 20% (najmanje 20 evra) potvrđuje rezervaciju, bankovnim prenosom ili karticom. Ostatak se plaća vozaču na dan vožnje, gotovinom ili karticom."
+          }
+        }
+      ]
+    }
+  ]
+}

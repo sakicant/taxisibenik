@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-plitvice-lakes-national-park-split",
+  "title": "Dagsutflykt till Plitvice från Split | Privat transfer, fasta €650 | TAXI Antonio",
+  "description": "Privat taxitransfer tur och retur till Plitvicesjöarna från Split. Fasta €650 per bil, upp till 4 passagerare, dörr till dörr från hotell i Split, kryssningshamnen och gamla stan. Ingen guidad tur, bara resan dit och hem.",
+  "keywords": "dagsutflykt till plitvice från split, transfer tur och retur till plitvice, taxi till plitvice från split, plitvicesjöarna från split, split till plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privat dagsutflykt till Plitvicesjöarna från Split",
+      "description": "En privat dagsutflykt till nationalparken Plitvicesjöarna från Split med en lokal engelsktalande chaufför. Fast pris på 650 euro per bil för upp till 4 passagerare, med hämtning dörr till dörr vid hotell i Split, kryssningshamnen, buss- och tågstationen och gamla stan.",
+      "touristType": "Natur och sightseeing",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "650",
+        "priceCurrency": "EUR",
+        "description": "Privat fordon, tur och retur Split till nationalparken Plitvicesjöarna, upp till 4 passagerare. Inträdesbiljetter till parken ingår inte."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Är det en guidad tur eller en taxitransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Det är en taxitransfer, inte en guidad tur. Antonio är en lokal chaufför som kör dig privat tur och retur från Split till Plitvice och tillbaka. Du får bilen och körningen; inne i parken utforskar du fritt på egen hand, i din egen takt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vad kostar en taxi till Plitvice från Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En privat transfer tur och retur från Split till Plitvicesjöarna kostar fasta 650 euro per bil för upp till 4 passagerare, med vägtullar, bränsle och väntetiden vid parken inkluderat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur lång är dagsutflykten från Split till Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Körningen tar omkring två och en halv till tre timmar åt varje håll, plus ungefär 4 till 6 timmar för att gå runt sjöarna. Det är en lång heldag, oftast 11 till 12 timmar dörr till dörr, så en tidig start är nödvändig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ingår inträdesbiljetter till Plitvice i priset?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nej. Inträdesbiljetter köps separat av nationalparken Plitvicesjöarna, vid entrén eller online. Biljetter kostar ungefär 10 till 40 euro beroende på säsong, och inkluderar panoramatåget och elbåten inne i parken."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur bokar och betalar jag dagsutflykten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En förskottsbetalning på 20 % (minst 20 euro) bekräftar bokningen, via banköverföring eller kort, och du får en faktura som bekräftelse. Resten betalas till chauffören samma dag, kontant eller med kort."
+          }
+        }
+      ]
+    }
+  ]
+}

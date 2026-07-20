@@ -1,0 +1,75 @@
+{
+  "slug": "daytrips",
+  "title": "Dagsutflykter från Šibenik | Privata turer till Krka & Plitvice | TAXI Antonio",
+  "description": "Privata dagsutflykter från Šibenik och hela Dalmatien till nationalparken Krka och Plitvicesjöarna. Tur och retur dörr till dörr till fast pris med en lokal chaufför. Ingen guidad tur, bara resan dit och hem.",
+  "keywords": "dagsutflykter från sibenik, dagsutflykter sibenik, privat dagsutflykt kroatien, dagsutflykt krka, dagsutflykt plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privata dagsutflykter och utflykter",
+      "name": "Dagsutflykter från Šibenik och Dalmatien",
+      "description": "Privata dagsutflykter till fast pris till nationalparken Krka och Plitvicesjöarna med en lokal chaufför från Šibenik. Tur och retur dörr till dörr från Šibenik, Vodice, Primošten, Split och Zadar, upp till 4 passagerare per bil.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" },
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "152" }
+      },
+      "areaServed": ["Šibenik", "Vodice", "Primošten", "Split", "Zadar"],
+      "url": "https://taxisibenik.hr/sv/daytrips/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Privata dagsutflykter från Dalmatien",
+        "itemListElement": [
+          { "@type": "Offer", "name": "Dagsutflykt till Krka från Šibenik", "price": "100", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/sv/day-trip-krka-national-park-sibenik/" },
+          { "@type": "Offer", "name": "Dagsutflykt till Krka från Vodice", "price": "125", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/sv/day-trip-krka-national-park-vodice/" },
+          { "@type": "Offer", "name": "Dagsutflykt till Krka från Primošten", "price": "155", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/sv/day-trip-krka-national-park-primosten/" },
+          { "@type": "Offer", "name": "Dagsutflykt till Krka från Zadar", "price": "260", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/sv/day-trip-krka-national-park-zadar/" },
+          { "@type": "Offer", "name": "Dagsutflykt till Krka från Split", "price": "290", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/sv/day-trip-krka-national-park-split/" },
+          { "@type": "Offer", "name": "Dagsutflykt till Plitvice från Šibenik", "price": "500", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/sv/day-trip-plitvice-lakes-national-park-sibenik/" },
+          { "@type": "Offer", "name": "Dagsutflykt till Plitvice från Split", "price": "650", "priceCurrency": "EUR", "url": "https://taxisibenik.hr/sv/day-trip-plitvice-lakes-national-park-split/" }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vilka dagsutflykter kan jag boka från Šibenik?",
+          "acceptedAnswer": { "@type": "Answer", "text": "De två populäraste dagsutflykterna är nationalparken Krka och nationalparken Plitvicesjöarna. Båda är privata resor tur och retur till fast pris, dörr till dörr från ditt hotell eller din lägenhet, med fritid inne i parken så att du kan utforska i din egen takt." }
+        },
+        {
+          "@type": "Question",
+          "name": "Är det guidade turer eller taxitransfer?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Det är privat taxitransfer, inte guidade grupputflykter. Antonio är en lokal chaufför som kör dig dit och hem i en bekväm Škoda Superb. Inne i parken utforskar du fritt på egen hand, utan guide och utan en grupp att dela med." }
+        },
+        {
+          "@type": "Question",
+          "name": "Vad kostar en dagsutflykt till Krka eller Plitvice?",
+          "acceptedAnswer": { "@type": "Answer", "text": "En privat dagsutflykt till Krka börjar på fasta 100 euro per bil från Šibenik. En dagsutflykt till Plitvicesjöarna kostar 500 euro per bil från Šibenik. Priserna gäller per bil för upp till 4 passagerare och beror på vilken ort du hämtas i." }
+        },
+        {
+          "@type": "Question",
+          "name": "Hämtar du i andra orter än Šibenik?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Ja. Dagsutflykter till Krka går från Šibenik, Vodice, Primošten, Zadar och Split, och dagsutflykter till Plitvice går från Šibenik och Split. Varje ort har sitt eget fasta pris och sin egen sida med alla detaljer." }
+        },
+        {
+          "@type": "Question",
+          "name": "Ingår inträdesbiljetter till parken?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Nej. Priset täcker bara den privata transfern och väntetiden. Biljetter till Krka och Plitvice köps separat vid entrén eller online och kostar ungefär 7 till 40 euro beroende på säsong." }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur bokar jag en dagsutflykt?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Skriv till mig på WhatsApp, ring, eller använd kontaktsidan. En förskottsbetalning på 20 % (minst 20 euro) bekräftar datumet, och resten betalas till chauffören samma dag." }
+        }
+      ]
+    }
+  ]
+}

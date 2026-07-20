@@ -1,0 +1,84 @@
+{
+  "slug": "taxi-drnis",
+  "title": "Taxi Drniš | TAXI Antonio",
+  "description": "Taxi Drniš: langturer til Šibenik (€65) og Split lufthavn (€80) fra innlandsbyen kjent for sin spekeskinke. Faste priser, bestill direkte.",
+  "keywords": "taxi drnis, drnis taxi, drnis flyplasstransport, drnis til split lufthavn, drnis til sibenik, drnis langtransport",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokal taxi og flyplasstransport",
+      "name": "Taxi Drniš",
+      "description": "Privat taxi til fast pris for langturer fra Drniš, en innlandsby i Krka-dalen, til Šibenik og Split lufthavn, med videre ruter i innlandet på forespørsel.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Drniš",
+      "url": "https://taxisibenik.hr/no/taxi-drnis/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxipriser fra Drniš",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Drniš til Šibenik",
+            "price": "65",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/no/book/?from=Drni%C5%A1&to=%C5%A0ibenik%20-%20center&price=65"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Drniš til Split lufthavn",
+            "price": "80",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/no/book/?from=Drni%C5%A1&to=Split%20Airport%20%28SPU%29&price=80"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Er Split lufthavn til fast pris fra Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Drniš til Split lufthavn koster fast €80 per bil for inntil 4 passasjerer, med bompenger og bagasje inkludert, avtalt før du reiser."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kjører du returturer og forretningsreiser fra Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg tar meg av returturer og forretningsreiser til kysten og flyplassen. Fortell meg tidspunktene, så bekrefter jeg en fast pris."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du kjøre meg lenger inn i landet til Knin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, jeg dekker innlandsrutene til Knin og jernbanestasjonen i Perković. Siden disse ikke står i prislisten min på nett, send meg en melding, så bekrefter jeg prisen."
+          }
+        }
+      ]
+    }
+  ]
+}

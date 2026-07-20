@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-jezera-ciovo",
+  "title": "Taxi Jezera - Čiovo | Fast pris €150 | TAXI Antonio",
+  "description": "Privat taxi och transfer, Jezera - Čiovo. Fast pris €150 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "keywords": "taxi jezera - čiovo, transfer jezera - čiovo, flygplatstransfer jezera - čiovo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxitransfer",
+      "name": "Taxi Jezera - Čiovo",
+      "description": "Privat taxi och transfer till fast pris, Jezera - Čiovo, 150 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Jezera",
+        "Čiovo"
+      ],
+      "url": "https://taxisibenik.hr/sv/taxi-jezera-ciovo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "150",
+        "priceCurrency": "EUR",
+        "description": "Enkel privat resa, Jezera - Čiovo, per fordon för upp till 4 passagerare. Tur och retur 300 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hur mycket kostar en taxi på sträckan Jezera - Čiovo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 150 per fordon för upp till 4 passagerare, enkel resa, bagage ingår. En tur och retur kostar 300."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Var hämtar du mig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "På din exakta adress, oavsett om det är hus, hotell eller lägenhet. Skicka adressen vid bokningen, så bekräftar jag mötesplatsen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hur långt i förväg bör jag boka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minst 2 timmar i förväg, så att jag kan bekräfta fordon och upphämtningstid. För en resa med kort varsel, ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

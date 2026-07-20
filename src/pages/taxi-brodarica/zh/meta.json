@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-brodarica",
+  "title": "Brodarica 出租车 | TAXI Antonio",
+  "description": "Brodarica 出租车：在 Krapanj 渡口和海滨一带接客，提供前往 Split（95 €）和 Zadar 的固定价格机场接送，以及往返 Šibenik 的行程。",
+  "keywords": "brodarica 出租车, brodarica taxi, brodarica krapanj 渡轮, brodarica 机场接送, brodarica 到 split 机场, taxi brodarica sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "本地出租车与机场接送",
+      "name": "Brodarica 出租车",
+      "description": "从 Šibenik 以南、Krapanj 渡口所在地 Brodarica 出发的私人固定价格出租车，前往 Split 机场、Zadar 机场和 Šibenik。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Brodarica",
+      "url": "https://taxisibenik.hr/zh/taxi-brodarica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "从 Brodarica 出发的出租车价格",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Brodarica 到 Šibenik 出租车",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Brodarica%20-%20%C5%A0ibenik&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Brodarica 到 Split 机场出租车",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Brodarica%20-%20%C5%A0ibenik&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Brodarica 到 Zadar 机场出租车",
+            "price": "135",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/zh/book/?from=Brodarica%20-%20%C5%A0ibenik&to=Zadar%20Airport%20%28ZAD%29&price=135"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "您能把我送到 Krapanj 渡口吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。我会把您直接送到 Brodarica 海滨、通往 Krapanj 的渡轮码头旁，回程时也可以在那里接您。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "整个 Brodarica 海滨都在服务范围内吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的，包括海滨一线和后面的街区。把您的地址或住宿名称发给我，我会确认准确的碰面地点。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "机场接送是固定价格吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的。Split 机场每车 €95，Zadar 机场每车 €135，最多 4 位乘客，含过路费和行李。"
+          }
+        }
+      ]
+    }
+  ]
+}

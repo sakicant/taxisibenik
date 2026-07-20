@@ -1,0 +1,84 @@
+{
+  "slug": "taxi-drnis",
+  "title": "Taxi Drniš | TAXI Antonio",
+  "description": "Taxi Drniš: traslados interurbanos a Šibenik (€65) y al aeropuerto de Split (€80) desde la ciudad del interior famosa por su jamón curado. Precios fijos, reserve directamente.",
+  "keywords": "taxi drnis, drnis taxi, traslado aeropuerto drnis, drnis al aeropuerto de split, drnis a sibenik, traslado interurbano drnis",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi local y traslados al aeropuerto",
+      "name": "Taxi Drniš",
+      "description": "Taxi privado interurbano a precio fijo desde Drniš, una ciudad del interior en el valle del Krka, a Šibenik y al aeropuerto de Split, con rutas hacia el interior bajo petición.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Drniš",
+      "url": "https://taxisibenik.hr/es/taxi-drnis/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Tarifas de taxi desde Drniš",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi de Drniš a Šibenik",
+            "price": "65",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/es/book/?from=Drni%C5%A1&to=%C5%A0ibenik%20-%20center&price=65"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi de Drniš al aeropuerto de Split",
+            "price": "80",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/es/book/?from=Drni%C5%A1&to=Split%20Airport%20%28SPU%29&price=80"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿El aeropuerto de Split tiene precio fijo desde Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. De Drniš al aeropuerto de Split son €80 fijos por coche para hasta 4 pasajeros, con peajes y equipaje incluidos, acordados antes de viajar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hacen viajes de ida y vuelta y de negocios desde Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Me encargo de traslados de ida y vuelta y de viajes de negocios a la costa y al aeropuerto. Dígame los horarios y le confirmaré un precio fijo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Pueden llevarme más al interior, a Knin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, cubro las rutas del interior a Knin y a la estación de tren de Perković. Como no están en mi lista de precios online, escríbame y le confirmaré la tarifa."
+          }
+        }
+      ]
+    }
+  ]
+}

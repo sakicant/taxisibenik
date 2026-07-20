@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-tromilja",
+  "title": "タクシー Tromilja | TAXI Antonio",
+  "description": "タクシー Tromilja：Bilice近くの静かな内陸の集落から、スプリット空港（€90）やザダル空港への固定料金送迎、シベニク市内への乗車を承ります。",
+  "keywords": "タクシー tromilja, tromilja タクシー, tromilja 空港送迎, tromilja から スプリット空港, tromilja から シベニク",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "地域内タクシーおよび空港送迎",
+      "name": "タクシー Tromilja",
+      "description": "Bilice近くの静かな内陸の集落Tromiljaから、スプリット空港、ザダル空港、シベニクへの固定料金の貸切タクシーです。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Tromilja",
+      "url": "https://taxisibenik.hr/ja/taxi-tromilja/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Tromilja発のタクシー料金",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "タクシー Tromilja - シベニク",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Tromilja&to=%C5%A0ibenik%20-%20center&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Tromilja - スプリット空港",
+            "price": "90",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Tromilja&to=Split%20Airport%20%28SPU%29&price=90"
+          },
+          {
+            "@type": "Offer",
+            "name": "タクシー Tromilja - ザダル空港",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/book/?from=Tromilja&to=Zadar%20Airport%20%28ZAD%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Tromiljaからクルカの滝まで行ってもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。Tromiljaはクルカ国立公園に近く、ご見学の間お待ちする日帰りプランを承っています。詳しくは日帰りツアーのページをご覧ください。料金を確定してお伝えします。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Tromiljaからスプリット空港までいくらですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "1台あたり固定 €90、最大4名様、通行料・燃料・荷物込みです。"
+          }
+        }
+      ]
+    }
+  ]
+}

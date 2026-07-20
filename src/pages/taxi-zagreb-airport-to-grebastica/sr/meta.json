@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-aerodrom-zagreb-grebastica",
+  "title": "Taksi Aerodrom Zagreb - Grebaštica | Fiksna cena €495 | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Aerodrom Zagreb - Grebaštica. Fiksno €495 po vozilu, do 4. Rezervišite direktno kod Antonija.",
+  "keywords": "taksi aerodrom zagreb - grebaštica, transfer aerodrom zagreb - grebaštica, prevoz aerodrom zagreb - grebaštica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privatni taksi transfer",
+      "name": "Taksi Aerodrom Zagreb - Grebaštica",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Aerodrom Zagreb - Grebaštica, 495 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Aerodrom Zagreb",
+        "Grebaštica"
+      ],
+      "url": "https://taxisibenik.hr/sr/taxi-aerodrom-zagreb-grebastica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "495",
+        "priceCurrency": "EUR",
+        "description": "Jednosmerni privatni transfer, relacija Aerodrom Zagreb - Grebaštica, po vozilu za do 4 putnika. Povratno 990 evra."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kolika je udaljenost i koliko traje vožnja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vožnja na relaciji Aerodrom Zagreb - Grebaštica duga je oko 367 km i traje otprilike 4 h u uobičajenom saobraćaju, nešto duže u letnjim gužvama. Polazak planiram tako da vas usporeni deo nikad ne požuri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gde me dočekujete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "U dolaznoj zoni, odmah nakon preuzimanja prtljaga, s natpisom s vašim imenom. Pomažem s prtljagom i vodim vas do vozila."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Šta ako mi let kasni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nema problema. Let pratim u realnom vremenu i prilagođavam preuzimanje stvarnom sletanju, bez dodatne naplate čekanja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko košta transfer na relaciji Aerodrom Zagreb - Grebaštica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksno 495 po vozilu za do 4 putnika, jedan smer, putarine i prtljag uključeni. Povratna vožnja je 990."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko unapred treba da rezervišem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barem 2 sata unapred da planiram prema vašem letu. Za isti dan nakon nagle promene pozovite ili pišite na WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

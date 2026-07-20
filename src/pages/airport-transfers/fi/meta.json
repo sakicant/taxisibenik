@@ -1,0 +1,85 @@
+{
+  "slug": "airport-transfers-from-sibenik",
+  "title": "Šibenikin lentokenttäkuljetukset | Kiinteät hinnat | TAXI Antonio",
+  "description": "Šibenikin lentokenttäkuljetukset Splitin, Zadarin, Zagrebin ja Dubrovnikin lentokentille ja niiltä. Kiinteät hinnat, lennon seuranta, ovelta ovelle. Palvelen myös Vodicea, Primošteniä ja Skradinia. Varaa Antoniolta.",
+  "keywords": "sibenik lentokenttäkuljetukset, šibenik lentokenttäkuljetus, splitin lentokentältä sibenikiin, zadarin lentokentältä sibenikiin, vodice lentokenttäkuljetus",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lentokenttäkuljetus",
+      "name": "Lentokenttäkuljetukset Šibenikistä",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Splitin lentokenttä",
+        "Zadarin lentokenttä",
+        "Zagrebin lentokenttä",
+        "Dubrovnikin lentokenttä"
+      ],
+      "url": "https://taxisibenik.hr/fi/airport-transfers-from-sibenik/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Miten löydän kuljettajani lentokentällä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio odottaa saapumisaulassa matkatavaroiden noudon jälkeen selkeä nimikyltti kädessään."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Entä jos lentoni myöhästyy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lentoja seurataan reaaliajassa varauksen yhteydessä antamasi lennon numeron avulla. Noutoaikaa säädetään automaattisesti eikä odottamisesta veloiteta lisämaksua."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Onko lentokenttäkuljetuksen hinta kiinteä?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Jokainen lentokenttäkuljetus on kiinteähintainen per auto enintään 4 matkustajalle, tietullit, polttoaine ja matkatavarat mukaan lukien. Ei taksamittaria, ei yllätyksiä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Tarjoatko turvaistuimia lentokenttäkuljetuksiin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä, turvaistuimet ja istuinkorokkeet tarjotaan veloituksetta. Pyydä niitä vain varauksen lisätiedoissa ja mainitse lapsen ikä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Miten maksan lentokenttäkuljetuksen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "20 %:n ennakkomaksu (vähintään 20 euroa) vahvistaa varauksen, tilisiirrolla tai kortilla. Loppusumma maksetaan kuljettajalle matkapäivänä käteisellä tai kortilla."
+          }
+        }
+      ]
+    }
+  ]
+}

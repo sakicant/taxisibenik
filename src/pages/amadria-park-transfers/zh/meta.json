@@ -1,0 +1,145 @@
+{
+  "slug": "amadria-park-sibenik-transfers",
+  "title": "Amadria Park 接送 | 固定价格 | TAXI Antonio",
+  "description": "往返 Amadria Park Šibenik 度假村各酒店与营地的私人接送。提前预订固定价格：斯普利特机场 €95，扎达尔机场 €130，Krka 起价 €45。门到门，一位本地司机。",
+  "keywords": "amadria park 接送, amadria park 出租车, amadria park 希贝尼克接送, amadria park 机场接送, taxi amadria park, solaris 希贝尼克出租车",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "酒店机场与城市出租车接送",
+      "name": "Amadria Park Šibenik 接送服务",
+      "description": "往返希贝尼克 Amadria Park 度假村的私人固定价格出租车接送，覆盖度假村所有酒店和营地。包括机场接送、城际接送和 Krka 一日游，提前预订，价格事先谈妥。",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Amadria Park Šibenik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/zh/amadria-park-sibenik-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "从 Amadria Park 出发的固定接送价格",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Amadria Park 到斯普利特机场",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park 到扎达尔机场",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park 到萨格勒布机场",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park 到杜布罗夫尼克机场",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park 到 Šibenik 市中心",
+            "price": "18",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park 到 Krka 国家公园（Lozovac）",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park 到斯普利特",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park 到扎达尔",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "从 Amadria Park 到斯普利特机场的出租车多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "提前预订的话，从 Amadria Park 到斯普利特机场的私人接送为每车固定 95 欧元，最多 4 位乘客。含过路费、油费和行李，两个方向价格相同。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你们在 Amadria Park 的所有酒店和营地都接客吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的。我在度假村内每一家酒店的门口以及 Amadria Park Camp 前台接客，价格一样固定。预订时告诉我您的酒店名称，我会确认具体的碰面地点。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "我需要提前预订 Amadria Park 的接送吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "需要。页面上列出的所有价格都是提前预订的固定价格。提前预订可以锁定车辆、接客时间和价格，对清晨航班和旺季尤其重要。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你们会到机场接抵达的客人吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "会。接机时我会实时监控您的航班，在到达大厅举牌等候，然后直接送您到 Amadria Park 的酒店或营地。航班延误的等待不收费。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "可以带我们从 Amadria Park 去 Krka 国家公园吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。前往 Krka 的 Lozovac 入口单程 45 欧元，前往 Skradin 入口 50 欧元。我也提供包含等待时间的完整私人一日游，在您 Amadria Park 的酒店接您。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "接送怎么付款？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "支付 20% 预付款（最低 20 欧元）即可确认预订，可通过银行转账或刷卡。余款在当天付给司机，现金或刷卡均可。"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "special-offers",
+  "title": "Šibenikin taksin erikoistarjoukset | Parhaan hinnan kuljetusdiilit",
+  "description": "Rajoitetun ajan erikoistarjoukset Šibenikin taksikuljetuksiin: last minute -kyydit ja paluumatkat parhaaseen hintaan. Kiinteät hinnat, yksi kuljettaja, varaa ennen kuin ne menevät.",
+  "keywords": "sibenik taksin erikoistarjoukset, paras hinta taksikuljetus sibenik, rajoitetun ajan kuljetustarjous, last minute taksi sibenik, halpa splitin lentokenttäkuljetus",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Šibenikin taksin erikoistarjoukset: parhaan hinnan kuljetusdiilit",
+    "description": "Rajoitetun ajan erikoistarjoukset Šibenikin taksi- ja kuljetuskyyteihin parhaaseen hintaan: last minute -tarjoukset ja paluumatkat, kiinteät hinnat.",
+    "url": "https://taxisibenik.hr/fi/special-offers/",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Taxi Antonio",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" }
+    }
+  }
+}

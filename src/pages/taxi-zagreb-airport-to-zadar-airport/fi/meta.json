@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zagreb-lentoasema-zadar-lentoasema",
+  "title": "Taksi Zagrebin lentoasema - Zadarin lentoasema | Kiinteä hinta €450 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Zagrebin lentoasema - Zadarin lentoasema. Kiinteä hinta €450 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "keywords": "taksi zagrebin lentoasema - zadarin lentoasema, kuljetus zagrebin lentoasema - zadarin lentoasema, lentokenttäkuljetus zagrebin lentoasema - zadarin lentoasema",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yksityinen taksikuljetus",
+      "name": "Taksi Zagrebin lentoasema - Zadarin lentoasema",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Zagrebin lentoasema - Zadarin lentoasema, 450 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zagrebin lentoasema",
+        "Zadarin lentoasema"
+      ],
+      "url": "https://taxisibenik.hr/fi/taxi-zagreb-lentoasema-zadar-lentoasema/",
+      "offers": {
+        "@type": "Offer",
+        "price": "450",
+        "priceCurrency": "EUR",
+        "description": "Yhdensuuntainen yksityinen matka, reitti Zagrebin lentoasema - Zadarin lentoasema, per auto enintään 4 matkustajalle. Meno ja paluu 900 euroa."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kuinka pitkä reitti on ja kuinka kauan matka kestää?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matka reitillä Zagrebin lentoasema - Zadarin lentoasema on noin 293 km ja kestää noin 3 h 15 min normaalissa liikenteessä, kesän huippukaudella hieman kauemmin. Suunnittelen noudon niin, ettei hidas matka koskaan aiheuta kiirettä."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Paljonko taksi maksaa reitillä Zagrebin lentoasema - Zadarin lentoasema?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kiinteä 450 per auto, yhdensuuntainen matka, enintään 4 matkustajalle. Hinta on per auto, ei per henkilö, ja sisältää tietullit, polttoaineen ja matkatavarat. Meno-paluumatka maksaa 900."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milloin minun pitäisi lähteä lentoasemalle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yleensä noin 3 tuntia ennen kansainvälistä ja 2 tuntia ennen kotimaista lentoa. Kerro lentoaikasi, niin vahvistan tarkan noutoajan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ajatteko lähtöterminaaliin asti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kyllä. Vien sinut suoraan lähtöterminaaliin ja autan matkatavaroiden kanssa. Ei kävelyä parkkipaikalta eikä bussikuljetusta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kuinka paljon etukäteen minun pitäisi varata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vähintään 2 tuntia aiemmin, jotta voin vahvistaa auton ja noudon, ja aikaisemmin varhaisia lentoja ja huippukautta varten. Lyhyellä varoitusajalla soita tai kirjoita minulle WhatsAppissa."
+          }
+        }
+      ]
+    }
+  ]
+}

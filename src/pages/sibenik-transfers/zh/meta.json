@@ -1,0 +1,87 @@
+{
+  "slug": "sibenik-transfers",
+  "title": "Šibenik 接送服务 | 固定价格 | TAXI Antonio",
+  "description": "从 Šibenik 往返斯普利特、扎达尔、杜布罗夫尼克、萨格勒布、Trogir 及更远地区的接送服务。固定价格，私人门到门，一位本地司机。直接向 Antonio 预订。",
+  "keywords": "sibenik 接送, šibenik 接送, sibenik 斯普利特 出租车, sibenik 到扎达尔, sibenik 到杜布罗夫尼克, sibenik 到萨格勒布",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "城市之间的出租车接送",
+      "name": "Šibenik 接送服务",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "斯普利特",
+        "扎达尔",
+        "杜布罗夫尼克",
+        "萨格勒布",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/zh/sibenik-transfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "从 Šibenik 到斯普利特的出租车接送多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "从 Šibenik 到斯普利特的私人接送为每车固定 140 欧元，最多 4 位乘客，含过路费、油费和行李。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "接送价格是固定的吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的。每一趟城市之间的接送都是按车计算的固定价格，最多 4 位乘客，事先谈好。没有计价器，没有意外。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "接送是私人的还是拼车？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "每一趟接送都是私人的门到门服务，使用 Škoda Superb。不与他人拼车，除非您要求，否则途中不额外停靠。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "途中可以停车吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。较长的行程中，我很乐意停下来喝杯咖啡、拍张照或看看景点。预订时告诉我，我会把时间算进去。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "接送怎么付款？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "支付 20% 预付款（最低 20 欧元）即可确认预订，可通过银行转账或刷卡。余款在当天付给司机，现金或刷卡均可。"
+          }
+        }
+      ]
+    }
+  ]
+}

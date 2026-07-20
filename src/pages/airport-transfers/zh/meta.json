@@ -1,0 +1,85 @@
+{
+  "slug": "airport-transfers-from-sibenik",
+  "title": "希贝尼克机场接送 | 固定价格 | TAXI Antonio",
+  "description": "希贝尼克往返斯普利特、扎达尔、萨格勒布和杜布罗夫尼克机场的接送服务。固定价格，航班实时监控，门到门。同时服务 Vodice、Primošten 和 Skradin。立即向 Antonio 预订。",
+  "keywords": "希贝尼克机场接送, šibenik 机场接送, 斯普利特机场到希贝尼克, 扎达尔机场到希贝尼克, vodice 机场接送",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "机场接送",
+      "name": "希贝尼克机场接送服务",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "斯普利特机场",
+        "扎达尔机场",
+        "萨格勒布机场",
+        "杜布罗夫尼克机场"
+      ],
+      "url": "https://taxisibenik.hr/zh/airport-transfers-from-sibenik/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "我到机场后怎么找到司机？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio 会在取完行李后的到达大厅等候，手举写有您姓名的清晰接机牌。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "如果我的航班延误怎么办？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "我们会根据您预订时提供的航班号实时监控航班。接机时间会自动调整，等待不额外收费。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "机场接送的价格是固定的吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "是的。每一次机场接送都是按车计算的固定价格，最多 4 位乘客，已包含过路费、油费和行李。没有计价器，没有意外费用。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "机场接送提供儿童座椅吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "提供，儿童座椅和增高垫免费。只需在预订备注中说明并注明孩子的年龄。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "机场接送怎么付款？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "支付 20% 预付款（最低 20 欧元）即可确认预订，可通过银行转账或刷卡。余款在当天付给司机，现金或刷卡均可。"
+          }
+        }
+      ]
+    }
+  ]
+}

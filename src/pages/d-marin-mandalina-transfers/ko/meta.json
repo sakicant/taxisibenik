@@ -1,0 +1,139 @@
+{
+  "slug": "d-marin-mandalina-transfers",
+  "title": "D-Marin Marina Mandalina 이동 서비스 | 고정 요금 | TAXI Antonio",
+  "description": "시베니크의 D-Marin Marina Mandalina에서 스플리트, 자다르, 자그레브, 두브로브니크 공항 및 도심까지 프라이빗 이동. 고정 요금, 정박지 픽업, 현지 기사 한 명.",
+  "keywords": "d-marin mandalina 이동, marina mandalina 택시, d-marin 시베니크 공항 이동, mandalina 마리나 스플리트 공항",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Marina taxi and airport transfers",
+      "name": "D-Marin Marina Mandalina 이동 서비스",
+      "description": "시베니크의 D-Marin Marina Mandalina에서 스플리트, 자다르, 자그레브, 두브로브니크 공항 및 도심까지 프라이빗 이동. 고정 요금, 정박지 픽업, 현지 기사 한 명.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "D-Marin Marina Mandalina",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/ko/d-marin-mandalina-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "D-Marin Marina Mandalina 출발 고정 이동 요금",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina에서 스플리트 공항",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina에서 자다르 공항",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina에서 자그레브 공항",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina에서 두브로브니크 공항",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina에서 스플리트",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina에서 자다르",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina에서 두브로브니크",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina에서 Trogir",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina에서 Vodice",
+            "price": "35",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina에서 크르카 국립공원 (Lozovac)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Marin Marina Mandalina에서 시베니크",
+            "price": "15",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "D-Marin Marina Mandalina의 어디에서 픽업하나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "마리나 바로 앞, 정박지나 마리나 리셉션 중 편하신 곳에서 픽업합니다. 예약하실 때 폰툰 번호나 배 이름을 알려 주시면 제가 찾아가겠습니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "스플리트 공항까지 이동 요금은 얼마인가요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "최대 4명까지 차량 1대 기준 고정 요금을 출발 전에 합의하며, 통행료와 연료비, 수하물이 포함됩니다. 모든 경로의 요금은 위 목록을 참고해 주세요."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "얼마나 미리 예약해야 하나요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "차량과 픽업 시간을 확정할 수 있도록 최소 2시간 전에, 이른 아침 항공편이나 성수기에는 더 일찍 예약해 주세요. 더 빨리 이동이 필요하시면 전화나 WhatsApp으로 직접 연락 주세요."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-zablace",
+  "title": "Taxi Zablaće | TAXI Antonio",
+  "description": "Taxi Zablaće: fasta flygplatstransfer till Split (€95) och Zadar för campare och strandgäster nära Amadria Park, plus turer till Šibenik och Vodice.",
+  "keywords": "taxi zablace, zablace taxi, taxi zablace camping, zablace flygplatstransfer, taxi amadria park zablace, zablace till splits flygplats",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokal taxi och flygplatstransfer",
+      "name": "Taxi Zablaće",
+      "description": "Privat taxi till fast pris från Zablaće, camping- och Amadria Park-området sydväst om Šibenik, till Splits flygplats, Zadars flygplats, Šibenik och Vodice.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Zablaće",
+      "url": "https://taxisibenik.hr/sv/taxi-zablace/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxipriser från Zablaće",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće till Šibenik",
+            "price": "18",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sv/book/?from=Zabla%C4%87e&to=%C5%A0ibenik%20-%20center&price=18"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće till Vodice",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sv/book/?from=Zabla%C4%87e&to=Vodice&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće till Splits flygplats",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sv/book/?from=Zabla%C4%87e&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Zablaće till Zadars flygplats",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/sv/book/?from=Zabla%C4%87e&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hämtar du upp vid campingen och Amadria Park-området?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jag hämtar dig vid campingens reception, vid din lägenhet eller i Amadria Park-området i närheten, med plats för bagage och utrustning. Skicka den exakta platsen när du bokar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Finns det plats för camping- och strandutrustning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Škoda Superb har ett stort bagageutrymme för resväskor, campingutrustning och strandprylar. Säg till om du har cyklar eller skrymmande saker så planerar jag för det."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vad kostar Zablaće till Splits flygplats?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ett fast pris på €95 per bil för upp till 4 passagerare, vägtullar och bagage inkluderat, samma pris i båda riktningarna."
+          }
+        }
+      ]
+    }
+  ]
+}

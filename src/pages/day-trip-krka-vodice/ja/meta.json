@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-vodice",
+  "title": "ヴォディツェ発クルカ日帰り旅行 | プライベート送迎、固定 €125 | TAXI Antonio",
+  "description": "ヴォディツェ発クルカ行きのプライベート往復タクシー送迎。1台あたり固定 €125、最大4名まで。Vodice、Srima、Tribunj のホテルとアパートメントからドアツードア。ツアーではなく、往復の送迎のみです。",
+  "keywords": "ヴォディツェ発 クルカ 日帰り, ヴォディツェから クルカ, ヴォディツェから クルカ タクシー, クルカ 送迎 ヴォディツェ, Srima から クルカ, Tribunj から クルカ, ヴォディツェから クルカ国立公園",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "ヴォディツェ発クルカへのプライベート日帰り旅行",
+      "description": "英語を話す地元ドライバーによる、ヴォディツェ発クルカ国立公園へのプライベート日帰り旅行。最大4名までの1台あたり固定125ユーロで、Vodice、Srima、Tribunj のホテルとアパートメントからのドアツードアのお迎え付きです。",
+      "touristType": "自然と観光",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "プライベート車両、ヴォディツェからクルカ国立公園への往復、最大4名まで。公園の入場券は含まれません。"
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "これはガイド付きツアーですか、それともタクシー送迎ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ガイド付きツアーではなく、タクシー送迎です。アントニオは地元のドライバーで、ヴォディツェからクルカまでのプライベートな往復送迎をご提供します。お客様には車と運転をご利用いただき、公園の中ではご自分のペースで自由に見て回っていただけます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ヴォディツェだけでなく Srima や Tribunj からもお迎えできますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。Srima と Tribunj からのお迎えも、ヴォディツェと同じ固定料金です。Vodice のマリーナや Riva を含め、Vodice、Srima、Tribunj のどのホテル、アパートメント、ヴィラでもドアツードアでお迎えに上がります。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ヴォディツェからクルカまでのタクシーはいくらですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ヴォディツェからクルカへのプライベート往復送迎は、最大4名までの1台あたり固定125ユーロで、燃料と公園での待機時間が含まれます。Srima と Tribunj でのお迎えも同じ料金です。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "クルカ国立公園ではどのくらい過ごせますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "多くのお客様は公園内で3〜4時間ほどの自由時間をお選びになります。主要な滝を見て、定番の遊歩道を一周するのに十分な時間です。ご予約時にご相談いただければ、短くも長くもできます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "クルカの入場券は料金に含まれますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "いいえ。入場券は Skradin または Lozovac の入口、あるいはオンラインで、クルカ国立公園から直接別途お買い求めください。料金は季節により、おおよそ7〜40ユーロです。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ヴォディツェからクルカへの日帰り旅行はどう予約して支払いますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "銀行振込またはカードによる20%の前払金（最低20ユーロ）で予約が確定し、確認として請求書をお送りします。残額は当日、現金またはカードでドライバーにお支払いいただきます。"
+          }
+        }
+      ]
+    }
+  ]
+}
