@@ -244,8 +244,11 @@ def page_priority(slug):
 
 
 def write_sitemap(pages):
-    """One combined sitemap. Every <url> carries xhtml:link alternates for each
-    language variant of that page plus itself, and an x-default to English."""
+    """Sitemap(s). Every <url> carries xhtml:link alternates for each language
+    variant plus itself and an x-default. With hreflang the file grows large, so
+    if it would exceed Google's 50 MB / 50,000-URL limit we split it into
+    sitemap-1.xml, sitemap-2.xml, ... behind a sitemap index at sitemap.xml.
+    Under the limit it stays a single sitemap.xml, so robots.txt never changes."""
     today = datetime.date.today().isoformat()
     entries = []  # (loc, priority, alternates[list of (hreflang, href)], xdefault)
     for page_id, variants in pages.items():
@@ -258,9 +261,8 @@ def write_sitemap(pages):
             loc = canonical_url(lang, meta.get("slug", ""))
             entries.append((loc, page_priority(meta.get("slug", "")), alts, xdefault))
     entries.sort(key=lambda e: e[0])
-    lines = ['<?xml version="1.0" encoding="UTF-8"?>',
-             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
-             'xmlns:xhtml="http://www.w3.org/1999/xhtml">']
+
+    blocks = []
     for loc, prio, alts, xdefault in entries:
         block = [f"  <url>",
                  f"    <loc>{loc}</loc>",
@@ -272,10 +274,52 @@ def write_sitemap(pages):
         if xdefault:
             block.append(f'    <xhtml:link rel="alternate" hreflang="x-default" href="{xdefault}"/>')
         block.append("  </url>")
-        lines.append("\n".join(block))
-    lines.append("</urlset>")
-    write(os.path.join(ROOT, "sitemap.xml"), "\n".join(lines) + "\n")
-    print(f"built sitemap.xml ({len(entries)} URLs, with hreflang alternates)")
+        blocks.append("\n".join(block))
+
+    HEADER = ('<?xml version="1.0" encoding="UTF-8"?>\n'
+              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+              'xmlns:xhtml="http://www.w3.org/1999/xhtml">')
+    FOOTER = "</urlset>"
+    # Stay comfortably under Google's hard limits (50 MB / 50,000 URLs).
+    MAX_BYTES = 45 * 1024 * 1024
+    MAX_URLS = 45000
+
+    # Pack blocks into parts by both byte size and URL count.
+    parts, cur, cur_bytes = [], [], len(HEADER) + len(FOOTER) + 2
+    for b in blocks:
+        blen = len(b.encode("utf-8")) + 1
+        if cur and (cur_bytes + blen > MAX_BYTES or len(cur) >= MAX_URLS):
+            parts.append(cur)
+            cur, cur_bytes = [], len(HEADER) + len(FOOTER) + 2
+        cur.append(b)
+        cur_bytes += blen
+    if cur:
+        parts.append(cur)
+
+    # Remove any stale split files from a previous build.
+    for f in os.listdir(ROOT):
+        if f.startswith("sitemap-") and f.endswith(".xml") and f[len("sitemap-"):-len(".xml")].isdigit():
+            os.remove(os.path.join(ROOT, f))
+
+    if len(parts) <= 1:
+        write(os.path.join(ROOT, "sitemap.xml"),
+              HEADER + "\n" + "\n".join(blocks) + "\n" + FOOTER + "\n")
+        print(f"built sitemap.xml ({len(entries)} URLs, with hreflang alternates)")
+        return
+
+    for i, part in enumerate(parts, 1):
+        write(os.path.join(ROOT, f"sitemap-{i}.xml"),
+              HEADER + "\n" + "\n".join(part) + "\n" + FOOTER + "\n")
+    idx = ['<?xml version="1.0" encoding="UTF-8"?>',
+           '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for i in range(1, len(parts) + 1):
+        idx.append("  <sitemap>")
+        idx.append(f"    <loc>{SITE_URL}/sitemap-{i}.xml</loc>")
+        idx.append(f"    <lastmod>{today}</lastmod>")
+        idx.append("  </sitemap>")
+    idx.append("</sitemapindex>")
+    write(os.path.join(ROOT, "sitemap.xml"), "\n".join(idx) + "\n")
+    print(f"built sitemap index ({len(entries)} URLs across {len(parts)} files)")
 
 
 def main():
