@@ -18,6 +18,31 @@ $CHIP_LABELS = [
 $statusFilter = $_GET['status'] ?? '';
 $q = trim($_GET['q'] ?? '');
 
+// Sort modes offered in the UI. 'travel' is the default: upcoming rides first
+// (soonest travel date on top), with completed/cancelled pushed to the bottom.
+$SORTS = [
+    'travel'  => 'Travel date',
+    'booking' => 'Booking date',
+    'name'    => 'Name (A-Z)',
+];
+$sort = $_GET['sort'] ?? 'travel';
+if (!isset($SORTS[$sort])) $sort = 'travel';
+switch ($sort) {
+    case 'booking':
+        // Newest booking first (when it was submitted).
+        $orderBy = 'created_at DESC, id DESC';
+        break;
+    case 'name':
+        // Alphabetical by customer, soonest travel date within the same name.
+        $orderBy = 'customer_name ASC, pickup_date ASC, pickup_time ASC';
+        break;
+    case 'travel':
+    default:
+        // Active rides (new/confirmed) first by soonest date; done rides last.
+        $orderBy = "(status IN ('completed','cancelled')) ASC, (pickup_date IS NULL) ASC, pickup_date ASC, pickup_time ASC";
+        break;
+}
+
 $where = [];
 $params = [];
 if (in_array($statusFilter, $STATUSES, true)) {
@@ -31,7 +56,7 @@ if ($q !== '') {
 }
 $sql = 'SELECT id, created_at, pickup, dropoff, pickup_date, pickup_time, customer_name, status, payment FROM bookings';
 if ($where) $sql .= ' WHERE ' . implode(' AND ', $where);
-$sql .= ' ORDER BY (pickup_date IS NULL), pickup_date ASC, pickup_time ASC LIMIT 500';
+$sql .= ' ORDER BY ' . $orderBy . ' LIMIT 500';
 $stmt = tx_db()->prepare($sql);
 $stmt->execute($params);
 $bookings = $stmt->fetchAll();
@@ -47,6 +72,12 @@ function chip_url($status)
     $params = $_GET;
     if ($status === '') unset($params['status']); else $params['status'] = $status;
     return 'index.php' . ($params ? '?' . http_build_query($params) : '');
+}
+function sort_url($sort)
+{
+    $params = $_GET;
+    $params['sort'] = $sort;
+    return 'index.php?' . http_build_query($params);
 }
 function fmt_date($date) { return $date ? date('j M Y', strtotime($date)) : '&mdash;'; }
 function fmt_time($time) { return $time ? substr($time, 0, 5) : '&mdash;'; }
@@ -73,6 +104,7 @@ function fmt_time($time) { return $time ? substr($time, 0, 5) : '&mdash;'; }
   <div class="admin-wrap">
     <form class="admin-search" method="GET" action="index.php">
       <?php if ($statusFilter): ?><input type="hidden" name="status" value="<?= e($statusFilter) ?>"><?php endif; ?>
+      <input type="hidden" name="sort" value="<?= e($sort) ?>">
       <input type="search" name="q" placeholder="Search name, email, route..." value="<?= e($q) ?>">
       <button type="submit" class="admin-btn">Search</button>
       <?php if ($q): ?><a class="admin-btn admin-btn-ghost" href="<?= e(chip_url($statusFilter)) ?>">Clear</a><?php endif; ?>
@@ -84,6 +116,13 @@ function fmt_time($time) { return $time ? substr($time, 0, 5) : '&mdash;'; }
         <a class="admin-chip status-<?= $s ?> <?= $statusFilter === $s ? 'active' : '' ?>" href="<?= e(chip_url($s)) ?>"><?= $CHIP_LABELS[$s] ?> (<?= $counts[$s] ?>)</a>
       <?php endforeach; ?>
     </nav>
+
+    <div class="admin-sort">
+      <span class="admin-sort-label">Sort by:</span>
+      <?php foreach ($SORTS as $key => $label): ?>
+        <a class="admin-sort-opt <?= $sort === $key ? 'active' : '' ?>" href="<?= e(sort_url($key)) ?>"><?= $label ?></a>
+      <?php endforeach; ?>
+    </div>
 
     <?php if (!$bookings): ?>
       <p class="admin-empty">No bookings found.</p>

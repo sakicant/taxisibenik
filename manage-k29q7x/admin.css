@@ -108,6 +108,21 @@ body {
 }
 .admin-chip.active { background: var(--black); color: var(--white); border-color: var(--black); }
 
+.admin-sort { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 20px; }
+.admin-sort-label { font-size: 0.82rem; color: var(--gray-600); margin-right: 2px; }
+.admin-sort-opt {
+  padding: 5px 12px;
+  border-radius: 6px;
+  background: var(--white);
+  border: 1px solid var(--gray-200);
+  color: var(--gray-600);
+  font-size: 0.82rem;
+  text-decoration: none;
+  transition: border-color 0.15s, color 0.15s;
+}
+.admin-sort-opt:hover { border-color: var(--gold); color: var(--black); }
+.admin-sort-opt.active { background: var(--gold); border-color: var(--gold); color: var(--black); font-weight: 600; }
+
 .admin-empty { color: var(--gray-600); padding: 40px 0; text-align: center; }
 
 /* Booking cards */
