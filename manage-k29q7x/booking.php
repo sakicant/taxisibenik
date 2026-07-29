@@ -78,6 +78,9 @@ function gcal_link($title, $start, $end, $details, $location) {
           <div><span>Phone</span><strong><?= $b['customer_phone'] ? e($b['customer_phone']) : '&mdash;' ?></strong></div>
           <?php if ($b['flight']): ?><div><span>Pickup details</span><strong><?= e($b['flight']) ?></strong></div><?php endif; ?>
           <?php if (!empty($b['dropoff_details'])): ?><div><span>Destination details</span><strong><?= e($b['dropoff_details']) ?></strong></div><?php endif; ?>
+          <?php if (!empty($b['contact_method'])): ?><div><span>Preferred contact</span><strong><?= $b['contact_method'] === 'whatsapp' ? 'WhatsApp' : 'Email' ?></strong></div><?php endif; ?>
+          <?php if (!empty($b['payment_option'])): ?><div><span>Payment choice</span><strong><?= $b['payment_option'] === 'full' ? 'Pay in full' : 'Deposit (20%, min &euro;20)' ?></strong></div><?php endif; ?>
+          <?php if (!empty($b['invoice_required'])): ?><div><span>Company invoice</span><strong>Requested</strong></div><?php endif; ?>
         </div>
 
         <?php if ($b['notes']): ?><p class="booking-notes"><span>Customer notes:</span> <?= e($b['notes']) ?></p><?php endif; ?>

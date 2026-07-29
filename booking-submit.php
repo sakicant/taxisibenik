@@ -52,14 +52,27 @@ $flight      = field('flight', 120);
 $dropoffDet  = field('dropoff_details', 120);
 $notes       = isset($_POST['notes']) ? mb_substr(trim((string) $_POST['notes']), 0, 2000) : '';
 
+// Preferred contact method + payment choice + company-invoice flag (new form).
+$contactMethod = field('contact_method', 20);
+$paymentOption = field('payment_option', 20);
+$invoiceReq    = !empty($_POST['invoice_required']) ? 1 : 0;
+if ($contactMethod !== 'whatsapp' && $contactMethod !== 'email') $contactMethod = '';
+if ($paymentOption !== 'full' && $paymentOption !== 'deposit') $paymentOption = '';
+
 $errors = [];
 if ($pickup === '' || $dropoff === '') $errors[] = 'pickup and destination';
 if ($name === '') $errors[] = 'your name';
-if ($email === '' || !filter_var($email, FILTER_VALIDATE_EMAIL)) $errors[] = 'a valid email';
+// Contact requirement honours the chosen method. WhatsApp-only bookings do not
+// need an email; if one is given it must still be valid. A form with no method
+// chooser (legacy) keeps the original "email required" rule.
+if ($contactMethod === 'whatsapp') {
+    if ($phone === '') $errors[] = 'your WhatsApp number';
+    if ($email !== '' && !filter_var($email, FILTER_VALIDATE_EMAIL)) $errors[] = 'a valid email';
+} else {
+    if ($email === '' || !filter_var($email, FILTER_VALIDATE_EMAIL)) $errors[] = 'a valid email';
+}
 if ($pickupDate === '') $errors[] = 'pickup date';
 if ($pickupTime === '') $errors[] = 'pickup time';
-if ($phone === '') $errors[] = 'a phone number';
-if ($flight === '') $errors[] = 'pickup details';
 
 if ($errors) {
     http_response_code(400);
@@ -78,11 +91,13 @@ try {
         'INSERT INTO bookings
          (created_at, pickup, dropoff, trip_type, pickup_date, pickup_time,
           return_date, return_time, passengers, luggage, quoted_price,
-          customer_name, customer_email, customer_phone, flight, dropoff_details, notes)
+          customer_name, customer_email, customer_phone, flight, dropoff_details, notes,
+          contact_method, payment_option, invoice_required)
          VALUES
          (NOW(), :pickup, :dropoff, :trip, :pdate, :ptime,
           :rdate, :rtime, :pax, :lug, :price,
-          :name, :email, :phone, :flight, :dropoff_details, :notes)'
+          :name, :email, :phone, :flight, :dropoff_details, :notes,
+          :contact_method, :payment_option, :invoice_required)'
     );
     $stmt->execute([
         ':pickup' => $pickup,
@@ -101,6 +116,9 @@ try {
         ':flight' => $nn($flight),
         ':dropoff_details' => $nn($dropoffDet),
         ':notes' => $notes === '' ? null : $notes,
+        ':contact_method' => $nn($contactMethod),
+        ':payment_option' => $nn($paymentOption),
+        ':invoice_required' => $invoiceReq,
     ]);
     $id = tx_db()->lastInsertId();
 } catch (PDOException $e) {
@@ -122,8 +140,15 @@ if ($trip === 'return') {
 $lines[] = "Passengers: {$passengers}   Luggage: {$luggage}";
 $lines[] = 'Quoted price: ' . ($price !== '' ? '€' . $price : 'custom');
 $lines[] = "Name: {$name}";
-$lines[] = "Email: {$email}";
+$lines[] = 'Email: ' . ($email !== '' ? $email : 'not provided');
 $lines[] = 'Phone: ' . ($phone !== '' ? $phone : 'not provided');
+if ($contactMethod !== '') {
+    $lines[] = 'Preferred contact: ' . ($contactMethod === 'whatsapp' ? 'WhatsApp' : 'Email');
+}
+if ($paymentOption !== '') {
+    $lines[] = 'Payment choice: ' . ($paymentOption === 'full' ? 'Pay in full' : 'Deposit to confirm (20%, min EUR 20)');
+}
+if ($invoiceReq) $lines[] = 'Company invoice: requested';
 if ($flight !== '') $lines[] = "Pickup details: {$flight}";
 if ($dropoffDet !== '') $lines[] = "Destination details: {$dropoffDet}";
 if ($notes !== '') $lines[] = "Notes: {$notes}";
@@ -131,7 +156,7 @@ $summary = implode("\n", $lines);
 
 $c = tx_config();
 $headers = 'From: TAXI Antonio <' . $c['mail_from'] . ">\r\n" .
-           'Reply-To: ' . $email . "\r\n" .
+           ($email !== '' ? 'Reply-To: ' . $email . "\r\n" : '') .
            "Content-Type: text/plain; charset=utf-8\r\n";
 
 // Notify Antonio. The host tells us which site the booking came from.
@@ -161,6 +186,10 @@ $custHeaders = 'From: TAXI Antonio <' . $c['mail_from'] . ">\r\n" .
                'Reply-To: ' . $c['admin_email'] . "\r\n" .
                "MIME-Version: 1.0\r\n" .
                "Content-Type: text/html; charset=utf-8\r\n";
-@mail($email, 'Booking request received', $custBody, $custHeaders);
+// Only email the customer when they left an address; WhatsApp-only bookings
+// are confirmed by Antonio over WhatsApp instead.
+if ($email !== '') {
+    @mail($email, 'Booking request received', $custBody, $custHeaders);
+}
 
 echo json_encode(['success' => true, 'id' => $id]);

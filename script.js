@@ -2879,19 +2879,22 @@ if (quoteWidget) {
     }
   });
 
-  // "Book this" route cards prefill the widget with the route and show the fare.
-  // The link's href="#book" handles the scroll up to the form.
+  // "Book this" route cards go straight to the booking page with the route and
+  // its fixed fare prefilled, instead of only scrolling to the on-page widget.
   document.querySelectorAll('.ar-book[data-from]').forEach((link) => {
-    link.addEventListener('click', () => {
-      const set = (hidId, visId, val) => {
-        const h = document.getElementById(hidId);
-        const v = document.getElementById(visId);
-        if (h) h.value = val;
-        if (v) v.value = val;
-      };
-      set('quote-from', 'quote-from-input', link.dataset.from);
-      set('quote-to', 'quote-to-input', link.dataset.to);
-      document.getElementById('quote-submit').click();
+    link.addEventListener('click', (e) => {
+      const from = link.dataset.from;
+      const to = link.dataset.to;
+      if (!from || !to) return;
+      e.preventDefault();
+      let priceParam;
+      if (from === to) {
+        priceParam = 'meter';
+      } else {
+        const ow = priceOneWay(from, to);
+        priceParam = ow != null ? String(ow) : 'custom';
+      }
+      window.location.href = bookingUrl({ from, to, tripType: 'oneway', passengers: 1, luggage: 1, priceParam });
     });
   });
 
@@ -2951,6 +2954,29 @@ if (bookingPageForm) {
 
   const bookingPageNote = document.getElementById('booking-page-note');
 
+  // Preferred contact method (redesigned pages only): the chosen channel
+  // becomes required, the other optional. Null-safe so older book pages that
+  // don't have these controls keep working unchanged.
+  const emailEl = document.getElementById('book-email');
+  const phoneEl = document.getElementById('book-phone');
+  const contactRadios = bookingPageForm.querySelectorAll('input[name="contact_method"]');
+  const emailFlag = document.getElementById('email-flag');
+  const phoneFlag = document.getElementById('phone-flag');
+  if (contactRadios.length) {
+    const reqWord = bookingPageForm.getAttribute('data-req-label') || 'required';
+    const optWord = bookingPageForm.getAttribute('data-opt-label') || 'optional';
+    const applyContactPref = () => {
+      const chosen = bookingPageForm.querySelector('input[name="contact_method"]:checked');
+      const v = chosen ? chosen.value : '';
+      if (emailEl) emailEl.required = v === 'email';
+      if (phoneEl) phoneEl.required = v === 'whatsapp';
+      if (emailFlag) emailFlag.textContent = v ? '(' + (v === 'email' ? reqWord : optWord) + ')' : '';
+      if (phoneFlag) phoneFlag.textContent = v ? '(' + (v === 'whatsapp' ? reqWord : optWord) + ')' : '';
+    };
+    contactRadios.forEach((r) => r.addEventListener('change', applyContactPref));
+    applyContactPref();
+  }
+
   // Bookings need at least 2 hours' notice. Block past dates in the picker and
   // enforce the 2-hour minimum on submit.
   const MIN_NOTICE_MS = 2 * 60 * 60 * 1000;
@@ -2970,8 +2996,19 @@ if (bookingPageForm) {
     const date = document.getElementById('book-date').value;
     const time = document.getElementById('book-time').value;
 
-    if (!from || !to || !name || !email || !date || !time) {
-      bookingPageNote.textContent = 'Please fill in the pickup and drop-off, your name, email, pickup date and time.';
+    // Contact requirement honours the preferred-method choice when present,
+    // otherwise falls back to the classic "email required" rule.
+    const phoneVal = phoneEl ? phoneEl.value.trim() : '';
+    let contactOk;
+    if (contactRadios.length) {
+      const m = bookingPageForm.querySelector('input[name="contact_method"]:checked');
+      contactOk = !!m && (m.value === 'email' ? !!email : !!phoneVal);
+    } else {
+      contactOk = !!email;
+    }
+
+    if (!from || !to || !name || !date || !time || !contactOk) {
+      bookingPageNote.textContent = 'Please fill in the pickup and drop-off, your name, your preferred contact, and pickup date and time.';
       return;
     }
 
@@ -3002,6 +3039,16 @@ if (bookingPageForm) {
       body.append('dropoff_details', document.getElementById('book-dropoff-details').value.trim());
       body.append('notes', document.getElementById('book-notes').value.trim());
       body.append('company', document.getElementById('book-company').value);
+
+      // Redesigned-page extras (ignored by older pages that don't have them).
+      const consentEl = document.getElementById('book-consent');
+      if (consentEl) body.append('consent', consentEl.checked ? '1' : '');
+      const methodEl = bookingPageForm.querySelector('input[name="contact_method"]:checked');
+      if (methodEl) body.append('contact_method', methodEl.value);
+      const payEl = bookingPageForm.querySelector('input[name="payment_option"]:checked');
+      if (payEl) body.append('payment_option', payEl.value);
+      const invEl = document.getElementById('book-invoice');
+      if (invEl) body.append('invoice_required', invEl.checked ? '1' : '');
 
       const response = await fetch('/booking-submit.php', {
         method: 'POST',
