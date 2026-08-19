@@ -1,7 +1,7 @@
 {
   "slug": "taxi-zadar-lentoasema-drnis",
-  "title": "Taksi Zadarin lentoasema - Drniš | Kiinteä hinta €110 | TAXI Antonio",
-  "description": "Yksityinen taksi ja kuljetus, reitti Zadarin lentoasema - Drniš. Kiinteä hinta €110 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "title": "Taksi Zadarin lentoasema - Drniš | Kiinteä hinta €140 | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Zadarin lentoasema - Drniš. Kiinteä hinta €140 per auto, enintään 4. Varaa suoraan Antoniolta.",
   "keywords": "taksi zadarin lentoasema - drniš, kuljetus zadarin lentoasema - drniš, lentokenttäkuljetus zadarin lentoasema - drniš",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Yksityinen taksikuljetus",
       "name": "Taksi Zadarin lentoasema - Drniš",
-      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Zadarin lentoasema - Drniš, 110 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Zadarin lentoasema - Drniš, 140 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/fi/taxi-zadar-lentoasema-drnis/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "Yhdensuuntainen yksityinen matka, reitti Zadarin lentoasema - Drniš, per auto enintään 4 matkustajalle. Meno ja paluu 220 euroa."
+        "description": "Yhdensuuntainen yksityinen matka, reitti Zadarin lentoasema - Drniš, per auto enintään 4 matkustajalle. Meno ja paluu 280 euroa."
       }
     },
     {
@@ -72,7 +72,7 @@
           "name": "Paljonko kuljetus maksaa reitillä Zadarin lentoasema - Drniš?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiinteä 110 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatka maksaa 220."
+            "text": "Kiinteä 140 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatka maksaa 280."
           }
         },
         {

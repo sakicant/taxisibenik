@@ -1,7 +1,7 @@
 {
   "slug": "taxi-drnis-repter-zadar",
-  "title": "Taxi Drniš - Zadar repülőtér | Fix ár €110 | TAXI Antonio",
-  "description": "Privát taxi és transzfer, Drniš - Zadar repülőtér. Fix ár €110 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "title": "Taxi Drniš - Zadar repülőtér | Fix ár €140 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Drniš - Zadar repülőtér. Fix ár €140 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
   "keywords": "taxi drniš - zadar repülőtér, transzfer drniš - zadar repülőtér, reptéri transzfer drniš - zadar repülőtér",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privát taxitranszfer",
       "name": "Taxi Drniš - Zadar repülőtér",
-      "description": "Privát taxi és transzfer fix áron, Drniš - Zadar repülőtér, 110 euró járművenként max. 4 utasra, háztól házig.",
+      "description": "Privát taxi és transzfer fix áron, Drniš - Zadar repülőtér, 140 euró járművenként max. 4 utasra, háztól házig.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/hu/taxi-drnis-repter-zadar/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "Privát egyirányú út, Drniš - Zadar repülőtér, járművenként max. 4 utasra. Oda-vissza 220 euró."
+        "description": "Privát egyirányú út, Drniš - Zadar repülőtér, járművenként max. 4 utasra. Oda-vissza 280 euró."
       }
     },
     {
@@ -56,7 +56,7 @@
           "name": "Mennyibe kerül egy taxi a Drniš - Zadar repülőtér útvonalon?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fix 110 járművenként, egy irány, max. 4 utas. Az ár járművenként, nem személyenként értendő, és tartalmazza az útdíjat, üzemanyagot és csomagot. Az oda-vissza út 220."
+            "text": "Fix 140 járművenként, egy irány, max. 4 utas. Az ár járművenként, nem személyenként értendő, és tartalmazza az útdíjat, üzemanyagot és csomagot. Az oda-vissza út 280."
           }
         },
         {

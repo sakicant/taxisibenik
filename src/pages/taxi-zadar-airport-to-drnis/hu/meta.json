@@ -1,7 +1,7 @@
 {
   "slug": "taxi-repter-zadar-drnis",
-  "title": "Taxi Zadar repülőtér - Drniš | Fix ár €110 | TAXI Antonio",
-  "description": "Privát taxi és transzfer, Zadar repülőtér - Drniš. Fix ár €110 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "title": "Taxi Zadar repülőtér - Drniš | Fix ár €140 | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Zadar repülőtér - Drniš. Fix ár €140 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
   "keywords": "taxi zadar repülőtér - drniš, transzfer zadar repülőtér - drniš, reptéri transzfer zadar repülőtér - drniš",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privát taxitranszfer",
       "name": "Taxi Zadar repülőtér - Drniš",
-      "description": "Privát taxi és transzfer fix áron, Zadar repülőtér - Drniš, 110 euró járművenként max. 4 utasra, háztól házig.",
+      "description": "Privát taxi és transzfer fix áron, Zadar repülőtér - Drniš, 140 euró járművenként max. 4 utasra, háztól házig.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/hu/taxi-repter-zadar-drnis/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "Privát egyirányú út, Zadar repülőtér - Drniš, járművenként max. 4 utasra. Oda-vissza 220 euró."
+        "description": "Privát egyirányú út, Zadar repülőtér - Drniš, járművenként max. 4 utasra. Oda-vissza 280 euró."
       }
     },
     {
@@ -80,7 +80,7 @@
           "name": "Mennyibe kerül a transzfer a Zadar repülőtér - Drniš útvonalon?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fix 110 járművenként max. 4 utasra, egy irány, útdíj és csomag beleértve. Az oda-vissza út 220."
+            "text": "Fix 140 járművenként max. 4 utasra, egy irány, útdíj és csomag beleértve. Az oda-vissza út 280."
           }
         },
         {

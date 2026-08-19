@@ -1,7 +1,7 @@
 {
   "slug": "taksi-drnis-letalisce-zadar",
-  "title": "Taksi Drniš - Letališče Zadar | Fiksna cena €110 | TAXI Antonio",
-  "description": "Taksi in zasebni prevoz, relacija Drniš - Letališče Zadar. Fiksna cena €110 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "title": "Taksi Drniš - Letališče Zadar | Fiksna cena €140 | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Drniš - Letališče Zadar. Fiksna cena €140 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
   "keywords": "taksi drniš - letališče zadar, prevoz drniš - letališče zadar, letališki prevoz drniš - letališče zadar",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Zasebni taksi prevoz",
       "name": "Taksi Drniš - Letališče Zadar",
-      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Drniš - Letališče Zadar, 110 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Drniš - Letališče Zadar, 140 evrov na vozilo do 4 potnike, od vrat do vrat.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/sl/taksi-drnis-letalisce-zadar/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "Zasebna enosmerna vožnja, relacija Drniš - Letališče Zadar, na vozilo do 4 potnike. Povratno 220 evrov."
+        "description": "Zasebna enosmerna vožnja, relacija Drniš - Letališče Zadar, na vozilo do 4 potnike. Povratno 280 evrov."
       }
     },
     {
@@ -56,7 +56,7 @@
           "name": "Koliko stane taksi na relaciji Drniš - Letališče Zadar?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 110 na vozilo, enosmerno, do 4 potnike. Cena je na vozilo, ne na osebo, in vključuje cestnine, gorivo in prtljago. Povratna vožnja je 220."
+            "text": "Fiksno 140 na vozilo, enosmerno, do 4 potnike. Cena je na vozilo, ne na osebo, in vključuje cestnine, gorivo in prtljago. Povratna vožnja je 280."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-drnis-flygplats-zadar",
-  "title": "Taxi Drniš - Zadar flygplats | Fast pris €110 | TAXI Antonio",
-  "description": "Privat taxi och transfer, Drniš - Zadar flygplats. Fast pris €110 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "title": "Taxi Drniš - Zadar flygplats | Fast pris €140 | TAXI Antonio",
+  "description": "Privat taxi och transfer, Drniš - Zadar flygplats. Fast pris €140 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
   "keywords": "taxi drniš - zadar flygplats, transfer drniš - zadar flygplats, flygplatstransfer drniš - zadar flygplats",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privat taxitransfer",
       "name": "Taxi Drniš - Zadar flygplats",
-      "description": "Privat taxi och transfer till fast pris, Drniš - Zadar flygplats, 110 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "description": "Privat taxi och transfer till fast pris, Drniš - Zadar flygplats, 140 euro per fordon för upp till 4 passagerare, dörr till dörr.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/sv/taxi-drnis-flygplats-zadar/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "Enkel privat resa, Drniš - Zadar flygplats, per fordon för upp till 4 passagerare. Tur och retur 220 euro."
+        "description": "Enkel privat resa, Drniš - Zadar flygplats, per fordon för upp till 4 passagerare. Tur och retur 280 euro."
       }
     },
     {
@@ -56,7 +56,7 @@
           "name": "Hur mycket kostar en taxi på sträckan Drniš - Zadar flygplats?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fast 110 per fordon, enkel resa, för upp till 4 passagerare. Priset gäller per fordon, inte per person, och inkluderar vägtull, bränsle och bagage. En tur och retur kostar 220."
+            "text": "Fast 140 per fordon, enkel resa, för upp till 4 passagerare. Priset gäller per fordon, inte per person, och inkluderar vägtull, bränsle och bagage. En tur och retur kostar 280."
           }
         },
         {

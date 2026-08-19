@@ -1,7 +1,7 @@
 {
   "slug": "taxi-drnis-to-zadar-airport",
-  "title": "Taxi Drniš to Zadar Airport | Fixed €110 Transfer | TAXI Antonio",
-  "description": "Private taxi and transfer from Drniš to Zadar Airport. Fixed €110 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "title": "Taxi Drniš to Zadar Airport | Fixed €140 Transfer | TAXI Antonio",
+  "description": "Private taxi and transfer from Drniš to Zadar Airport. Fixed €140 per car, up to 4 passengers, door to door. Book direct with Antonio.",
   "keywords": "taxi drniš to zadar airport, transfer drniš to zadar airport, drniš to zadar airport taxi, drniš to zadar airport transfer",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Private taxi transfer",
       "name": "Taxi Drniš to Zadar Airport",
-      "description": "Private, fixed-price taxi and transfer from Drniš to Zadar Airport, 110 euros per car for up to 4 passengers, door to door.",
+      "description": "Private, fixed-price taxi and transfer from Drniš to Zadar Airport, 140 euros per car for up to 4 passengers, door to door.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/taxi-drnis-to-zadar-airport/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "One-way private transfer from Drniš to Zadar Airport, per car for up to 4 passengers. Return 220 euros."
+        "description": "One-way private transfer from Drniš to Zadar Airport, per car for up to 4 passengers. Return 280 euros."
       }
     },
     {
@@ -56,7 +56,7 @@
           "name": "How much is a taxi from Drniš to Zadar Airport?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A fixed 110 per car, one way, for up to 4 passengers. The price is per vehicle, not per person, and includes tolls, fuel and luggage. A return trip is 220."
+            "text": "A fixed 140 per car, one way, for up to 4 passengers. The price is per vehicle, not per person, and includes tolls, fuel and luggage. A return trip is 280."
           }
         },
         {

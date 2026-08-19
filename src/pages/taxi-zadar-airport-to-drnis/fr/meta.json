@@ -1,7 +1,7 @@
 {
   "slug": "taxi-aeroport-zadar-drnis",
-  "title": "Taxi Aéroport de Zadar - Drniš | Prix fixe €110 | TAXI Antonio",
-  "description": "Taxi et transfert privé, trajet Aéroport de Zadar - Drniš. Prix fixe €110 par véhicule, jusqu'à 4. Réservez avec Antonio.",
+  "title": "Taxi Aéroport de Zadar - Drniš | Prix fixe €140 | TAXI Antonio",
+  "description": "Taxi et transfert privé, trajet Aéroport de Zadar - Drniš. Prix fixe €140 par véhicule, jusqu'à 4. Réservez avec Antonio.",
   "keywords": "taxi aéroport de zadar - drniš, transfert aéroport de zadar - drniš, transfert aéroport aéroport de zadar - drniš",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Transfert taxi privé",
       "name": "Taxi Aéroport de Zadar - Drniš",
-      "description": "Taxi et transfert privé à prix fixe, trajet Aéroport de Zadar - Drniš, 110 euros par véhicule jusqu'à 4 passagers, porte à porte.",
+      "description": "Taxi et transfert privé à prix fixe, trajet Aéroport de Zadar - Drniš, 140 euros par véhicule jusqu'à 4 passagers, porte à porte.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/fr/taxi-aeroport-zadar-drnis/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "Trajet privé aller simple, trajet Aéroport de Zadar - Drniš, par véhicule jusqu'à 4 passagers. Aller-retour 220 euros."
+        "description": "Trajet privé aller simple, trajet Aéroport de Zadar - Drniš, par véhicule jusqu'à 4 passagers. Aller-retour 280 euros."
       }
     },
     {
@@ -80,7 +80,7 @@
           "name": "Combien coûte le transfert sur le trajet Aéroport de Zadar - Drniš ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "110 fixe par véhicule jusqu'à 4 passagers, aller simple, péages et bagages inclus. Un aller-retour coûte 220."
+            "text": "140 fixe par véhicule jusqu'à 4 passagers, aller simple, péages et bagages inclus. Un aller-retour coûte 280."
           }
         },
         {

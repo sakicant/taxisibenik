@@ -1,7 +1,7 @@
 {
   "slug": "taxi-zadar-lufthavn-drnis",
-  "title": "Taxi Zadar lufthavn - Drniš | Fastpris €110 | TAXI Antonio",
-  "description": "Privat taxi og transport, strekningen Zadar lufthavn - Drniš. Fastpris €110 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "title": "Taxi Zadar lufthavn - Drniš | Fastpris €140 | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Zadar lufthavn - Drniš. Fastpris €140 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
   "keywords": "taxi zadar lufthavn - drniš, transport zadar lufthavn - drniš, flyplasstransport zadar lufthavn - drniš",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privat taxitransport",
       "name": "Taxi Zadar lufthavn - Drniš",
-      "description": "Privat taxi og transport til fastpris, strekningen Zadar lufthavn - Drniš, 110 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "description": "Privat taxi og transport til fastpris, strekningen Zadar lufthavn - Drniš, 140 euro per bil for opptil 4 passasjerer, dør til dør.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/no/taxi-zadar-lufthavn-drnis/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "Enkel privat tur, strekningen Zadar lufthavn - Drniš, per bil for opptil 4 passasjerer. Tur og retur 220 euro."
+        "description": "Enkel privat tur, strekningen Zadar lufthavn - Drniš, per bil for opptil 4 passasjerer. Tur og retur 280 euro."
       }
     },
     {
@@ -72,7 +72,7 @@
           "name": "Hvor mye koster transporten på strekningen Zadar lufthavn - Drniš?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fast 110 per bil for opptil 4 passasjerer, en vei, bompenger og bagasje inkludert. Tur og retur koster 220."
+            "text": "Fast 140 per bil for opptil 4 passasjerer, en vei, bompenger og bagasje inkludert. Tur og retur koster 280."
           }
         },
         {

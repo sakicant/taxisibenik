@@ -1,7 +1,7 @@
 {
   "slug": "taxi-drnis-letiste-zadar",
-  "title": "Taxi Drniš - Letiště Zadar | Pevná cena €110 | TAXI Antonio",
-  "description": "Taxi a soukromý transfer, trasa Drniš - Letiště Zadar. Pevná cena €110 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "title": "Taxi Drniš - Letiště Zadar | Pevná cena €140 | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Drniš - Letiště Zadar. Pevná cena €140 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
   "keywords": "taxi drniš - letiště zadar, transfer drniš - letiště zadar, letištní transfer drniš - letiště zadar",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Soukromý taxi transfer",
       "name": "Taxi Drniš - Letiště Zadar",
-      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Drniš - Letiště Zadar, 110 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Drniš - Letiště Zadar, 140 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/cs/taxi-drnis-letiste-zadar/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "Soukromá jednosměrná jízda, trasa Drniš - Letiště Zadar, za vozidlo až pro 4 cestující. Zpáteční 220 eur."
+        "description": "Soukromá jednosměrná jízda, trasa Drniš - Letiště Zadar, za vozidlo až pro 4 cestující. Zpáteční 280 eur."
       }
     },
     {
@@ -56,7 +56,7 @@
           "name": "Kolik stojí taxi na trase Drniš - Letiště Zadar?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pevně 110 za vozidlo, jednosměrná, až 4 cestující. Cena je za vozidlo, ne za osobu, a zahrnuje mýtné, palivo a zavazadla. Zpáteční jízda je 220."
+            "text": "Pevně 140 za vozidlo, jednosměrná, až 4 cestující. Cena je za vozidlo, ne za osobu, a zahrnuje mýtné, palivo a zavazadla. Zpáteční jízda je 280."
           }
         },
         {

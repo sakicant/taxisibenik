@@ -1,7 +1,7 @@
 {
   "slug": "taxi-letisko-zadar-drnis",
-  "title": "Taxi Letisko Zadar - Drniš | Pevná cena €110 | TAXI Antonio",
-  "description": "Súkromné taxi a transfer, Letisko Zadar - Drniš. Pevná cena €110 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "title": "Taxi Letisko Zadar - Drniš | Pevná cena €140 | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Letisko Zadar - Drniš. Pevná cena €140 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
   "keywords": "taxi letisko zadar - drniš, transfer letisko zadar - drniš, letiskový transfer letisko zadar - drniš",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Súkromný taxi transfer",
       "name": "Taxi Letisko Zadar - Drniš",
-      "description": "Súkromné taxi a transfer za pevnú cenu, Letisko Zadar - Drniš, 110 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "description": "Súkromné taxi a transfer za pevnú cenu, Letisko Zadar - Drniš, 140 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/sk/taxi-letisko-zadar-drnis/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "Súkromná jednosmerná jazda, Letisko Zadar - Drniš, za vozidlo pre max. 4 cestujúcich. Spiatočne 220 eur."
+        "description": "Súkromná jednosmerná jazda, Letisko Zadar - Drniš, za vozidlo pre max. 4 cestujúcich. Spiatočne 280 eur."
       }
     },
     {
@@ -80,7 +80,7 @@
           "name": "Koľko stojí transfer na trase Letisko Zadar - Drniš?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pevných 110 za vozidlo pre max. 4 cestujúcich, jednosmerne, mýto a batožina v cene. Spiatočná cesta stojí 220."
+            "text": "Pevných 140 za vozidlo pre max. 4 cestujúcich, jednosmerne, mýto a batožina v cene. Spiatočná cesta stojí 280."
           }
         },
         {

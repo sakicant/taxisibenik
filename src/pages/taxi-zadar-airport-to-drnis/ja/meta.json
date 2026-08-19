@@ -1,7 +1,7 @@
 {
   "slug": "taxi-zadar-airport-drnis",
-  "title": "タクシー ザダル空港 - Drniš | 固定料金 €110 | TAXI Antonio",
-  "description": "貸切タクシー・送迎、ザダル空港 - Drniš 区間。固定料金 €110／1台、最大4名様、ドアツードア。Antonioに直接ご予約ください。",
+  "title": "タクシー ザダル空港 - Drniš | 固定料金 €140 | TAXI Antonio",
+  "description": "貸切タクシー・送迎、ザダル空港 - Drniš 区間。固定料金 €140／1台、最大4名様、ドアツードア。Antonioに直接ご予約ください。",
   "keywords": "タクシー ザダル空港 - drniš, 送迎 ザダル空港 - drniš, 空港送迎 ザダル空港 - drniš",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "貸切タクシー送迎",
       "name": "タクシー ザダル空港 - Drniš",
-      "description": "固定料金の貸切タクシー・送迎、ザダル空港 - Drniš 区間、1台 110 ユーロで最大4名様、ドアツードア。",
+      "description": "固定料金の貸切タクシー・送迎、ザダル空港 - Drniš 区間、1台 140 ユーロで最大4名様、ドアツードア。",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/ja/taxi-zadar-airport-drnis/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "貸切の片道乗車、ザダル空港 - Drniš 区間、1台で最大4名様。往復は 220 ユーロ。"
+        "description": "貸切の片道乗車、ザダル空港 - Drniš 区間、1台で最大4名様。往復は 280 ユーロ。"
       }
     },
     {
@@ -72,7 +72,7 @@
           "name": "ザダル空港 - Drniš 区間の送迎料金はいくらですか？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "片道、車1台あたり固定 110、最大4名様、通行料・荷物込み。往復は 220 です。"
+            "text": "片道、車1台あたり固定 140、最大4名様、通行料・荷物込み。往復は 280 です。"
           }
         },
         {

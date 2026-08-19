@@ -1,7 +1,7 @@
 {
   "slug": "taxi-drnis-aeropuerto-zadar",
-  "title": "Taxi Drniš - Aeropuerto de Zadar | Precio fijo €110 | TAXI Antonio",
-  "description": "Taxi y traslado privado, Drniš - Aeropuerto de Zadar. Precio fijo €110 por vehículo, hasta 4 pasajeros, puerta a puerta. Reserve directamente con Antonio.",
+  "title": "Taxi Drniš - Aeropuerto de Zadar | Precio fijo €140 | TAXI Antonio",
+  "description": "Taxi y traslado privado, Drniš - Aeropuerto de Zadar. Precio fijo €140 por vehículo, hasta 4 pasajeros, puerta a puerta. Reserve directamente con Antonio.",
   "keywords": "taxi drniš - aeropuerto de zadar, traslado drniš - aeropuerto de zadar, traslado al aeropuerto drniš - aeropuerto de zadar",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Traslado privado en taxi",
       "name": "Taxi Drniš - Aeropuerto de Zadar",
-      "description": "Taxi y traslado privado a precio fijo, Drniš - Aeropuerto de Zadar, 110 euros por vehículo para hasta 4 pasajeros, puerta a puerta.",
+      "description": "Taxi y traslado privado a precio fijo, Drniš - Aeropuerto de Zadar, 140 euros por vehículo para hasta 4 pasajeros, puerta a puerta.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/es/taxi-drnis-aeropuerto-zadar/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "Trayecto privado de ida, Drniš - Aeropuerto de Zadar, por vehículo para hasta 4 pasajeros. Ida y vuelta 220 euros."
+        "description": "Trayecto privado de ida, Drniš - Aeropuerto de Zadar, por vehículo para hasta 4 pasajeros. Ida y vuelta 280 euros."
       }
     },
     {
@@ -56,7 +56,7 @@
           "name": "¿Cuánto cuesta un taxi en el trayecto Drniš - Aeropuerto de Zadar?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fijo 110 por vehículo, solo ida, para hasta 4 pasajeros. El precio es por vehículo, no por persona, e incluye peajes, combustible y equipaje. Un viaje de ida y vuelta cuesta 220."
+            "text": "Fijo 140 por vehículo, solo ida, para hasta 4 pasajeros. El precio es por vehículo, no por persona, e incluye peajes, combustible y equipaje. Un viaje de ida y vuelta cuesta 280."
           }
         },
         {

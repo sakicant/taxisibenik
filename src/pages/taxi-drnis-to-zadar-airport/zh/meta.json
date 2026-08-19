@@ -1,7 +1,7 @@
 {
   "slug": "taxi-drnis-zadar-airport",
-  "title": "Drniš - 扎达尔机场 出租车 | 固定价格 €110 | TAXI Antonio",
-  "description": "私人出租车与接送，Drniš - 扎达尔机场 路线。固定价格 €110 每车，最多 4 名乘客，门到门。直接向 Antonio 预订。",
+  "title": "Drniš - 扎达尔机场 出租车 | 固定价格 €140 | TAXI Antonio",
+  "description": "私人出租车与接送，Drniš - 扎达尔机场 路线。固定价格 €140 每车，最多 4 名乘客，门到门。直接向 Antonio 预订。",
   "keywords": "出租车 drniš - 扎达尔机场, 接送 drniš - 扎达尔机场, 机场接送 drniš - 扎达尔机场",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "私人出租车接送",
       "name": "Drniš - 扎达尔机场 出租车",
-      "description": "固定价格的私人出租车与接送，Drniš - 扎达尔机场 路线，每车 110 欧元，最多 4 名乘客，门到门。",
+      "description": "固定价格的私人出租车与接送，Drniš - 扎达尔机场 路线，每车 140 欧元，最多 4 名乘客，门到门。",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/zh/taxi-drnis-zadar-airport/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "单程私人乘车，Drniš - 扎达尔机场 路线，每车最多 4 名乘客。往返 220 欧元。"
+        "description": "单程私人乘车，Drniš - 扎达尔机场 路线，每车最多 4 名乘客。往返 280 欧元。"
       }
     },
     {
@@ -56,7 +56,7 @@
           "name": "Drniš - 扎达尔机场 路线的出租车多少钱？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "固定 110 每车，单程，最多 4 名乘客。价格按车计算，而非按人，含过路费、燃油和行李。往返为 220。"
+            "text": "固定 140 每车，单程，最多 4 名乘客。价格按车计算，而非按人，含过路费、燃油和行李。往返为 280。"
           }
         },
         {

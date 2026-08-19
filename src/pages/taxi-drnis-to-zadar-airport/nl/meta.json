@@ -1,7 +1,7 @@
 {
   "slug": "taxi-drnis-luchthaven-zadar",
-  "title": "Taxi Drniš - Luchthaven Zadar | Vaste prijs €110 | TAXI Antonio",
-  "description": "Taxi en privétransfer, traject Drniš - Luchthaven Zadar. Vaste prijs €110 per voertuig, tot 4 passagiers, van deur tot deur. Boek rechtstreeks bij Antonio.",
+  "title": "Taxi Drniš - Luchthaven Zadar | Vaste prijs €140 | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Drniš - Luchthaven Zadar. Vaste prijs €140 per voertuig, tot 4 passagiers, van deur tot deur. Boek rechtstreeks bij Antonio.",
   "keywords": "taxi drniš - luchthaven zadar, transfer drniš - luchthaven zadar, luchthaventransfer drniš - luchthaven zadar",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privé taxitransfer",
       "name": "Taxi Drniš - Luchthaven Zadar",
-      "description": "Taxi en privétransfer tegen vaste prijs, traject Drniš - Luchthaven Zadar, 110 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Drniš - Luchthaven Zadar, 140 euro per voertuig tot 4 passagiers, van deur tot deur.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/nl/taxi-drnis-luchthaven-zadar/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "Privérit enkele reis, traject Drniš - Luchthaven Zadar, per voertuig tot 4 passagiers. Retour 220 euro."
+        "description": "Privérit enkele reis, traject Drniš - Luchthaven Zadar, per voertuig tot 4 passagiers. Retour 280 euro."
       }
     },
     {
@@ -56,7 +56,7 @@
           "name": "Hoeveel kost een taxi op het traject Drniš - Luchthaven Zadar?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Vast 110 per voertuig, enkele reis, tot 4 passagiers. De prijs is per voertuig, niet per persoon, en omvat tol, brandstof en bagage. Een retour kost 220."
+            "text": "Vast 140 per voertuig, enkele reis, tot 4 passagiers. De prijs is per voertuig, niet per persoon, en omvat tol, brandstof en bagage. Een retour kost 280."
           }
         },
         {

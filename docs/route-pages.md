@@ -147,7 +147,7 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Drniš | Vodice | `taxi-drnis-to-vodice` | 69 |
 | Drniš | Zablaće | `taxi-drnis-to-zablace` | 65 |
 | Drniš | Zadar | `taxi-drnis-to-zadar` | 110 |
-| Drniš | Zadar Airport | `taxi-drnis-to-zadar-airport` | 110 |
+| Drniš | Zadar Airport | `taxi-drnis-to-zadar-airport` | 140 |
 | Drniš | Zagreb | `taxi-drnis-to-zagreb` | 450 |
 | Drniš | Zagreb Airport | `taxi-drnis-to-zagreb-airport` | 450 |
 | Drniš | Zaton | `taxi-drnis-to-zaton` | 69 |
@@ -739,7 +739,7 @@ Translations to HR, DE, PL, CS, IT, FR, NL follow, each with slugs localized whe
 | Zadar Airport | Bilice | `taxi-zadar-airport-to-bilice` | 130 |
 | Zadar Airport | Bilo | `taxi-zadar-airport-to-bilo` | 145 |
 | Zadar Airport | Brodarica | `taxi-zadar-airport-to-brodarica` | 135 |
-| Zadar Airport | Drniš | `taxi-zadar-airport-to-drnis` | 110 |
+| Zadar Airport | Drniš | `taxi-zadar-airport-to-drnis` | 140 |
 | Zadar Airport | Dubrovnik | `taxi-zadar-airport-to-dubrovnik` | 550 |
 | Zadar Airport | Dubrovnik Airport | `taxi-zadar-airport-to-dubrovnik-airport` | 550 |
 | Zadar Airport | Grebaštica | `taxi-zadar-airport-to-grebastica` | 140 |

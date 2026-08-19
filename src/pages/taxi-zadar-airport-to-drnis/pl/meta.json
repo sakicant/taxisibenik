@@ -1,7 +1,7 @@
 {
   "slug": "taxi-lotnisko-zadar-drnis",
-  "title": "Taxi Lotnisko Zadar - Drniš | Stała cena €110 | TAXI Antonio",
-  "description": "Taxi i prywatny transfer, trasa Lotnisko Zadar - Drniš. Stała cena €110 za pojazd, do 4 pasażerów, od drzwi do drzwi. Rezerwuj bezpośrednio u Antonio.",
+  "title": "Taxi Lotnisko Zadar - Drniš | Stała cena €140 | TAXI Antonio",
+  "description": "Taxi i prywatny transfer, trasa Lotnisko Zadar - Drniš. Stała cena €140 za pojazd, do 4 pasażerów, od drzwi do drzwi. Rezerwuj bezpośrednio u Antonio.",
   "keywords": "taxi lotnisko zadar - drniš, transfer lotnisko zadar - drniš, transfer lotniskowy lotnisko zadar - drniš",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Prywatny transfer taxi",
       "name": "Taxi Lotnisko Zadar - Drniš",
-      "description": "Taxi i prywatny transfer w stałej cenie, trasa Lotnisko Zadar - Drniš, 110 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
+      "description": "Taxi i prywatny transfer w stałej cenie, trasa Lotnisko Zadar - Drniš, 140 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,9 @@
       "url": "https://taxisibenik.hr/pl/taxi-lotnisko-zadar-drnis/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
+        "price": "140",
         "priceCurrency": "EUR",
-        "description": "Prywatny przejazd w jedną stronę, trasa Lotnisko Zadar - Drniš, za pojazd do 4 pasażerów. W obie strony 220 euro."
+        "description": "Prywatny przejazd w jedną stronę, trasa Lotnisko Zadar - Drniš, za pojazd do 4 pasażerów. W obie strony 280 euro."
       }
     },
     {
@@ -80,7 +80,7 @@
           "name": "Ile kosztuje transfer na trasie Lotnisko Zadar - Drniš?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Stałe 110 za pojazd do 4 pasażerów, w jedną stronę, opłaty drogowe i bagaż w cenie. W obie strony 220."
+            "text": "Stałe 140 za pojazd do 4 pasażerów, w jedną stronę, opłaty drogowe i bagaż w cenie. W obie strony 280."
           }
         },
         {
