@@ -1,7 +1,7 @@
 {
   "slug": "taksi-letalisce-split-rogoznica",
-  "title": "Taksi Letališče Split - Rogoznica | Fiksna cena €80 | TAXI Antonio",
-  "description": "Taksi in zasebni prevoz, relacija Letališče Split - Rogoznica. Fiksna cena €80 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "title": "Taksi Letališče Split - Rogoznica | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Letališče Split - Rogoznica. Rezervirajte pri Antoniu.",
   "keywords": "taksi letališče split - rogoznica, prevoz letališče split - rogoznica, letališki prevoz letališče split - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Zasebni taksi prevoz",
       "name": "Taksi Letališče Split - Rogoznica",
-      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Letališče Split - Rogoznica, 80 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Letališče Split - Rogoznica, od vrat do vrat.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sl/taksi-letalisce-split-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Zasebna enosmerna vožnja, relacija Letališče Split - Rogoznica, na vozilo do 4 potnike. Povratno 160 evrov."
+        "description": "Zasebna enosmerna vožnja, relacija Letališče Split - Rogoznica, na vozilo do 4 potnike."
       }
     },
     {
@@ -80,7 +78,7 @@
           "name": "Koliko stane prevoz na relaciji Letališče Split - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 80 na vozilo do 4 potnike, enosmerno, cestnine in prtljaga vključeni. Povratna vožnja je 160."
+            "text": "Fiksna cena na vozilo do 4 potnike, enosmerno, cestnine in prtljaga vključeni. Ceno povratne vožnje sporočim na povpraševanje."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-rogoznica",
-  "title": "Taxi Split - Rogoznica | Festpreis €75 | TAXI Antonio",
-  "description": "Privates Taxi und Transfer, Strecke Split - Rogoznica. Festpreis €75 pro Fahrzeug, bis zu 4 Fahrgäste, Tür zu Tür. Direkt bei Antonio buchen.",
+  "title": "Taxi Split - Rogoznica | TAXI Antonio",
+  "description": "Privates Taxi und Transfer, Strecke Split - Rogoznica. Direkt bei Antonio buchen.",
   "keywords": "taxi split - rogoznica, transfer split - rogoznica, flughafentransfer split - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privater Taxitransfer",
       "name": "Taxi Split - Rogoznica",
-      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Split - Rogoznica, 75 Euro pro Fahrzeug für bis zu 4 Fahrgäste, Tür zu Tür.",
+      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Split - Rogoznica, Tür zu Tür.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/de/taxi-split-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "Einfache private Fahrt, Strecke Split - Rogoznica, pro Fahrzeug für bis zu 4 Fahrgäste. Hin und zurück 150 Euro."
+        "description": "Einfache private Fahrt, Strecke Split - Rogoznica, pro Fahrzeug für bis zu 4 Fahrgäste."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Wie viel kostet ein Taxi auf der Strecke Split - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fest 75 pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, mit Maut, Kraftstoff und Gepäck. Eine Hin- und Rückfahrt kostet 150."
+            "text": "Festpreis pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, mit Maut, Kraftstoff und Gepäck. Den Preis für eine Hin- und Rückfahrt nenne ich Ihnen auf Anfrage."
           }
         },
         {

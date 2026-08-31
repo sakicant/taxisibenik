@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-kremik-aerodrom-split",
-  "title": "Taksi Marina Kremik - Aerodrom Split | Fiksna cena €80 | TAXI Antonio",
-  "description": "Privatni taksi i transfer, relacija Marina Kremik - Aerodrom Split. Fiksno €80 po vozilu, do 4. Rezervišite direktno kod Antonija.",
+  "title": "Taksi Marina Kremik - Aerodrom Split | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Marina Kremik - Aerodrom Split. Rezervišite direktno kod Antonija.",
   "keywords": "taksi marina kremik - aerodrom split, transfer marina kremik - aerodrom split, prevoz marina kremik - aerodrom split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privatni taksi transfer",
       "name": "Taksi Marina Kremik - Aerodrom Split",
-      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Marina Kremik - Aerodrom Split, 80 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Marina Kremik - Aerodrom Split, od vrata do vrata.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sr/taxi-marina-kremik-aerodrom-split/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Jednosmerni privatni transfer, relacija Marina Kremik - Aerodrom Split, po vozilu za do 4 putnika. Povratno 160 evra."
+        "description": "Jednosmerni privatni transfer, relacija Marina Kremik - Aerodrom Split, po vozilu za do 4 putnika."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Koliko košta taksi na relaciji Marina Kremik - Aerodrom Split?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 80 po vozilu, jedan smer, za do 4 putnika. Cena je po vozilu, ne po osobi, i uključuje putarine, gorivo i prtljag. Povratna vožnja je 160."
+            "text": "Cena je po vozilu, ne po osobi, i uključuje putarine, gorivo i prtljag."
           }
         },
         {

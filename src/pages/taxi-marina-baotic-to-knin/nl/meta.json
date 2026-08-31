@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-baotic-knin",
-  "title": "Taxi Marina Baotić - Knin | Vaste prijs €110 | TAXI Antonio",
-  "description": "Taxi en privétransfer, traject Marina Baotić - Knin. Vaste prijs €110 per voertuig, tot 4 passagiers, van deur tot deur. Boek rechtstreeks bij Antonio.",
+  "title": "Taxi Marina Baotić - Knin | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Marina Baotić - Knin. Boek rechtstreeks bij Antonio.",
   "keywords": "taxi marina baotić - knin, transfer marina baotić - knin, luchthaventransfer marina baotić - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privé taxitransfer",
       "name": "Taxi Marina Baotić - Knin",
-      "description": "Taxi en privétransfer tegen vaste prijs, traject Marina Baotić - Knin, 110 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Marina Baotić - Knin, van deur tot deur.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/nl/taxi-marina-baotic-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Privérit enkele reis, traject Marina Baotić - Knin, per voertuig tot 4 passagiers. Retour 220 euro."
+        "description": "Privérit enkele reis, traject Marina Baotić - Knin, per voertuig tot 4 passagiers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Hoeveel kost een transfer van Marina Baotić naar Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Vast 110 per voertuig tot 4 passagiers, enkele reis, met tol, brandstof en bagage inbegrepen. Een retour kost 220."
+            "text": "Vaste prijs per voertuig tot 4 passagiers, enkele reis, met tol, brandstof en bagage inbegrepen. De prijs voor een retour geef ik op aanvraag."
           }
         },
         {

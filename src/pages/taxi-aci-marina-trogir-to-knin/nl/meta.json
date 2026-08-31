@@ -1,7 +1,7 @@
 {
   "slug": "taxi-aci-marina-trogir-knin",
-  "title": "Taxi ACI Marina Trogir - Knin | Vaste prijs €125 | TAXI Antonio",
-  "description": "Taxi en privétransfer, traject ACI Marina Trogir - Knin. Vaste prijs €125 per voertuig, tot 4 passagiers, van deur tot deur. Boek rechtstreeks bij Antonio.",
+  "title": "Taxi ACI Marina Trogir - Knin | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject ACI Marina Trogir - Knin. Boek rechtstreeks bij Antonio.",
   "keywords": "taxi aci marina trogir - knin, transfer aci marina trogir - knin, luchthaventransfer aci marina trogir - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privé taxitransfer",
       "name": "Taxi ACI Marina Trogir - Knin",
-      "description": "Taxi en privétransfer tegen vaste prijs, traject ACI Marina Trogir - Knin, 125 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject ACI Marina Trogir - Knin, van deur tot deur.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/nl/taxi-aci-marina-trogir-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Privérit enkele reis, traject ACI Marina Trogir - Knin, per voertuig tot 4 passagiers. Retour 250 euro."
+        "description": "Privérit enkele reis, traject ACI Marina Trogir - Knin, per voertuig tot 4 passagiers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Hoeveel kost een transfer van ACI Marina Trogir naar Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Vast 125 per voertuig tot 4 passagiers, enkele reis, met tol, brandstof en bagage inbegrepen. Een retour kost 250."
+            "text": "Vaste prijs per voertuig tot 4 passagiers, enkele reis, met tol, brandstof en bagage inbegrepen. De prijs voor een retour geef ik op aanvraag."
           }
         },
         {

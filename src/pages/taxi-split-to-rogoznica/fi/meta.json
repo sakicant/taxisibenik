@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-rogoznica",
-  "title": "Taksi Split - Rogoznica | Kiinteä hinta €75 | TAXI Antonio",
-  "description": "Yksityinen taksi ja kuljetus, reitti Split - Rogoznica. Kiinteä hinta €75 per auto, enintään 4 matkustajaa, ovelta ovelle. Varaa suoraan Antoniolta.",
+  "title": "Taksi Split - Rogoznica | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Split - Rogoznica. Varaa suoraan Antoniolta.",
   "keywords": "taksi split - rogoznica, kuljetus split - rogoznica, lentokenttäkuljetus split - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Yksityinen taksikuljetus",
       "name": "Taksi Split - Rogoznica",
-      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Split - Rogoznica, 75 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Split - Rogoznica, ovelta ovelle.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fi/taxi-split-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "Yhdensuuntainen yksityinen matka, reitti Split - Rogoznica, per auto enintään 4 matkustajalle. Meno ja paluu 150 euroa."
+        "description": "Yhdensuuntainen yksityinen matka, reitti Split - Rogoznica, per auto enintään 4 matkustajalle."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Paljonko taksi maksaa reitillä Split - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiinteä 75 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullien, polttoaineen ja matkatavaroiden kanssa. Meno-paluumatka maksaa 150."
+            "text": "Kiinteä hinta per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullien, polttoaineen ja matkatavaroiden kanssa. Meno-paluumatkan hinnan kerron pyynnöstä."
           }
         },
         {

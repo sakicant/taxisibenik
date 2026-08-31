@@ -1,7 +1,7 @@
 {
   "slug": "taxi-aerodrom-split-marina-frapa",
-  "title": "Taksi Aerodrom Split - Marina Frapa | Fiksna cena €80 | TAXI Antonio",
-  "description": "Privatni taksi i transfer, relacija Aerodrom Split - Marina Frapa. Fiksno €80 po vozilu, do 4. Rezervišite direktno kod Antonija.",
+  "title": "Taksi Aerodrom Split - Marina Frapa | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Aerodrom Split - Marina Frapa. Rezervišite direktno kod Antonija.",
   "keywords": "taksi aerodrom split - marina frapa, transfer aerodrom split - marina frapa, prevoz aerodrom split - marina frapa",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privatni taksi transfer",
       "name": "Taksi Aerodrom Split - Marina Frapa",
-      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Aerodrom Split - Marina Frapa, 80 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Aerodrom Split - Marina Frapa, od vrata do vrata.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sr/taxi-aerodrom-split-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Jednosmerni privatni transfer, relacija Aerodrom Split - Marina Frapa, po vozilu za do 4 putnika. Povratno 160 evra."
+        "description": "Jednosmerni privatni transfer, relacija Aerodrom Split - Marina Frapa, po vozilu za do 4 putnika."
       }
     },
     {
@@ -64,7 +62,7 @@
           "name": "Koliko košta transfer na relaciji Aerodrom Split - Marina Frapa?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 80 po vozilu za do 4 putnika, jedan smer, putarine i prtljag uključeni. Povratna vožnja je 160."
+            "text": "Fiksna cena po vozilu za do 4 putnika, jedan smer, putarine i prtljag uključeni. Cenu povratne vožnje javljam na upit."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-kremik-luchthaven-split",
-  "title": "Taxi Marina Kremik - Luchthaven Split | Vaste prijs €80 | TAXI Antonio",
-  "description": "Taxi en privétransfer, traject Marina Kremik - Luchthaven Split. Vaste prijs €80 per voertuig, tot 4. Boek bij Antonio.",
+  "title": "Taxi Marina Kremik - Luchthaven Split | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Marina Kremik - Luchthaven Split. Boek bij Antonio.",
   "keywords": "taxi marina kremik - luchthaven split, transfer marina kremik - luchthaven split, luchthaventransfer marina kremik - luchthaven split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privé taxitransfer",
       "name": "Taxi Marina Kremik - Luchthaven Split",
-      "description": "Taxi en privétransfer tegen vaste prijs, traject Marina Kremik - Luchthaven Split, 80 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Marina Kremik - Luchthaven Split, van deur tot deur.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/nl/taxi-marina-kremik-luchthaven-split/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Privérit enkele reis, traject Marina Kremik - Luchthaven Split, per voertuig tot 4 passagiers. Retour 160 euro."
+        "description": "Privérit enkele reis, traject Marina Kremik - Luchthaven Split, per voertuig tot 4 passagiers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Hoeveel kost een taxi op het traject Marina Kremik - Luchthaven Split?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Vast 80 per voertuig, enkele reis, tot 4 passagiers. De prijs is per voertuig, niet per persoon, en omvat tol, brandstof en bagage. Een retour kost 160."
+            "text": "De prijs is per voertuig, niet per persoon, en omvat tol, brandstof en bagage."
           }
         },
         {

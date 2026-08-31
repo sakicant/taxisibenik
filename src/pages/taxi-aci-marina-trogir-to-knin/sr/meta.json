@@ -1,7 +1,7 @@
 {
   "slug": "taxi-aci-marina-trogir-knin",
-  "title": "Taksi ACI Marina Trogir - Knin | Fiksna cena €125 | TAXI Antonio",
-  "description": "Privatni taksi i transfer, relacija ACI Marina Trogir - Knin. Fiksno €125 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "title": "Taksi ACI Marina Trogir - Knin | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija ACI Marina Trogir - Knin. Rezervišite direktno kod Antonija.",
   "keywords": "taksi aci marina trogir - knin, transfer aci marina trogir - knin, prevoz aci marina trogir - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privatni taksi transfer",
       "name": "Taksi ACI Marina Trogir - Knin",
-      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija ACI Marina Trogir - Knin, 125 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija ACI Marina Trogir - Knin, od vrata do vrata.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sr/taxi-aci-marina-trogir-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Jednosmerni privatni transfer, relacija ACI Marina Trogir - Knin, po vozilu za do 4 putnika. Povratno 250 evra."
+        "description": "Jednosmerni privatni transfer, relacija ACI Marina Trogir - Knin, po vozilu za do 4 putnika."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Koliko košta transfer na relaciji ACI Marina Trogir - Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 125 po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Povratna vožnja je 250."
+            "text": "Fiksna cena po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Cenu povratne vožnje javljam na upit."
           }
         },
         {

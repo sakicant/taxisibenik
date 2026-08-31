@@ -1,7 +1,7 @@
 {
   "slug": "taksi-knin-marina-agana",
-  "title": "Taksi Knin - Marina Agana | Fiksna cena €110 | TAXI Antonio",
-  "description": "Taksi in zasebni prevoz, relacija Knin - Marina Agana. Fiksna cena €110 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "title": "Taksi Knin - Marina Agana | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Knin - Marina Agana. Rezervirajte neposredno pri Antoniu.",
   "keywords": "taksi knin - marina agana, prevoz knin - marina agana, letališki prevoz knin - marina agana",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Zasebni taksi prevoz",
       "name": "Taksi Knin - Marina Agana",
-      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Knin - Marina Agana, 110 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Knin - Marina Agana, od vrat do vrat.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sl/taksi-knin-marina-agana/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Zasebna enosmerna vožnja, relacija Knin - Marina Agana, na vozilo do 4 potnike. Povratno 220 evrov."
+        "description": "Zasebna enosmerna vožnja, relacija Knin - Marina Agana, na vozilo do 4 potnike."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Koliko stane prevoz na relaciji Knin - Marina Agana?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 110 na vozilo, do 4 potnike, enosmerno, s cestninami, gorivom in prtljago. Povratna vožnja je 220."
+            "text": "Fiksna cena na vozilo, do 4 potnike, enosmerno, s cestninami, gorivom in prtljago. Ceno povratne vožnje sporočim na povpraševanje."
           }
         },
         {

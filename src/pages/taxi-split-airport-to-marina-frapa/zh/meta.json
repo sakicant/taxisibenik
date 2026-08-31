@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-airport-marina-frapa",
-  "title": "斯普利特机场 - Marina Frapa 出租车 | 固定价格 €80 | TAXI Antonio",
-  "description": "私人出租车与接送，斯普利特机场 - Marina Frapa 路线。固定价格 €80 每车，最多 4 名乘客，门到门。直接向 Antonio 预订。",
+  "title": "斯普利特机场 - Marina Frapa 出租车 | TAXI Antonio",
+  "description": "私人出租车与接送，斯普利特机场 - Marina Frapa 路线。 直接向 Antonio 预订。",
   "keywords": "出租车 斯普利特机场 - marina frapa, 接送 斯普利特机场 - marina frapa, 机场接送 斯普利特机场 - marina frapa",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "私人出租车接送",
       "name": "斯普利特机场 - Marina Frapa 出租车",
-      "description": "固定价格的私人出租车与接送，斯普利特机场 - Marina Frapa 路线，每车 80 欧元，最多 4 名乘客，门到门。",
+      "description": "固定价格的私人出租车与接送，斯普利特机场 - Marina Frapa 路线，最多 4 名乘客，门到门。",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/zh/taxi-split-airport-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "单程私人乘车，斯普利特机场 - Marina Frapa 路线，每车最多 4 名乘客。往返 160 欧元。"
+        "description": "单程私人乘车，斯普利特机场 - Marina Frapa 路线，每车最多 4 名乘客。"
       }
     },
     {
@@ -64,7 +62,7 @@
           "name": "斯普利特机场 - Marina Frapa 路线的接送多少钱？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "固定 80 每车，最多 4 名乘客，单程，含过路费和行李。往返为 160。"
+            "text": "每车固定价格，最多 4 名乘客，单程，含过路费和行李。往返同样按询价报价。"
           }
         },
         {

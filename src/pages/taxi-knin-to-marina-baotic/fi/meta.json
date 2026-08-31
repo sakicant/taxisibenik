@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-marina-baotic",
-  "title": "Taksi Knin - Marina Baotić | Kiinteä hinta €110 | TAXI Antonio",
-  "description": "Yksityinen taksi ja kuljetus, reitti Knin - Marina Baotić. Kiinteä hinta €110 per auto, enintään 4 matkustajaa, ovelta ovelle. Varaa suoraan Antoniolta.",
+  "title": "Taksi Knin - Marina Baotić | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Knin - Marina Baotić. Varaa suoraan Antoniolta.",
   "keywords": "taksi knin - marina baotić, kuljetus knin - marina baotić, lentokenttäkuljetus knin - marina baotić",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Yksityinen taksikuljetus",
       "name": "Taksi Knin - Marina Baotić",
-      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Knin - Marina Baotić, 110 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Knin - Marina Baotić, ovelta ovelle.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fi/taxi-knin-marina-baotic/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Yhdensuuntainen yksityinen matka, reitti Knin - Marina Baotić, per auto enintään 4 matkustajalle. Meno ja paluu 220 euroa."
+        "description": "Yhdensuuntainen yksityinen matka, reitti Knin - Marina Baotić, per auto enintään 4 matkustajalle."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Paljonko kuljetus maksaa reitillä Knin - Marina Baotić?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiinteä 110 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullien, polttoaineen ja matkatavaroiden kanssa. Meno-paluumatka maksaa 220."
+            "text": "Kiinteä hinta per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullien, polttoaineen ja matkatavaroiden kanssa. Meno-paluumatkan hinnan kerron pyynnöstä."
           }
         },
         {

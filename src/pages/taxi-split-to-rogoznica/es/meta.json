@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-rogoznica",
-  "title": "Taxi Split - Rogoznica | Precio fijo €75 | TAXI Antonio",
-  "description": "Taxi y traslado privado, Split - Rogoznica. Precio fijo €75 por vehículo, hasta 4 pasajeros, puerta a puerta. Reserve directamente con Antonio.",
+  "title": "Taxi Split - Rogoznica | TAXI Antonio",
+  "description": "Taxi y traslado privado, Split - Rogoznica. Reserve directamente con Antonio.",
   "keywords": "taxi split - rogoznica, traslado split - rogoznica, traslado al aeropuerto split - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Traslado privado en taxi",
       "name": "Taxi Split - Rogoznica",
-      "description": "Taxi y traslado privado a precio fijo, Split - Rogoznica, 75 euros por vehículo para hasta 4 pasajeros, puerta a puerta.",
+      "description": "Taxi y traslado privado a precio fijo, Split - Rogoznica, puerta a puerta.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/es/taxi-split-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "Trayecto privado de ida, Split - Rogoznica, por vehículo para hasta 4 pasajeros. Ida y vuelta 150 euros."
+        "description": "Trayecto privado de ida, Split - Rogoznica, por vehículo para hasta 4 pasajeros."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "¿Cuánto cuesta un taxi en el trayecto Split - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fijo 75 por vehículo para hasta 4 pasajeros, solo ida, con peajes, combustible y equipaje. Un viaje de ida y vuelta cuesta 150."
+            "text": "Precio fijo por vehículo para hasta 4 pasajeros, solo ida, con peajes, combustible y equipaje. El viaje de ida y vuelta también se presupuesta bajo petición."
           }
         },
         {

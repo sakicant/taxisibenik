@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-marina-agana",
-  "title": "Knin - Marina Agana 出租车 | 固定价格 €110 | TAXI Antonio",
-  "description": "私人出租车与接送，Knin - Marina Agana 路线。固定价格 €110 每车，最多 4 名乘客，门到门。直接向 Antonio 预订。",
+  "title": "Knin - Marina Agana 出租车 | TAXI Antonio",
+  "description": "私人出租车与接送，Knin - Marina Agana 路线。 直接向 Antonio 预订。",
   "keywords": "出租车 knin - marina agana, 接送 knin - marina agana, 机场接送 knin - marina agana",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "私人出租车接送",
       "name": "Knin - Marina Agana 出租车",
-      "description": "固定价格的私人出租车与接送，Knin - Marina Agana 路线，每车 110 欧元，最多 4 名乘客，门到门。",
+      "description": "固定价格的私人出租车与接送，Knin - Marina Agana 路线，最多 4 名乘客，门到门。",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/zh/taxi-knin-marina-agana/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "单程私人乘车，Knin - Marina Agana 路线，每车最多 4 名乘客。往返 220 欧元。"
+        "description": "单程私人乘车，Knin - Marina Agana 路线，每车最多 4 名乘客。"
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Knin - Marina Agana 路线的接送多少钱？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "固定 110 每车，最多 4 名乘客，单程，含过路费、燃油和行李。往返为 220。"
+            "text": "每车固定价格，最多 4 名乘客，单程，含过路费、燃油和行李。往返同样按询价报价。"
           }
         },
         {

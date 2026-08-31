@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-frapa-split",
-  "title": "Taksi Marina Frapa - Split | Fiksna cena €75 | TAXI Antonio",
-  "description": "Privatni taksi i transfer, relacija Marina Frapa - Split. Fiksno €75 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "title": "Taksi Marina Frapa - Split | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Marina Frapa - Split. Rezervišite direktno kod Antonija.",
   "keywords": "taksi marina frapa - split, transfer marina frapa - split, prevoz marina frapa - split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privatni taksi transfer",
       "name": "Taksi Marina Frapa - Split",
-      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Marina Frapa - Split, 75 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Marina Frapa - Split, od vrata do vrata.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sr/taxi-marina-frapa-split/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "Jednosmerni privatni transfer, relacija Marina Frapa - Split, po vozilu za do 4 putnika. Povratno 150 evra."
+        "description": "Jednosmerni privatni transfer, relacija Marina Frapa - Split, po vozilu za do 4 putnika."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Koliko košta transfer na relaciji Marina Frapa - Split?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 75 po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Povratna vožnja je 150."
+            "text": "Fiksna cena po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Cenu povratne vožnje javljam na upit."
           }
         },
         {

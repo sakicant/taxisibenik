@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-to-seget",
-  "title": "Taxi Knin to Seget | Fixed €110 Transfer | TAXI Antonio",
-  "description": "Private taxi and transfer from Knin to Seget. Fixed €110 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "title": "Taxi Knin to Seget | TAXI Antonio",
+  "description": "Private taxi and transfer from Knin to Seget. Book direct with Antonio.",
   "keywords": "taxi knin to seget, transfer knin to seget, knin to seget taxi, knin to seget transfer",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Private taxi transfer",
       "name": "Taxi Knin to Seget",
-      "description": "Private, fixed-price taxi and transfer from Knin to Seget, 110 euros per car for up to 4 passengers, door to door.",
+      "description": "Private, fixed-price taxi and transfer from Knin to Seget, door to door.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/taxi-knin-to-seget/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "One-way private transfer from Knin to Seget, per car for up to 4 passengers. Return 220 euros."
+        "description": "One-way private transfer from Knin to Seget, per car for up to 4 passengers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "How much is a taxi from Knin to Seget?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A fixed 110 per car for up to 4 passengers, one way, luggage included. A return trip is 220."
+            "text": "A fixed price per car for up to 4 passengers, one way, luggage included. Ask me and I will confirm the price for a return trip as well."
           }
         },
         {

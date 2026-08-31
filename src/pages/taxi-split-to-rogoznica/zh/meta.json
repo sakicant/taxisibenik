@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-rogoznica",
-  "title": "Split - Rogoznica 出租车 | 固定价格 €75 | TAXI Antonio",
-  "description": "私人出租车与接送，Split - Rogoznica 路线。固定价格 €75 每车，最多 4 名乘客，门到门。直接向 Antonio 预订。",
+  "title": "Split - Rogoznica 出租车 | TAXI Antonio",
+  "description": "私人出租车与接送，Split - Rogoznica 路线。 直接向 Antonio 预订。",
   "keywords": "出租车 split - rogoznica, 接送 split - rogoznica, 机场接送 split - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "私人出租车接送",
       "name": "Split - Rogoznica 出租车",
-      "description": "固定价格的私人出租车与接送，Split - Rogoznica 路线，每车 75 欧元，最多 4 名乘客，门到门。",
+      "description": "固定价格的私人出租车与接送，Split - Rogoznica 路线，最多 4 名乘客，门到门。",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/zh/taxi-split-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "单程私人乘车，Split - Rogoznica 路线，每车最多 4 名乘客。往返 150 欧元。"
+        "description": "单程私人乘车，Split - Rogoznica 路线，每车最多 4 名乘客。"
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Split - Rogoznica 路线的出租车多少钱？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "固定 75 每车，最多 4 名乘客，单程，含过路费、燃油和行李。往返为 150。"
+            "text": "每车固定价格，最多 4 名乘客，单程，含过路费、燃油和行李。往返同样按询价报价。"
           }
         },
         {

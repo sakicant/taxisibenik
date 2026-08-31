@@ -1,7 +1,7 @@
 {
   "slug": "taxi-ciovo-knin",
-  "title": "Taxi Čiovo - Knin | Fast pris €125 | TAXI Antonio",
-  "description": "Privat taxi och transfer, Čiovo - Knin. Fast pris €125 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "title": "Taxi Čiovo - Knin | TAXI Antonio",
+  "description": "Privat taxi och transfer, Čiovo - Knin. Boka direkt hos Antonio.",
   "keywords": "taxi čiovo - knin, transfer čiovo - knin, flygplatstransfer čiovo - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privat taxitransfer",
       "name": "Taxi Čiovo - Knin",
-      "description": "Privat taxi och transfer till fast pris, Čiovo - Knin, 125 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "description": "Privat taxi och transfer till fast pris, Čiovo - Knin, dörr till dörr.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sv/taxi-ciovo-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Enkel privat resa, Čiovo - Knin, per fordon för upp till 4 passagerare. Tur och retur 250 euro."
+        "description": "Enkel privat resa, Čiovo - Knin, per fordon för upp till 4 passagerare."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Hur mycket kostar en taxi på sträckan Čiovo - Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fast 125 per fordon för upp till 4 passagerare, enkel resa, bagage ingår. En tur och retur kostar 250."
+            "text": "Fast pris per fordon för upp till 4 passagerare, enkel resa, bagage ingår. Priset för tur och retur lämnar jag på begäran."
           }
         },
         {

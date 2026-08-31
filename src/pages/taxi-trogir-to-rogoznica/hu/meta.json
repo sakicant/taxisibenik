@@ -1,7 +1,7 @@
 {
   "slug": "taxi-trogir-rogoznica",
-  "title": "Taxi Trogir - Rogoznica | Fix ár €30 | TAXI Antonio",
-  "description": "Privát taxi és transzfer, Trogir - Rogoznica. Fix ár €30 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "title": "Taxi Trogir - Rogoznica | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Trogir - Rogoznica. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
   "keywords": "taxi trogir - rogoznica, transzfer trogir - rogoznica, reptéri transzfer trogir - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privát taxitranszfer",
       "name": "Taxi Trogir - Rogoznica",
-      "description": "Privát taxi és transzfer fix áron, Trogir - Rogoznica, 30 euró járművenként max. 4 utasra, háztól házig.",
+      "description": "4 utasra, háztól házig.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/hu/taxi-trogir-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "30",
-        "priceCurrency": "EUR",
-        "description": "Privát egyirányú út, Trogir - Rogoznica, járművenként max. 4 utasra. Oda-vissza 60 euró."
+        "description": "Privát egyirányú út, Trogir - Rogoznica, járművenként max. 4 utasra."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Mennyibe kerül egy taxi a Trogir - Rogoznica útvonalon?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fix 30 járművenként max. 4 utasra, egy irány, útdíjjal, üzemanyaggal és csomaggal. Az oda-vissza út 60."
+            "text": "4 utasra, egy irány, útdíjjal, üzemanyaggal és csomaggal."
           }
         },
         {

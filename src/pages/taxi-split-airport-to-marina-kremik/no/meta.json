@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-lufthavn-marina-kremik",
-  "title": "Taxi Split lufthavn - Marina Kremik | Fastpris €80 | TAXI Antonio",
-  "description": "Privat taxi og transport, strekningen Split lufthavn - Marina Kremik. Fastpris €80 per bil, opptil 4 passasjerer, dør til dør. Bestill direkte hos Antonio.",
+  "title": "Taxi Split lufthavn - Marina Kremik | TAXI Antonio",
+  "description": "Privat taxi og transport, strekningen Split lufthavn - Marina Kremik. Bestill direkte hos Antonio.",
   "keywords": "taxi split lufthavn - marina kremik, transport split lufthavn - marina kremik, flyplasstransport split lufthavn - marina kremik",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privat taxitransport",
       "name": "Taxi Split lufthavn - Marina Kremik",
-      "description": "Privat taxi og transport til fastpris, strekningen Split lufthavn - Marina Kremik, 80 euro per bil for opptil 4 passasjerer, dør til dør.",
+      "description": "Privat taxi og transport til fastpris, strekningen Split lufthavn - Marina Kremik, dør til dør.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/no/taxi-split-lufthavn-marina-kremik/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Enkel privat tur, strekningen Split lufthavn - Marina Kremik, per bil for opptil 4 passasjerer. Tur og retur 160 euro."
+        "description": "Enkel privat tur, strekningen Split lufthavn - Marina Kremik, per bil for opptil 4 passasjerer."
       }
     },
     {
@@ -64,7 +62,7 @@
           "name": "Hvor mye koster transporten på strekningen Split lufthavn - Marina Kremik?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fast 80 per bil for opptil 4 passasjerer, en vei, bompenger og bagasje inkludert. Tur og retur koster 160."
+            "text": "Fastpris per bil for opptil 4 passasjerer, en vei, bompenger og bagasje inkludert. Prisen for tur og retur gir jeg på forespørsel."
           }
         },
         {

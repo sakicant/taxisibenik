@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-frapa-split-lentoasema",
-  "title": "Taksi Marina Frapa - Splitin lentoasema | Kiinteä hinta €80 | TAXI Antonio",
-  "description": "Yksityinen taksi ja kuljetus, reitti Marina Frapa - Splitin lentoasema. Kiinteä hinta €80 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "title": "Taksi Marina Frapa - Splitin lentoasema | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Marina Frapa - Splitin lentoasema. Varaa suoraan Antoniolta.",
   "keywords": "taksi marina frapa - splitin lentoasema, kuljetus marina frapa - splitin lentoasema, lentokenttäkuljetus marina frapa - splitin lentoasema",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Yksityinen taksikuljetus",
       "name": "Taksi Marina Frapa - Splitin lentoasema",
-      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Marina Frapa - Splitin lentoasema, 80 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Marina Frapa - Splitin lentoasema, ovelta ovelle.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fi/taxi-marina-frapa-split-lentoasema/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Yhdensuuntainen yksityinen matka, reitti Marina Frapa - Splitin lentoasema, per auto enintään 4 matkustajalle. Meno ja paluu 160 euroa."
+        "description": "Yhdensuuntainen yksityinen matka, reitti Marina Frapa - Splitin lentoasema, per auto enintään 4 matkustajalle."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Paljonko taksi maksaa reitillä Marina Frapa - Splitin lentoasema?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiinteä 80 per auto, yhdensuuntainen matka, enintään 4 matkustajalle. Hinta on per auto, ei per henkilö, ja sisältää tietullit, polttoaineen ja matkatavarat. Meno-paluumatka maksaa 160."
+            "text": "Hinta on per auto, ei per henkilö, ja sisältää tietullit, polttoaineen ja matkatavarat."
           }
         },
         {

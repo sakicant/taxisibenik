@@ -1,7 +1,7 @@
 {
   "slug": "taksi-knin-aci-marina-trogir",
-  "title": "Taksi Knin - ACI Marina Trogir | Fiksna cena €125 | TAXI Antonio",
-  "description": "Taksi in zasebni prevoz, relacija Knin - ACI Marina Trogir. Fiksna cena €125 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "title": "Taksi Knin - ACI Marina Trogir | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Knin - ACI Marina Trogir. Rezervirajte neposredno pri Antoniu.",
   "keywords": "taksi knin - aci marina trogir, prevoz knin - aci marina trogir, letališki prevoz knin - aci marina trogir",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Zasebni taksi prevoz",
       "name": "Taksi Knin - ACI Marina Trogir",
-      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Knin - ACI Marina Trogir, 125 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Knin - ACI Marina Trogir, od vrat do vrat.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sl/taksi-knin-aci-marina-trogir/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Zasebna enosmerna vožnja, relacija Knin - ACI Marina Trogir, na vozilo do 4 potnike. Povratno 250 evrov."
+        "description": "Zasebna enosmerna vožnja, relacija Knin - ACI Marina Trogir, na vozilo do 4 potnike."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Koliko stane prevoz na relaciji Knin - ACI Marina Trogir?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 125 na vozilo, do 4 potnike, enosmerno, s cestninami, gorivom in prtljago. Povratna vožnja je 250."
+            "text": "Fiksna cena na vozilo, do 4 potnike, enosmerno, s cestninami, gorivom in prtljago. Ceno povratne vožnje sporočim na povpraševanje."
           }
         },
         {

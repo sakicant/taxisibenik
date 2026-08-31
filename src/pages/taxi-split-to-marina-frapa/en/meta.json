@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-to-marina-frapa",
-  "title": "Taxi Split to Marina Frapa | Fixed €75 Transfer | TAXI Antonio",
-  "description": "Private taxi and transfer from Split to Marina Frapa. Fixed €75 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "title": "Taxi Split to Marina Frapa | TAXI Antonio",
+  "description": "Private taxi and transfer from Split to Marina Frapa. Book direct with Antonio.",
   "keywords": "taxi split to marina frapa, transfer split to marina frapa, split to marina frapa taxi, split to marina frapa transfer",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Private taxi transfer",
       "name": "Taxi Split to Marina Frapa",
-      "description": "Private, fixed-price taxi and transfer from Split to Marina Frapa, 75 euros per car for up to 4 passengers, door to door.",
+      "description": "Private, fixed-price taxi and transfer from Split to Marina Frapa, door to door.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/taxi-split-to-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "One-way private transfer from Split to Marina Frapa, per car for up to 4 passengers. Return 150 euros."
+        "description": "One-way private transfer from Split to Marina Frapa, per car for up to 4 passengers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "How much is a transfer from Split to Marina Frapa?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A fixed 75 per car for up to 4 passengers, one way, with tolls, fuel and luggage included. A return trip is 150."
+            "text": "A fixed price per car for up to 4 passengers, one way, with tolls, fuel and luggage included. Ask me and I will confirm the price for a return trip as well."
           }
         },
         {

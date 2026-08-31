@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-kremik-split-airport",
-  "title": "택시 Marina Kremik - 스플리트 공항 | 고정 요금 €80 | TAXI Antonio",
-  "description": "개인 택시 및 교통편, Marina Kremik - 스플리트 공항 노선. 고정 요금 €80 차량당, 최대 4명 탑승, 도어 투 도어. Antonio에게 직접 예약하세요.",
+  "title": "택시 Marina Kremik - 스플리트 공항 | TAXI Antonio",
+  "description": "개인 택시 및 교통편, Marina Kremik - 스플리트 공항 노선. Antonio에게 직접 예약하세요.",
   "keywords": "택시 marina kremik - 스플리트 공항, 교통편 marina kremik - 스플리트 공항, 공항 교통편 marina kremik - 스플리트 공항",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "개인 택시 교통편",
       "name": "택시 Marina Kremik - 스플리트 공항",
-      "description": "고정 요금 개인 택시 및 교통편, Marina Kremik - 스플리트 공항 노선, 차량당 80 유로, 최대 4명 탑승, 도어 투 도어.",
+      "description": "고정 요금 개인 택시 및 교통편, Marina Kremik - 스플리트 공항 노선, 최대 4명 탑승, 도어 투 도어.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/ko/taxi-marina-kremik-split-airport/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "개인 편도 이동, Marina Kremik - 스플리트 공항 노선, 차량당 최대 4명 탑승. 왕복 160 유로."
+        "description": "개인 편도 이동, Marina Kremik - 스플리트 공항 노선, 차량당 최대 4명 탑승."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Marina Kremik - 스플리트 공항 노선의 택시 요금은 얼마인가요?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "고정 80 차량당, 편도, 최대 4명 탑승. 요금은 인원당이 아니라 차량당이며, 통행료, 연료, 짐이 포함됩니다. 왕복은 160입니다."
+            "text": "요금은 인원당이 아니라 차량당이며, 통행료, 연료, 짐이 포함됩니다."
           }
         },
         {

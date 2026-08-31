@@ -1,7 +1,7 @@
 {
   "slug": "taksi-rogoznica-trogir",
-  "title": "Taksi Rogoznica - Trogir | Fiksna cena €30 | TAXI Antonio",
-  "description": "Taksi in zasebni prevoz, relacija Rogoznica - Trogir. Fiksna cena €30 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "title": "Taksi Rogoznica - Trogir | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Rogoznica - Trogir. Rezervirajte neposredno pri Antoniu.",
   "keywords": "taksi rogoznica - trogir, prevoz rogoznica - trogir, letališki prevoz rogoznica - trogir",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Zasebni taksi prevoz",
       "name": "Taksi Rogoznica - Trogir",
-      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Rogoznica - Trogir, 30 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Rogoznica - Trogir, od vrat do vrat.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sl/taksi-rogoznica-trogir/",
       "offers": {
         "@type": "Offer",
-        "price": "30",
-        "priceCurrency": "EUR",
-        "description": "Zasebna enosmerna vožnja, relacija Rogoznica - Trogir, na vozilo do 4 potnike. Povratno 60 evrov."
+        "description": "Zasebna enosmerna vožnja, relacija Rogoznica - Trogir, na vozilo do 4 potnike."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Koliko stane taksi na relaciji Rogoznica - Trogir?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 30 na vozilo do 4 potnike, enosmerno, s cestninami, gorivom in prtljago. Povratna vožnja je 60."
+            "text": "Fiksna cena na vozilo do 4 potnike, enosmerno, s cestninami, gorivom in prtljago. Ceno povratne vožnje sporočim na povpraševanje."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-rogoznica-seget",
-  "title": "Taksi Rogoznica - Seget | Fiksna cena €30 | TAXI Antonio",
-  "description": "Privatni taksi i transfer, relacija Rogoznica - Seget. Fiksno €30 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "title": "Taksi Rogoznica - Seget | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Rogoznica - Seget. Rezervišite direktno kod Antonija.",
   "keywords": "taksi rogoznica - seget, transfer rogoznica - seget, prevoz rogoznica - seget",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privatni taksi transfer",
       "name": "Taksi Rogoznica - Seget",
-      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Rogoznica - Seget, 30 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Rogoznica - Seget, od vrata do vrata.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sr/taxi-rogoznica-seget/",
       "offers": {
         "@type": "Offer",
-        "price": "30",
-        "priceCurrency": "EUR",
-        "description": "Jednosmerni privatni transfer, relacija Rogoznica - Seget, po vozilu za do 4 putnika. Povratno 60 evra."
+        "description": "Jednosmerni privatni transfer, relacija Rogoznica - Seget, po vozilu za do 4 putnika."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Koliko košta taksi na relaciji Rogoznica - Seget?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 30 po vozilu za do 4 putnika, jedan smer, prtljag uključen. Povratna vožnja je 60."
+            "text": "Fiksna cena po vozilu za do 4 putnika, jedan smer, prtljag uključen. Cenu povratne vožnje javljam na upit."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-ciovo-knin",
-  "title": "Taksi Čiovo - Knin | Kiinteä hinta €125 | TAXI Antonio",
-  "description": "Yksityinen taksi ja kuljetus, reitti Čiovo - Knin. Kiinteä hinta €125 per auto, enintään 4 matkustajaa, ovelta ovelle. Varaa suoraan Antoniolta.",
+  "title": "Taksi Čiovo - Knin | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Čiovo - Knin. Varaa suoraan Antoniolta.",
   "keywords": "taksi čiovo - knin, kuljetus čiovo - knin, lentokenttäkuljetus čiovo - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Yksityinen taksikuljetus",
       "name": "Taksi Čiovo - Knin",
-      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Čiovo - Knin, 125 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Čiovo - Knin, ovelta ovelle.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fi/taxi-ciovo-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Yhdensuuntainen yksityinen matka, reitti Čiovo - Knin, per auto enintään 4 matkustajalle. Meno ja paluu 250 euroa."
+        "description": "Yhdensuuntainen yksityinen matka, reitti Čiovo - Knin, per auto enintään 4 matkustajalle."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Paljonko taksi maksaa reitillä Čiovo - Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiinteä 125 per auto enintään 4 matkustajalle, yhdensuuntainen matka, matkatavarat mukana. Meno-paluumatka maksaa 250."
+            "text": "Kiinteä hinta per auto enintään 4 matkustajalle, yhdensuuntainen matka, matkatavarat mukana. Meno-paluumatkan hinnan kerron pyynnöstä."
           }
         },
         {

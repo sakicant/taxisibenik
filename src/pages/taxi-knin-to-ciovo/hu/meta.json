@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-ciovo",
-  "title": "Taxi Knin - Čiovo | Fix ár €125 | TAXI Antonio",
-  "description": "Privát taxi és transzfer, Knin - Čiovo. Fix ár €125 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "title": "Taxi Knin - Čiovo | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Knin - Čiovo. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
   "keywords": "taxi knin - čiovo, transzfer knin - čiovo, reptéri transzfer knin - čiovo",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privát taxitranszfer",
       "name": "Taxi Knin - Čiovo",
-      "description": "Privát taxi és transzfer fix áron, Knin - Čiovo, 125 euró járművenként max. 4 utasra, háztól házig.",
+      "description": "4 utasra, háztól házig.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/hu/taxi-knin-ciovo/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Privát egyirányú út, Knin - Čiovo, járművenként max. 4 utasra. Oda-vissza 250 euró."
+        "description": "Privát egyirányú út, Knin - Čiovo, járművenként max. 4 utasra."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Mennyibe kerül egy taxi a Knin - Čiovo útvonalon?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fix 125 járművenként max. 4 utasra, egy irány, csomag beleértve. Az oda-vissza út 250."
+            "text": "4 utasra, egy irány, csomag beleértve."
           }
         },
         {

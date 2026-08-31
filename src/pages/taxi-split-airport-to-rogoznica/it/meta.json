@@ -1,7 +1,7 @@
 {
   "slug": "taxi-aeroporto-split-rogoznica",
-  "title": "Taxi Aeroporto di Split - Rogoznica | Prezzo fisso €80 | TAXI Antonio",
-  "description": "Taxi e transfer privato, tratta Aeroporto di Split - Rogoznica. Prezzo fisso €80 per veicolo, fino a 4. Prenota con Antonio.",
+  "title": "Taxi Aeroporto di Split - Rogoznica | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Aeroporto di Split - Rogoznica. Prenota con Antonio.",
   "keywords": "taxi aeroporto di split - rogoznica, transfer aeroporto di split - rogoznica, transfer aeroporto aeroporto di split - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Transfer taxi privato",
       "name": "Taxi Aeroporto di Split - Rogoznica",
-      "description": "Taxi e transfer privato a prezzo fisso, tratta Aeroporto di Split - Rogoznica, 80 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Aeroporto di Split - Rogoznica, porta a porta.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/it/taxi-aeroporto-split-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Corsa privata di sola andata, tratta Aeroporto di Split - Rogoznica, per veicolo fino a 4 passeggeri. Andata e ritorno 160 euro."
+        "description": "Corsa privata di sola andata, tratta Aeroporto di Split - Rogoznica, per veicolo fino a 4 passeggeri."
       }
     },
     {
@@ -80,7 +78,7 @@
           "name": "Quanto costa il transfer sulla tratta Aeroporto di Split - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fisso 80 per veicolo fino a 4 passeggeri, solo andata, pedaggi e bagagli inclusi. Andata e ritorno 160."
+            "text": "Prezzo fisso per veicolo fino a 4 passeggeri, solo andata, pedaggi e bagagli inclusi. Anche per l'andata e ritorno il prezzo è su richiesta."
           }
         },
         {

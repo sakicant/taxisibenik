@@ -1,7 +1,7 @@
 {
   "slug": "taxi-letiste-split-rogoznica",
-  "title": "Taxi Letiště Split - Rogoznica | Pevná cena €80 | TAXI Antonio",
-  "description": "Taxi a soukromý transfer, trasa Letiště Split - Rogoznica. Pevná cena €80 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "title": "Taxi Letiště Split - Rogoznica | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Letiště Split - Rogoznica. Rezervujte přímo u Antonia.",
   "keywords": "taxi letiště split - rogoznica, transfer letiště split - rogoznica, letištní transfer letiště split - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Soukromý taxi transfer",
       "name": "Taxi Letiště Split - Rogoznica",
-      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Letiště Split - Rogoznica, 80 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Letiště Split - Rogoznica, ode dveří ke dveřím.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/cs/taxi-letiste-split-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Soukromá jednosměrná jízda, trasa Letiště Split - Rogoznica, za vozidlo až pro 4 cestující. Zpáteční 160 eur."
+        "description": "Soukromá jednosměrná jízda, trasa Letiště Split - Rogoznica, za vozidlo až pro 4 cestující."
       }
     },
     {
@@ -80,7 +78,7 @@
           "name": "Kolik stojí transfer na trase Letiště Split - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pevně 80 za vozidlo až pro 4 cestující, jednosměrná, mýtné a zavazadla v ceně. Zpáteční jízda je 160."
+            "text": "Pevná cena za vozidlo až pro 4 cestující, jednosměrná, mýtné a zavazadla v ceně. Cenu zpáteční jízdy sdělím na vyžádání."
           }
         },
         {

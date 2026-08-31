@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-aci-marina-trogir",
-  "title": "Taxi Knin - ACI Marina Trogir | Fix ár €125 | TAXI Antonio",
-  "description": "Privát taxi és transzfer, Knin - ACI Marina Trogir. Fix ár €125 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "title": "Taxi Knin - ACI Marina Trogir | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Knin - ACI Marina Trogir. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
   "keywords": "taxi knin - aci marina trogir, transzfer knin - aci marina trogir, reptéri transzfer knin - aci marina trogir",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privát taxitranszfer",
       "name": "Taxi Knin - ACI Marina Trogir",
-      "description": "Privát taxi és transzfer fix áron, Knin - ACI Marina Trogir, 125 euró járművenként max. 4 utasra, háztól házig.",
+      "description": "4 utasra, háztól házig.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/hu/taxi-knin-aci-marina-trogir/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Privát egyirányú út, Knin - ACI Marina Trogir, járművenként max. 4 utasra. Oda-vissza 250 euró."
+        "description": "Privát egyirányú út, Knin - ACI Marina Trogir, járművenként max. 4 utasra."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Mennyibe kerül a transzfer a Knin - ACI Marina Trogir útvonalon?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fix 125 járművenként max. 4 utasra, egy irány, útdíjjal, üzemanyaggal és csomaggal. Az oda-vissza út 250."
+            "text": "4 utasra, egy irány, útdíjjal, üzemanyaggal és csomaggal."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-rogoznica-split",
-  "title": "Taxi Rogoznica - Split | Pevná cena €75 | TAXI Antonio",
-  "description": "Taxi a soukromý transfer, trasa Rogoznica - Split. Pevná cena €75 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "title": "Taxi Rogoznica - Split | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Rogoznica - Split. Rezervujte přímo u Antonia.",
   "keywords": "taxi rogoznica - split, transfer rogoznica - split, letištní transfer rogoznica - split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Soukromý taxi transfer",
       "name": "Taxi Rogoznica - Split",
-      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Rogoznica - Split, 75 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Rogoznica - Split, ode dveří ke dveřím.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/cs/taxi-rogoznica-split/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "Soukromá jednosměrná jízda, trasa Rogoznica - Split, za vozidlo až pro 4 cestující. Zpáteční 150 eur."
+        "description": "Soukromá jednosměrná jízda, trasa Rogoznica - Split, za vozidlo až pro 4 cestující."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Kolik stojí taxi na trase Rogoznica - Split?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pevně 75 za vozidlo až pro 4 cestující, jednosměrná, s mýtným, palivem a zavazadly. Zpáteční jízda je 150."
+            "text": "Pevná cena za vozidlo až pro 4 cestující, jednosměrná, s mýtným, palivem a zavazadly. Cenu zpáteční jízdy sdělím na vyžádání."
           }
         },
         {

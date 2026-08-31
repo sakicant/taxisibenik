@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-marina-frapa",
-  "title": "Taxi Split - Marina Frapa | Pevná cena €75 | TAXI Antonio",
-  "description": "Súkromné taxi a transfer, Split - Marina Frapa. Pevná cena €75 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "title": "Taxi Split - Marina Frapa | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Split - Marina Frapa. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
   "keywords": "taxi split - marina frapa, transfer split - marina frapa, letiskový transfer split - marina frapa",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Súkromný taxi transfer",
       "name": "Taxi Split - Marina Frapa",
-      "description": "Súkromné taxi a transfer za pevnú cenu, Split - Marina Frapa, 75 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "description": "4 cestujúcich, od dverí k dverám.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sk/taxi-split-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "Súkromná jednosmerná jazda, Split - Marina Frapa, za vozidlo pre max. 4 cestujúcich. Spiatočne 150 eur."
+        "description": "Súkromná jednosmerná jazda, Split - Marina Frapa, za vozidlo pre max. 4 cestujúcich."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Koľko stojí transfer na trase Split - Marina Frapa?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pevných 75 za vozidlo pre max. 4 cestujúcich, jednosmerne, s mýtom, palivom a batožinou. Spiatočná cesta stojí 150."
+            "text": "4 cestujúcich, jednosmerne, s mýtom, palivom a batožinou."
           }
         },
         {

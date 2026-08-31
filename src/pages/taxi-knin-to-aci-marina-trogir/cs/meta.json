@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-aci-marina-trogir",
-  "title": "Taxi Knin - ACI Marina Trogir | Pevná cena €125 | TAXI Antonio",
-  "description": "Taxi a soukromý transfer, trasa Knin - ACI Marina Trogir. Pevná cena €125 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "title": "Taxi Knin - ACI Marina Trogir | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Knin - ACI Marina Trogir. Rezervujte přímo u Antonia.",
   "keywords": "taxi knin - aci marina trogir, transfer knin - aci marina trogir, letištní transfer knin - aci marina trogir",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Soukromý taxi transfer",
       "name": "Taxi Knin - ACI Marina Trogir",
-      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Knin - ACI Marina Trogir, 125 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Knin - ACI Marina Trogir, ode dveří ke dveřím.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/cs/taxi-knin-aci-marina-trogir/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Soukromá jednosměrná jízda, trasa Knin - ACI Marina Trogir, za vozidlo až pro 4 cestující. Zpáteční 250 eur."
+        "description": "Soukromá jednosměrná jízda, trasa Knin - ACI Marina Trogir, za vozidlo až pro 4 cestující."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Kolik stojí transfer na trase Knin - ACI Marina Trogir?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pevně 125 za vozidlo až pro 4 cestující, jednosměrná, s mýtným, palivem a zavazadly v ceně. Zpáteční jízda je 250."
+            "text": "Pevná cena za vozidlo až pro 4 cestující, jednosměrná, s mýtným, palivem a zavazadly v ceně. Cenu zpáteční jízdy sdělím na vyžádání."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-flygplats-split-rogoznica",
-  "title": "Taxi Split flygplats - Rogoznica | Fast pris €80 | TAXI Antonio",
-  "description": "Privat taxi och transfer, Split flygplats - Rogoznica. Fast pris €80 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "title": "Taxi Split flygplats - Rogoznica | TAXI Antonio",
+  "description": "Privat taxi och transfer, Split flygplats - Rogoznica. Boka direkt hos Antonio.",
   "keywords": "taxi split flygplats - rogoznica, transfer split flygplats - rogoznica, flygplatstransfer split flygplats - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privat taxitransfer",
       "name": "Taxi Split flygplats - Rogoznica",
-      "description": "Privat taxi och transfer till fast pris, Split flygplats - Rogoznica, 80 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "description": "Privat taxi och transfer till fast pris, Split flygplats - Rogoznica, dörr till dörr.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sv/taxi-flygplats-split-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Enkel privat resa, Split flygplats - Rogoznica, per fordon för upp till 4 passagerare. Tur och retur 160 euro."
+        "description": "Enkel privat resa, Split flygplats - Rogoznica, per fordon för upp till 4 passagerare."
       }
     },
     {
@@ -72,7 +70,7 @@
           "name": "Hur mycket kostar transfern på sträckan Split flygplats - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fast 80 per fordon för upp till 4 passagerare, enkel resa, vägtull och bagage ingår. En tur och retur kostar 160."
+            "text": "Fast pris per fordon för upp till 4 passagerare, enkel resa, vägtull och bagage ingår. Priset för tur och retur lämnar jag på begäran."
           }
         },
         {

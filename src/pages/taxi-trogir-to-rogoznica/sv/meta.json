@@ -1,7 +1,7 @@
 {
   "slug": "taxi-trogir-rogoznica",
-  "title": "Taxi Trogir - Rogoznica | Fast pris €30 | TAXI Antonio",
-  "description": "Privat taxi och transfer, Trogir - Rogoznica. Fast pris €30 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "title": "Taxi Trogir - Rogoznica | TAXI Antonio",
+  "description": "Privat taxi och transfer, Trogir - Rogoznica. Boka direkt hos Antonio.",
   "keywords": "taxi trogir - rogoznica, transfer trogir - rogoznica, flygplatstransfer trogir - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privat taxitransfer",
       "name": "Taxi Trogir - Rogoznica",
-      "description": "Privat taxi och transfer till fast pris, Trogir - Rogoznica, 30 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "description": "Privat taxi och transfer till fast pris, Trogir - Rogoznica, dörr till dörr.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sv/taxi-trogir-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "30",
-        "priceCurrency": "EUR",
-        "description": "Enkel privat resa, Trogir - Rogoznica, per fordon för upp till 4 passagerare. Tur och retur 60 euro."
+        "description": "Enkel privat resa, Trogir - Rogoznica, per fordon för upp till 4 passagerare."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Hur mycket kostar en taxi på sträckan Trogir - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fast 30 per fordon för upp till 4 passagerare, enkel resa, med vägtull, bränsle och bagage. En tur och retur kostar 60."
+            "text": "Fast pris per fordon för upp till 4 passagerare, enkel resa, med vägtull, bränsle och bagage. Priset för tur och retur lämnar jag på begäran."
           }
         },
         {

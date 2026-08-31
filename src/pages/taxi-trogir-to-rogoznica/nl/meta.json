@@ -1,7 +1,7 @@
 {
   "slug": "taxi-trogir-rogoznica",
-  "title": "Taxi Trogir - Rogoznica | Vaste prijs €30 | TAXI Antonio",
-  "description": "Taxi en privétransfer, traject Trogir - Rogoznica. Vaste prijs €30 per voertuig, tot 4 passagiers, van deur tot deur. Boek rechtstreeks bij Antonio.",
+  "title": "Taxi Trogir - Rogoznica | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Trogir - Rogoznica. Boek rechtstreeks bij Antonio.",
   "keywords": "taxi trogir - rogoznica, transfer trogir - rogoznica, luchthaventransfer trogir - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privé taxitransfer",
       "name": "Taxi Trogir - Rogoznica",
-      "description": "Taxi en privétransfer tegen vaste prijs, traject Trogir - Rogoznica, 30 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Trogir - Rogoznica, van deur tot deur.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/nl/taxi-trogir-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "30",
-        "priceCurrency": "EUR",
-        "description": "Privérit enkele reis, traject Trogir - Rogoznica, per voertuig tot 4 passagiers. Retour 60 euro."
+        "description": "Privérit enkele reis, traject Trogir - Rogoznica, per voertuig tot 4 passagiers."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Hoeveel kost een taxi op het traject Trogir - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Vast 30 per voertuig tot 4 passagiers, enkele reis, met tol, brandstof en bagage. Een retour kost 60."
+            "text": "Vaste prijs per voertuig tot 4 passagiers, enkele reis, met tol, brandstof en bagage. De prijs voor een retour geef ik op aanvraag."
           }
         },
         {

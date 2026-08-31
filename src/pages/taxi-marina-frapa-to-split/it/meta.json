@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-frapa-split",
-  "title": "Taxi Marina Frapa - Split | Prezzo fisso €75 | TAXI Antonio",
-  "description": "Taxi e transfer privato, tratta Marina Frapa - Split. Prezzo fisso €75 per veicolo, fino a 4. Prenota con Antonio.",
+  "title": "Taxi Marina Frapa - Split | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Marina Frapa - Split. Prenota con Antonio.",
   "keywords": "taxi marina frapa - split, transfer marina frapa - split, transfer aeroporto marina frapa - split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Transfer taxi privato",
       "name": "Taxi Marina Frapa - Split",
-      "description": "Taxi e transfer privato a prezzo fisso, tratta Marina Frapa - Split, 75 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Marina Frapa - Split, porta a porta.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/it/taxi-marina-frapa-split/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "Corsa privata di sola andata, tratta Marina Frapa - Split, per veicolo fino a 4 passeggeri. Andata e ritorno 150 euro."
+        "description": "Corsa privata di sola andata, tratta Marina Frapa - Split, per veicolo fino a 4 passeggeri."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Quanto costa un transfer da Marina Frapa a Split?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fisso 75 per veicolo, fino a 4 passeggeri, solo andata, con pedaggi, carburante e bagagli inclusi. Andata e ritorno 150."
+            "text": "Prezzo fisso per veicolo, fino a 4 passeggeri, solo andata, con pedaggi, carburante e bagagli inclusi. Anche per l'andata e ritorno il prezzo è su richiesta."
           }
         },
         {

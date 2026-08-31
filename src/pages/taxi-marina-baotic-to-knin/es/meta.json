@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-baotic-knin",
-  "title": "Taxi Marina Baotić - Knin | Precio fijo €110 | TAXI Antonio",
-  "description": "Taxi y traslado privado, Marina Baotić - Knin. Precio fijo €110 por vehículo, hasta 4 pasajeros, puerta a puerta. Reserve directamente con Antonio.",
+  "title": "Taxi Marina Baotić - Knin | TAXI Antonio",
+  "description": "Taxi y traslado privado, Marina Baotić - Knin. Reserve directamente con Antonio.",
   "keywords": "taxi marina baotić - knin, traslado marina baotić - knin, traslado al aeropuerto marina baotić - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Traslado privado en taxi",
       "name": "Taxi Marina Baotić - Knin",
-      "description": "Taxi y traslado privado a precio fijo, Marina Baotić - Knin, 110 euros por vehículo para hasta 4 pasajeros, puerta a puerta.",
+      "description": "Taxi y traslado privado a precio fijo, Marina Baotić - Knin, puerta a puerta.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/es/taxi-marina-baotic-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Trayecto privado de ida, Marina Baotić - Knin, por vehículo para hasta 4 pasajeros. Ida y vuelta 220 euros."
+        "description": "Trayecto privado de ida, Marina Baotić - Knin, por vehículo para hasta 4 pasajeros."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "¿Cuánto cuesta un traslado en el trayecto Marina Baotić - Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fijo 110 por vehículo para hasta 4 pasajeros, solo ida, con peajes, combustible y equipaje. Un viaje de ida y vuelta cuesta 220."
+            "text": "Precio fijo por vehículo para hasta 4 pasajeros, solo ida, con peajes, combustible y equipaje. El viaje de ida y vuelta también se presupuesta bajo petición."
           }
         },
         {

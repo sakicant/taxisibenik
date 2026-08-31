@@ -1,7 +1,7 @@
 {
   "slug": "taxi-rogoznica-seget",
-  "title": "Taxi Rogoznica - Seget | Prix fixe €30 | TAXI Antonio",
-  "description": "Taxi et transfert privé, trajet Rogoznica - Seget. Prix fixe €30 par véhicule, jusqu'à 4 passagers, porte à porte. Réservez directement avec Antonio.",
+  "title": "Taxi Rogoznica - Seget | TAXI Antonio",
+  "description": "Taxi et transfert privé, trajet Rogoznica - Seget. Réservez directement avec Antonio.",
   "keywords": "taxi rogoznica - seget, transfert rogoznica - seget, transfert aéroport rogoznica - seget",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Transfert taxi privé",
       "name": "Taxi Rogoznica - Seget",
-      "description": "Taxi et transfert privé à prix fixe, trajet Rogoznica - Seget, 30 euros par véhicule jusqu'à 4 passagers, porte à porte.",
+      "description": "Taxi et transfert privé à prix fixe, trajet Rogoznica - Seget, porte à porte.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fr/taxi-rogoznica-seget/",
       "offers": {
         "@type": "Offer",
-        "price": "30",
-        "priceCurrency": "EUR",
-        "description": "Trajet privé aller simple, trajet Rogoznica - Seget, par véhicule jusqu'à 4 passagers. Aller-retour 60 euros."
+        "description": "Trajet privé aller simple, trajet Rogoznica - Seget, par véhicule jusqu'à 4 passagers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Combien coûte un taxi sur le trajet Rogoznica - Seget ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "30 fixe par véhicule jusqu'à 4 passagers, aller simple, bagages inclus. Un aller-retour coûte 60."
+            "text": "Prix fixe par véhicule jusqu'à 4 passagers, aller simple, bagages inclus. L'aller-retour est également chiffré sur demande."
           }
         },
         {

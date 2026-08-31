@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-aerodrom-split",
-  "title": "Taksi Knin - Aerodrom Split | Fiksna cena €110 | TAXI Antonio",
-  "description": "Privatni taksi i transfer, relacija Knin - Aerodrom Split. Fiksno €110 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "title": "Taksi Knin - Aerodrom Split | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Knin - Aerodrom Split. Rezervišite direktno kod Antonija.",
   "keywords": "taksi knin - aerodrom split, transfer knin - aerodrom split, prevoz knin - aerodrom split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privatni taksi transfer",
       "name": "Taksi Knin - Aerodrom Split",
-      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Knin - Aerodrom Split, 110 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Knin - Aerodrom Split, od vrata do vrata.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sr/taxi-knin-aerodrom-split/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Jednosmerni privatni transfer, relacija Knin - Aerodrom Split, po vozilu za do 4 putnika. Povratno 220 evra."
+        "description": "Jednosmerni privatni transfer, relacija Knin - Aerodrom Split, po vozilu za do 4 putnika."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Koliko košta taksi na relaciji Knin - Aerodrom Split?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 110 po vozilu, jedan smer, za do 4 putnika. Cena je po vozilu, ne po osobi, i uključuje putarine, gorivo i prtljag. Povratna vožnja je 220."
+            "text": "Cena je po vozilu, ne po osobi, i uključuje putarine, gorivo i prtljag."
           }
         },
         {

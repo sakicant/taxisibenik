@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-marina-frapa",
-  "title": "Taxi Split - Marina Frapa | Vaste prijs €75 | TAXI Antonio",
-  "description": "Taxi en privétransfer, traject Split - Marina Frapa. Vaste prijs €75 per voertuig, tot 4 passagiers, van deur tot deur. Boek rechtstreeks bij Antonio.",
+  "title": "Taxi Split - Marina Frapa | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Split - Marina Frapa. Boek rechtstreeks bij Antonio.",
   "keywords": "taxi split - marina frapa, transfer split - marina frapa, luchthaventransfer split - marina frapa",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privé taxitransfer",
       "name": "Taxi Split - Marina Frapa",
-      "description": "Taxi en privétransfer tegen vaste prijs, traject Split - Marina Frapa, 75 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Split - Marina Frapa, van deur tot deur.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/nl/taxi-split-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "Privérit enkele reis, traject Split - Marina Frapa, per voertuig tot 4 passagiers. Retour 150 euro."
+        "description": "Privérit enkele reis, traject Split - Marina Frapa, per voertuig tot 4 passagiers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Hoeveel kost een transfer van Split naar Marina Frapa?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Vast 75 per voertuig tot 4 passagiers, enkele reis, met tol, brandstof en bagage inbegrepen. Een retour kost 150."
+            "text": "Vaste prijs per voertuig tot 4 passagiers, enkele reis, met tol, brandstof en bagage inbegrepen. De prijs voor een retour geef ik op aanvraag."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-lentoasema-marina-frapa",
-  "title": "Taksi Splitin lentoasema - Marina Frapa | Kiinteä hinta €80 | TAXI Antonio",
-  "description": "Yksityinen taksi ja kuljetus, reitti Splitin lentoasema - Marina Frapa. Kiinteä hinta €80 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "title": "Taksi Splitin lentoasema - Marina Frapa | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Splitin lentoasema - Marina Frapa. Varaa suoraan Antoniolta.",
   "keywords": "taksi splitin lentoasema - marina frapa, kuljetus splitin lentoasema - marina frapa, lentokenttäkuljetus splitin lentoasema - marina frapa",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Yksityinen taksikuljetus",
       "name": "Taksi Splitin lentoasema - Marina Frapa",
-      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Splitin lentoasema - Marina Frapa, 80 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Splitin lentoasema - Marina Frapa, ovelta ovelle.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fi/taxi-split-lentoasema-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Yhdensuuntainen yksityinen matka, reitti Splitin lentoasema - Marina Frapa, per auto enintään 4 matkustajalle. Meno ja paluu 160 euroa."
+        "description": "Yhdensuuntainen yksityinen matka, reitti Splitin lentoasema - Marina Frapa, per auto enintään 4 matkustajalle."
       }
     },
     {
@@ -64,7 +62,7 @@
           "name": "Paljonko kuljetus maksaa reitillä Splitin lentoasema - Marina Frapa?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiinteä 80 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatka maksaa 160."
+            "text": "Kiinteä hinta per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatkan hinnan kerron pyynnöstä."
           }
         },
         {

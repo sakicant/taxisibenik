@@ -1,7 +1,7 @@
 {
   "slug": "taxi-trogir-knin",
-  "title": "Taksi Trogir - Knin | Fiksna cena €110 | TAXI Antonio",
-  "description": "Privatni taksi i transfer, relacija Trogir - Knin. Fiksno €110 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "title": "Taksi Trogir - Knin | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Trogir - Knin. Rezervišite direktno kod Antonija.",
   "keywords": "taksi trogir - knin, transfer trogir - knin, prevoz trogir - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privatni taksi transfer",
       "name": "Taksi Trogir - Knin",
-      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Trogir - Knin, 110 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Trogir - Knin, od vrata do vrata.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sr/taxi-trogir-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Jednosmerni privatni transfer, relacija Trogir - Knin, po vozilu za do 4 putnika. Povratno 220 evra."
+        "description": "Jednosmerni privatni transfer, relacija Trogir - Knin, po vozilu za do 4 putnika."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Koliko košta taksi na relaciji Trogir - Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 110 po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Povratna vožnja je 220."
+            "text": "Fiksna cena po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Cenu povratne vožnje javljam na upit."
           }
         },
         {

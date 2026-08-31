@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-airport-marina-frapa",
-  "title": "タクシー スプリト空港 - Marina Frapa | 固定料金 €80 | TAXI Antonio",
-  "description": "貸切タクシー・送迎、スプリト空港 - Marina Frapa 区間。固定料金 €80／1台、最大4名様、ドアツードア。Antonioに直接ご予約ください。",
+  "title": "タクシー スプリト空港 - Marina Frapa | TAXI Antonio",
+  "description": "貸切タクシー・送迎、スプリト空港 - Marina Frapa 区間。 Antonioに直接ご予約ください。",
   "keywords": "タクシー スプリト空港 - marina frapa, 送迎 スプリト空港 - marina frapa, 空港送迎 スプリト空港 - marina frapa",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "貸切タクシー送迎",
       "name": "タクシー スプリト空港 - Marina Frapa",
-      "description": "固定料金の貸切タクシー・送迎、スプリト空港 - Marina Frapa 区間、1台 80 ユーロで最大4名様、ドアツードア。",
+      "description": "固定料金の貸切タクシー・送迎、スプリト空港 - Marina Frapa 区間、ドアツードア。",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/ja/taxi-split-airport-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "貸切の片道乗車、スプリト空港 - Marina Frapa 区間、1台で最大4名様。往復は 160 ユーロ。"
+        "description": "貸切の片道乗車、スプリト空港 - Marina Frapa 区間、1台で最大4名様。"
       }
     },
     {
@@ -64,7 +62,7 @@
           "name": "スプリト空港 - Marina Frapa 区間の送迎料金はいくらですか？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "片道、車1台あたり固定 80、最大4名様、通行料・荷物込み。往復は 160 です。"
+            "text": "片道、車1台あたりの固定料金、最大4名様、通行料・荷物込み。往復も同様にお見積りいたします。"
           }
         },
         {

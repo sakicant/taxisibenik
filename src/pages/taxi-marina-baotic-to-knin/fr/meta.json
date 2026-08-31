@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-baotic-knin",
-  "title": "Taxi Marina Baotić - Knin | Prix fixe €110 | TAXI Antonio",
-  "description": "Taxi et transfert privé, trajet Marina Baotić - Knin. Prix fixe €110 par véhicule, jusqu'à 4 passagers, porte à porte. Réservez directement avec Antonio.",
+  "title": "Taxi Marina Baotić - Knin | TAXI Antonio",
+  "description": "Taxi et transfert privé, trajet Marina Baotić - Knin. Réservez directement avec Antonio.",
   "keywords": "taxi marina baotić - knin, transfert marina baotić - knin, transfert aéroport marina baotić - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Transfert taxi privé",
       "name": "Taxi Marina Baotić - Knin",
-      "description": "Taxi et transfert privé à prix fixe, trajet Marina Baotić - Knin, 110 euros par véhicule jusqu'à 4 passagers, porte à porte.",
+      "description": "Taxi et transfert privé à prix fixe, trajet Marina Baotić - Knin, porte à porte.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fr/taxi-marina-baotic-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Trajet privé aller simple, trajet Marina Baotić - Knin, par véhicule jusqu'à 4 passagers. Aller-retour 220 euros."
+        "description": "Trajet privé aller simple, trajet Marina Baotić - Knin, par véhicule jusqu'à 4 passagers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Combien coûte un transfert sur le trajet Marina Baotić - Knin ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "110 fixe par véhicule jusqu'à 4 passagers, aller simple, avec péages, carburant et bagages inclus. Un aller-retour coûte 220."
+            "text": "Prix fixe par véhicule jusqu'à 4 passagers, aller simple, avec péages, carburant et bagages inclus. L'aller-retour est également chiffré sur demande."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-trogir",
-  "title": "Taxi Knin - Trogir | Prezzo fisso €110 | TAXI Antonio",
-  "description": "Taxi e transfer privato, tratta Knin - Trogir. Prezzo fisso €110 per veicolo, fino a 4 passeggeri, porta a porta. Prenota direttamente con Antonio.",
+  "title": "Taxi Knin - Trogir | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Knin - Trogir. Prenota direttamente con Antonio.",
   "keywords": "taxi knin - trogir, transfer knin - trogir, transfer aeroporto knin - trogir",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Transfer taxi privato",
       "name": "Taxi Knin - Trogir",
-      "description": "Taxi e transfer privato a prezzo fisso, tratta Knin - Trogir, 110 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Knin - Trogir, porta a porta.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/it/taxi-knin-trogir/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Corsa privata di sola andata, tratta Knin - Trogir, per veicolo fino a 4 passeggeri. Andata e ritorno 220 euro."
+        "description": "Corsa privata di sola andata, tratta Knin - Trogir, per veicolo fino a 4 passeggeri."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Quanto costa un taxi sulla tratta Knin - Trogir?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fisso 110 per veicolo fino a 4 passeggeri, solo andata, con pedaggi, carburante e bagagli. Andata e ritorno 220."
+            "text": "Prezzo fisso per veicolo fino a 4 passeggeri, solo andata, con pedaggi, carburante e bagagli. Anche per l'andata e ritorno il prezzo è su richiesta."
           }
         },
         {

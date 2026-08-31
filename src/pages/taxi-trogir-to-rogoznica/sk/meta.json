@@ -1,7 +1,7 @@
 {
   "slug": "taxi-trogir-rogoznica",
-  "title": "Taxi Trogir - Rogoznica | Pevná cena €30 | TAXI Antonio",
-  "description": "Súkromné taxi a transfer, Trogir - Rogoznica. Pevná cena €30 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "title": "Taxi Trogir - Rogoznica | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Trogir - Rogoznica. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
   "keywords": "taxi trogir - rogoznica, transfer trogir - rogoznica, letiskový transfer trogir - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Súkromný taxi transfer",
       "name": "Taxi Trogir - Rogoznica",
-      "description": "Súkromné taxi a transfer za pevnú cenu, Trogir - Rogoznica, 30 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "description": "4 cestujúcich, od dverí k dverám.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sk/taxi-trogir-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "30",
-        "priceCurrency": "EUR",
-        "description": "Súkromná jednosmerná jazda, Trogir - Rogoznica, za vozidlo pre max. 4 cestujúcich. Spiatočne 60 eur."
+        "description": "Súkromná jednosmerná jazda, Trogir - Rogoznica, za vozidlo pre max. 4 cestujúcich."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Koľko stojí taxi na trase Trogir - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pevných 30 za vozidlo pre max. 4 cestujúcich, jednosmerne, s mýtom, palivom a batožinou. Spiatočná cesta stojí 60."
+            "text": "4 cestujúcich, jednosmerne, s mýtom, palivom a batožinou."
           }
         },
         {

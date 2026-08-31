@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-lentoasema-rogoznica",
-  "title": "Taksi Splitin lentoasema - Rogoznica | Kiinteä hinta €80 | TAXI Antonio",
-  "description": "Yksityinen taksi ja kuljetus, reitti Splitin lentoasema - Rogoznica. Kiinteä hinta €80 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "title": "Taksi Splitin lentoasema - Rogoznica | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Splitin lentoasema - Rogoznica. Varaa suoraan Antoniolta.",
   "keywords": "taksi splitin lentoasema - rogoznica, kuljetus splitin lentoasema - rogoznica, lentokenttäkuljetus splitin lentoasema - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Yksityinen taksikuljetus",
       "name": "Taksi Splitin lentoasema - Rogoznica",
-      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Splitin lentoasema - Rogoznica, 80 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Splitin lentoasema - Rogoznica, ovelta ovelle.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fi/taxi-split-lentoasema-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Yhdensuuntainen yksityinen matka, reitti Splitin lentoasema - Rogoznica, per auto enintään 4 matkustajalle. Meno ja paluu 160 euroa."
+        "description": "Yhdensuuntainen yksityinen matka, reitti Splitin lentoasema - Rogoznica, per auto enintään 4 matkustajalle."
       }
     },
     {
@@ -72,7 +70,7 @@
           "name": "Paljonko kuljetus maksaa reitillä Splitin lentoasema - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiinteä 80 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatka maksaa 160."
+            "text": "Kiinteä hinta per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullit ja matkatavarat mukana. Meno-paluumatkan hinnan kerron pyynnöstä."
           }
         },
         {

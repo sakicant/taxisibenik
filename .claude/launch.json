@@ -4,14 +4,36 @@
     {
       "name": "static-site",
       "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "5500"],
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "5500"
+      ],
       "port": 5500
     },
     {
       "name": "kzsibenik",
       "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "5510", "--directory", "C:/Users/sakic/kzsibenik-code"],
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "5510",
+        "--directory",
+        "C:/Users/sakic/kzsibenik-code"
+      ],
       "port": 5510
+    },
+    {
+      "name": "ivanaguide",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "5520",
+        "--directory",
+        "C:/Users/sakic/ivanaguide-code"
+      ],
+      "port": 5520
     }
   ]
 }

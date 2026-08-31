@@ -1,7 +1,7 @@
 {
   "slug": "taxi-seget-knin",
-  "title": "Taxi Seget - Knin | Festpreis €110 | TAXI Antonio",
-  "description": "Privates Taxi und Transfer, Strecke Seget - Knin. Festpreis €110 pro Fahrzeug, bis zu 4 Fahrgäste, Tür zu Tür. Direkt bei Antonio buchen.",
+  "title": "Taxi Seget - Knin | TAXI Antonio",
+  "description": "Privates Taxi und Transfer, Strecke Seget - Knin. Direkt bei Antonio buchen.",
   "keywords": "taxi seget - knin, transfer seget - knin, flughafentransfer seget - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privater Taxitransfer",
       "name": "Taxi Seget - Knin",
-      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Seget - Knin, 110 Euro pro Fahrzeug für bis zu 4 Fahrgäste, Tür zu Tür.",
+      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Seget - Knin, Tür zu Tür.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/de/taxi-seget-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Einfache private Fahrt, Strecke Seget - Knin, pro Fahrzeug für bis zu 4 Fahrgäste. Hin und zurück 220 Euro."
+        "description": "Einfache private Fahrt, Strecke Seget - Knin, pro Fahrzeug für bis zu 4 Fahrgäste."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Wie viel kostet ein Taxi auf der Strecke Seget - Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fest 110 pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, Gepäck inklusive. Eine Hin- und Rückfahrt kostet 220."
+            "text": "Festpreis pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, Gepäck inklusive. Den Preis für eine Hin- und Rückfahrt nenne ich Ihnen auf Anfrage."
           }
         },
         {

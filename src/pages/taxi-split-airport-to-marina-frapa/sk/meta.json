@@ -1,7 +1,7 @@
 {
   "slug": "taxi-letisko-split-marina-frapa",
-  "title": "Taxi Letisko Split - Marina Frapa | Pevná cena €80 | TAXI Antonio",
-  "description": "Súkromné taxi a transfer, Letisko Split - Marina Frapa. Pevná cena €80 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "title": "Taxi Letisko Split - Marina Frapa | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Letisko Split - Marina Frapa. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
   "keywords": "taxi letisko split - marina frapa, transfer letisko split - marina frapa, letiskový transfer letisko split - marina frapa",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Súkromný taxi transfer",
       "name": "Taxi Letisko Split - Marina Frapa",
-      "description": "Súkromné taxi a transfer za pevnú cenu, Letisko Split - Marina Frapa, 80 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "description": "4 cestujúcich, od dverí k dverám.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sk/taxi-letisko-split-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Súkromná jednosmerná jazda, Letisko Split - Marina Frapa, za vozidlo pre max. 4 cestujúcich. Spiatočne 160 eur."
+        "description": "Súkromná jednosmerná jazda, Letisko Split - Marina Frapa, za vozidlo pre max. 4 cestujúcich."
       }
     },
     {
@@ -72,7 +70,7 @@
           "name": "Koľko stojí transfer na trase Letisko Split - Marina Frapa?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pevných 80 za vozidlo pre max. 4 cestujúcich, jednosmerne, mýto a batožina v cene. Spiatočná cesta stojí 160."
+            "text": "4 cestujúcich, jednosmerne, mýto a batožina v cene."
           }
         },
         {

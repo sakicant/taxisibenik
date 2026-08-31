@@ -1,7 +1,7 @@
 {
   "slug": "taxi-seget-rogoznica",
-  "title": "Taxi Seget - Rogoznica | Prezzo fisso €30 | TAXI Antonio",
-  "description": "Taxi e transfer privato, tratta Seget - Rogoznica. Prezzo fisso €30 per veicolo, fino a 4 passeggeri, porta a porta. Prenota direttamente con Antonio.",
+  "title": "Taxi Seget - Rogoznica | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Seget - Rogoznica. Prenota direttamente con Antonio.",
   "keywords": "taxi seget - rogoznica, transfer seget - rogoznica, transfer aeroporto seget - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Transfer taxi privato",
       "name": "Taxi Seget - Rogoznica",
-      "description": "Taxi e transfer privato a prezzo fisso, tratta Seget - Rogoznica, 30 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Seget - Rogoznica, porta a porta.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/it/taxi-seget-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "30",
-        "priceCurrency": "EUR",
-        "description": "Corsa privata di sola andata, tratta Seget - Rogoznica, per veicolo fino a 4 passeggeri. Andata e ritorno 60 euro."
+        "description": "Corsa privata di sola andata, tratta Seget - Rogoznica, per veicolo fino a 4 passeggeri."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Quanto costa un taxi sulla tratta Seget - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fisso 30 per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Andata e ritorno 60."
+            "text": "Prezzo fisso per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Anche per l'andata e ritorno il prezzo è su richiesta."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-aci-marina-trogir",
-  "title": "Taxi Knin - ACI Marina Trogir | Festpreis €125 | TAXI Antonio",
-  "description": "Privates Taxi und Transfer, Strecke Knin - ACI Marina Trogir. Festpreis €125 pro Fahrzeug, bis zu 4 Fahrgäste, Tür zu Tür. Direkt bei Antonio buchen.",
+  "title": "Taxi Knin - ACI Marina Trogir | TAXI Antonio",
+  "description": "Privates Taxi und Transfer, Strecke Knin - ACI Marina Trogir. Direkt bei Antonio buchen.",
   "keywords": "taxi knin - aci marina trogir, transfer knin - aci marina trogir, flughafentransfer knin - aci marina trogir",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privater Taxitransfer",
       "name": "Taxi Knin - ACI Marina Trogir",
-      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Knin - ACI Marina Trogir, 125 Euro pro Fahrzeug für bis zu 4 Fahrgäste, Tür zu Tür.",
+      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Knin - ACI Marina Trogir, Tür zu Tür.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/de/taxi-knin-aci-marina-trogir/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Einfache private Fahrt, Strecke Knin - ACI Marina Trogir, pro Fahrzeug für bis zu 4 Fahrgäste. Hin und zurück 250 Euro."
+        "description": "Einfache private Fahrt, Strecke Knin - ACI Marina Trogir, pro Fahrzeug für bis zu 4 Fahrgäste."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Wie viel kostet ein Transfer auf der Strecke Knin - ACI Marina Trogir?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fest 125 pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, mit Maut, Kraftstoff und Gepäck. Eine Hin- und Rückfahrt kostet 250."
+            "text": "Festpreis pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, mit Maut, Kraftstoff und Gepäck. Den Preis für eine Hin- und Rückfahrt nenne ich Ihnen auf Anfrage."
           }
         },
         {

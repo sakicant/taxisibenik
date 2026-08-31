@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-marina-agana",
-  "title": "Taxi Knin - Marina Agana | Precio fijo €110 | TAXI Antonio",
-  "description": "Taxi y traslado privado, Knin - Marina Agana. Precio fijo €110 por vehículo, hasta 4 pasajeros, puerta a puerta. Reserve directamente con Antonio.",
+  "title": "Taxi Knin - Marina Agana | TAXI Antonio",
+  "description": "Taxi y traslado privado, Knin - Marina Agana. Reserve directamente con Antonio.",
   "keywords": "taxi knin - marina agana, traslado knin - marina agana, traslado al aeropuerto knin - marina agana",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Traslado privado en taxi",
       "name": "Taxi Knin - Marina Agana",
-      "description": "Taxi y traslado privado a precio fijo, Knin - Marina Agana, 110 euros por vehículo para hasta 4 pasajeros, puerta a puerta.",
+      "description": "Taxi y traslado privado a precio fijo, Knin - Marina Agana, puerta a puerta.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/es/taxi-knin-marina-agana/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Trayecto privado de ida, Knin - Marina Agana, por vehículo para hasta 4 pasajeros. Ida y vuelta 220 euros."
+        "description": "Trayecto privado de ida, Knin - Marina Agana, por vehículo para hasta 4 pasajeros."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "¿Cuánto cuesta un traslado en el trayecto Knin - Marina Agana?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fijo 110 por vehículo para hasta 4 pasajeros, solo ida, con peajes, combustible y equipaje. Un viaje de ida y vuelta cuesta 220."
+            "text": "Precio fijo por vehículo para hasta 4 pasajeros, solo ida, con peajes, combustible y equipaje. El viaje de ida y vuelta también se presupuesta bajo petición."
           }
         },
         {

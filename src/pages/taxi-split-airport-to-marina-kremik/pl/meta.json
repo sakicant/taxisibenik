@@ -1,7 +1,7 @@
 {
   "slug": "taxi-lotnisko-split-marina-kremik",
-  "title": "Taxi Lotnisko Split - Marina Kremik | Stała cena €80 | TAXI Antonio",
-  "description": "Taxi i prywatny transfer, trasa Lotnisko Split - Marina Kremik. Stała cena €80 za pojazd, do 4. Rezerwuj u Antonio.",
+  "title": "Taxi Lotnisko Split - Marina Kremik | TAXI Antonio",
+  "description": "Taxi i prywatny transfer, trasa Lotnisko Split - Marina Kremik. Rezerwuj u Antonio.",
   "keywords": "taxi lotnisko split - marina kremik, transfer lotnisko split - marina kremik, transfer lotniskowy lotnisko split - marina kremik",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Prywatny transfer taxi",
       "name": "Taxi Lotnisko Split - Marina Kremik",
-      "description": "Taxi i prywatny transfer w stałej cenie, trasa Lotnisko Split - Marina Kremik, 80 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
+      "description": "Taxi i prywatny transfer w stałej cenie, trasa Lotnisko Split - Marina Kremik, od drzwi do drzwi.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/pl/taxi-lotnisko-split-marina-kremik/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Prywatny przejazd w jedną stronę, trasa Lotnisko Split - Marina Kremik, za pojazd do 4 pasażerów. W obie strony 160 euro."
+        "description": "Prywatny przejazd w jedną stronę, trasa Lotnisko Split - Marina Kremik, za pojazd do 4 pasażerów."
       }
     },
     {
@@ -72,7 +70,7 @@
           "name": "Ile kosztuje transfer na trasie Lotnisko Split - Marina Kremik?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Stałe 80 za pojazd do 4 pasażerów, w jedną stronę, opłaty drogowe i bagaż w cenie. W obie strony 160."
+            "text": "Stała cena za pojazd do 4 pasażerów, w jedną stronę, opłaty drogowe i bagaż w cenie. Cenę w obie strony podaję na zapytanie."
           }
         },
         {

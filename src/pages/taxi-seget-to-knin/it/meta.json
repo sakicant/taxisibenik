@@ -1,7 +1,7 @@
 {
   "slug": "taxi-seget-knin",
-  "title": "Taxi Seget - Knin | Prezzo fisso €110 | TAXI Antonio",
-  "description": "Taxi e transfer privato, tratta Seget - Knin. Prezzo fisso €110 per veicolo, fino a 4 passeggeri, porta a porta. Prenota direttamente con Antonio.",
+  "title": "Taxi Seget - Knin | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Seget - Knin. Prenota direttamente con Antonio.",
   "keywords": "taxi seget - knin, transfer seget - knin, transfer aeroporto seget - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Transfer taxi privato",
       "name": "Taxi Seget - Knin",
-      "description": "Taxi e transfer privato a prezzo fisso, tratta Seget - Knin, 110 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Seget - Knin, porta a porta.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/it/taxi-seget-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Corsa privata di sola andata, tratta Seget - Knin, per veicolo fino a 4 passeggeri. Andata e ritorno 220 euro."
+        "description": "Corsa privata di sola andata, tratta Seget - Knin, per veicolo fino a 4 passeggeri."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Quanto costa un taxi sulla tratta Seget - Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fisso 110 per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Andata e ritorno 220."
+            "text": "Prezzo fisso per veicolo fino a 4 passeggeri, solo andata, bagagli inclusi. Anche per l'andata e ritorno il prezzo è su richiesta."
           }
         },
         {

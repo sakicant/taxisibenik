@@ -1,7 +1,7 @@
 {
   "slug": "taksi-rogoznica-letalisce-split",
-  "title": "Taksi Rogoznica - Letališče Split | Fiksna cena €80 | TAXI Antonio",
-  "description": "Taksi in zasebni prevoz, relacija Rogoznica - Letališče Split. Fiksna cena €80 na vozilo, do 4. Rezervirajte pri Antoniu.",
+  "title": "Taksi Rogoznica - Letališče Split | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Rogoznica - Letališče Split. Rezervirajte pri Antoniu.",
   "keywords": "taksi rogoznica - letališče split, prevoz rogoznica - letališče split, letališki prevoz rogoznica - letališče split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Zasebni taksi prevoz",
       "name": "Taksi Rogoznica - Letališče Split",
-      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Rogoznica - Letališče Split, 80 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Rogoznica - Letališče Split, od vrat do vrat.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sl/taksi-rogoznica-letalisce-split/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Zasebna enosmerna vožnja, relacija Rogoznica - Letališče Split, na vozilo do 4 potnike. Povratno 160 evrov."
+        "description": "Zasebna enosmerna vožnja, relacija Rogoznica - Letališče Split, na vozilo do 4 potnike."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Koliko stane taksi na relaciji Rogoznica - Letališče Split?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 80 na vozilo, enosmerno, do 4 potnike. Cena je na vozilo, ne na osebo, in vključuje cestnine, gorivo in prtljago. Povratna vožnja je 160."
+            "text": "Cena je na vozilo, ne na osebo, in vključuje cestnine, gorivo in prtljago."
           }
         },
         {

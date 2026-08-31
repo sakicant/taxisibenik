@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-trogir",
-  "title": "Taxi Knin - Trogir | Vaste prijs €110 | TAXI Antonio",
-  "description": "Taxi en privétransfer, traject Knin - Trogir. Vaste prijs €110 per voertuig, tot 4 passagiers, van deur tot deur. Boek rechtstreeks bij Antonio.",
+  "title": "Taxi Knin - Trogir | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Knin - Trogir. Boek rechtstreeks bij Antonio.",
   "keywords": "taxi knin - trogir, transfer knin - trogir, luchthaventransfer knin - trogir",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privé taxitransfer",
       "name": "Taxi Knin - Trogir",
-      "description": "Taxi en privétransfer tegen vaste prijs, traject Knin - Trogir, 110 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Knin - Trogir, van deur tot deur.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/nl/taxi-knin-trogir/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Privérit enkele reis, traject Knin - Trogir, per voertuig tot 4 passagiers. Retour 220 euro."
+        "description": "Privérit enkele reis, traject Knin - Trogir, per voertuig tot 4 passagiers."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Hoeveel kost een taxi op het traject Knin - Trogir?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Vast 110 per voertuig tot 4 passagiers, enkele reis, met tol, brandstof en bagage. Een retour kost 220."
+            "text": "Vaste prijs per voertuig tot 4 passagiers, enkele reis, met tol, brandstof en bagage. De prijs voor een retour geef ik op aanvraag."
           }
         },
         {

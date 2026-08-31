@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-ciovo",
-  "title": "Taxi Knin - Čiovo | Vaste prijs €125 | TAXI Antonio",
-  "description": "Taxi en privétransfer, traject Knin - Čiovo. Vaste prijs €125 per voertuig, tot 4 passagiers, van deur tot deur. Boek rechtstreeks bij Antonio.",
+  "title": "Taxi Knin - Čiovo | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Knin - Čiovo. Boek rechtstreeks bij Antonio.",
   "keywords": "taxi knin - čiovo, transfer knin - čiovo, luchthaventransfer knin - čiovo",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privé taxitransfer",
       "name": "Taxi Knin - Čiovo",
-      "description": "Taxi en privétransfer tegen vaste prijs, traject Knin - Čiovo, 125 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Knin - Čiovo, van deur tot deur.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/nl/taxi-knin-ciovo/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Privérit enkele reis, traject Knin - Čiovo, per voertuig tot 4 passagiers. Retour 250 euro."
+        "description": "Privérit enkele reis, traject Knin - Čiovo, per voertuig tot 4 passagiers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Hoeveel kost een taxi op het traject Knin - Čiovo?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Vast 125 per voertuig tot 4 passagiers, enkele reis, bagage inbegrepen. Een retour kost 250."
+            "text": "Vaste prijs per voertuig tot 4 passagiers, enkele reis, bagage inbegrepen. De prijs voor een retour geef ik op aanvraag."
           }
         },
         {

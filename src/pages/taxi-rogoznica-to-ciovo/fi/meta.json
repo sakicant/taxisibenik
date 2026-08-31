@@ -1,7 +1,7 @@
 {
   "slug": "taxi-rogoznica-ciovo",
-  "title": "Taksi Rogoznica - Čiovo | Kiinteä hinta €45 | TAXI Antonio",
-  "description": "Yksityinen taksi ja kuljetus, reitti Rogoznica - Čiovo. Kiinteä hinta €45 per auto, enintään 4 matkustajaa, ovelta ovelle. Varaa suoraan Antoniolta.",
+  "title": "Taksi Rogoznica - Čiovo | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Rogoznica - Čiovo. Varaa suoraan Antoniolta.",
   "keywords": "taksi rogoznica - čiovo, kuljetus rogoznica - čiovo, lentokenttäkuljetus rogoznica - čiovo",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Yksityinen taksikuljetus",
       "name": "Taksi Rogoznica - Čiovo",
-      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Rogoznica - Čiovo, 45 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Rogoznica - Čiovo, ovelta ovelle.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fi/taxi-rogoznica-ciovo/",
       "offers": {
         "@type": "Offer",
-        "price": "45",
-        "priceCurrency": "EUR",
-        "description": "Yhdensuuntainen yksityinen matka, reitti Rogoznica - Čiovo, per auto enintään 4 matkustajalle. Meno ja paluu 90 euroa."
+        "description": "Yhdensuuntainen yksityinen matka, reitti Rogoznica - Čiovo, per auto enintään 4 matkustajalle."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Paljonko taksi maksaa reitillä Rogoznica - Čiovo?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiinteä 45 per auto enintään 4 matkustajalle, yhdensuuntainen matka, matkatavarat mukana. Meno-paluumatka maksaa 90."
+            "text": "Kiinteä hinta per auto enintään 4 matkustajalle, yhdensuuntainen matka, matkatavarat mukana. Meno-paluumatkan hinnan kerron pyynnöstä."
           }
         },
         {

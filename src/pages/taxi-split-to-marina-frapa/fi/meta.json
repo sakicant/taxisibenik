@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-marina-frapa",
-  "title": "Taksi Split - Marina Frapa | Kiinteä hinta €75 | TAXI Antonio",
-  "description": "Yksityinen taksi ja kuljetus, reitti Split - Marina Frapa. Kiinteä hinta €75 per auto, enintään 4 matkustajaa, ovelta ovelle. Varaa suoraan Antoniolta.",
+  "title": "Taksi Split - Marina Frapa | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Split - Marina Frapa. Varaa suoraan Antoniolta.",
   "keywords": "taksi split - marina frapa, kuljetus split - marina frapa, lentokenttäkuljetus split - marina frapa",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Yksityinen taksikuljetus",
       "name": "Taksi Split - Marina Frapa",
-      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Split - Marina Frapa, 75 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Split - Marina Frapa, ovelta ovelle.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fi/taxi-split-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "Yhdensuuntainen yksityinen matka, reitti Split - Marina Frapa, per auto enintään 4 matkustajalle. Meno ja paluu 150 euroa."
+        "description": "Yhdensuuntainen yksityinen matka, reitti Split - Marina Frapa, per auto enintään 4 matkustajalle."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Paljonko kuljetus maksaa reitillä Split - Marina Frapa?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiinteä 75 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullien, polttoaineen ja matkatavaroiden kanssa. Meno-paluumatka maksaa 150."
+            "text": "Kiinteä hinta per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullien, polttoaineen ja matkatavaroiden kanssa. Meno-paluumatkan hinnan kerron pyynnöstä."
           }
         },
         {

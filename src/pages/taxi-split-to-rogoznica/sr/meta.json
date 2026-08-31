@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-rogoznica",
-  "title": "Taksi Split - Rogoznica | Fiksna cena €75 | TAXI Antonio",
-  "description": "Privatni taksi i transfer, relacija Split - Rogoznica. Fiksno €75 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "title": "Taksi Split - Rogoznica | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Split - Rogoznica. Rezervišite direktno kod Antonija.",
   "keywords": "taksi split - rogoznica, transfer split - rogoznica, prevoz split - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privatni taksi transfer",
       "name": "Taksi Split - Rogoznica",
-      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Split - Rogoznica, 75 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Split - Rogoznica, od vrata do vrata.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sr/taxi-split-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "Jednosmerni privatni transfer, relacija Split - Rogoznica, po vozilu za do 4 putnika. Povratno 150 evra."
+        "description": "Jednosmerni privatni transfer, relacija Split - Rogoznica, po vozilu za do 4 putnika."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Koliko košta taksi na relaciji Split - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 75 po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Povratna vožnja je 150."
+            "text": "Fiksna cena po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Cenu povratne vožnje javljam na upit."
           }
         },
         {

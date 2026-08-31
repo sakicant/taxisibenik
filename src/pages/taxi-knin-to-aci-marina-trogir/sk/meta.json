@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-aci-marina-trogir",
-  "title": "Taxi Knin - ACI Marina Trogir | Pevná cena €125 | TAXI Antonio",
-  "description": "Súkromné taxi a transfer, Knin - ACI Marina Trogir. Pevná cena €125 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "title": "Taxi Knin - ACI Marina Trogir | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Knin - ACI Marina Trogir. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
   "keywords": "taxi knin - aci marina trogir, transfer knin - aci marina trogir, letiskový transfer knin - aci marina trogir",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Súkromný taxi transfer",
       "name": "Taxi Knin - ACI Marina Trogir",
-      "description": "Súkromné taxi a transfer za pevnú cenu, Knin - ACI Marina Trogir, 125 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "description": "4 cestujúcich, od dverí k dverám.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sk/taxi-knin-aci-marina-trogir/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Súkromná jednosmerná jazda, Knin - ACI Marina Trogir, za vozidlo pre max. 4 cestujúcich. Spiatočne 250 eur."
+        "description": "Súkromná jednosmerná jazda, Knin - ACI Marina Trogir, za vozidlo pre max. 4 cestujúcich."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Koľko stojí transfer na trase Knin - ACI Marina Trogir?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pevných 125 za vozidlo pre max. 4 cestujúcich, jednosmerne, s mýtom, palivom a batožinou. Spiatočná cesta stojí 250."
+            "text": "4 cestujúcich, jednosmerne, s mýtom, palivom a batožinou."
           }
         },
         {

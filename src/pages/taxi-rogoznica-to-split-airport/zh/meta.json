@@ -1,7 +1,7 @@
 {
   "slug": "taxi-rogoznica-split-airport",
-  "title": "Rogoznica - 斯普利特机场 出租车 | 固定价格 €80 | TAXI Antonio",
-  "description": "私人出租车与接送，Rogoznica - 斯普利特机场 路线。固定价格 €80 每车，最多 4 名乘客，门到门。直接向 Antonio 预订。",
+  "title": "Rogoznica - 斯普利特机场 出租车 | TAXI Antonio",
+  "description": "私人出租车与接送，Rogoznica - 斯普利特机场 路线。 直接向 Antonio 预订。",
   "keywords": "出租车 rogoznica - 斯普利特机场, 接送 rogoznica - 斯普利特机场, 机场接送 rogoznica - 斯普利特机场",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "私人出租车接送",
       "name": "Rogoznica - 斯普利特机场 出租车",
-      "description": "固定价格的私人出租车与接送，Rogoznica - 斯普利特机场 路线，每车 80 欧元，最多 4 名乘客，门到门。",
+      "description": "固定价格的私人出租车与接送，Rogoznica - 斯普利特机场 路线，最多 4 名乘客，门到门。",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/zh/taxi-rogoznica-split-airport/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "单程私人乘车，Rogoznica - 斯普利特机场 路线，每车最多 4 名乘客。往返 160 欧元。"
+        "description": "单程私人乘车，Rogoznica - 斯普利特机场 路线，每车最多 4 名乘客。"
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Rogoznica - 斯普利特机场 路线的出租车多少钱？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "固定 80 每车，单程，最多 4 名乘客。价格按车计算，而非按人，含过路费、燃油和行李。往返为 160。"
+            "text": "价格按车计算，而非按人，含过路费、燃油和行李。"
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-aci-marina-trogir-knin",
-  "title": "Taxi ACI Marina Trogir - Knin | Prezzo fisso €125 | TAXI Antonio",
-  "description": "Taxi e transfer privato, tratta ACI Marina Trogir - Knin. Prezzo fisso €125 per veicolo, fino a 4. Prenota con Antonio.",
+  "title": "Taxi ACI Marina Trogir - Knin | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta ACI Marina Trogir - Knin. Prenota con Antonio.",
   "keywords": "taxi aci marina trogir - knin, transfer aci marina trogir - knin, transfer aeroporto aci marina trogir - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Transfer taxi privato",
       "name": "Taxi ACI Marina Trogir - Knin",
-      "description": "Taxi e transfer privato a prezzo fisso, tratta ACI Marina Trogir - Knin, 125 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta ACI Marina Trogir - Knin, porta a porta.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/it/taxi-aci-marina-trogir-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Corsa privata di sola andata, tratta ACI Marina Trogir - Knin, per veicolo fino a 4 passeggeri. Andata e ritorno 250 euro."
+        "description": "Corsa privata di sola andata, tratta ACI Marina Trogir - Knin, per veicolo fino a 4 passeggeri."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Quanto costa un transfer da ACI Marina Trogir a Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fisso 125 per veicolo, fino a 4 passeggeri, solo andata, con pedaggi, carburante e bagagli inclusi. Andata e ritorno 250."
+            "text": "Prezzo fisso per veicolo, fino a 4 passeggeri, solo andata, con pedaggi, carburante e bagagli inclusi. Anche per l'andata e ritorno il prezzo è su richiesta."
           }
         },
         {

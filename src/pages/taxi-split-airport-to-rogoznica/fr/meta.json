@@ -1,7 +1,7 @@
 {
   "slug": "taxi-aeroport-split-rogoznica",
-  "title": "Taxi Aéroport de Split - Rogoznica | Prix fixe €80 | TAXI Antonio",
-  "description": "Taxi et transfert privé, trajet Aéroport de Split - Rogoznica. Prix fixe €80 par véhicule, jusqu'à 4. Réservez avec Antonio.",
+  "title": "Taxi Aéroport de Split - Rogoznica | TAXI Antonio",
+  "description": "Taxi et transfert privé, trajet Aéroport de Split - Rogoznica. Réservez avec Antonio.",
   "keywords": "taxi aéroport de split - rogoznica, transfert aéroport de split - rogoznica, transfert aéroport aéroport de split - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Transfert taxi privé",
       "name": "Taxi Aéroport de Split - Rogoznica",
-      "description": "Taxi et transfert privé à prix fixe, trajet Aéroport de Split - Rogoznica, 80 euros par véhicule jusqu'à 4 passagers, porte à porte.",
+      "description": "Taxi et transfert privé à prix fixe, trajet Aéroport de Split - Rogoznica, porte à porte.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fr/taxi-aeroport-split-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Trajet privé aller simple, trajet Aéroport de Split - Rogoznica, par véhicule jusqu'à 4 passagers. Aller-retour 160 euros."
+        "description": "Trajet privé aller simple, trajet Aéroport de Split - Rogoznica, par véhicule jusqu'à 4 passagers."
       }
     },
     {
@@ -80,7 +78,7 @@
           "name": "Combien coûte le transfert sur le trajet Aéroport de Split - Rogoznica ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "80 fixe par véhicule jusqu'à 4 passagers, aller simple, péages et bagages inclus. Un aller-retour coûte 160."
+            "text": "Prix fixe par véhicule jusqu'à 4 passagers, aller simple, péages et bagages inclus. L'aller-retour est également chiffré sur demande."
           }
         },
         {

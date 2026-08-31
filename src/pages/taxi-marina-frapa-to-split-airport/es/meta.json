@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-frapa-aeropuerto-split",
-  "title": "Taxi Marina Frapa - Aeropuerto de Split | Precio fijo €80 | TAXI Antonio",
-  "description": "Taxi y traslado privado, Marina Frapa - Aeropuerto de Split. Precio fijo €80 por vehículo, hasta 4. Reserve directamente con Antonio.",
+  "title": "Taxi Marina Frapa - Aeropuerto de Split | TAXI Antonio",
+  "description": "Taxi y traslado privado, Marina Frapa - Aeropuerto de Split. Reserve directamente con Antonio.",
   "keywords": "taxi marina frapa - aeropuerto de split, traslado marina frapa - aeropuerto de split, traslado al aeropuerto marina frapa - aeropuerto de split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Traslado privado en taxi",
       "name": "Taxi Marina Frapa - Aeropuerto de Split",
-      "description": "Taxi y traslado privado a precio fijo, Marina Frapa - Aeropuerto de Split, 80 euros por vehículo para hasta 4 pasajeros, puerta a puerta.",
+      "description": "Taxi y traslado privado a precio fijo, Marina Frapa - Aeropuerto de Split, puerta a puerta.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/es/taxi-marina-frapa-aeropuerto-split/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Trayecto privado de ida, Marina Frapa - Aeropuerto de Split, por vehículo para hasta 4 pasajeros. Ida y vuelta 160 euros."
+        "description": "Trayecto privado de ida, Marina Frapa - Aeropuerto de Split, por vehículo para hasta 4 pasajeros."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "¿Cuánto cuesta un taxi en el trayecto Marina Frapa - Aeropuerto de Split?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fijo 80 por vehículo, solo ida, para hasta 4 pasajeros. El precio es por vehículo, no por persona, e incluye peajes, combustible y equipaje. Un viaje de ida y vuelta cuesta 160."
+            "text": "El precio es por vehículo, no por persona, e incluye peajes, combustible y equipaje."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-aci-marina-trogir",
-  "title": "タクシー Knin - ACI Marina Trogir | 固定料金 €125 | TAXI Antonio",
-  "description": "貸切タクシー・送迎、Knin - ACI Marina Trogir 区間。固定料金 €125／1台、最大4名様、ドアツードア。Antonioに直接ご予約ください。",
+  "title": "タクシー Knin - ACI Marina Trogir | TAXI Antonio",
+  "description": "貸切タクシー・送迎、Knin - ACI Marina Trogir 区間。 Antonioに直接ご予約ください。",
   "keywords": "タクシー knin - aci marina trogir, 送迎 knin - aci marina trogir, 空港送迎 knin - aci marina trogir",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "貸切タクシー送迎",
       "name": "タクシー Knin - ACI Marina Trogir",
-      "description": "固定料金の貸切タクシー・送迎、Knin - ACI Marina Trogir 区間、1台 125 ユーロで最大4名様、ドアツードア。",
+      "description": "固定料金の貸切タクシー・送迎、Knin - ACI Marina Trogir 区間、ドアツードア。",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/ja/taxi-knin-aci-marina-trogir/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "貸切の片道乗車、Knin - ACI Marina Trogir 区間、1台で最大4名様。往復は 250 ユーロ。"
+        "description": "貸切の片道乗車、Knin - ACI Marina Trogir 区間、1台で最大4名様。"
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Knin - ACI Marina Trogir 区間の送迎料金はいくらですか？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "片道、車1台あたり固定 125、最大4名様、通行料・燃料・荷物込み。往復は 250 です。"
+            "text": "片道、車1台あたりの固定料金、最大4名様、通行料・燃料・荷物込み。往復も同様にお見積りいたします。"
           }
         },
         {

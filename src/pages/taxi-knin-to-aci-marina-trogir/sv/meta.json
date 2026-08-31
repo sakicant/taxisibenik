@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-aci-marina-trogir",
-  "title": "Taxi Knin - ACI Marina Trogir | Fast pris €125 | TAXI Antonio",
-  "description": "Privat taxi och transfer, Knin - ACI Marina Trogir. Fast pris €125 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "title": "Taxi Knin - ACI Marina Trogir | TAXI Antonio",
+  "description": "Privat taxi och transfer, Knin - ACI Marina Trogir. Boka direkt hos Antonio.",
   "keywords": "taxi knin - aci marina trogir, transfer knin - aci marina trogir, flygplatstransfer knin - aci marina trogir",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privat taxitransfer",
       "name": "Taxi Knin - ACI Marina Trogir",
-      "description": "Privat taxi och transfer till fast pris, Knin - ACI Marina Trogir, 125 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "description": "Privat taxi och transfer till fast pris, Knin - ACI Marina Trogir, dörr till dörr.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sv/taxi-knin-aci-marina-trogir/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Enkel privat resa, Knin - ACI Marina Trogir, per fordon för upp till 4 passagerare. Tur och retur 250 euro."
+        "description": "Enkel privat resa, Knin - ACI Marina Trogir, per fordon för upp till 4 passagerare."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Hur mycket kostar en transfer på sträckan Knin - ACI Marina Trogir?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fast 125 per fordon för upp till 4 passagerare, enkel resa, med vägtull, bränsle och bagage. En tur och retur kostar 250."
+            "text": "Fast pris per fordon för upp till 4 passagerare, enkel resa, med vägtull, bränsle och bagage. Priset för tur och retur lämnar jag på begäran."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-rogoznica-split",
-  "title": "Taxi Rogoznica - Split | Fix ár €75 | TAXI Antonio",
-  "description": "Privát taxi és transzfer, Rogoznica - Split. Fix ár €75 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "title": "Taxi Rogoznica - Split | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Rogoznica - Split. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
   "keywords": "taxi rogoznica - split, transzfer rogoznica - split, reptéri transzfer rogoznica - split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privát taxitranszfer",
       "name": "Taxi Rogoznica - Split",
-      "description": "Privát taxi és transzfer fix áron, Rogoznica - Split, 75 euró járművenként max. 4 utasra, háztól házig.",
+      "description": "4 utasra, háztól házig.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/hu/taxi-rogoznica-split/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "Privát egyirányú út, Rogoznica - Split, járművenként max. 4 utasra. Oda-vissza 150 euró."
+        "description": "Privát egyirányú út, Rogoznica - Split, járművenként max. 4 utasra."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Mennyibe kerül egy taxi a Rogoznica - Split útvonalon?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fix 75 járművenként max. 4 utasra, egy irány, útdíjjal, üzemanyaggal és csomaggal. Az oda-vissza út 150."
+            "text": "4 utasra, egy irány, útdíjjal, üzemanyaggal és csomaggal."
           }
         },
         {

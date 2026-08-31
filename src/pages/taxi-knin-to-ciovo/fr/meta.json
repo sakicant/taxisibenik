@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-ciovo",
-  "title": "Taxi Knin - Čiovo | Prix fixe €125 | TAXI Antonio",
-  "description": "Taxi et transfert privé, trajet Knin - Čiovo. Prix fixe €125 par véhicule, jusqu'à 4 passagers, porte à porte. Réservez directement avec Antonio.",
+  "title": "Taxi Knin - Čiovo | TAXI Antonio",
+  "description": "Taxi et transfert privé, trajet Knin - Čiovo. Réservez directement avec Antonio.",
   "keywords": "taxi knin - čiovo, transfert knin - čiovo, transfert aéroport knin - čiovo",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Transfert taxi privé",
       "name": "Taxi Knin - Čiovo",
-      "description": "Taxi et transfert privé à prix fixe, trajet Knin - Čiovo, 125 euros par véhicule jusqu'à 4 passagers, porte à porte.",
+      "description": "Taxi et transfert privé à prix fixe, trajet Knin - Čiovo, porte à porte.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fr/taxi-knin-ciovo/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Trajet privé aller simple, trajet Knin - Čiovo, par véhicule jusqu'à 4 passagers. Aller-retour 250 euros."
+        "description": "Trajet privé aller simple, trajet Knin - Čiovo, par véhicule jusqu'à 4 passagers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Combien coûte un taxi sur le trajet Knin - Čiovo ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "125 fixe par véhicule jusqu'à 4 passagers, aller simple, bagages inclus. Un aller-retour coûte 250."
+            "text": "Prix fixe par véhicule jusqu'à 4 passagers, aller simple, bagages inclus. L'aller-retour est également chiffré sur demande."
           }
         },
         {

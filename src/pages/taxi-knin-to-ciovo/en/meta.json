@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-to-ciovo",
-  "title": "Taxi Knin to Čiovo | Fixed €125 Transfer | TAXI Antonio",
-  "description": "Private taxi and transfer from Knin to Čiovo. Fixed €125 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "title": "Taxi Knin to Čiovo | TAXI Antonio",
+  "description": "Private taxi and transfer from Knin to Čiovo. Book direct with Antonio.",
   "keywords": "taxi knin to čiovo, transfer knin to čiovo, knin to čiovo taxi, knin to čiovo transfer",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Private taxi transfer",
       "name": "Taxi Knin to Čiovo",
-      "description": "Private, fixed-price taxi and transfer from Knin to Čiovo, 125 euros per car for up to 4 passengers, door to door.",
+      "description": "Private, fixed-price taxi and transfer from Knin to Čiovo, door to door.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/taxi-knin-to-ciovo/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "One-way private transfer from Knin to Čiovo, per car for up to 4 passengers. Return 250 euros."
+        "description": "One-way private transfer from Knin to Čiovo, per car for up to 4 passengers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "How much is a taxi from Knin to Čiovo?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A fixed 125 per car for up to 4 passengers, one way, luggage included. A return trip is 250."
+            "text": "A fixed price per car for up to 4 passengers, one way, luggage included. Ask me and I will confirm the price for a return trip as well."
           }
         },
         {

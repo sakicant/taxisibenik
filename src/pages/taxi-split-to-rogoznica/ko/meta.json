@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-rogoznica",
-  "title": "택시 Split - Rogoznica | 고정 요금 €75 | TAXI Antonio",
-  "description": "개인 택시 및 교통편, Split - Rogoznica 노선. 고정 요금 €75 차량당, 최대 4명 탑승, 도어 투 도어. Antonio에게 직접 예약하세요.",
+  "title": "택시 Split - Rogoznica | TAXI Antonio",
+  "description": "개인 택시 및 교통편, Split - Rogoznica 노선. Antonio에게 직접 예약하세요.",
   "keywords": "택시 split - rogoznica, 교통편 split - rogoznica, 공항 교통편 split - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "개인 택시 교통편",
       "name": "택시 Split - Rogoznica",
-      "description": "고정 요금 개인 택시 및 교통편, Split - Rogoznica 노선, 차량당 75 유로, 최대 4명 탑승, 도어 투 도어.",
+      "description": "고정 요금 개인 택시 및 교통편, Split - Rogoznica 노선, 최대 4명 탑승, 도어 투 도어.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/ko/taxi-split-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "개인 편도 이동, Split - Rogoznica 노선, 차량당 최대 4명 탑승. 왕복 150 유로."
+        "description": "개인 편도 이동, Split - Rogoznica 노선, 차량당 최대 4명 탑승."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Split - Rogoznica 노선의 택시 요금은 얼마인가요?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "고정 75 차량당, 최대 4명 탑승, 편도, 통행료, 연료, 짐 포함. 왕복은 150입니다."
+            "text": "차량당 고정 요금, 최대 4명 탑승, 편도, 통행료, 연료, 짐 포함. 왕복도 같은 방식으로 문의 시 안내해 드립니다."
           }
         },
         {

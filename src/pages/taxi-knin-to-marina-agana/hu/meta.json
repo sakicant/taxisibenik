@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-marina-agana",
-  "title": "Taxi Knin - Marina Agana | Fix ár €110 | TAXI Antonio",
-  "description": "Privát taxi és transzfer, Knin - Marina Agana. Fix ár €110 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "title": "Taxi Knin - Marina Agana | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Knin - Marina Agana. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
   "keywords": "taxi knin - marina agana, transzfer knin - marina agana, reptéri transzfer knin - marina agana",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privát taxitranszfer",
       "name": "Taxi Knin - Marina Agana",
-      "description": "Privát taxi és transzfer fix áron, Knin - Marina Agana, 110 euró járművenként max. 4 utasra, háztól házig.",
+      "description": "4 utasra, háztól házig.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/hu/taxi-knin-marina-agana/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Privát egyirányú út, Knin - Marina Agana, járművenként max. 4 utasra. Oda-vissza 220 euró."
+        "description": "Privát egyirányú út, Knin - Marina Agana, járművenként max. 4 utasra."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Mennyibe kerül a transzfer a Knin - Marina Agana útvonalon?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fix 110 járművenként max. 4 utasra, egy irány, útdíjjal, üzemanyaggal és csomaggal. Az oda-vissza út 220."
+            "text": "4 utasra, egy irány, útdíjjal, üzemanyaggal és csomaggal."
           }
         },
         {

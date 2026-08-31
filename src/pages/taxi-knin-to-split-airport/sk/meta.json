@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-letisko-split",
-  "title": "Taxi Knin - Letisko Split | Pevná cena €110 | TAXI Antonio",
-  "description": "Súkromné taxi a transfer, Knin - Letisko Split. Pevná cena €110 za vozidlo, max. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
+  "title": "Taxi Knin - Letisko Split | TAXI Antonio",
+  "description": "Súkromné taxi a transfer, Knin - Letisko Split. 4 cestujúci, od dverí k dverám. Rezervujte priamo u Antonia.",
   "keywords": "taxi knin - letisko split, transfer knin - letisko split, letiskový transfer knin - letisko split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Súkromný taxi transfer",
       "name": "Taxi Knin - Letisko Split",
-      "description": "Súkromné taxi a transfer za pevnú cenu, Knin - Letisko Split, 110 eur za vozidlo pre max. 4 cestujúcich, od dverí k dverám.",
+      "description": "4 cestujúcich, od dverí k dverám.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sk/taxi-knin-letisko-split/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Súkromná jednosmerná jazda, Knin - Letisko Split, za vozidlo pre max. 4 cestujúcich. Spiatočne 220 eur."
+        "description": "Súkromná jednosmerná jazda, Knin - Letisko Split, za vozidlo pre max. 4 cestujúcich."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Koľko stojí taxi na trase Knin - Letisko Split?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pevných 110 za vozidlo, jednosmerne, max. 4 cestujúci. Cena je za vozidlo, nie za osobu, a zahŕňa mýto, palivo a batožinu. Spiatočná cesta stojí 220."
+            "text": "4 cestujúci. Cena je za vozidlo, nie za osobu, a zahŕňa mýto, palivo a batožinu."
           }
         },
         {

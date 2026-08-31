@@ -1,7 +1,7 @@
 {
   "slug": "taxi-seget-knin",
-  "title": "Taxi Seget - Knin | Fast pris €110 | TAXI Antonio",
-  "description": "Privat taxi och transfer, Seget - Knin. Fast pris €110 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "title": "Taxi Seget - Knin | TAXI Antonio",
+  "description": "Privat taxi och transfer, Seget - Knin. Boka direkt hos Antonio.",
   "keywords": "taxi seget - knin, transfer seget - knin, flygplatstransfer seget - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privat taxitransfer",
       "name": "Taxi Seget - Knin",
-      "description": "Privat taxi och transfer till fast pris, Seget - Knin, 110 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "description": "Privat taxi och transfer till fast pris, Seget - Knin, dörr till dörr.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sv/taxi-seget-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Enkel privat resa, Seget - Knin, per fordon för upp till 4 passagerare. Tur och retur 220 euro."
+        "description": "Enkel privat resa, Seget - Knin, per fordon för upp till 4 passagerare."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Hur mycket kostar en taxi på sträckan Seget - Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fast 110 per fordon för upp till 4 passagerare, enkel resa, bagage ingår. En tur och retur kostar 220."
+            "text": "Fast pris per fordon för upp till 4 passagerare, enkel resa, bagage ingår. Priset för tur och retur lämnar jag på begäran."
           }
         },
         {

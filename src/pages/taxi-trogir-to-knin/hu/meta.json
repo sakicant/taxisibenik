@@ -1,7 +1,7 @@
 {
   "slug": "taxi-trogir-knin",
-  "title": "Taxi Trogir - Knin | Fix ár €110 | TAXI Antonio",
-  "description": "Privát taxi és transzfer, Trogir - Knin. Fix ár €110 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "title": "Taxi Trogir - Knin | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Trogir - Knin. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
   "keywords": "taxi trogir - knin, transzfer trogir - knin, reptéri transzfer trogir - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privát taxitranszfer",
       "name": "Taxi Trogir - Knin",
-      "description": "Privát taxi és transzfer fix áron, Trogir - Knin, 110 euró járművenként max. 4 utasra, háztól házig.",
+      "description": "4 utasra, háztól házig.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/hu/taxi-trogir-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Privát egyirányú út, Trogir - Knin, járművenként max. 4 utasra. Oda-vissza 220 euró."
+        "description": "Privát egyirányú út, Trogir - Knin, járművenként max. 4 utasra."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Mennyibe kerül egy taxi a Trogir - Knin útvonalon?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fix 110 járművenként max. 4 utasra, egy irány, útdíjjal, üzemanyaggal és csomaggal. Az oda-vissza út 220."
+            "text": "4 utasra, egy irány, útdíjjal, üzemanyaggal és csomaggal."
           }
         },
         {

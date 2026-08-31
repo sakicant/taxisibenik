@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-airport-to-marina-kremik",
-  "title": "Taxi Split Airport to Marina Kremik | Fixed €80 Transfer | TAXI Antonio",
-  "description": "Private taxi and transfer from Split Airport to Marina Kremik. Fixed €80 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "title": "Taxi Split Airport to Marina Kremik | TAXI Antonio",
+  "description": "Private taxi and transfer from Split Airport to Marina Kremik. Book direct with Antonio.",
   "keywords": "taxi split airport to marina kremik, transfer split airport to marina kremik, split airport to marina kremik taxi, split airport to marina kremik transfer",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Private taxi transfer",
       "name": "Taxi Split Airport to Marina Kremik",
-      "description": "Private, fixed-price taxi and transfer from Split Airport to Marina Kremik, 80 euros per car for up to 4 passengers, door to door.",
+      "description": "Private, fixed-price taxi and transfer from Split Airport to Marina Kremik, door to door.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/taxi-split-airport-to-marina-kremik/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "One-way private transfer from Split Airport to Marina Kremik, per car for up to 4 passengers. Return 160 euros."
+        "description": "One-way private transfer from Split Airport to Marina Kremik, per car for up to 4 passengers."
       }
     },
     {
@@ -72,7 +70,7 @@
           "name": "How much is the transfer from Split Airport to Marina Kremik?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A fixed 80 per car for up to 4 passengers, one way, tolls and luggage included. A return trip is 160."
+            "text": "A fixed price per car for up to 4 passengers, one way, tolls and luggage included. Ask me and I will confirm the price for a return trip as well."
           }
         },
         {

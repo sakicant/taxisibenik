@@ -1,7 +1,7 @@
 {
   "slug": "taxi-trogir-rogoznica",
-  "title": "Taksi Trogir - Rogoznica | Kiinteä hinta €30 | TAXI Antonio",
-  "description": "Yksityinen taksi ja kuljetus, reitti Trogir - Rogoznica. Kiinteä hinta €30 per auto, enintään 4 matkustajaa, ovelta ovelle. Varaa suoraan Antoniolta.",
+  "title": "Taksi Trogir - Rogoznica | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Trogir - Rogoznica. Varaa suoraan Antoniolta.",
   "keywords": "taksi trogir - rogoznica, kuljetus trogir - rogoznica, lentokenttäkuljetus trogir - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Yksityinen taksikuljetus",
       "name": "Taksi Trogir - Rogoznica",
-      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Trogir - Rogoznica, 30 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Trogir - Rogoznica, ovelta ovelle.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fi/taxi-trogir-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "30",
-        "priceCurrency": "EUR",
-        "description": "Yhdensuuntainen yksityinen matka, reitti Trogir - Rogoznica, per auto enintään 4 matkustajalle. Meno ja paluu 60 euroa."
+        "description": "Yhdensuuntainen yksityinen matka, reitti Trogir - Rogoznica, per auto enintään 4 matkustajalle."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Paljonko taksi maksaa reitillä Trogir - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiinteä 30 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullien, polttoaineen ja matkatavaroiden kanssa. Meno-paluumatka maksaa 60."
+            "text": "Kiinteä hinta per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullien, polttoaineen ja matkatavaroiden kanssa. Meno-paluumatkan hinnan kerron pyynnöstä."
           }
         },
         {

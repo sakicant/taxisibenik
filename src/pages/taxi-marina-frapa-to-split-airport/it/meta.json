@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-frapa-aeroporto-split",
-  "title": "Taxi Marina Frapa - Aeroporto di Split | Prezzo fisso €80 | TAXI Antonio",
-  "description": "Taxi e transfer privato, tratta Marina Frapa - Aeroporto di Split. Prezzo fisso €80 per veicolo, fino a 4. Prenota con Antonio.",
+  "title": "Taxi Marina Frapa - Aeroporto di Split | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Marina Frapa - Aeroporto di Split. Prenota con Antonio.",
   "keywords": "taxi marina frapa - aeroporto di split, transfer marina frapa - aeroporto di split, transfer aeroporto marina frapa - aeroporto di split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Transfer taxi privato",
       "name": "Taxi Marina Frapa - Aeroporto di Split",
-      "description": "Taxi e transfer privato a prezzo fisso, tratta Marina Frapa - Aeroporto di Split, 80 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Marina Frapa - Aeroporto di Split, porta a porta.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/it/taxi-marina-frapa-aeroporto-split/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Corsa privata di sola andata, tratta Marina Frapa - Aeroporto di Split, per veicolo fino a 4 passeggeri. Andata e ritorno 160 euro."
+        "description": "Corsa privata di sola andata, tratta Marina Frapa - Aeroporto di Split, per veicolo fino a 4 passeggeri."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Quanto costa un taxi sulla tratta Marina Frapa - Aeroporto di Split?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fisso 80 per veicolo, solo andata, fino a 4 passeggeri. Il prezzo è per veicolo, non per persona, e include pedaggi, carburante e bagagli. Andata e ritorno 160."
+            "text": "Il prezzo è per veicolo, non per persona, e include pedaggi, carburante e bagagli."
           }
         },
         {

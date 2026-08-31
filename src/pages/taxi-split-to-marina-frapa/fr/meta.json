@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-marina-frapa",
-  "title": "Taxi Split - Marina Frapa | Prix fixe €75 | TAXI Antonio",
-  "description": "Taxi et transfert privé, trajet Split - Marina Frapa. Prix fixe €75 par véhicule, jusqu'à 4 passagers, porte à porte. Réservez directement avec Antonio.",
+  "title": "Taxi Split - Marina Frapa | TAXI Antonio",
+  "description": "Taxi et transfert privé, trajet Split - Marina Frapa. Réservez directement avec Antonio.",
   "keywords": "taxi split - marina frapa, transfert split - marina frapa, transfert aéroport split - marina frapa",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Transfert taxi privé",
       "name": "Taxi Split - Marina Frapa",
-      "description": "Taxi et transfert privé à prix fixe, trajet Split - Marina Frapa, 75 euros par véhicule jusqu'à 4 passagers, porte à porte.",
+      "description": "Taxi et transfert privé à prix fixe, trajet Split - Marina Frapa, porte à porte.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fr/taxi-split-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "Trajet privé aller simple, trajet Split - Marina Frapa, par véhicule jusqu'à 4 passagers. Aller-retour 150 euros."
+        "description": "Trajet privé aller simple, trajet Split - Marina Frapa, par véhicule jusqu'à 4 passagers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Combien coûte un transfert sur le trajet Split - Marina Frapa ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "75 fixe par véhicule jusqu'à 4 passagers, aller simple, avec péages, carburant et bagages inclus. Un aller-retour coûte 150."
+            "text": "Prix fixe par véhicule jusqu'à 4 passagers, aller simple, avec péages, carburant et bagages inclus. L'aller-retour est également chiffré sur demande."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-seget-rogoznica",
-  "title": "Taksi Seget - Rogoznica | Kiinteä hinta €30 | TAXI Antonio",
-  "description": "Yksityinen taksi ja kuljetus, reitti Seget - Rogoznica. Kiinteä hinta €30 per auto, enintään 4 matkustajaa, ovelta ovelle. Varaa suoraan Antoniolta.",
+  "title": "Taksi Seget - Rogoznica | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Seget - Rogoznica. Varaa suoraan Antoniolta.",
   "keywords": "taksi seget - rogoznica, kuljetus seget - rogoznica, lentokenttäkuljetus seget - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Yksityinen taksikuljetus",
       "name": "Taksi Seget - Rogoznica",
-      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Seget - Rogoznica, 30 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Seget - Rogoznica, ovelta ovelle.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fi/taxi-seget-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "30",
-        "priceCurrency": "EUR",
-        "description": "Yhdensuuntainen yksityinen matka, reitti Seget - Rogoznica, per auto enintään 4 matkustajalle. Meno ja paluu 60 euroa."
+        "description": "Yhdensuuntainen yksityinen matka, reitti Seget - Rogoznica, per auto enintään 4 matkustajalle."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Paljonko taksi maksaa reitillä Seget - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiinteä 30 per auto enintään 4 matkustajalle, yhdensuuntainen matka, matkatavarat mukana. Meno-paluumatka maksaa 60."
+            "text": "Kiinteä hinta per auto enintään 4 matkustajalle, yhdensuuntainen matka, matkatavarat mukana. Meno-paluumatkan hinnan kerron pyynnöstä."
           }
         },
         {

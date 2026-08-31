@@ -1,7 +1,7 @@
 {
   "slug": "taxi-rogoznica-seget",
-  "title": "Taxi Rogoznica - Seget | Fast pris €30 | TAXI Antonio",
-  "description": "Privat taxi och transfer, Rogoznica - Seget. Fast pris €30 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "title": "Taxi Rogoznica - Seget | TAXI Antonio",
+  "description": "Privat taxi och transfer, Rogoznica - Seget. Boka direkt hos Antonio.",
   "keywords": "taxi rogoznica - seget, transfer rogoznica - seget, flygplatstransfer rogoznica - seget",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privat taxitransfer",
       "name": "Taxi Rogoznica - Seget",
-      "description": "Privat taxi och transfer till fast pris, Rogoznica - Seget, 30 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "description": "Privat taxi och transfer till fast pris, Rogoznica - Seget, dörr till dörr.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sv/taxi-rogoznica-seget/",
       "offers": {
         "@type": "Offer",
-        "price": "30",
-        "priceCurrency": "EUR",
-        "description": "Enkel privat resa, Rogoznica - Seget, per fordon för upp till 4 passagerare. Tur och retur 60 euro."
+        "description": "Enkel privat resa, Rogoznica - Seget, per fordon för upp till 4 passagerare."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Hur mycket kostar en taxi på sträckan Rogoznica - Seget?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fast 30 per fordon för upp till 4 passagerare, enkel resa, bagage ingår. En tur och retur kostar 60."
+            "text": "Fast pris per fordon för upp till 4 passagerare, enkel resa, bagage ingår. Priset för tur och retur lämnar jag på begäran."
           }
         },
         {

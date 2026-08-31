@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-agana-knin",
-  "title": "Taksi Marina Agana - Knin | Fiksna cena €110 | TAXI Antonio",
-  "description": "Privatni taksi i transfer, relacija Marina Agana - Knin. Fiksno €110 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "title": "Taksi Marina Agana - Knin | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Marina Agana - Knin. Rezervišite direktno kod Antonija.",
   "keywords": "taksi marina agana - knin, transfer marina agana - knin, prevoz marina agana - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privatni taksi transfer",
       "name": "Taksi Marina Agana - Knin",
-      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Marina Agana - Knin, 110 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Marina Agana - Knin, od vrata do vrata.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sr/taxi-marina-agana-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Jednosmerni privatni transfer, relacija Marina Agana - Knin, po vozilu za do 4 putnika. Povratno 220 evra."
+        "description": "Jednosmerni privatni transfer, relacija Marina Agana - Knin, po vozilu za do 4 putnika."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Koliko košta transfer na relaciji Marina Agana - Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 110 po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Povratna vožnja je 220."
+            "text": "Fiksna cena po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Cenu povratne vožnje javljam na upit."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-frapa-flygplats-split",
-  "title": "Taxi Marina Frapa - Split flygplats | Fast pris €80 | TAXI Antonio",
-  "description": "Privat taxi och transfer, Marina Frapa - Split flygplats. Fast pris €80 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "title": "Taxi Marina Frapa - Split flygplats | TAXI Antonio",
+  "description": "Privat taxi och transfer, Marina Frapa - Split flygplats. Boka direkt hos Antonio.",
   "keywords": "taxi marina frapa - split flygplats, transfer marina frapa - split flygplats, flygplatstransfer marina frapa - split flygplats",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privat taxitransfer",
       "name": "Taxi Marina Frapa - Split flygplats",
-      "description": "Privat taxi och transfer till fast pris, Marina Frapa - Split flygplats, 80 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "description": "Privat taxi och transfer till fast pris, Marina Frapa - Split flygplats, dörr till dörr.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sv/taxi-marina-frapa-flygplats-split/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Enkel privat resa, Marina Frapa - Split flygplats, per fordon för upp till 4 passagerare. Tur och retur 160 euro."
+        "description": "Enkel privat resa, Marina Frapa - Split flygplats, per fordon för upp till 4 passagerare."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Hur mycket kostar en taxi på sträckan Marina Frapa - Split flygplats?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fast 80 per fordon, enkel resa, för upp till 4 passagerare. Priset gäller per fordon, inte per person, och inkluderar vägtull, bränsle och bagage. En tur och retur kostar 160."
+            "text": "Priset gäller per fordon, inte per person, och inkluderar vägtull, bränsle och bagage."
           }
         },
         {

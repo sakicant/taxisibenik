@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-baotic-to-knin",
-  "title": "Taxi Marina Baotić to Knin | Fixed €110 Transfer | TAXI Antonio",
-  "description": "Private taxi and transfer from Marina Baotić to Knin. Fixed €110 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "title": "Taxi Marina Baotić to Knin | TAXI Antonio",
+  "description": "Private taxi and transfer from Marina Baotić to Knin. Book direct with Antonio.",
   "keywords": "taxi marina baotić to knin, transfer marina baotić to knin, marina baotić to knin taxi, marina baotić to knin transfer",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Private taxi transfer",
       "name": "Taxi Marina Baotić to Knin",
-      "description": "Private, fixed-price taxi and transfer from Marina Baotić to Knin, 110 euros per car for up to 4 passengers, door to door.",
+      "description": "Private, fixed-price taxi and transfer from Marina Baotić to Knin, door to door.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/taxi-marina-baotic-to-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "One-way private transfer from Marina Baotić to Knin, per car for up to 4 passengers. Return 220 euros."
+        "description": "One-way private transfer from Marina Baotić to Knin, per car for up to 4 passengers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "How much is a transfer from Marina Baotić to Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A fixed 110 per car for up to 4 passengers, one way, with tolls, fuel and luggage included. A return trip is 220."
+            "text": "A fixed price per car for up to 4 passengers, one way, with tolls, fuel and luggage included. Ask me and I will confirm the price for a return trip as well."
           }
         },
         {

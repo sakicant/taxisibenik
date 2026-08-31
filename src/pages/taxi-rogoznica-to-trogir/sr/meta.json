@@ -1,7 +1,7 @@
 {
   "slug": "taxi-rogoznica-trogir",
-  "title": "Taksi Rogoznica - Trogir | Fiksna cena €30 | TAXI Antonio",
-  "description": "Privatni taksi i transfer, relacija Rogoznica - Trogir. Fiksno €30 po vozilu, do 4 putnika, od vrata do vrata. Rezervišite direktno kod Antonija.",
+  "title": "Taksi Rogoznica - Trogir | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Rogoznica - Trogir. Rezervišite direktno kod Antonija.",
   "keywords": "taksi rogoznica - trogir, transfer rogoznica - trogir, prevoz rogoznica - trogir",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privatni taksi transfer",
       "name": "Taksi Rogoznica - Trogir",
-      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Rogoznica - Trogir, 30 evra po vozilu za do 4 putnika, od vrata do vrata.",
+      "description": "Privatni taksi i transfer po fiksnoj ceni, relacija Rogoznica - Trogir, od vrata do vrata.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sr/taxi-rogoznica-trogir/",
       "offers": {
         "@type": "Offer",
-        "price": "30",
-        "priceCurrency": "EUR",
-        "description": "Jednosmerni privatni transfer, relacija Rogoznica - Trogir, po vozilu za do 4 putnika. Povratno 60 evra."
+        "description": "Jednosmerni privatni transfer, relacija Rogoznica - Trogir, po vozilu za do 4 putnika."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Koliko košta taksi na relaciji Rogoznica - Trogir?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 30 po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Povratna vožnja je 60."
+            "text": "Fiksna cena po vozilu za do 4 putnika, jedan smer, s putarinama, gorivom i prtljagom. Cenu povratne vožnje javljam na upit."
           }
         },
         {

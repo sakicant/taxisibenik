@@ -1,7 +1,7 @@
 {
   "slug": "taxi-repter-split-marina-frapa",
-  "title": "Taxi Split repülőtér - Marina Frapa | Fix ár €80 | TAXI Antonio",
-  "description": "Privát taxi és transzfer, Split repülőtér - Marina Frapa. Fix ár €80 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "title": "Taxi Split repülőtér - Marina Frapa | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Split repülőtér - Marina Frapa. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
   "keywords": "taxi split repülőtér - marina frapa, transzfer split repülőtér - marina frapa, reptéri transzfer split repülőtér - marina frapa",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privát taxitranszfer",
       "name": "Taxi Split repülőtér - Marina Frapa",
-      "description": "Privát taxi és transzfer fix áron, Split repülőtér - Marina Frapa, 80 euró járművenként max. 4 utasra, háztól házig.",
+      "description": "4 utasra, háztól házig.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/hu/taxi-repter-split-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Privát egyirányú út, Split repülőtér - Marina Frapa, járművenként max. 4 utasra. Oda-vissza 160 euró."
+        "description": "Privát egyirányú út, Split repülőtér - Marina Frapa, járművenként max. 4 utasra."
       }
     },
     {
@@ -72,7 +70,7 @@
           "name": "Mennyibe kerül a transzfer a Split repülőtér - Marina Frapa útvonalon?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fix 80 járművenként max. 4 utasra, egy irány, útdíj és csomag beleértve. Az oda-vissza út 160."
+            "text": "4 utasra, egy irány, útdíj és csomag beleértve."
           }
         },
         {

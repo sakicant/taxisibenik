@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-airport-to-marina-frapa",
-  "title": "Taxi Split Airport to Marina Frapa | Fixed €80 Transfer | TAXI Antonio",
-  "description": "Private taxi and transfer from Split Airport to Marina Frapa. Fixed €80 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "title": "Taxi Split Airport to Marina Frapa | TAXI Antonio",
+  "description": "Private taxi and transfer from Split Airport to Marina Frapa. Book direct with Antonio.",
   "keywords": "taxi split airport to marina frapa, transfer split airport to marina frapa, split airport to marina frapa taxi, split airport to marina frapa transfer",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Private taxi transfer",
       "name": "Taxi Split Airport to Marina Frapa",
-      "description": "Private, fixed-price taxi and transfer from Split Airport to Marina Frapa, 80 euros per car for up to 4 passengers, door to door.",
+      "description": "Private, fixed-price taxi and transfer from Split Airport to Marina Frapa, door to door.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/taxi-split-airport-to-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "One-way private transfer from Split Airport to Marina Frapa, per car for up to 4 passengers. Return 160 euros."
+        "description": "One-way private transfer from Split Airport to Marina Frapa, per car for up to 4 passengers."
       }
     },
     {
@@ -72,7 +70,7 @@
           "name": "How much is the transfer from Split Airport to Marina Frapa?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A fixed 80 per car for up to 4 passengers, one way, tolls and luggage included. A return trip is 160."
+            "text": "A fixed price per car for up to 4 passengers, one way, tolls and luggage included. Ask me and I will confirm the price for a return trip as well."
           }
         },
         {

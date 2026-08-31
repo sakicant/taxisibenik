@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-aci-marina-trogir",
-  "title": "Taksi Knin - ACI Marina Trogir | Kiinteä hinta €125 | TAXI Antonio",
-  "description": "Yksityinen taksi ja kuljetus, reitti Knin - ACI Marina Trogir. Kiinteä hinta €125 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "title": "Taksi Knin - ACI Marina Trogir | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Knin - ACI Marina Trogir. Varaa suoraan Antoniolta.",
   "keywords": "taksi knin - aci marina trogir, kuljetus knin - aci marina trogir, lentokenttäkuljetus knin - aci marina trogir",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Yksityinen taksikuljetus",
       "name": "Taksi Knin - ACI Marina Trogir",
-      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Knin - ACI Marina Trogir, 125 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Knin - ACI Marina Trogir, ovelta ovelle.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fi/taxi-knin-aci-marina-trogir/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Yhdensuuntainen yksityinen matka, reitti Knin - ACI Marina Trogir, per auto enintään 4 matkustajalle. Meno ja paluu 250 euroa."
+        "description": "Yhdensuuntainen yksityinen matka, reitti Knin - ACI Marina Trogir, per auto enintään 4 matkustajalle."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Paljonko kuljetus maksaa reitillä Knin - ACI Marina Trogir?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiinteä 125 per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullien, polttoaineen ja matkatavaroiden kanssa. Meno-paluumatka maksaa 250."
+            "text": "Kiinteä hinta per auto enintään 4 matkustajalle, yhdensuuntainen matka, tietullien, polttoaineen ja matkatavaroiden kanssa. Meno-paluumatkan hinnan kerron pyynnöstä."
           }
         },
         {

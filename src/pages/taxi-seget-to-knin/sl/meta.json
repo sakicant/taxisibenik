@@ -1,7 +1,7 @@
 {
   "slug": "taksi-seget-knin",
-  "title": "Taksi Seget - Knin | Fiksna cena €110 | TAXI Antonio",
-  "description": "Taksi in zasebni prevoz, relacija Seget - Knin. Fiksna cena €110 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "title": "Taksi Seget - Knin | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Seget - Knin. Rezervirajte neposredno pri Antoniu.",
   "keywords": "taksi seget - knin, prevoz seget - knin, letališki prevoz seget - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Zasebni taksi prevoz",
       "name": "Taksi Seget - Knin",
-      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Seget - Knin, 110 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Seget - Knin, od vrat do vrat.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sl/taksi-seget-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Zasebna enosmerna vožnja, relacija Seget - Knin, na vozilo do 4 potnike. Povratno 220 evrov."
+        "description": "Zasebna enosmerna vožnja, relacija Seget - Knin, na vozilo do 4 potnike."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Koliko stane taksi na relaciji Seget - Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 110 na vozilo do 4 potnike, enosmerno, prtljaga vključena. Povratna vožnja je 220."
+            "text": "Fiksna cena na vozilo do 4 potnike, enosmerno, prtljaga vključena. Ceno povratne vožnje sporočim na povpraševanje."
           }
         },
         {

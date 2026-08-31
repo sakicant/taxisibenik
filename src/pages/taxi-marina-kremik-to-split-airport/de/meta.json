@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-kremik-flughafen-split",
-  "title": "Taxi Marina Kremik - Flughafen Split | Festpreis €80 | TAXI Antonio",
-  "description": "Privates Taxi und Transfer, Strecke Marina Kremik - Flughafen Split. Festpreis €80 pro Fahrzeug, bis zu 4. Direkt bei Antonio buchen.",
+  "title": "Taxi Marina Kremik - Flughafen Split | TAXI Antonio",
+  "description": "Privates Taxi und Transfer, Strecke Marina Kremik - Flughafen Split. Direkt bei Antonio buchen.",
   "keywords": "taxi marina kremik - flughafen split, transfer marina kremik - flughafen split, flughafentransfer marina kremik - flughafen split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privater Taxitransfer",
       "name": "Taxi Marina Kremik - Flughafen Split",
-      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Marina Kremik - Flughafen Split, 80 Euro pro Fahrzeug für bis zu 4 Fahrgäste, Tür zu Tür.",
+      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Marina Kremik - Flughafen Split, Tür zu Tür.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/de/taxi-marina-kremik-flughafen-split/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Einfache private Fahrt, Strecke Marina Kremik - Flughafen Split, pro Fahrzeug für bis zu 4 Fahrgäste. Hin und zurück 160 Euro."
+        "description": "Einfache private Fahrt, Strecke Marina Kremik - Flughafen Split, pro Fahrzeug für bis zu 4 Fahrgäste."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Wie viel kostet ein Taxi auf der Strecke Marina Kremik - Flughafen Split?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fest 80 pro Fahrzeug, einfache Fahrt, für bis zu 4 Fahrgäste. Der Preis gilt pro Fahrzeug, nicht pro Person, und umfasst Maut, Kraftstoff und Gepäck. Eine Hin- und Rückfahrt kostet 160."
+            "text": "Der Preis gilt pro Fahrzeug, nicht pro Person, und umfasst Maut, Kraftstoff und Gepäck."
           }
         },
         {

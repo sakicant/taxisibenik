@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-letiste-split",
-  "title": "Taxi Knin - Letiště Split | Pevná cena €110 | TAXI Antonio",
-  "description": "Taxi a soukromý transfer, trasa Knin - Letiště Split. Pevná cena €110 za vozidlo, až 4 cestující, ode dveří ke dveřím. Rezervujte přímo u Antonia.",
+  "title": "Taxi Knin - Letiště Split | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Knin - Letiště Split. Rezervujte přímo u Antonia.",
   "keywords": "taxi knin - letiště split, transfer knin - letiště split, letištní transfer knin - letiště split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Soukromý taxi transfer",
       "name": "Taxi Knin - Letiště Split",
-      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Knin - Letiště Split, 110 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Knin - Letiště Split, ode dveří ke dveřím.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/cs/taxi-knin-letiste-split/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Soukromá jednosměrná jízda, trasa Knin - Letiště Split, za vozidlo až pro 4 cestující. Zpáteční 220 eur."
+        "description": "Soukromá jednosměrná jízda, trasa Knin - Letiště Split, za vozidlo až pro 4 cestující."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Kolik stojí taxi na trase Knin - Letiště Split?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pevně 110 za vozidlo, jednosměrná, až 4 cestující. Cena je za vozidlo, ne za osobu, a zahrnuje mýtné, palivo a zavazadla. Zpáteční jízda je 220."
+            "text": "Cena je za vozidlo, ne za osobu, a zahrnuje mýtné, palivo a zavazadla."
           }
         },
         {

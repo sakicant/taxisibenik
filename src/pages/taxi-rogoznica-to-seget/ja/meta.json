@@ -1,7 +1,7 @@
 {
   "slug": "taxi-rogoznica-seget",
-  "title": "タクシー Rogoznica - Seget | 固定料金 €30 | TAXI Antonio",
-  "description": "貸切タクシー・送迎、Rogoznica - Seget 区間。固定料金 €30／1台、最大4名様、ドアツードア。Antonioに直接ご予約ください。",
+  "title": "タクシー Rogoznica - Seget | TAXI Antonio",
+  "description": "貸切タクシー・送迎、Rogoznica - Seget 区間。 Antonioに直接ご予約ください。",
   "keywords": "タクシー rogoznica - seget, 送迎 rogoznica - seget, 空港送迎 rogoznica - seget",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "貸切タクシー送迎",
       "name": "タクシー Rogoznica - Seget",
-      "description": "固定料金の貸切タクシー・送迎、Rogoznica - Seget 区間、1台 30 ユーロで最大4名様、ドアツードア。",
+      "description": "固定料金の貸切タクシー・送迎、Rogoznica - Seget 区間、ドアツードア。",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/ja/taxi-rogoznica-seget/",
       "offers": {
         "@type": "Offer",
-        "price": "30",
-        "priceCurrency": "EUR",
-        "description": "貸切の片道乗車、Rogoznica - Seget 区間、1台で最大4名様。往復は 60 ユーロ。"
+        "description": "貸切の片道乗車、Rogoznica - Seget 区間、1台で最大4名様。"
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Rogoznica - Seget 区間のタクシー料金はいくらですか？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "片道、車1台あたり固定 30、最大4名様、荷物込み。往復は 60 です。"
+            "text": "片道、車1台あたりの固定料金、最大4名様、荷物込み。往復も同様にお見積りいたします。"
           }
         },
         {

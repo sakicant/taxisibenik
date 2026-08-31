@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-kremik-letiste-split",
-  "title": "Taxi Marina Kremik - Letiště Split | Pevná cena €80 | TAXI Antonio",
-  "description": "Taxi a soukromý transfer, trasa Marina Kremik - Letiště Split. Pevná cena €80 za vozidlo, až 4. Rezervujte u Antonia.",
+  "title": "Taxi Marina Kremik - Letiště Split | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Marina Kremik - Letiště Split. Rezervujte u Antonia.",
   "keywords": "taxi marina kremik - letiště split, transfer marina kremik - letiště split, letištní transfer marina kremik - letiště split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Soukromý taxi transfer",
       "name": "Taxi Marina Kremik - Letiště Split",
-      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Marina Kremik - Letiště Split, 80 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Marina Kremik - Letiště Split, ode dveří ke dveřím.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/cs/taxi-marina-kremik-letiste-split/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Soukromá jednosměrná jízda, trasa Marina Kremik - Letiště Split, za vozidlo až pro 4 cestující. Zpáteční 160 eur."
+        "description": "Soukromá jednosměrná jízda, trasa Marina Kremik - Letiště Split, za vozidlo až pro 4 cestující."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Kolik stojí taxi na trase Marina Kremik - Letiště Split?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pevně 80 za vozidlo, jednosměrná, až 4 cestující. Cena je za vozidlo, ne za osobu, a zahrnuje mýtné, palivo a zavazadla. Zpáteční jízda je 160."
+            "text": "Cena je za vozidlo, ne za osobu, a zahrnuje mýtné, palivo a zavazadla."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-ciovo-knin",
-  "title": "Taxi Čiovo - Knin | Festpreis €125 | TAXI Antonio",
-  "description": "Privates Taxi und Transfer, Strecke Čiovo - Knin. Festpreis €125 pro Fahrzeug, bis zu 4 Fahrgäste, Tür zu Tür. Direkt bei Antonio buchen.",
+  "title": "Taxi Čiovo - Knin | TAXI Antonio",
+  "description": "Privates Taxi und Transfer, Strecke Čiovo - Knin. Direkt bei Antonio buchen.",
   "keywords": "taxi čiovo - knin, transfer čiovo - knin, flughafentransfer čiovo - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privater Taxitransfer",
       "name": "Taxi Čiovo - Knin",
-      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Čiovo - Knin, 125 Euro pro Fahrzeug für bis zu 4 Fahrgäste, Tür zu Tür.",
+      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Čiovo - Knin, Tür zu Tür.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/de/taxi-ciovo-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Einfache private Fahrt, Strecke Čiovo - Knin, pro Fahrzeug für bis zu 4 Fahrgäste. Hin und zurück 250 Euro."
+        "description": "Einfache private Fahrt, Strecke Čiovo - Knin, pro Fahrzeug für bis zu 4 Fahrgäste."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Wie viel kostet ein Taxi auf der Strecke Čiovo - Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fest 125 pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, Gepäck inklusive. Eine Hin- und Rückfahrt kostet 250."
+            "text": "Festpreis pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, Gepäck inklusive. Den Preis für eine Hin- und Rückfahrt nenne ich Ihnen auf Anfrage."
           }
         },
         {

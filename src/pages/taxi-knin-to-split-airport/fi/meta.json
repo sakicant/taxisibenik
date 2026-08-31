@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-split-lentoasema",
-  "title": "Taksi Knin - Splitin lentoasema | Kiinteä hinta €110 | TAXI Antonio",
-  "description": "Yksityinen taksi ja kuljetus, reitti Knin - Splitin lentoasema. Kiinteä hinta €110 per auto, enintään 4. Varaa suoraan Antoniolta.",
+  "title": "Taksi Knin - Splitin lentoasema | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Knin - Splitin lentoasema. Varaa suoraan Antoniolta.",
   "keywords": "taksi knin - splitin lentoasema, kuljetus knin - splitin lentoasema, lentokenttäkuljetus knin - splitin lentoasema",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Yksityinen taksikuljetus",
       "name": "Taksi Knin - Splitin lentoasema",
-      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Knin - Splitin lentoasema, 110 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Knin - Splitin lentoasema, ovelta ovelle.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fi/taxi-knin-split-lentoasema/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Yhdensuuntainen yksityinen matka, reitti Knin - Splitin lentoasema, per auto enintään 4 matkustajalle. Meno ja paluu 220 euroa."
+        "description": "Yhdensuuntainen yksityinen matka, reitti Knin - Splitin lentoasema, per auto enintään 4 matkustajalle."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Paljonko taksi maksaa reitillä Knin - Splitin lentoasema?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiinteä 110 per auto, yhdensuuntainen matka, enintään 4 matkustajalle. Hinta on per auto, ei per henkilö, ja sisältää tietullit, polttoaineen ja matkatavarat. Meno-paluumatka maksaa 220."
+            "text": "Hinta on per auto, ei per henkilö, ja sisältää tietullit, polttoaineen ja matkatavarat."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taksi-ciovo-knin",
-  "title": "Taksi Čiovo - Knin | Fiksna cena €125 | TAXI Antonio",
-  "description": "Taksi in zasebni prevoz, relacija Čiovo - Knin. Fiksna cena €125 na vozilo, do 4 potnike, od vrat do vrat. Rezervirajte neposredno pri Antoniu.",
+  "title": "Taksi Čiovo - Knin | TAXI Antonio",
+  "description": "Taksi in zasebni prevoz, relacija Čiovo - Knin. Rezervirajte neposredno pri Antoniu.",
   "keywords": "taksi čiovo - knin, prevoz čiovo - knin, letališki prevoz čiovo - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Zasebni taksi prevoz",
       "name": "Taksi Čiovo - Knin",
-      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Čiovo - Knin, 125 evrov na vozilo do 4 potnike, od vrat do vrat.",
+      "description": "Taksi in zasebni prevoz po fiksni ceni, relacija Čiovo - Knin, od vrat do vrat.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sl/taksi-ciovo-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "Zasebna enosmerna vožnja, relacija Čiovo - Knin, na vozilo do 4 potnike. Povratno 250 evrov."
+        "description": "Zasebna enosmerna vožnja, relacija Čiovo - Knin, na vozilo do 4 potnike."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Koliko stane taksi na relaciji Čiovo - Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 125 na vozilo do 4 potnike, enosmerno, prtljaga vključena. Povratna vožnja je 250."
+            "text": "Fiksna cena na vozilo do 4 potnike, enosmerno, prtljaga vključena. Ceno povratne vožnje sporočim na povpraševanje."
           }
         },
         {

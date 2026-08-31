@@ -1,7 +1,7 @@
 {
   "slug": "taksi-zracna-luka-split-marina-frapa",
-  "title": "Taksi Zračna luka Split - Marina Frapa | Fiksna cijena €80 | TAXI Antonio",
-  "description": "Privatni taksi i transfer, relacija Zračna luka Split - Marina Frapa. Fiksno €80 po vozilu, do 4. Rezervirajte izravno kod Antonija.",
+  "title": "Taksi Zračna luka Split - Marina Frapa | TAXI Antonio",
+  "description": "Privatni taksi i transfer, relacija Zračna luka Split - Marina Frapa. Rezervirajte izravno kod Antonija.",
   "keywords": "taksi zračna luka split - marina frapa, transfer zračna luka split - marina frapa, prijevoz zračna luka split - marina frapa",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privatni taksi transfer",
       "name": "Taksi Zračna luka Split - Marina Frapa",
-      "description": "Privatni taksi i transfer po fiksnoj cijeni, relacija Zračna luka Split - Marina Frapa, 80 eura po vozilu za do 4 putnika, od vrata do vrata.",
+      "description": "Privatni taksi i transfer po fiksnoj cijeni, relacija Zračna luka Split - Marina Frapa, od vrata do vrata.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/hr/taksi-zracna-luka-split-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Jednosmjerni privatni transfer, relacija Zračna luka Split - Marina Frapa, po vozilu za do 4 putnika. Povratno 160 eura."
+        "description": "Jednosmjerni privatni transfer, relacija Zračna luka Split - Marina Frapa, po vozilu za do 4 putnika."
       }
     },
     {
@@ -72,7 +70,7 @@
           "name": "Koliko košta transfer na relaciji Zračna luka Split - Marina Frapa?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fiksno 80 po vozilu za do 4 putnika, jedan smjer, cestarine i prtljaga uključeni. Povratna vožnja je 160."
+            "text": "Fiksna cijena po vozilu za do 4 putnika, jedan smjer, cestarine i prtljaga uključeni. Cijenu povratne vožnje javljam na upit."
           }
         },
         {

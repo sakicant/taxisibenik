@@ -1,7 +1,7 @@
 {
   "slug": "taxi-aci-marina-trogir-to-knin",
-  "title": "Taxi ACI Marina Trogir to Knin | Fixed €125 Transfer | TAXI Antonio",
-  "description": "Private taxi and transfer from ACI Marina Trogir to Knin. Fixed €125 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "title": "Taxi ACI Marina Trogir to Knin | TAXI Antonio",
+  "description": "Private taxi and transfer from ACI Marina Trogir to Knin. Book direct with Antonio.",
   "keywords": "taxi aci marina trogir to knin, transfer aci marina trogir to knin, aci marina trogir to knin taxi, aci marina trogir to knin transfer",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Private taxi transfer",
       "name": "Taxi ACI Marina Trogir to Knin",
-      "description": "Private, fixed-price taxi and transfer from ACI Marina Trogir to Knin, 125 euros per car for up to 4 passengers, door to door.",
+      "description": "Private, fixed-price taxi and transfer from ACI Marina Trogir to Knin, door to door.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/taxi-aci-marina-trogir-to-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "125",
-        "priceCurrency": "EUR",
-        "description": "One-way private transfer from ACI Marina Trogir to Knin, per car for up to 4 passengers. Return 250 euros."
+        "description": "One-way private transfer from ACI Marina Trogir to Knin, per car for up to 4 passengers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "How much is a transfer from ACI Marina Trogir to Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A fixed 125 per car for up to 4 passengers, one way, with tolls, fuel and luggage included. A return trip is 250."
+            "text": "A fixed price per car for up to 4 passengers, one way, with tolls, fuel and luggage included. Ask me and I will confirm the price for a return trip as well."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-seget",
-  "title": "Taksi Knin - Seget | Kiinteä hinta €110 | TAXI Antonio",
-  "description": "Yksityinen taksi ja kuljetus, reitti Knin - Seget. Kiinteä hinta €110 per auto, enintään 4 matkustajaa, ovelta ovelle. Varaa suoraan Antoniolta.",
+  "title": "Taksi Knin - Seget | TAXI Antonio",
+  "description": "Yksityinen taksi ja kuljetus, reitti Knin - Seget. Varaa suoraan Antoniolta.",
   "keywords": "taksi knin - seget, kuljetus knin - seget, lentokenttäkuljetus knin - seget",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Yksityinen taksikuljetus",
       "name": "Taksi Knin - Seget",
-      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Knin - Seget, 110 euroa per auto enintään 4 matkustajalle, ovelta ovelle.",
+      "description": "Yksityinen taksi ja kuljetus kiinteään hintaan, reitti Knin - Seget, ovelta ovelle.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/fi/taxi-knin-seget/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Yhdensuuntainen yksityinen matka, reitti Knin - Seget, per auto enintään 4 matkustajalle. Meno ja paluu 220 euroa."
+        "description": "Yhdensuuntainen yksityinen matka, reitti Knin - Seget, per auto enintään 4 matkustajalle."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Paljonko taksi maksaa reitillä Knin - Seget?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiinteä 110 per auto enintään 4 matkustajalle, yhdensuuntainen matka, matkatavarat mukana. Meno-paluumatka maksaa 220."
+            "text": "Kiinteä hinta per auto enintään 4 matkustajalle, yhdensuuntainen matka, matkatavarat mukana. Meno-paluumatkan hinnan kerron pyynnöstä."
           }
         },
         {

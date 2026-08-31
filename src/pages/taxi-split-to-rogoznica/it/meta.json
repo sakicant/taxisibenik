@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-rogoznica",
-  "title": "Taxi Split - Rogoznica | Prezzo fisso €75 | TAXI Antonio",
-  "description": "Taxi e transfer privato, tratta Split - Rogoznica. Prezzo fisso €75 per veicolo, fino a 4 passeggeri, porta a porta. Prenota direttamente con Antonio.",
+  "title": "Taxi Split - Rogoznica | TAXI Antonio",
+  "description": "Taxi e transfer privato, tratta Split - Rogoznica. Prenota direttamente con Antonio.",
   "keywords": "taxi split - rogoznica, transfer split - rogoznica, transfer aeroporto split - rogoznica",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Transfer taxi privato",
       "name": "Taxi Split - Rogoznica",
-      "description": "Taxi e transfer privato a prezzo fisso, tratta Split - Rogoznica, 75 euro per veicolo fino a 4 passeggeri, porta a porta.",
+      "description": "Taxi e transfer privato a prezzo fisso, tratta Split - Rogoznica, porta a porta.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/it/taxi-split-rogoznica/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "Corsa privata di sola andata, tratta Split - Rogoznica, per veicolo fino a 4 passeggeri. Andata e ritorno 150 euro."
+        "description": "Corsa privata di sola andata, tratta Split - Rogoznica, per veicolo fino a 4 passeggeri."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Quanto costa un taxi sulla tratta Split - Rogoznica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fisso 75 per veicolo fino a 4 passeggeri, solo andata, con pedaggi, carburante e bagagli. Andata e ritorno 150."
+            "text": "Prezzo fisso per veicolo fino a 4 passeggeri, solo andata, con pedaggi, carburante e bagagli. Anche per l'andata e ritorno il prezzo è su richiesta."
           }
         },
         {

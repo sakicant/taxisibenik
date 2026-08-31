@@ -1,7 +1,7 @@
 {
   "slug": "taxi-marina-frapa-to-split-airport",
-  "title": "Taxi Marina Frapa to Split Airport | Fixed €80 Transfer | TAXI Antonio",
-  "description": "Private taxi and transfer from Marina Frapa to Split Airport. Fixed €80 per car, up to 4 passengers, door to door. Book direct with Antonio.",
+  "title": "Taxi Marina Frapa to Split Airport | TAXI Antonio",
+  "description": "Private taxi and transfer from Marina Frapa to Split Airport. Book direct with Antonio.",
   "keywords": "taxi marina frapa to split airport, transfer marina frapa to split airport, marina frapa to split airport taxi, marina frapa to split airport transfer",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Private taxi transfer",
       "name": "Taxi Marina Frapa to Split Airport",
-      "description": "Private, fixed-price taxi and transfer from Marina Frapa to Split Airport, 80 euros per car for up to 4 passengers, door to door.",
+      "description": "Private, fixed-price taxi and transfer from Marina Frapa to Split Airport, door to door.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/taxi-marina-frapa-to-split-airport/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "One-way private transfer from Marina Frapa to Split Airport, per car for up to 4 passengers. Return 160 euros."
+        "description": "One-way private transfer from Marina Frapa to Split Airport, per car for up to 4 passengers."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "How much is a taxi from Marina Frapa to Split Airport?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A fixed 80 per car, one way, for up to 4 passengers. The price is per vehicle, not per person, and includes tolls, fuel and luggage. A return trip is 160."
+            "text": "The price is per vehicle, not per person, and includes tolls, fuel and luggage."
           }
         },
         {

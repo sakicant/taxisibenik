@@ -1,7 +1,7 @@
 {
   "slug": "taxi-flygplats-split-knin",
-  "title": "Taxi Split flygplats - Knin | Fast pris €110 | TAXI Antonio",
-  "description": "Privat taxi och transfer, Split flygplats - Knin. Fast pris €110 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "title": "Taxi Split flygplats - Knin | TAXI Antonio",
+  "description": "Privat taxi och transfer, Split flygplats - Knin. Boka direkt hos Antonio.",
   "keywords": "taxi split flygplats - knin, transfer split flygplats - knin, flygplatstransfer split flygplats - knin",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privat taxitransfer",
       "name": "Taxi Split flygplats - Knin",
-      "description": "Privat taxi och transfer till fast pris, Split flygplats - Knin, 110 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "description": "Privat taxi och transfer till fast pris, Split flygplats - Knin, dörr till dörr.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sv/taxi-flygplats-split-knin/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Enkel privat resa, Split flygplats - Knin, per fordon för upp till 4 passagerare. Tur och retur 220 euro."
+        "description": "Enkel privat resa, Split flygplats - Knin, per fordon för upp till 4 passagerare."
       }
     },
     {
@@ -72,7 +70,7 @@
           "name": "Hur mycket kostar transfern på sträckan Split flygplats - Knin?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fast 110 per fordon för upp till 4 passagerare, enkel resa, vägtull och bagage ingår. En tur och retur kostar 220."
+            "text": "Fast pris per fordon för upp till 4 passagerare, enkel resa, vägtull och bagage ingår. Priset för tur och retur lämnar jag på begäran."
           }
         },
         {

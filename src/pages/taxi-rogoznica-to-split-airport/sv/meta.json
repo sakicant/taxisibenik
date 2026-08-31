@@ -1,7 +1,7 @@
 {
   "slug": "taxi-rogoznica-flygplats-split",
-  "title": "Taxi Rogoznica - Split flygplats | Fast pris €80 | TAXI Antonio",
-  "description": "Privat taxi och transfer, Rogoznica - Split flygplats. Fast pris €80 per fordon, upp till 4 passagerare, dörr till dörr. Boka direkt hos Antonio.",
+  "title": "Taxi Rogoznica - Split flygplats | TAXI Antonio",
+  "description": "Privat taxi och transfer, Rogoznica - Split flygplats. Boka direkt hos Antonio.",
   "keywords": "taxi rogoznica - split flygplats, transfer rogoznica - split flygplats, flygplatstransfer rogoznica - split flygplats",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privat taxitransfer",
       "name": "Taxi Rogoznica - Split flygplats",
-      "description": "Privat taxi och transfer till fast pris, Rogoznica - Split flygplats, 80 euro per fordon för upp till 4 passagerare, dörr till dörr.",
+      "description": "Privat taxi och transfer till fast pris, Rogoznica - Split flygplats, dörr till dörr.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/sv/taxi-rogoznica-flygplats-split/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Enkel privat resa, Rogoznica - Split flygplats, per fordon för upp till 4 passagerare. Tur och retur 160 euro."
+        "description": "Enkel privat resa, Rogoznica - Split flygplats, per fordon för upp till 4 passagerare."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Hur mycket kostar en taxi på sträckan Rogoznica - Split flygplats?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fast 80 per fordon, enkel resa, för upp till 4 passagerare. Priset gäller per fordon, inte per person, och inkluderar vägtull, bränsle och bagage. En tur och retur kostar 160."
+            "text": "Priset gäller per fordon, inte per person, och inkluderar vägtull, bränsle och bagage."
           }
         },
         {

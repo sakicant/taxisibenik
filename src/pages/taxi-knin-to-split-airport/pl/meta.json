@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-lotnisko-split",
-  "title": "Taxi Knin - Lotnisko Split | Stała cena €110 | TAXI Antonio",
-  "description": "Taxi i prywatny transfer, trasa Knin - Lotnisko Split. Stała cena €110 za pojazd, do 4 pasażerów, od drzwi do drzwi. Rezerwuj bezpośrednio u Antonio.",
+  "title": "Taxi Knin - Lotnisko Split | TAXI Antonio",
+  "description": "Taxi i prywatny transfer, trasa Knin - Lotnisko Split. Rezerwuj bezpośrednio u Antonio.",
   "keywords": "taxi knin - lotnisko split, transfer knin - lotnisko split, transfer lotniskowy knin - lotnisko split",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Prywatny transfer taxi",
       "name": "Taxi Knin - Lotnisko Split",
-      "description": "Taxi i prywatny transfer w stałej cenie, trasa Knin - Lotnisko Split, 110 euro za pojazd do 4 pasażerów, od drzwi do drzwi.",
+      "description": "Taxi i prywatny transfer w stałej cenie, trasa Knin - Lotnisko Split, od drzwi do drzwi.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/pl/taxi-knin-lotnisko-split/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Prywatny przejazd w jedną stronę, trasa Knin - Lotnisko Split, za pojazd do 4 pasażerów. W obie strony 220 euro."
+        "description": "Prywatny przejazd w jedną stronę, trasa Knin - Lotnisko Split, za pojazd do 4 pasażerów."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Ile kosztuje taxi na trasie Knin - Lotnisko Split?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Stałe 110 za pojazd, w jedną stronę, do 4 pasażerów. Cena jest za pojazd, nie za osobę, i obejmuje opłaty drogowe, paliwo i bagaż. W obie strony 220."
+            "text": "Cena jest za pojazd, nie za osobę, i obejmuje opłaty drogowe, paliwo i bagaż."
           }
         },
         {

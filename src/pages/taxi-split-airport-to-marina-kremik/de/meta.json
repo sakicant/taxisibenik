@@ -1,7 +1,7 @@
 {
   "slug": "taxi-flughafen-split-marina-kremik",
-  "title": "Taxi Flughafen Split - Marina Kremik | Festpreis €80 | TAXI Antonio",
-  "description": "Privates Taxi und Transfer, Strecke Flughafen Split - Marina Kremik. Festpreis €80 pro Fahrzeug, bis zu 4. Direkt bei Antonio buchen.",
+  "title": "Taxi Flughafen Split - Marina Kremik | TAXI Antonio",
+  "description": "Privates Taxi und Transfer, Strecke Flughafen Split - Marina Kremik. Direkt bei Antonio buchen.",
   "keywords": "taxi flughafen split - marina kremik, transfer flughafen split - marina kremik, flughafentransfer flughafen split - marina kremik",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privater Taxitransfer",
       "name": "Taxi Flughafen Split - Marina Kremik",
-      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Flughafen Split - Marina Kremik, 80 Euro pro Fahrzeug für bis zu 4 Fahrgäste, Tür zu Tür.",
+      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Flughafen Split - Marina Kremik, Tür zu Tür.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/de/taxi-flughafen-split-marina-kremik/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Einfache private Fahrt, Strecke Flughafen Split - Marina Kremik, pro Fahrzeug für bis zu 4 Fahrgäste. Hin und zurück 160 Euro."
+        "description": "Einfache private Fahrt, Strecke Flughafen Split - Marina Kremik, pro Fahrzeug für bis zu 4 Fahrgäste."
       }
     },
     {
@@ -72,7 +70,7 @@
           "name": "Wie viel kostet der Transfer auf der Strecke Flughafen Split - Marina Kremik?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fest 80 pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, Maut und Gepäck inklusive. Eine Hin- und Rückfahrt kostet 160."
+            "text": "Festpreis pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, Maut und Gepäck inklusive. Den Preis für eine Hin- und Rückfahrt nenne ich Ihnen auf Anfrage."
           }
         },
         {

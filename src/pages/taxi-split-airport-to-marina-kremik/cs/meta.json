@@ -1,7 +1,7 @@
 {
   "slug": "taxi-letiste-split-marina-kremik",
-  "title": "Taxi Letiště Split - Marina Kremik | Pevná cena €80 | TAXI Antonio",
-  "description": "Taxi a soukromý transfer, trasa Letiště Split - Marina Kremik. Pevná cena €80 za vozidlo, až 4. Rezervujte u Antonia.",
+  "title": "Taxi Letiště Split - Marina Kremik | TAXI Antonio",
+  "description": "Taxi a soukromý transfer, trasa Letiště Split - Marina Kremik. Rezervujte u Antonia.",
   "keywords": "taxi letiště split - marina kremik, transfer letiště split - marina kremik, letištní transfer letiště split - marina kremik",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Soukromý taxi transfer",
       "name": "Taxi Letiště Split - Marina Kremik",
-      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Letiště Split - Marina Kremik, 80 eur za vozidlo až pro 4 cestující, ode dveří ke dveřím.",
+      "description": "Taxi a soukromý transfer za pevnou cenu, trasa Letiště Split - Marina Kremik, ode dveří ke dveřím.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/cs/taxi-letiste-split-marina-kremik/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Soukromá jednosměrná jízda, trasa Letiště Split - Marina Kremik, za vozidlo až pro 4 cestující. Zpáteční 160 eur."
+        "description": "Soukromá jednosměrná jízda, trasa Letiště Split - Marina Kremik, za vozidlo až pro 4 cestující."
       }
     },
     {
@@ -72,7 +70,7 @@
           "name": "Kolik stojí transfer na trase Letiště Split - Marina Kremik?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pevně 80 za vozidlo až pro 4 cestující, jednosměrná, mýtné a zavazadla v ceně. Zpáteční jízda je 160."
+            "text": "Pevná cena za vozidlo až pro 4 cestující, jednosměrná, mýtné a zavazadla v ceně. Cenu zpáteční jízdy sdělím na vyžádání."
           }
         },
         {

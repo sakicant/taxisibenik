@@ -1,7 +1,7 @@
 {
   "slug": "taxi-split-marina-frapa",
-  "title": "Taxi Split - Marina Frapa | Festpreis €75 | TAXI Antonio",
-  "description": "Privates Taxi und Transfer, Strecke Split - Marina Frapa. Festpreis €75 pro Fahrzeug, bis zu 4 Fahrgäste, Tür zu Tür. Direkt bei Antonio buchen.",
+  "title": "Taxi Split - Marina Frapa | TAXI Antonio",
+  "description": "Privates Taxi und Transfer, Strecke Split - Marina Frapa. Direkt bei Antonio buchen.",
   "keywords": "taxi split - marina frapa, transfer split - marina frapa, flughafentransfer split - marina frapa",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privater Taxitransfer",
       "name": "Taxi Split - Marina Frapa",
-      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Split - Marina Frapa, 75 Euro pro Fahrzeug für bis zu 4 Fahrgäste, Tür zu Tür.",
+      "description": "Privates Taxi und Transfer zum Festpreis, Strecke Split - Marina Frapa, Tür zu Tür.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/de/taxi-split-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "75",
-        "priceCurrency": "EUR",
-        "description": "Einfache private Fahrt, Strecke Split - Marina Frapa, pro Fahrzeug für bis zu 4 Fahrgäste. Hin und zurück 150 Euro."
+        "description": "Einfache private Fahrt, Strecke Split - Marina Frapa, pro Fahrzeug für bis zu 4 Fahrgäste."
       }
     },
     {
@@ -48,7 +46,7 @@
           "name": "Wie viel kostet ein Transfer auf der Strecke Split - Marina Frapa?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fest 75 pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, mit Maut, Kraftstoff und Gepäck. Eine Hin- und Rückfahrt kostet 150."
+            "text": "Festpreis pro Fahrzeug für bis zu 4 Fahrgäste, einfache Fahrt, mit Maut, Kraftstoff und Gepäck. Den Preis für eine Hin- und Rückfahrt nenne ich Ihnen auf Anfrage."
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "slug": "taxi-knin-repter-split",
-  "title": "Taxi Knin - Split repülőtér | Fix ár €110 | TAXI Antonio",
-  "description": "Privát taxi és transzfer, Knin - Split repülőtér. Fix ár €110 járművenként, max. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
+  "title": "Taxi Knin - Split repülőtér | TAXI Antonio",
+  "description": "Privát taxi és transzfer, Knin - Split repülőtér. 4 utas, háztól házig. Foglaljon közvetlenül Antoniónál.",
   "keywords": "taxi knin - split repülőtér, transzfer knin - split repülőtér, reptéri transzfer knin - split repülőtér",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privát taxitranszfer",
       "name": "Taxi Knin - Split repülőtér",
-      "description": "Privát taxi és transzfer fix áron, Knin - Split repülőtér, 110 euró járművenként max. 4 utasra, háztól házig.",
+      "description": "4 utasra, háztól házig.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/hu/taxi-knin-repter-split/",
       "offers": {
         "@type": "Offer",
-        "price": "110",
-        "priceCurrency": "EUR",
-        "description": "Privát egyirányú út, Knin - Split repülőtér, járművenként max. 4 utasra. Oda-vissza 220 euró."
+        "description": "Privát egyirányú út, Knin - Split repülőtér, járművenként max. 4 utasra."
       }
     },
     {
@@ -56,7 +54,7 @@
           "name": "Mennyibe kerül egy taxi a Knin - Split repülőtér útvonalon?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fix 110 járművenként, egy irány, max. 4 utas. Az ár járművenként, nem személyenként értendő, és tartalmazza az útdíjat, üzemanyagot és csomagot. Az oda-vissza út 220."
+            "text": "4 utas. Az ár járművenként, nem személyenként értendő, és tartalmazza az útdíjat, üzemanyagot és csomagot."
           }
         },
         {

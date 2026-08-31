@@ -1,7 +1,7 @@
 {
   "slug": "taxi-luchthaven-split-marina-frapa",
-  "title": "Taxi Luchthaven Split - Marina Frapa | Vaste prijs €80 | TAXI Antonio",
-  "description": "Taxi en privétransfer, traject Luchthaven Split - Marina Frapa. Vaste prijs €80 per voertuig, tot 4. Boek bij Antonio.",
+  "title": "Taxi Luchthaven Split - Marina Frapa | TAXI Antonio",
+  "description": "Taxi en privétransfer, traject Luchthaven Split - Marina Frapa. Boek bij Antonio.",
   "keywords": "taxi luchthaven split - marina frapa, transfer luchthaven split - marina frapa, luchthaventransfer luchthaven split - marina frapa",
   "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
   "schema": [
@@ -10,7 +10,7 @@
       "@type": "Service",
       "serviceType": "Privé taxitransfer",
       "name": "Taxi Luchthaven Split - Marina Frapa",
-      "description": "Taxi en privétransfer tegen vaste prijs, traject Luchthaven Split - Marina Frapa, 80 euro per voertuig tot 4 passagiers, van deur tot deur.",
+      "description": "Taxi en privétransfer tegen vaste prijs, traject Luchthaven Split - Marina Frapa, van deur tot deur.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Taxi Antonio",
@@ -34,9 +34,7 @@
       "url": "https://taxisibenik.hr/nl/taxi-luchthaven-split-marina-frapa/",
       "offers": {
         "@type": "Offer",
-        "price": "80",
-        "priceCurrency": "EUR",
-        "description": "Privérit enkele reis, traject Luchthaven Split - Marina Frapa, per voertuig tot 4 passagiers. Retour 160 euro."
+        "description": "Privérit enkele reis, traject Luchthaven Split - Marina Frapa, per voertuig tot 4 passagiers."
       }
     },
     {
@@ -72,7 +70,7 @@
           "name": "Hoeveel kost de transfer op het traject Luchthaven Split - Marina Frapa?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Vast 80 per voertuig tot 4 passagiers, enkele reis, tol en bagage inbegrepen. Een retour kost 160."
+            "text": "Vaste prijs per voertuig tot 4 passagiers, enkele reis, tol en bagage inbegrepen. De prijs voor een retour geef ik op aanvraag."
           }
         },
         {
