@@ -32,13 +32,17 @@ DEFAULT_LANG = "en"
 
 # Supported languages. Codes must be valid ISO 639-1 for correct hreflang.
 LANGUAGES = ["en", "hr", "de", "pl", "cs", "it", "fr", "nl", "sl", "hu", "sk",
-             "es", "sv", "sr", "no", "zh", "ko", "fi", "ja"]
+             "es", "sv", "sr", "no", "zh", "ko", "fi", "ja",
+             # Added 2026-09-01. Arabic is pending right-to-left support.
+             "ru", "uk", "tr", "el", "ro", "bg", "da", "lv"]
 
 # Localized "Home" label for the auto-generated breadcrumb trail.
 HOME_LABEL = {
     "en": "Home", "hr": "Početna", "de": "Startseite", "pl": "Strona główna",
     "cs": "Domů", "it": "Home", "fr": "Accueil", "nl": "Home",
     "sl": "Domov", "hu": "Kezdőlap", "sk": "Domov",
+    "ru": "Главная", "uk": "Головна", "tr": "Ana sayfa", "el": "Αρχική", "ro": "Acasă", "bg": "Начало", "da": "Forside", "lv": "Sākums",
+    "es": "Inicio", "sv": "Hem", "sr": "Početna", "no": "Hjem", "zh": "首页", "ko": "홈", "fi": "Etusivu", "ja": "ホーム",
 }
 
 
@@ -138,6 +142,8 @@ LANGUAGE_LABELS = {
     # New languages. Label is the country code visitors recognise.
     "es": "ES", "sv": "SE", "sr": "RS", "no": "NO",
     "zh": "CN", "ko": "KR", "fi": "FI", "ja": "JP",
+    # Added 2026-09-01.
+    "ru": "RU", "uk": "UA", "tr": "TR", "el": "GR", "ro": "RO", "bg": "BG", "da": "DK", "lv": "LV",
 }
 
 # Emoji flags don't render on Windows desktop browsers, so we self-host SVG
