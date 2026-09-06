@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-lozovac-grebastica",
+  "title": "Taxi Lozovac - Grebaštica | Preț fix €75 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Lozovac - Grebaštica. Preț fix €75 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi lozovac - grebaštica, transfer lozovac - grebaštica, transfer aeroport lozovac - grebaštica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Lozovac - Grebaštica",
+      "description": "Taxi și transfer privat la preț fix, ruta Lozovac - Grebaštica, 75 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Lozovac",
+        "Grebaštica"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-lozovac-grebastica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "75",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Lozovac - Grebaštica, per vehicul pentru până la 4 pasageri. Dus-întors 150 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât de lungă este ruta și cât durează cursa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cursa pe ruta Lozovac - Grebaštica are aproximativ 31 km și durează în jur de 35 min în trafic normal, puțin mai mult în vârf de sezon. Planific preluarea astfel încât un tronson lent să nu vă grăbească niciodată."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi pe ruta Lozovac - Grebaštica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 75 per vehicul pentru până la 4 pasageri, dus, cu bagajele incluse. O cursă dus-întors costă 150."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "De unde mă preluați?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De la adresa dumneavoastră exactă, fie că este casă, hotel sau apartament. Trimiteți adresa la rezervare și vă confirm punctul de întâlnire."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-murter-zaboric",
+  "title": "Такси Murter - Žaborić | Фиксированная цена €95 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Murter - Žaborić. Фиксированная цена €95 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси murter - žaborić, трансфер murter - žaborić, трансфер из аэропорта murter - žaborić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Murter - Žaborić",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Murter - Žaborić, 95 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Murter",
+        "Žaborić"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-murter-zaboric/",
+      "offers": {
+        "@type": "Offer",
+        "price": "95",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Murter - Žaborić, за автомобиль для до 4 пассажиров. Туда и обратно 190 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Murter - Žaborić составляет около 43 км и занимает примерно 55 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Murter - Žaborić?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 95 за автомобиль для до 4 пассажиров, в одну сторону, багаж включён. Поездка туда и обратно стоит 190."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня забираете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По вашему точному адресу, будь то дом, отель или апартаменты. Пришлите адрес при бронировании, и я подтвержу место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

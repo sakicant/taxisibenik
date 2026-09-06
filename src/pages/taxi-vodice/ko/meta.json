@@ -38,28 +38,28 @@
             "name": "Vodice에서 Šibenik까지 택시",
             "price": "30",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
           },
           {
             "@type": "Offer",
             "name": "Vodice에서 크르카 국립공원(Lozovac)까지 택시",
             "price": "60",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
           },
           {
             "@type": "Offer",
             "name": "Vodice에서 자다르 공항까지 택시",
             "price": "100",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
           },
           {
             "@type": "Offer",
             "name": "Vodice에서 스플리트 공항까지 택시",
             "price": "115",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
           }
         ]
       }

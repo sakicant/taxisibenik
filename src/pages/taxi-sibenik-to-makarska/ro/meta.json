@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-sibenik-makarska",
+  "title": "Taxi Šibenik - Makarska | Preț fix €200 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Šibenik - Makarska. Preț fix €200 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi šibenik - makarska, transfer šibenik - makarska, transfer aeroport šibenik - makarska",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Šibenik - Makarska",
+      "description": "Taxi și transfer privat la preț fix, ruta Šibenik - Makarska, 200 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Makarska"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-sibenik-makarska/",
+      "offers": {
+        "@type": "Offer",
+        "price": "200",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Šibenik - Makarska, per vehicul pentru până la 4 pasageri. Dus-întors 400 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât de lungă este ruta și cât durează cursa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cursa pe ruta Šibenik - Makarska are aproximativ 129 km și durează în jur de 1 h 40 min în trafic normal, puțin mai mult în vârf de sezon. Planific preluarea astfel încât un tronson lent să nu vă grăbească niciodată."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi pe ruta Šibenik - Makarska?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 200 per vehicul pentru până la 4 pasageri, dus, cu bagajele incluse. O cursă dus-întors costă 400."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "De unde mă preluați?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De la adresa dumneavoastră exactă, fie că este casă, hotel sau apartament. Trimiteți adresa la rezervare și vă confirm punctul de întâlnire."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

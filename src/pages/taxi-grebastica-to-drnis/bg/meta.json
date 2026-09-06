@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-grebastica-drnis",
+  "title": "Такси Grebaštica - Drniš | Фиксирана цена €85 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Grebaštica - Drniš. Фиксирана цена €85 на автомобил, до 4 пътници, от врата до врата. Резервирайте директно при Антонио.",
+  "keywords": "такси grebaštica - drniš, трансфер grebaštica - drniš, летищен трансфер grebaštica - drniš",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Grebaštica - Drniš",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Grebaštica - Drniš, 85 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Grebaštica",
+        "Drniš"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-grebastica-drnis/",
+      "offers": {
+        "@type": "Offer",
+        "price": "85",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Grebaštica - Drniš, на автомобил за до 4 пътници. Отиване и връщане 170 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко дълъг е маршрутът и колко трае пътуването?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Пътуването по маршрута Grebaštica - Drniš е дълго около 48 км и трае приблизително 50 min при нормален трафик, малко повече в разгара на лятото. Планирам вземането така, че бавен участък никога да не ви притиска."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва такси по маршрута Grebaštica - Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 85 на автомобил за до 4 пътници, еднопосочно, багажът е включен. Пътуване с отиване и връщане струва 170."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Откъде ме вземате?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "От точния ви адрес, било то къща, хотел или апартамент. Изпратете адреса при резервацията и ще потвърдя мястото на срещата."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и часа на вземане. За пътуване в последния момент се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

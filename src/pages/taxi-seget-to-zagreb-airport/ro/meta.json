@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-seget-aeroport-zagreb",
+  "title": "Taxi Seget - Aeroportul Zagreb | Preț fix €499 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Seget - Aeroportul Zagreb. Preț fix €499 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi seget - aeroportul zagreb, transfer seget - aeroportul zagreb, transfer aeroport seget - aeroportul zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Seget - Aeroportul Zagreb",
+      "description": "Taxi și transfer privat la preț fix, ruta Seget - Aeroportul Zagreb, 499 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Seget",
+        "Aeroportul Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-seget-aeroport-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "499",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Seget - Aeroportul Zagreb, per vehicul pentru până la 4 pasageri. Dus-întors 998 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi pe ruta Seget - Aeroportul Zagreb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 499 per vehicul, dus, pentru până la 4 pasageri. Prețul este per vehicul, nu de persoană, și include taxele de drum, carburantul și bagajele. O cursă dus-întors costă 998."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Când ar trebui să plec spre aeroport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De regulă cu aproximativ 3 ore înainte de un zbor internațional și cu 2 ore înainte de unul intern. Spuneți-mi ora zborului și vă confirm ora exactă a preluării."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mergeți până la terminalul de plecări?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Vă duc direct la terminalul de plecări și vă ajut cu bagajele. Fără mers pe jos din parcare și fără autobuz de legătură."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și preluarea, și mai devreme pentru zborurile de dimineață și pentru vârful de sezon. Pentru o cursă de ultim moment sunați-mă sau scrieți-mi pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

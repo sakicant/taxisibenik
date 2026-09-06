@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-bilo-bilice",
+  "title": "Taxi Bilo - Bilice | Preț fix €55 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Bilo - Bilice. Preț fix €55 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi bilo - bilice, transfer bilo - bilice, transfer aeroport bilo - bilice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Bilo - Bilice",
+      "description": "Taxi și transfer privat la preț fix, ruta Bilo - Bilice, 55 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Bilo",
+        "Bilice"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-bilo-bilice/",
+      "offers": {
+        "@type": "Offer",
+        "price": "55",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Bilo - Bilice, per vehicul pentru până la 4 pasageri. Dus-întors 110 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât de lungă este ruta și cât durează cursa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cursa pe ruta Bilo - Bilice are aproximativ 28 km și durează în jur de 35 min în trafic normal, puțin mai mult în vârf de sezon. Planific preluarea astfel încât un tronson lent să nu vă grăbească niciodată."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi pe ruta Bilo - Bilice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 55 per vehicul pentru până la 4 pasageri, dus, cu bagajele incluse. O cursă dus-întors costă 110."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "De unde mă preluați?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De la adresa dumneavoastră exactă, fie că este casă, hotel sau apartament. Trimiteți adresa la rezervare și vă confirm punctul de întâlnire."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

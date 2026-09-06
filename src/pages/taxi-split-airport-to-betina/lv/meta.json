@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-splitas-lidosta-betina",
+  "title": "Taksometrs Splitas lidosta - Betina | Fiksēta cena €150 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Splitas lidosta - Betina. Fiksēta cena €150 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs splitas lidosta - betina, transfērs splitas lidosta - betina, lidostas transfērs splitas lidosta - betina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Splitas lidosta - Betina",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Splitas lidosta - Betina, 150 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Splitas lidosta",
+        "Betina"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-splitas-lidosta-betina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "150",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Splitas lidosta - Betina, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 300 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik garš ir maršruts un cik ilgi jābrauc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens maršrutā Splitas lidosta - Betina ir aptuveni 95 km garš un ilgst apmēram 1 h 30 min normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kur jūs mani sagaidīsiet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ielidošanas zālē, uzreiz pēc bagāžas saņemšanas, ar plāksnīti, uz kuras ir jūsu vārds. Palīdzu ar bagāžu un aizvedu jūs līdz automašīnai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kas notiek, ja mans lidojums kavējas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nekādu problēmu. Sekoju jūsu lidojumam reāllaikā un pielāgoju sagaidīšanu faktiskajai nolaišanās reizei, bez papildu maksas par gaidīšanu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā transfērs maršrutā Splitas lidosta - Betina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 150 par automašīnu līdz 4 pasažieriem vienā virzienā, ceļa nodevas un bagāža iekļauta. Brauciens turp un atpakaļ maksā 300."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu plānot pēc jūsu lidojuma. Ja sagaidīšana vajadzīga tajā pašā dienā pēc pēkšņām izmaiņām, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-tisno-ciovo",
+  "title": "Такси Tisno - Čiovo | Фиксированная цена €145 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Tisno - Čiovo. Фиксированная цена €145 за автомобиль, до 4 пассажиров, от двери до двери. Бронируйте напрямую у Антонио.",
+  "keywords": "такси tisno - čiovo, трансфер tisno - čiovo, трансфер из аэропорта tisno - čiovo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Tisno - Čiovo",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Tisno - Čiovo, 145 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Tisno",
+        "Čiovo"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-tisno-ciovo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "145",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Tisno - Čiovo, за автомобиль для до 4 пассажиров. Туда и обратно 290 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Tisno - Čiovo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 145 за автомобиль для до 4 пассажиров, в одну сторону, багаж включён. Поездка туда и обратно стоит 290."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня забираете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По вашему точному адресу, будь то дом, отель или апартаменты. Пришлите адрес при бронировании, и я подтвержу место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

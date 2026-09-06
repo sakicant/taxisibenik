@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-trogir-pirovac",
+  "title": "Такси Trogir - Pirovac | Фиксированная цена €125 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Trogir - Pirovac. Фиксированная цена €125 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси trogir - pirovac, трансфер trogir - pirovac, трансфер из аэропорта trogir - pirovac",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Trogir - Pirovac",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Trogir - Pirovac, 125 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Trogir",
+        "Pirovac"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-trogir-pirovac/",
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Trogir - Pirovac, за автомобиль для до 4 пассажиров. Туда и обратно 250 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Trogir - Pirovac составляет около 88 км и занимает примерно 80 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Trogir - Pirovac?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 125 за автомобиль для до 4 пассажиров, в одну сторону, с дорожными сборами, топливом и багажом. Поездка туда и обратно стоит 250."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансфер частный или общий?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Каждый трансфер частный и от двери до двери, на Škoda Superb. Машину ни с кем не делите, дополнительных остановок нет, если вы сами их не попросите."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете остановиться по пути?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. На длинных маршрутах охотно остановлюсь на кофе, для фото или у короткой достопримечательности. Просто скажите при бронировании."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

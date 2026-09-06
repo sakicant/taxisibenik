@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-betina-primosten",
+  "title": "Taksometrs Betina - Primošten | Fiksēta cena €120 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Betina - Primošten. Fiksēta cena €120 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs betina - primošten, transfērs betina - primošten, lidostas transfērs betina - primošten",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Betina - Primošten",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Betina - Primošten, 120 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Betina",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-betina-primosten/",
+      "offers": {
+        "@type": "Offer",
+        "price": "120",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Betina - Primošten, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 240 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik garš ir maršruts un cik ilgi jābrauc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens maršrutā Betina - Primošten ir aptuveni 59 km garš un ilgst apmēram 75 min normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā Betina - Primošten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 120 par automašīnu līdz 4 pasažieriem vienā virzienā, bagāža iekļauta. Brauciens turp un atpakaļ maksā 240."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kur jūs mani paņemsiet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jūsu precīzajā adresē, vai tā būtu māja, viesnīca vai dzīvoklis. Rezervējot atsūtiet adresi, un es apstiprināšu tikšanās vietu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

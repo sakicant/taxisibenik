@@ -1,0 +1,79 @@
+{
+  "slug": "frequently-asked-questions",
+  "title": "Biežāk uzdotie jautājumi | TAXI Antonio",
+  "description": "Ātras atbildes par rezervāciju, cenām un vietējiem braucieniem Šibenikas apkārtnē.",
+  "keywords": "biežāk uzdotie jautājumi",
+  "og_image": "https://taxisibenik.hr/assets/og-image.png",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kā es varu rezervēt taksometru Šibenikā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zvaniet +385 99 447 1013, rakstiet man WhatsApp vai sūtiet e-pastu. Man vajadzīga jūsu sagaidīšanas vieta, galamērķis un vēlamais izbraukšanas vai ierašanās laiks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pieņemu arī pēdējā brīža pieprasījumus savā darba laikā, bet rezervācija vismaz 2 stundas iepriekš garantē pieejamību."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ko nozīmē \"fiksēta cena\"? Kas ir iekļauts?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Manās fiksētajās cenās ir iekļauts brauciens, degviela, ceļa nodevas un palīdzība ar bagāžu. Bez slēptām izmaksām. Papildu pieturas vai ilga gaidīšana var maksāt vairāk, un es par to vienmēr pasaku iepriekš."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs pieņemat avansa maksājumus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Rezervācijas apstiprināšanai nepieciešams 20% avansa maksājums (vismaz €20). Braucieniem, kuru cena ir €20 vai mazāka, minimālais avanss sakrīt ar visu cenu. Avansu var samaksāt ar bankas pārskaitījumu (SEPA) vai karti, bet atlikumu norēķinu ar mani veicat transfēra dienā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs veicat izbraukumus uz slimnīcu Šibenikā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Vedu pasažierus uz Šibenikas vispārējo slimnīcu un no tās, un man ir atļauts iebraukt slimnīcas teritorijā, tāpēc no stāvvietas nav tālu jāiet. Pasakiet, ja vajadzīga palīdzība nokļūt līdz ieejai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat mani aizvest uz prāmi uz salām?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Izlaižu un sagaidu Šibenikas prāmju un katamarānu ostā, kur kursē reisi uz Zlarin, Prvić, Kaprije un Žirje, kā arī laiva uz Obonjan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs sagaidāt pie Šibenikas viesnīcām, autoostas un dzelzceļa stacijas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Apkalpoju visas vietējās viesnīcas, autoostu, Šibenikas un Perković dzelzceļa stacijas un prāmju ostu, ar palīdzību bagāžai un plāksnīti ar vārdu pēc pieprasījuma."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai automašīnā var norēķināties ar karti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā, pieņemu kartes un citus bezkontakta maksājumu veidus."
+          }
+        }
+      ]
+    }
+  ]
+}

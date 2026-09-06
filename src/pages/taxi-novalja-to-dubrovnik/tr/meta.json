@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-novalja-dubrovnik",
+  "title": "Taksi Novalja - Dubrovnik | Sabit fiyat €680 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Novalja - Dubrovnik güzergâhı. Araç başına sabit €680, 4 yolcuya kadar, kapıdan kapıya. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi novalja - dubrovnik, transfer novalja - dubrovnik, havalimanı transferi novalja - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Novalja - Dubrovnik",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Novalja - Dubrovnik güzergâhı, 4 yolcuya kadar araç başına 680 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Novalja",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-novalja-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "680",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Novalja - Dubrovnik güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 1360 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Güzergâh ne kadar uzun ve yolculuk ne kadar sürer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Novalja - Dubrovnik güzergâhındaki yolculuk yaklaşık 412 km uzunluğunda ve normal trafikte yaklaşık 5 h 30 min sürüyor, yaz yoğunluğunda biraz daha uzun. Alışı, yavaş bir yol sizi asla acele ettirmeyecek şekilde planlıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Novalja - Dubrovnik güzergâhında taksi ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 680, tek yön, otoyol ücretleri, yakıt ve bagaj dahil. Gidiş dönüş yolculuk 1360."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Transfer özel mi yoksa paylaşımlı mı?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Her transfer özeldir ve kapıdan kapıyadır, bir Škoda Superb ile. Araç paylaşımı yok, siz istemedikçe ek durak yok."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Yol üstünde durabilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Daha uzun güzergâhlarda bir kahve, bir fotoğraf ya da kısa bir görülecek yer için memnuniyetle dururum. Rezervasyon sırasında söylemeniz yeterli."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

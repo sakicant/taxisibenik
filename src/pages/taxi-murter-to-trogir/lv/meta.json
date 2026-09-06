@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-murter-trogir",
+  "title": "Taksometrs Murter - Trogir | Fiksēta cena €150 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Murter - Trogir. Fiksēta cena €150 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs murter - trogir, transfērs murter - trogir, lidostas transfērs murter - trogir",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Murter - Trogir",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Murter - Trogir, 150 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Murter",
+        "Trogir"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-murter-trogir/",
+      "offers": {
+        "@type": "Offer",
+        "price": "150",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Murter - Trogir, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 300 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik garš ir maršruts un cik ilgi jābrauc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens maršrutā Murter - Trogir ir aptuveni 97 km garš un ilgst apmēram 1 h 35 min normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā Murter - Trogir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 150 par automašīnu līdz 4 pasažieriem vienā virzienā, ar ceļa nodevām, degvielu un bagāžu. Brauciens turp un atpakaļ maksā 300."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai transfērs ir privāts vai kopīgs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Katrs transfērs ir privāts un no durvīm līdz durvīm, ar Škoda Superb. Automašīna netiek dalīta un papildu pieturu nav, ja vien jūs tās nelūdzat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat apstāties ceļā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Garākos maršrutos labprāt apstājos uz kafiju, fotogrāfiju vai īsu apskates objektu. Vienkārši pasakiet, rezervējot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

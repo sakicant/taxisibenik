@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zadar-seget",
+  "title": "Такси Zadar - Seget | Фиксирана цена €210 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Zadar - Seget. Фиксирана цена €210 на автомобил, до 4 пътници, от врата до врата. Резервирайте директно при Антонио.",
+  "keywords": "такси zadar - seget, трансфер zadar - seget, летищен трансфер zadar - seget",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Zadar - Seget",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Zadar - Seget, 210 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Seget"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-zadar-seget/",
+      "offers": {
+        "@type": "Offer",
+        "price": "210",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Zadar - Seget, на автомобил за до 4 пътници. Отиване и връщане 420 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко струва такси по маршрута Zadar - Seget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 210 на автомобил за до 4 пътници, еднопосочно, с пътни такси, гориво и багаж. Пътуване с отиване и връщане струва 420."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансферът частен ли е или споделен?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Всеки трансфер е частен и от врата до врата, с Škoda Superb. Автомобилът не се споделя и няма допълнителни спирания, освен ако не ги поискате."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Може ли да спрете по пътя?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. По по-дългите маршрути с удоволствие спирам за кафе, за снимка или за кратка забележителност. Само ми кажете при резервацията."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и часа на вземане. За пътуване в последния момент се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

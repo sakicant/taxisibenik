@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-vodice-ciovo",
+  "title": "Ταξί Vodice - Čiovo | Σταθερή τιμή €125 | TAXI Antonio",
+  "description": "Ιδιωτικό ταξί και μεταφορά, διαδρομή Vodice - Čiovo. Σταθερή τιμή €125 ανά όχημα, έως 4 άτομα. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί vodice - čiovo, μεταφορά vodice - čiovo, μεταφορά από αεροδρόμιο vodice - čiovo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτική μεταφορά με ταξί",
+      "name": "Ταξί Vodice - Čiovo",
+      "description": "Ιδιωτικό ταξί και μεταφορά σε σταθερή τιμή, διαδρομή Vodice - Čiovo, 125 ευρώ ανά όχημα για έως 4 επιβάτες, από πόρτα σε πόρτα.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Vodice",
+        "Čiovo"
+      ],
+      "url": "https://taxisibenik.hr/el/taxi-vodice-ciovo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Ιδιωτική διαδρομή απλής μετάβασης, διαδρομή Vodice - Čiovo, ανά όχημα για έως 4 επιβάτες. Μετ' επιστροφής 250 ευρώ."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει ένα ταξί στη διαδρομή Vodice - Čiovo;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά 125 ανά όχημα για έως 4 επιβάτες, απλή διαδρομή, με τις αποσκευές. Η μετ' επιστροφής διαδρομή κοστίζει 250."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Από πού με παραλαμβάνετε;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Από την ακριβή σας διεύθυνση, είτε είναι σπίτι, ξενοδοχείο ή διαμέρισμα. Στείλτε τη διεύθυνση κατά την κράτηση και σας επιβεβαιώνω το σημείο συνάντησης."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τουλάχιστον 2 ώρες πριν, για να επιβεβαιώσω όχημα και ώρα παραλαβής. Για διαδρομή τελευταίας στιγμής τηλεφωνήστε μου ή γράψτε στο WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

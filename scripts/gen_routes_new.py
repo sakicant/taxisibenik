@@ -11,7 +11,9 @@ from urllib.parse import quote
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import route_loc as R
 
-NEW_LANGS = ["es", "sv", "sr", "no", "zh", "ko", "fi", "ja"]
+# Languages can be overridden on the command line, so the same driver can
+# generate a later batch without touching the original list.
+NEW_LANGS = sys.argv[1:] or ["es", "sv", "sr", "no", "zh", "ko", "fi", "ja"]
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PAGES = os.path.join(ROOT, "src", "pages")

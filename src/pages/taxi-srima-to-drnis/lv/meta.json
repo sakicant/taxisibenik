@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-srima-drnis",
+  "title": "Taksometrs Srima - Drniš | Fiksēta cena €80 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Srima - Drniš. Fiksēta cena €80 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs srima - drniš, transfērs srima - drniš, lidostas transfērs srima - drniš",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Srima - Drniš",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Srima - Drniš, 80 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Srima",
+        "Drniš"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-srima-drnis/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Srima - Drniš, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 160 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik garš ir maršruts un cik ilgi jābrauc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens maršrutā Srima - Drniš ir aptuveni 41 km garš un ilgst apmēram 45 min normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā Srima - Drniš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 80 par automašīnu līdz 4 pasažieriem vienā virzienā, bagāža iekļauta. Brauciens turp un atpakaļ maksā 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kur jūs mani paņemsiet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jūsu precīzajā adresē, vai tā būtu māja, viesnīca vai dzīvoklis. Rezervējot atsūtiet adresi, un es apstiprināšu tikšanās vietu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

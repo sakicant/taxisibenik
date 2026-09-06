@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-kremik-betina",
+  "title": "Taksometrs Marina Kremik - Betina | Fiksēta cena €130 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Marina Kremik - Betina. Fiksēta cena €130 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs marina kremik - betina, transfērs marina kremik - betina, lidostas transfērs marina kremik - betina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Marina Kremik - Betina",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Marina Kremik - Betina, 130 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Kremik",
+        "Betina"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-marina-kremik-betina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Marina Kremik - Betina, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 260 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik maksā transfērs maršrutā Marina Kremik - Betina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 130 par automašīnu līdz 4 pasažieriem vienā virzienā, ar ceļa nodevām, degvielu un bagāžu. Brauciens turp un atpakaļ maksā 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat mani paņemt tieši marīnā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Sagaidu jūs pie marīnas ieejas vai reģistratūrā un palīdzu ar bagāžu, lai jūs no pontona dotos tieši pie automašīnas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat pielāgot transfēru manai laivai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Rezervējot atsūtiet man čartera, reģistrācijas vai izbraukšanas laiku, un es plānošu sagaidīšanu ap to."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet man tieši WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

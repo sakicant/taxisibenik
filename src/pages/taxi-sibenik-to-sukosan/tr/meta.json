@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sibenik-sukosan",
+  "title": "Taksi Šibenik - Sukošan | Sabit fiyat €130 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Šibenik - Sukošan güzergâhı. Araç başına sabit €130, 4 yolcuya kadar, kapıdan kapıya. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi šibenik - sukošan, transfer šibenik - sukošan, havalimanı transferi šibenik - sukošan",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Šibenik - Sukošan",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Šibenik - Sukošan güzergâhı, 4 yolcuya kadar araç başına 130 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Sukošan"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-sibenik-sukosan/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Šibenik - Sukošan güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 260 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Šibenik - Sukošan güzergâhında taksi ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 130, tek yön, bagaj dahil. Gidiş dönüş yolculuk 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni nereden alıyorsunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ev, otel ya da apart olsun, tam adresinizden. Rezervasyon sırasında adresi gönderin, buluşma noktasını onaylayayım."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

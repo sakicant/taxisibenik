@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-dubrovnik-havalimani-zaton",
+  "title": "Taksi Dubrovnik Havalimanı - Zaton | Sabit fiyat €490 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Dubrovnik Havalimanı - Zaton güzergâhı. Araç başına sabit €490, 4 kişiye kadar. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi dubrovnik havalimanı - zaton, transfer dubrovnik havalimanı - zaton, havalimanı transferi dubrovnik havalimanı - zaton",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Dubrovnik Havalimanı - Zaton",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Dubrovnik Havalimanı - Zaton güzergâhı, 4 yolcuya kadar araç başına 490 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik Havalimanı",
+        "Zaton"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-dubrovnik-havalimani-zaton/",
+      "offers": {
+        "@type": "Offer",
+        "price": "490",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Dubrovnik Havalimanı - Zaton güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 980 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Güzergâh ne kadar uzun ve yolculuk ne kadar sürer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dubrovnik Havalimanı - Zaton güzergâhındaki yolculuk yaklaşık 305 km uzunluğunda ve normal trafikte yaklaşık 4 h 25 min sürüyor, yaz yoğunluğunda biraz daha uzun. Alışı, yavaş bir yol sizi asla acele ettirmeyecek şekilde planlıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni nerede karşılıyorsunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Geliş salonunda, bagaj alımının hemen ardından, isminizin yazdığı bir tabelayla. Bagajla yardım eder ve sizi araca kadar götürürüm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Uçuşum rötar yaparsa ne olur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sorun değil. Uçuşunuzu gerçek zamanlı takip eder ve alışı gerçek iniş saatine göre ayarlarım, bekleme için ek ücret almadan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dubrovnik Havalimanı - Zaton güzergâhında transfer ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 490, tek yön, otoyol ücretleri ve bagaj dahil. Gidiş dönüş yolculuk 980."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Uçuşunuza göre planlayabilmem için en az 2 saat önce. Son dakika bir değişiklikten sonra aynı gün alış için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

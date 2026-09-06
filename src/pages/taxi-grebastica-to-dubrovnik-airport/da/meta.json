@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-grebastica-dubrovnik-lufthavn",
+  "title": "Taxa Grebaštica - Dubrovnik Lufthavn | Fast pris €450 | TAXI Antonio",
+  "description": "Privat taxa og transfer på ruten Grebaštica - Dubrovnik Lufthavn. Fast pris €450 pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+  "keywords": "taxa grebaštica - dubrovnik lufthavn, transfer grebaštica - dubrovnik lufthavn, lufthavnstransfer grebaštica - dubrovnik lufthavn",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxatransfer",
+      "name": "Taxa Grebaštica - Dubrovnik Lufthavn",
+      "description": "Privat taxa og transfer til fast pris på ruten Grebaštica - Dubrovnik Lufthavn, 450 euro pr. bil for op til 4 passagerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Grebaštica",
+        "Dubrovnik Lufthavn"
+      ],
+      "url": "https://taxisibenik.hr/da/taxi-grebastica-dubrovnik-lufthavn/",
+      "offers": {
+        "@type": "Offer",
+        "price": "450",
+        "priceCurrency": "EUR",
+        "description": "Privat enkeltrejse på ruten Grebaštica - Dubrovnik Lufthavn, pr. bil for op til 4 passagerer. Tur og retur 900 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er ruten, og hvor længe tager turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på ruten Grebaštica - Dubrovnik Lufthavn er cirka 302 km lang og tager omkring 4 h 20 min i normal trafik, lidt længere i sommerens højsæson. Jeg planlægger afhentningen, så en langsom strækning aldrig får dig til at skynde dig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster en taxa på ruten Grebaštica - Dubrovnik Lufthavn?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 450 pr. bil, enkeltrejse, for op til 4 passagerer. Prisen er pr. bil, ikke pr. person, og dækker vejafgifter, brændstof og bagage. Tur og retur koster 900."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvornår skal jeg tage af sted til lufthavnen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Som regel omkring 3 timer før et internationalt fly og 2 timer før et indenrigsfly. Fortæl mig din flytid, så bekræfter jeg det præcise afhentningstidspunkt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kører du helt til afgangsterminalen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg kører dig direkte til afgangsterminalen og hjælper med bagagen. Ingen gåtur fra parkeringspladsen og ingen shuttlebus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindst 2 timer før, så jeg kan bekræfte bil og afhentning, og gerne tidligere ved morgenfly og i højsæsonen. Har du brug for en tur med kort varsel, så ring eller skriv til mig på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

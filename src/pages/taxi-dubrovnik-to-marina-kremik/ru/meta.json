@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-dubrovnik-marina-kremik",
+  "title": "Такси Dubrovnik - Marina Kremik | Фиксированная цена €435 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Dubrovnik - Marina Kremik. Фиксированная цена €435 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси dubrovnik - marina kremik, трансфер dubrovnik - marina kremik, трансфер из аэропорта dubrovnik - marina kremik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Dubrovnik - Marina Kremik",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Dubrovnik - Marina Kremik, 435 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik",
+        "Marina Kremik"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-dubrovnik-marina-kremik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "435",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Dubrovnik - Marina Kremik, за автомобиль для до 4 пассажиров. Туда и обратно 870 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит трансфер на маршруте Dubrovnik - Marina Kremik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 435 за автомобиль для до 4 пассажиров, в одну сторону, с дорожными сборами, топливом и багажом. Поездка туда и обратно стоит 870."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете забрать прямо в марине?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Встречаю вас у входа в марину или на ресепшене и помогаю с багажом, чтобы вы с понтона сразу прошли к машине."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете подстроить трансфер под моё судно?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Пришлите при бронировании время чартера, регистрации или отхода, и я спланирую подачу под него."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите прямо в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

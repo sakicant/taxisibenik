@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-vodice-aeroport-zadar",
+  "title": "Taxi ACI Marina Vodice - Aeroportul Zadar | Preț fix €100 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta ACI Marina Vodice - Aeroportul Zadar. Preț fix €100 per vehicul, până la 4 persoane. Rezervați direct la Antonio.",
+  "keywords": "taxi aci marina vodice - aeroportul zadar, transfer aci marina vodice - aeroportul zadar, transfer aeroport aci marina vodice - aeroportul zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi ACI Marina Vodice - Aeroportul Zadar",
+      "description": "Taxi și transfer privat la preț fix, ruta ACI Marina Vodice - Aeroportul Zadar, 100 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Vodice",
+        "Aeroportul Zadar"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-aci-marina-vodice-aeroport-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta ACI Marina Vodice - Aeroportul Zadar, per vehicul pentru până la 4 pasageri. Dus-întors 200 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi pe ruta ACI Marina Vodice - Aeroportul Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 100 per vehicul, dus, pentru până la 4 pasageri. Prețul este per vehicul, nu de persoană, și include taxele de drum, carburantul și bagajele. O cursă dus-întors costă 200."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Când ar trebui să plec spre aeroport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De regulă cu aproximativ 3 ore înainte de un zbor internațional și cu 2 ore înainte de unul intern. Spuneți-mi ora zborului și vă confirm ora exactă a preluării."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mergeți până la terminalul de plecări?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Vă duc direct la terminalul de plecări și vă ajut cu bagajele. Fără mers pe jos din parcare și fără autobuz de legătură."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și preluarea, și mai devreme pentru zborurile de dimineață și pentru vârful de sezon. Pentru o cursă de ultim moment sunați-mă sau scrieți-mi pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-pirovac-brodarica",
+  "title": "Такси Pirovac - Brodarica | Фиксированная цена €55 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Pirovac - Brodarica. Фиксированная цена €55 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси pirovac - brodarica, трансфер pirovac - brodarica, трансфер из аэропорта pirovac - brodarica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Pirovac - Brodarica",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Pirovac - Brodarica, 55 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Pirovac",
+        "Brodarica"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-pirovac-brodarica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "55",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Pirovac - Brodarica, за автомобиль для до 4 пассажиров. Туда и обратно 110 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Pirovac - Brodarica составляет около 30 км и занимает примерно 35 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Pirovac - Brodarica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 55 за автомобиль для до 4 пассажиров, в одну сторону, багаж включён. Поездка туда и обратно стоит 110."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня забираете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По вашему точному адресу, будь то дом, отель или апартаменты. Пришлите адрес при бронировании, и я подтвержу место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

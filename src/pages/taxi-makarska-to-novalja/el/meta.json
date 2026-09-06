@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-makarska-novalja",
+  "title": "Ταξί Makarska - Novalja | Σταθερή τιμή €420 | TAXI Antonio",
+  "description": "Ιδιωτικό ταξί και μεταφορά, διαδρομή Makarska - Novalja. Σταθερή τιμή €420 ανά όχημα, έως 4 άτομα. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί makarska - novalja, μεταφορά makarska - novalja, μεταφορά από αεροδρόμιο makarska - novalja",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτική μεταφορά με ταξί",
+      "name": "Ταξί Makarska - Novalja",
+      "description": "Ιδιωτικό ταξί και μεταφορά σε σταθερή τιμή, διαδρομή Makarska - Novalja, 420 ευρώ ανά όχημα για έως 4 επιβάτες, από πόρτα σε πόρτα.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Makarska",
+        "Novalja"
+      ],
+      "url": "https://taxisibenik.hr/el/taxi-makarska-novalja/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Ιδιωτική διαδρομή απλής μετάβασης, διαδρομή Makarska - Novalja, ανά όχημα για έως 4 επιβάτες. Μετ' επιστροφής 840 ευρώ."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πόσο μακριά είναι η διαδρομή και πόσο διαρκεί το ταξίδι;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Η διαδρομή Makarska - Novalja έχει μήκος περίπου 262 χλμ. και διαρκεί περίπου 3 h 20 min με κανονική κίνηση, λίγο περισσότερο στην καρδιά του καλοκαιριού. Προγραμματίζω την παραλαβή έτσι ώστε ένα αργό κομμάτι του δρόμου να μη σας βιάσει ποτέ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει ένα ταξί στη διαδρομή Makarska - Novalja;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά 420 ανά όχημα για έως 4 επιβάτες, απλή διαδρομή, με τις αποσκευές. Η μετ' επιστροφής διαδρομή κοστίζει 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Από πού με παραλαμβάνετε;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Από την ακριβή σας διεύθυνση, είτε είναι σπίτι, ξενοδοχείο ή διαμέρισμα. Στείλτε τη διεύθυνση κατά την κράτηση και σας επιβεβαιώνω το σημείο συνάντησης."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τουλάχιστον 2 ώρες πριν, για να επιβεβαιώσω όχημα και ώρα παραλαβής. Για διαδρομή τελευταίας στιγμής τηλεφωνήστε μου ή γράψτε στο WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

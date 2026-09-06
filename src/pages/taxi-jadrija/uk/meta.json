@@ -1,0 +1,90 @@
+{
+  "slug": "taxi-jadrija",
+  "title": "Таксі Ядрія | TAXI Antonio",
+  "description": "Таксі Ядрія: короткі місцеві поїздки в Шибеник і до автобусного та залізничного вокзалу, а також фіксовані трансфери в аеропорти Спліт і Задар. Подача до дверей.",
+  "keywords": "таксі ядрія, ядрія таксі, таксі пляж ядрія, ядрія шибеник, трансфер ядрія аеропорт",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Місцеве таксі та трансфери в аеропорт",
+      "name": "Таксі Ядрія",
+      "description": "Приватне таксі за фіксованою ціною з пляжу Ядрія на півострові Шибеника до Шибеника, автобусного і залізничного вокзалу, аеропорту Спліт і аеропорту Задар.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Jadrija",
+      "url": "https://taxisibenik.hr/uk/taxi-jadrija/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ціни на таксі з Ядрії",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Таксі Ядрія - Шибеник",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Jadrija&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Ядрія - автобусний і залізничний вокзал Шибеника",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Jadrija&to=%C5%A0ibenik%20Bus%20Station&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Ядрія - аеропорт Спліт",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Jadrija&to=Split%20Airport%20%28SPU%29&price=115"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Ядрія - аеропорт Задар",
+            "price": "125",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Jadrija&to=Zadar%20Airport%20%28ZAD%29&price=125"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "У Ядрії це переважно короткі місцеві поїздки?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так, більшість поїздок, це короткі рейси в Шибеник чи до вокзалу, але я також виконую довші трансфери в аеропорти Спліт і Задар, коли вони вам потрібні."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете відвезти мене до автобусного чи залізничного вокзалу?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Автобусний і залізничний вокзали Шибеника стоять поруч, і трансфер з Ядрії коштує фіксовані €30 за автомобіль."
+          }
+        }
+      ]
+    }
+  ]
+}

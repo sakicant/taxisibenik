@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-grebastica-zadar",
+  "title": "Taksi Grebaštica - Zadar | Sabit fiyat €155 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Grebaštica - Zadar güzergâhı. Araç başına sabit €155, 4 yolcuya kadar, kapıdan kapıya. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi grebaštica - zadar, transfer grebaštica - zadar, havalimanı transferi grebaštica - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Grebaštica - Zadar",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Grebaštica - Zadar güzergâhı, 4 yolcuya kadar araç başına 155 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Grebaštica",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-grebastica-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "155",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Grebaštica - Zadar güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 310 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Güzergâh ne kadar uzun ve yolculuk ne kadar sürer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Grebaštica - Zadar güzergâhındaki yolculuk yaklaşık 106 km uzunluğunda ve normal trafikte yaklaşık 85 min sürüyor, yaz yoğunluğunda biraz daha uzun. Alışı, yavaş bir yol sizi asla acele ettirmeyecek şekilde planlıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Grebaštica - Zadar güzergâhında taksi ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 155, tek yön, otoyol ücretleri, yakıt ve bagaj dahil. Gidiş dönüş yolculuk 310."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Transfer özel mi yoksa paylaşımlı mı?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Her transfer özeldir ve kapıdan kapıyadır, bir Škoda Superb ile. Araç paylaşımı yok, siz istemedikçe ek durak yok."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Yol üstünde durabilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Daha uzun güzergâhlarda bir kahve, bir fotoğraf ya da kısa bir görülecek yer için memnuniyetle dururum. Rezervasyon sırasında söylemeniz yeterli."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

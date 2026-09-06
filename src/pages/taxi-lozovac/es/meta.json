@@ -38,28 +38,28 @@
             "name": "Taxi de Lozovac a Šibenik",
             "price": "45",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/es/book/?from=Lozovac&to=%C5%A0ibenik%20-%20center&price=45"
+            "url": "https://taxisibenik.hr/es/reservar/?from=Lozovac&to=%C5%A0ibenik%20-%20center&price=45"
           },
           {
             "@type": "Offer",
             "name": "Taxi de Lozovac a Vodice",
             "price": "60",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/es/book/?from=Lozovac&to=Vodice&price=60"
+            "url": "https://taxisibenik.hr/es/reservar/?from=Lozovac&to=Vodice&price=60"
           },
           {
             "@type": "Offer",
             "name": "Taxi de Lozovac al PN de Krka (entrada de Skradin)",
             "price": "25",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/es/book/?from=Lozovac&to=NP%20Krka%20-%20Skradin%20entrance&price=25"
+            "url": "https://taxisibenik.hr/es/reservar/?from=Lozovac&to=NP%20Krka%20-%20Skradin%20entrance&price=25"
           },
           {
             "@type": "Offer",
             "name": "Taxi de Lozovac al aeropuerto de Split",
             "price": "95",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/es/book/?from=Lozovac&to=Split%20Airport%20%28SPU%29&price=95"
+            "url": "https://taxisibenik.hr/es/reservar/?from=Lozovac&to=Split%20Airport%20%28SPU%29&price=95"
           }
         ]
       }

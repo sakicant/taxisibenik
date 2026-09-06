@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-primosten",
+  "title": "Dienas ekskursija uz Krku no Primoštenas | Privāts transfērs, fiksēti €155 | TAXI Antonio",
+  "description": "Privāts taksometra transfērs turp un atpakaļ uz Krku no Primoštenas. Fiksēti €155 par automašīnu, līdz 4 pasažieriem, no durvīm līdz durvīm no Primoštenas, Zečevo un Rogoznicas viesnīcām un dzīvokļiem. Nav ekskursija, tikai brauciens turp un atpakaļ.",
+  "keywords": "dienas ekskursija uz krku no primoštenas, krka no primoštenas, taksometrs uz krku no primoštenas, krkas transfērs primoštena, krka no rogoznicas, krka no zečevo, no primoštenas uz krkas nacionālo parku",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privāta dienas ekskursija uz Krku no Primoštenas",
+      "description": "Privāta dienas ekskursija uz Krkas nacionālo parku no Primoštenas ar vietējo šoferi, kurš runā angliski. Fiksēta cena 155 eiro par automašīnu līdz 4 pasažieriem, ar sagaidīšanu no durvīm līdz durvīm pie viesnīcām un dzīvokļiem Primoštenā, Zečevo apkārtnē un Rogoznicā.",
+      "touristType": "Daba un apskates vietas",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "155",
+        "priceCurrency": "EUR",
+        "description": "Privāta automašīna, brauciens turp un atpakaļ no Primoštenas uz Krkas nacionālo parku, līdz 4 pasažieriem. Parka ieejas biļetes nav iekļautas."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vai šī ir ekskursija ar gidu vai taksometra transfērs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tas ir taksometra transfērs, nevis ekskursija ar gidu. Antonio ir vietējais šoferis, kurš nodrošina privātu transfēru turp un atpakaļ no Primoštenas uz Krku. Jūs saņemat automašīnu un braucienu; parkā jūs varat brīvi visu izpētīt paši, savā tempā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs sagaidāt arī Zečevo apkārtnē un Rogoznicā, ne tikai Primoštenā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Sagaidīšana Zečevo apkārtnē un Rogoznicā ir par to pašu fiksēto cenu kā Primoštenā. Es jūs sagaidu no durvīm līdz durvīm pie jebkuras viesnīcas, dzīvokļa vai villas, tostarp pie Marina Frapa Rogoznicā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs uz Krku no Primoštenas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privāts transfērs turp un atpakaļ no Primoštenas uz Krkas ezeriem maksā fiksēti 155 eiro par automašīnu līdz 4 pasažieriem, ar degvielu un gaidīšanas laiku pie parka iekļautu cenā. Tā pati cena attiecas uz sagaidīšanu Zečevo apkārtnē un Rogoznicā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi mēs uzturamies Krkas nacionālajā parkā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lielākā daļa viesu izvēlas aptuveni 3 līdz 4 stundas brīva laika parkā, ar to pietiek, lai apskatītu galvenos ūdenskritumus un izstaigātu klasisko koka laipu loku. Īsāku vai garāku uzturēšanos var saskaņot, rezervējot braucienu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai Krkas ieejas biļetes ir iekļautas cenā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nē. Ieejas biļetes pērkat atsevišķi, tieši no Krkas nacionālā parka pie Skradinas vai Lozovacas ieejas vai internetā. Biļetes maksā aptuveni no 7 līdz 40 eiro atkarībā no sezonas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kā rezervēt un samaksāt par dienas ekskursiju no Primoštenas uz Krku?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervāciju apstiprina 20% avansa maksājums (vismaz 20 eiro) ar bankas pārskaitījumu vai karti, un jūs saņemat rēķinu kā apstiprinājumu. Atlikumu samaksājat šoferim brauciena dienā, skaidrā naudā vai ar karti."
+          }
+        }
+      ]
+    }
+  ]
+}

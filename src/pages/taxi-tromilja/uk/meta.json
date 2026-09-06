@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-tromilja",
+  "title": "Таксі Тромиля | TAXI Antonio",
+  "description": "Таксі Тромиля: фіксовані трансфери в аеропорти Спліт (€90) і Задар та поїздки в Шибеник із цього тихого села в глибині краю біля Біліце.",
+  "keywords": "таксі тромиля, тромиля таксі, тромиля трансфер аеропорт, тромиля аеропорт спліт, тромиля шибеник",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Місцеве таксі та трансфери в аеропорт",
+      "name": "Таксі Тромиля",
+      "description": "Приватне таксі за фіксованою ціною з Тромилі, тихого села в глибині краю біля Біліце, до аеропорту Спліт, аеропорту Задар і Шибеника.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Tromilja",
+      "url": "https://taxisibenik.hr/uk/taxi-tromilja/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ціни на таксі з Тромилі",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Таксі Тромиля - Шибеник",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Tromilja&to=%C5%A0ibenik%20-%20center&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Тромиля - аеропорт Спліт",
+            "price": "90",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Tromilja&to=Split%20Airport%20%28SPU%29&price=90"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Тромиля - аеропорт Задар",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Tromilja&to=Zadar%20Airport%20%28ZAD%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Чи можете ви відвезти мене з Тромилі до водоспадів Крки?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Тромиля близько до національного парку Крка, і я вожу цілоденні поїздки з часом очікування, поки ви гуляєте. Дивіться мою сторінку одноденних поїздок, а ціну я підтверджу."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує з Тромилі до аеропорту Спліт?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовані €90 за автомобіль для до 4 пасажирів, з дорожніми зборами, паливом і багажем у вартості."
+          }
+        }
+      ]
+    }
+  ]
+}

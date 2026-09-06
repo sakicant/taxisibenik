@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-grebastica-marina-betina",
+  "title": "Taxi Grebaštica - Marina Betina | Preț fix €105 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Grebaštica - Marina Betina. Preț fix €105 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi grebaštica - marina betina, transfer grebaštica - marina betina, transfer aeroport grebaštica - marina betina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Grebaštica - Marina Betina",
+      "description": "Taxi și transfer privat la preț fix, ruta Grebaštica - Marina Betina, 105 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Grebaštica",
+        "Marina Betina"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-grebastica-marina-betina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "105",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Grebaštica - Marina Betina, per vehicul pentru până la 4 pasageri. Dus-întors 210 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât costă un transfer pe ruta Grebaštica - Marina Betina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 105 per vehicul pentru până la 4 pasageri, dus, cu taxele de drum, carburantul și bagajele. O cursă dus-întors costă 210."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puteți să mă preluați chiar din marină?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Vă întâlnesc la intrarea în marină sau la recepție și vă ajut cu bagajele, ca să mergeți de pe ponton direct la vehicul."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puteți potrivi transferul cu ambarcațiunea mea?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Trimiteți-mi la rezervare ora charterului, a check-inului sau a plecării și planific preluarea în jurul ei."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți-mi direct pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

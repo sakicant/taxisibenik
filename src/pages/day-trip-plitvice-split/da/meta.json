@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-plitvice-lakes-national-park-split",
+  "title": "Dagstur til Plitvice fra Split | Privat transfer, fast €650 | TAXI Antonio",
+  "description": "Privat taxatransfer frem og tilbage til Plitvicesøerne fra Split. Fast €650 pr. bil, op til 4 passagerer, dør til dør fra hoteller i Split, krydstogthavnen og den gamle bydel. Ikke en tur med guide, bare turen derhen og hjem igen.",
+  "keywords": "dagstur til plitvice fra split, transfer frem og tilbage til plitvice, taxa til plitvice fra split, plitvicesøerne fra split, split til plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privat dagstur til Plitvicesøerne fra Split",
+      "description": "En privat dagstur til Plitvicesøernes Nationalpark fra Split med en lokal, engelsktalende chauffør. Fast pris på 650 euro pr. bil for op til 4 passagerer, med afhentning dør til dør ved hoteller i Split, krydstogthavnen, bus- og togstationen og den gamle bydel.",
+      "touristType": "Natur og seværdigheder",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "650",
+        "priceCurrency": "EUR",
+        "description": "Privat bil, frem og tilbage fra Split til Plitvicesøernes Nationalpark, op til 4 passagerer. Entrébilletter til parken er ikke inkluderet."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Er det en guidet tur eller en taxatransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Det er en taxatransfer, ikke en guidet tur. Antonio er lokal chauffør og kører en privat transfer frem og tilbage fra Split til Plitvice. Du får bilen og kørslen; inde i parken går du selv på opdagelse i dit eget tempo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster en taxa til Plitvice fra Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En privat transfer frem og tilbage fra Split til Plitvicesøerne koster fast 650 euro pr. bil for op til 4 passagerer, inklusive vejafgifter, brændstof og ventetiden ved parken."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang er dagsturen fra Split til Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kørslen tager omkring to en halv til tre timer hver vej, plus cirka 4 til 6 timer til at gå rundt om søerne. Det er en lang hel dag ude, som regel 11 til 12 timer fra dør til dør, så en tidlig start er nødvendig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Er entrébilletter til Plitvice inkluderet i prisen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nej. Entrébilletter købes separat hos Plitvicesøernes Nationalpark, ved indgangen eller online. Billetterne koster cirka 10 til 40 euro afhængigt af sæsonen og inkluderer panoramatoget og elbåden inde i parken."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvordan bestiller og betaler jeg dagsturen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En forudbetaling på 20% (mindst 20 euro) bekræfter bestillingen, via bankoverførsel eller kort, og du får en faktura som bekræftelse. Restbeløbet betaler du til chaufføren på dagen, kontant eller med kort."
+          }
+        }
+      ]
+    }
+  ]
+}

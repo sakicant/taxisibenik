@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zablace-betina",
+  "title": "Taksometrs Zablaće - Betina | Fiksēta cena €80 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Zablaće - Betina. Fiksēta cena €80 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs zablaće - betina, transfērs zablaće - betina, lidostas transfērs zablaće - betina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Zablaće - Betina",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Zablaće - Betina, 80 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zablaće",
+        "Betina"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-zablace-betina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Zablaće - Betina, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 160 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik garš ir maršruts un cik ilgi jābrauc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens maršrutā Zablaće - Betina ir aptuveni 39 km garš un ilgst apmēram 55 min normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā Zablaće - Betina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 80 par automašīnu līdz 4 pasažieriem vienā virzienā, bagāža iekļauta. Brauciens turp un atpakaļ maksā 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kur jūs mani paņemsiet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jūsu precīzajā adresē, vai tā būtu māja, viesnīca vai dzīvoklis. Rezervējot atsūtiet adresi, un es apstiprināšu tikšanās vietu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-ciovo-zaton",
+  "title": "Taksometrs Čiovo - Zaton | Fiksēta cena €130 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Čiovo - Zaton. Fiksēta cena €130 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs čiovo - zaton, transfērs čiovo - zaton, lidostas transfērs čiovo - zaton",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Čiovo - Zaton",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Čiovo - Zaton, 130 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Zaton"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-ciovo-zaton/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Čiovo - Zaton, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 260 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā Čiovo - Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 130 par automašīnu līdz 4 pasažieriem vienā virzienā, bagāža iekļauta. Brauciens turp un atpakaļ maksā 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kur jūs mani paņemsiet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jūsu precīzajā adresē, vai tā būtu māja, viesnīca vai dzīvoklis. Rezervējot atsūtiet adresi, un es apstiprināšu tikšanās vietu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

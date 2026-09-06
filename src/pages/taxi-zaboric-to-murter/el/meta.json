@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zaboric-murter",
+  "title": "Ταξί Žaborić - Murter | Σταθερή τιμή €95 | TAXI Antonio",
+  "description": "Ιδιωτικό ταξί και μεταφορά, διαδρομή Žaborić - Murter. Σταθερή τιμή €95 ανά όχημα, έως 4 άτομα. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί žaborić - murter, μεταφορά žaborić - murter, μεταφορά από αεροδρόμιο žaborić - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτική μεταφορά με ταξί",
+      "name": "Ταξί Žaborić - Murter",
+      "description": "Ιδιωτικό ταξί και μεταφορά σε σταθερή τιμή, διαδρομή Žaborić - Murter, 95 ευρώ ανά όχημα για έως 4 επιβάτες, από πόρτα σε πόρτα.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Žaborić",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/el/taxi-zaboric-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "95",
+        "priceCurrency": "EUR",
+        "description": "Ιδιωτική διαδρομή απλής μετάβασης, διαδρομή Žaborić - Murter, ανά όχημα για έως 4 επιβάτες. Μετ' επιστροφής 190 ευρώ."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πόσο μακριά είναι η διαδρομή και πόσο διαρκεί το ταξίδι;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Η διαδρομή Žaborić - Murter έχει μήκος περίπου 43 χλμ. και διαρκεί περίπου 55 min με κανονική κίνηση, λίγο περισσότερο στην καρδιά του καλοκαιριού. Προγραμματίζω την παραλαβή έτσι ώστε ένα αργό κομμάτι του δρόμου να μη σας βιάσει ποτέ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει ένα ταξί στη διαδρομή Žaborić - Murter;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά 95 ανά όχημα για έως 4 επιβάτες, απλή διαδρομή, με τις αποσκευές. Η μετ' επιστροφής διαδρομή κοστίζει 190."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Από πού με παραλαμβάνετε;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Από την ακριβή σας διεύθυνση, είτε είναι σπίτι, ξενοδοχείο ή διαμέρισμα. Στείλτε τη διεύθυνση κατά την κράτηση και σας επιβεβαιώνω το σημείο συνάντησης."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τουλάχιστον 2 ώρες πριν, για να επιβεβαιώσω όχημα και ώρα παραλαβής. Για διαδρομή τελευταίας στιγμής τηλεφωνήστε μου ή γράψτε στο WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

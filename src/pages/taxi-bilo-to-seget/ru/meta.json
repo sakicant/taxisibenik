@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-bilo-seget",
+  "title": "Такси Bilo - Seget | Фиксированная цена €80 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Bilo - Seget. Фиксированная цена €80 за автомобиль, до 4 пассажиров, от двери до двери. Бронируйте напрямую у Антонио.",
+  "keywords": "такси bilo - seget, трансфер bilo - seget, трансфер из аэропорта bilo - seget",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Bilo - Seget",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Bilo - Seget, 80 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Bilo",
+        "Seget"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-bilo-seget/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Bilo - Seget, за автомобиль для до 4 пассажиров. Туда и обратно 160 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Bilo - Seget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 80 за автомобиль для до 4 пассажиров, в одну сторону, багаж включён. Поездка туда и обратно стоит 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня забираете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По вашему точному адресу, будь то дом, отель или апартаменты. Пришлите адрес при бронировании, и я подтвержу место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

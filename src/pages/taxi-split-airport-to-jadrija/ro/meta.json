@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-aeroport-split-jadrija",
+  "title": "Taxi Aeroportul Split - Jadrija | Preț fix €115 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Aeroportul Split - Jadrija. Preț fix €115 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi aeroportul split - jadrija, transfer aeroportul split - jadrija, transfer aeroport aeroportul split - jadrija",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Aeroportul Split - Jadrija",
+      "description": "Taxi și transfer privat la preț fix, ruta Aeroportul Split - Jadrija, 115 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Aeroportul Split",
+        "Jadrija"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-aeroport-split-jadrija/",
+      "offers": {
+        "@type": "Offer",
+        "price": "115",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Aeroportul Split - Jadrija, per vehicul pentru până la 4 pasageri. Dus-întors 230 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât de lungă este ruta și cât durează cursa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cursa pe ruta Aeroportul Split - Jadrija are aproximativ 67 km și durează în jur de 75 min în trafic normal, puțin mai mult în vârf de sezon. Planific preluarea astfel încât un tronson lent să nu vă grăbească niciodată."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Unde mă întâmpinați?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "În zona de sosiri, imediat după ridicarea bagajelor, cu o plăcuță cu numele dumneavoastră. Vă ajut cu bagajele și vă conduc la vehicul."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ce se întâmplă dacă zborul meu întârzie?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicio problemă. Vă urmăresc zborul în timp real și adaptez preluarea la aterizarea reală, fără cost suplimentar pentru așteptare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă transferul pe ruta Aeroportul Split - Jadrija?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 115 per vehicul pentru până la 4 pasageri, dus, cu taxele de drum și bagajele incluse. O cursă dus-întors costă 230."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să pot planifica în jurul zborului dumneavoastră. Pentru o preluare în aceeași zi, după o schimbare de ultim moment, sunați-mă sau scrieți pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-novalja-dubrovnik",
+  "title": "Taksometrs Novalja - Dubrovnik | Fiksēta cena €680 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Novalja - Dubrovnik. Fiksēta cena €680 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs novalja - dubrovnik, transfērs novalja - dubrovnik, lidostas transfērs novalja - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Novalja - Dubrovnik",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Novalja - Dubrovnik, 680 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Novalja",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-novalja-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "680",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Novalja - Dubrovnik, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 1360 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik garš ir maršruts un cik ilgi jābrauc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens maršrutā Novalja - Dubrovnik ir aptuveni 412 km garš un ilgst apmēram 5 h 30 min normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā Novalja - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 680 par automašīnu līdz 4 pasažieriem vienā virzienā, ar ceļa nodevām, degvielu un bagāžu. Brauciens turp un atpakaļ maksā 1360."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai transfērs ir privāts vai kopīgs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Katrs transfērs ir privāts un no durvīm līdz durvīm, ar Škoda Superb. Automašīna netiek dalīta un papildu pieturu nav, ja vien jūs tās nelūdzat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat apstāties ceļā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Garākos maršrutos labprāt apstājos uz kafiju, fotogrāfiju vai īsu apskates objektu. Vienkārši pasakiet, rezervējot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

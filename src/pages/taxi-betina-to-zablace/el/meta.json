@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-betina-zablace",
+  "title": "Ταξί Betina - Zablaće | Σταθερή τιμή €80 | TAXI Antonio",
+  "description": "Ιδιωτικό ταξί και μεταφορά, διαδρομή Betina - Zablaće. Σταθερή τιμή €80 ανά όχημα, έως 4 άτομα. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί betina - zablaće, μεταφορά betina - zablaće, μεταφορά από αεροδρόμιο betina - zablaće",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτική μεταφορά με ταξί",
+      "name": "Ταξί Betina - Zablaće",
+      "description": "Ιδιωτικό ταξί και μεταφορά σε σταθερή τιμή, διαδρομή Betina - Zablaće, 80 ευρώ ανά όχημα για έως 4 επιβάτες, από πόρτα σε πόρτα.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Betina",
+        "Zablaće"
+      ],
+      "url": "https://taxisibenik.hr/el/taxi-betina-zablace/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Ιδιωτική διαδρομή απλής μετάβασης, διαδρομή Betina - Zablaće, ανά όχημα για έως 4 επιβάτες. Μετ' επιστροφής 160 ευρώ."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πόσο μακριά είναι η διαδρομή και πόσο διαρκεί το ταξίδι;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Η διαδρομή Betina - Zablaće έχει μήκος περίπου 39 χλμ. και διαρκεί περίπου 55 min με κανονική κίνηση, λίγο περισσότερο στην καρδιά του καλοκαιριού. Προγραμματίζω την παραλαβή έτσι ώστε ένα αργό κομμάτι του δρόμου να μη σας βιάσει ποτέ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει ένα ταξί στη διαδρομή Betina - Zablaće;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά 80 ανά όχημα για έως 4 επιβάτες, απλή διαδρομή, με τις αποσκευές. Η μετ' επιστροφής διαδρομή κοστίζει 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Από πού με παραλαμβάνετε;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Από την ακριβή σας διεύθυνση, είτε είναι σπίτι, ξενοδοχείο ή διαμέρισμα. Στείλτε τη διεύθυνση κατά την κράτηση και σας επιβεβαιώνω το σημείο συνάντησης."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τουλάχιστον 2 ώρες πριν, για να επιβεβαιώσω όχημα και ώρα παραλαβής. Για διαδρομή τελευταίας στιγμής τηλεφωνήστε μου ή γράψτε στο WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

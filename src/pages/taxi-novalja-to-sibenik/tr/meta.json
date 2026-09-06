@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-novalja-sibenik",
+  "title": "Taksi Novalja - Šibenik | Sabit fiyat €190 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Novalja - Šibenik güzergâhı. Araç başına sabit €190, 4 yolcuya kadar, kapıdan kapıya. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi novalja - šibenik, transfer novalja - šibenik, havalimanı transferi novalja - šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Novalja - Šibenik",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Novalja - Šibenik güzergâhı, 4 yolcuya kadar araç başına 190 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Novalja",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-novalja-sibenik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "190",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Novalja - Šibenik güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 380 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Güzergâh ne kadar uzun ve yolculuk ne kadar sürer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Novalja - Šibenik güzergâhındaki yolculuk yaklaşık 147 km uzunluğunda ve normal trafikte yaklaşık 2 h 5 min sürüyor, yaz yoğunluğunda biraz daha uzun. Alışı, yavaş bir yol sizi asla acele ettirmeyecek şekilde planlıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Novalja - Šibenik güzergâhında taksi ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 190, tek yön, bagaj dahil. Gidiş dönüş yolculuk 380."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni nereden alıyorsunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ev, otel ya da apart olsun, tam adresinizden. Rezervasyon sırasında adresi gönderin, buluşma noktasını onaylayayım."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

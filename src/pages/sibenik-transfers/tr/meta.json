@@ -1,0 +1,87 @@
+{
+  "slug": "sibenik-transfers",
+  "title": "Šibenik Transferleri | Sabit Fiyatlar | TAXI Antonio",
+  "description": "Šibenik'ten Split, Zadar, Dubrovnik, Zagreb, Trogir ve ötesine gidiş dönüş transferler. Sabit fiyatlar, özel kapıdan kapıya hizmet, tek yerel şoför. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "šibenik transferleri, šibenik transfer, taksi šibenik split, šibenik zadar, šibenik dubrovnik, šibenik zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Şehirler arası taksi transferi",
+      "name": "Šibenik Transferleri",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/tr/sibenik-transfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Šibenik'ten Split'e taksi transferi ne kadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Šibenik'ten Split'e özel transfer, 4 yolcuya kadar araç başına sabit 140 avrodur; otoyol ücretleri, yakıt ve bagaj dahildir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Transfer fiyatları sabit mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Her şehirler arası transfer, 4 yolcuya kadar araç başına, önceden anlaşılan sabit bir fiyattır. Taksimetre yok, sürpriz yok."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Transfer özel mi, paylaşımlı mı?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Her transfer özeldir ve kapıdan kapıyadır, bir Škoda Superb ile yapılır. Araç paylaşımı yoktur ve siz istemedikçe ek durak da olmaz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Yol boyunca durabilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Uzun transferlerde bir kahve, bir fotoğraf ya da kısa bir gezinti için seve seve dururum. Rezervasyon sırasında söylemeniz yeterli, planıma dahil ederim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Transfer için nasıl ödeme yaparım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yüzde 20 ön ödeme (en az 20 avro) rezervasyonu onaylar, havale ya da kartla. Kalan tutar yolculuk günü şoföre nakit ya da kartla ödenir."
+          }
+        }
+      ]
+    }
+  ]
+}

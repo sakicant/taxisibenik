@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aerodromio-dubrovnik-marina-baotic",
+  "title": "Ταξί Αεροδρόμιο Ντουμπρόβνικ - Marina Baotić | Σταθερή τιμή €420 | TAXI Antonio",
+  "description": "Ιδιωτικό ταξί και μεταφορά, διαδρομή Αεροδρόμιο Ντουμπρόβνικ - Marina Baotić. Σταθερή τιμή €420 ανά όχημα, έως 4 άτομα. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί αεροδρόμιο ντουμπρόβνικ - marina baotić, μεταφορά αεροδρόμιο ντουμπρόβνικ - marina baotić, μεταφορά από αεροδρόμιο αεροδρόμιο ντουμπρόβνικ - marina baotić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτική μεταφορά με ταξί",
+      "name": "Ταξί Αεροδρόμιο Ντουμπρόβνικ - Marina Baotić",
+      "description": "Ιδιωτικό ταξί και μεταφορά σε σταθερή τιμή, διαδρομή Αεροδρόμιο Ντουμπρόβνικ - Marina Baotić, 420 ευρώ ανά όχημα για έως 4 επιβάτες, από πόρτα σε πόρτα.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Αεροδρόμιο Ντουμπρόβνικ",
+        "Marina Baotić"
+      ],
+      "url": "https://taxisibenik.hr/el/taxi-aerodromio-dubrovnik-marina-baotic/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Ιδιωτική διαδρομή απλής μετάβασης, διαδρομή Αεροδρόμιο Ντουμπρόβνικ - Marina Baotić, ανά όχημα για έως 4 επιβάτες. Μετ' επιστροφής 840 ευρώ."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πού με υποδέχεστε;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Στην αίθουσα αφίξεων, αμέσως μετά την παραλαβή αποσκευών, με πινακίδα με το όνομά σας. Βοηθώ με τις αποσκευές και σας συνοδεύω στο όχημα."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Τι γίνεται αν η πτήση μου καθυστερήσει;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Κανένα πρόβλημα. Παρακολουθώ την πτήση σας σε πραγματικό χρόνο και προσαρμόζω την παραλαβή στην πραγματική προσγείωση, χωρίς επιπλέον χρέωση για την αναμονή."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει η μεταφορά στη διαδρομή Αεροδρόμιο Ντουμπρόβνικ - Marina Baotić;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά 420 ανά όχημα για έως 4 επιβάτες, απλή διαδρομή, με διόδια και αποσκευές. Η μετ' επιστροφής διαδρομή κοστίζει 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τουλάχιστον 2 ώρες πριν, για να οργανωθώ γύρω από την πτήση σας. Για παραλαβή αυθημερόν μετά από αλλαγή τελευταίας στιγμής τηλεφωνήστε μου ή γράψτε στο WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-primosten-vodice",
+  "title": "Ταξί Primošten - Vodice | Σταθερή τιμή €70 | TAXI Antonio",
+  "description": "Ιδιωτικό ταξί και μεταφορά, διαδρομή Primošten - Vodice. Σταθερή τιμή €70 ανά όχημα, έως 4 άτομα. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί primošten - vodice, μεταφορά primošten - vodice, μεταφορά από αεροδρόμιο primošten - vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτική μεταφορά με ταξί",
+      "name": "Ταξί Primošten - Vodice",
+      "description": "Ιδιωτικό ταξί και μεταφορά σε σταθερή τιμή, διαδρομή Primošten - Vodice, 70 ευρώ ανά όχημα για έως 4 επιβάτες, από πόρτα σε πόρτα.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Primošten",
+        "Vodice"
+      ],
+      "url": "https://taxisibenik.hr/el/taxi-primosten-vodice/",
+      "offers": {
+        "@type": "Offer",
+        "price": "70",
+        "priceCurrency": "EUR",
+        "description": "Ιδιωτική διαδρομή απλής μετάβασης, διαδρομή Primošten - Vodice, ανά όχημα για έως 4 επιβάτες. Μετ' επιστροφής 140 ευρώ."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πόσο μακριά είναι η διαδρομή και πόσο διαρκεί το ταξίδι;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Η διαδρομή Primošten - Vodice έχει μήκος περίπου 40 χλμ. και διαρκεί περίπου 50 min με κανονική κίνηση, λίγο περισσότερο στην καρδιά του καλοκαιριού. Προγραμματίζω την παραλαβή έτσι ώστε ένα αργό κομμάτι του δρόμου να μη σας βιάσει ποτέ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει ένα ταξί στη διαδρομή Primošten - Vodice;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά 70 ανά όχημα για έως 4 επιβάτες, απλή διαδρομή, με τις αποσκευές. Η μετ' επιστροφής διαδρομή κοστίζει 140."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Από πού με παραλαμβάνετε;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Από την ακριβή σας διεύθυνση, είτε είναι σπίτι, ξενοδοχείο ή διαμέρισμα. Στείλτε τη διεύθυνση κατά την κράτηση και σας επιβεβαιώνω το σημείο συνάντησης."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τουλάχιστον 2 ώρες πριν, για να επιβεβαιώσω όχημα και ώρα παραλαβής. Για διαδρομή τελευταίας στιγμής τηλεφωνήστε μου ή γράψτε στο WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

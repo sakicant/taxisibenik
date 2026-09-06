@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-pirovac-split",
+  "title": "Taksometrs Pirovac - Split | Fiksēta cena €170 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Pirovac - Split. Fiksēta cena €170 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs pirovac - split, transfērs pirovac - split, lidostas transfērs pirovac - split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Pirovac - Split",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Pirovac - Split, 170 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Pirovac",
+        "Split"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-pirovac-split/",
+      "offers": {
+        "@type": "Offer",
+        "price": "170",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Pirovac - Split, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 340 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik garš ir maršruts un cik ilgi jābrauc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens maršrutā Pirovac - Split ir aptuveni 114 km garš un ilgst apmēram 1 h 30 min normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā Pirovac - Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 170 par automašīnu līdz 4 pasažieriem vienā virzienā, ar ceļa nodevām, degvielu un bagāžu. Brauciens turp un atpakaļ maksā 340."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai transfērs ir privāts vai kopīgs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Katrs transfērs ir privāts un no durvīm līdz durvīm, ar Škoda Superb. Automašīna netiek dalīta un papildu pieturu nav, ja vien jūs tās nelūdzat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat apstāties ceļā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Garākos maršrutos labprāt apstājos uz kafiju, fotogrāfiju vai īsu apskates objektu. Vienkārši pasakiet, rezervējot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

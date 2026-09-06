@@ -1,0 +1,161 @@
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Κράτηση</span>
+      <h1>Κλείστε τη μεταφορά σας</h1>
+      <p class="page-hero-sub">Συμπληρώστε παρακάτω τα στοιχεία του ταξιδιού σας και θα επιβεβαιώσω τη διαδρομή σας απευθείας, συνήθως μέσα σε λίγες ώρες.</p>
+    </div>
+  </section>
+
+  <section class="page-content">
+    <div class="container booking-page">
+      <form class="booking-form" id="booking-page-form" action="/booking-submit.php" method="POST" data-req-label="υποχρεωτικό" data-opt-label="προαιρετικό">
+
+        <h3>1. Το ταξίδι σας</h3>
+        <p class="booking-section-hint">Αυτά τα στοιχεία μεταφέρονται από την προσφορά που επιλέξατε. Αλλάξτε ό,τι δεν είναι σωστό.</p>
+
+        <label for="book-from">Σημείο παραλαβής (από)</label>
+        <input type="text" id="book-from" name="from" required placeholder="Šibenik - κέντρο, το ξενοδοχείο ή η διεύθυνσή σας">
+
+        <label for="book-to">Σημείο άφιξης (προς)</label>
+        <input type="text" id="book-to" name="to" required placeholder="Αεροδρόμιο Split (SPU), μια πόλη ή μια διεύθυνση">
+
+        <div class="quote-field">
+          <label for="book-trip">Διαδρομή</label>
+          <select id="book-trip" name="trip">
+            <option value="oneway">Απλή μετάβαση</option>
+            <option value="return">Μετ' επιστροφής</option>
+          </select>
+        </div>
+        <div class="quote-field-row">
+          <div class="quote-field">
+            <label for="book-pax">Επιβάτες</label>
+            <input type="number" id="book-pax" name="passengers" min="1" max="12" value="1" required>
+          </div>
+          <div class="quote-field">
+            <label for="book-lug">Αποσκευές</label>
+            <input type="number" id="book-lug" name="luggage" min="0" max="12" value="1" required>
+          </div>
+        </div>
+
+        <p class="booking-price-line" id="booking-price-line" hidden>Σταθερή τιμή: <strong id="sum-price">&mdash;</strong> <span class="booking-price-sub">ανά όχημα, έως 4 επιβάτες</span></p>
+
+        <div class="quote-field-row">
+          <div class="quote-field">
+            <label for="book-date">Ημερομηνία παραλαβής</label>
+            <input type="date" id="book-date" name="book-date" required>
+          </div>
+          <div class="quote-field">
+            <label for="book-time">Ώρα παραλαβής</label>
+            <select id="book-time" name="book-time" required><option value="">--:--</option></select>
+          </div>
+        </div>
+        <p class="form-hint form-hint-center">Κάντε κράτηση τουλάχιστον 2 ώρες πριν, ώστε να επιβεβαιώσω τη διαθεσιμότητα. Αν χρειάζεστε διαδρομή νωρίτερα, <a href="tel:+385994471013">τηλεφωνήστε μου</a> ή <a href="https://wa.me/385994471013?text=Hello%20Antonio%2C%20I%20found%20you%20through%20your%20website%20taxisibenik.hr%20and%20I%20have%20an%20inquiry%3A%20" target="_blank" rel="noopener">γράψτε μου στο WhatsApp</a>.</p>
+
+        <div class="quote-field-row" id="book-return-fields" hidden>
+          <div class="quote-field">
+            <label for="book-return-date">Ημερομηνία επιστροφής</label>
+            <input type="date" id="book-return-date" name="book-return-date">
+          </div>
+          <div class="quote-field">
+            <label for="book-return-time">Ώρα επιστροφής</label>
+            <select id="book-return-time" name="book-return-time"><option value="">--:--</option></select>
+          </div>
+        </div>
+
+        <h3>2. Τα στοιχεία σας</h3>
+
+        <label for="book-name">Όνομα επικεφαλής επιβάτη</label>
+        <input type="text" id="book-name" name="name" required>
+
+        <div class="form-choice" role="group" aria-labelledby="contact-method-legend">
+          <span class="form-choice-legend" id="contact-method-legend">Πώς να επικοινωνήσω μαζί σας για την επιβεβαίωση;</span>
+          <div class="form-choice-options">
+            <label class="form-choice-option">
+              <input type="radio" name="contact_method" value="email" required>
+              <span>Email</span>
+            </label>
+            <label class="form-choice-option">
+              <input type="radio" name="contact_method" value="whatsapp" required>
+              <span>WhatsApp</span>
+            </label>
+          </div>
+        </div>
+
+        <label for="book-email">Email <span class="field-flag" id="email-flag"></span></label>
+        <input type="email" id="book-email" name="email">
+
+        <label for="book-phone-cc">Τηλέφωνο / WhatsApp <span class="field-flag" id="phone-flag"></span></label>
+        <div class="phone-row">
+          <select id="book-phone-cc" name="phone_cc"><option value="">Χώρα</option></select>
+          <input type="tel" id="book-phone" name="phone" placeholder="Ο υπόλοιπος αριθμός σας, χωρίς το αρχικό 0" inputmode="tel">
+        </div>
+        <p class="form-subhint">Επιλέξτε πρώτα τη χώρα σας και μετά γράψτε τον υπόλοιπο αριθμό σας.</p>
+
+        <h3>3. Πληρωμή</h3>
+
+        <div class="form-choice" role="group" aria-labelledby="payment-legend">
+          <span class="form-choice-legend" id="payment-legend">Επιβεβαιώστε πώς κατοχυρώνεται η κράτηση</span>
+          <div class="form-choice-options">
+            <label class="form-choice-option">
+              <input type="radio" name="payment_option" value="deposit" required>
+              <span>Προκαταβολή για επιβεβαίωση<span class="opt-sub">20% τώρα (τουλάχιστον &euro;20), το υπόλοιπο την ημέρα της διαδρομής.</span></span>
+            </label>
+          </div>
+        </div>
+
+        <label class="form-consent">
+          <input type="checkbox" id="book-invoice" name="invoice_required" value="1">
+          <span>Χρειάζομαι τιμολόγιο για την εταιρεία μου.</span>
+        </label>
+
+        <div id="book-invoice-fields" class="invoice-fields" hidden>
+          <label for="book-co-name">Πλήρης επωνυμία εταιρείας</label>
+          <input type="text" id="book-co-name" name="company_name" autocomplete="organization">
+
+          <label for="book-co-vat">ΑΦΜ</label>
+          <input type="text" id="book-co-vat" name="company_vat">
+
+          <label for="book-co-address">Διεύθυνση</label>
+          <input type="text" id="book-co-address" name="company_address" autocomplete="street-address">
+
+          <div class="quote-field-row">
+            <div class="quote-field">
+              <label for="book-co-zip">Τ.Κ.</label>
+              <input type="text" id="book-co-zip" name="company_zip" autocomplete="postal-code">
+            </div>
+            <div class="quote-field">
+              <label for="book-co-city">Πόλη</label>
+              <input type="text" id="book-co-city" name="company_city" autocomplete="address-level2">
+            </div>
+          </div>
+        </div>
+
+        <h3>4. Στοιχεία μεταφοράς</h3>
+
+        <label for="book-flight">Στοιχεία παραλαβής (αριθμός πτήσης άφιξης ή διεύθυνση)</label>
+        <input type="text" id="book-flight" name="book-flight" required placeholder="Αριθμός πτήσης αν φτάνετε αεροπορικώς, ή η διεύθυνση παραλαβής σας">
+
+        <label for="book-dropoff-details">Στοιχεία προορισμού (διεύθυνση ή αριθμός πτήσης)</label>
+        <input type="text" id="book-dropoff-details" name="book-dropoff-details" placeholder="Διεύθυνση άφιξης, ή ο αριθμός πτήσης σας αν έχετε πτήση να προλάβετε">
+
+        <label for="book-notes">Κάτι άλλο; (προαιρετικό)</label>
+        <textarea id="book-notes" name="book-notes" rows="4" placeholder="Παιδικό κάθισμα, επιπλέον στάσεις, υπερμεγέθεις αποσκευές, οδηγίες παραλαβής..."></textarea>
+
+        <input type="text" id="book-company" name="company" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+        <label class="form-consent">
+          <input type="checkbox" id="book-consent" name="consent" value="1" required>
+          <span>Κατανοώ ότι αυτή τη στιγμή στέλνω μόνο αίτημα κράτησης και ότι θα επικοινωνήσετε μαζί μου με τον τρόπο επικοινωνίας που προτιμώ για να επιβεβαιωθεί η κράτηση (με την πληρωμή της απαιτούμενης προκαταβολής). Αποδέχομαι επίσης τους <a href="/el/terms-and-conditions/">Όρους και προϋποθέσεις</a> και την <a href="/el/privacy-policy/">Πολιτική απορρήτου</a>.</span>
+        </label>
+        <button type="submit" class="btn btn-primary">Αποστολή αιτήματος κράτησης</button>
+        <p class="form-note" id="booking-page-note"></p>
+      </form>
+    </div>
+  </section>
+  <script>
+  (function(){
+    var o='';
+    for(var h=0;h<24;h++){for(var m=0;m<60;m+=5){var t=(h<10?'0':'')+h+':'+(m<10?'0':'')+m;o+='<option value="'+t+'">'+t+'</option>';}}
+    ['book-time','book-return-time'].forEach(function(id){var s=document.getElementById(id);if(s)s.insertAdjacentHTML('beforeend',o);});
+  })();
+  </script>

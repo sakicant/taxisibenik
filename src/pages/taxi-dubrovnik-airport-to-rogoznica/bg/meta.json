@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-letishte-dubrovnik-rogoznica",
+  "title": "Такси Летище Дубровник - Rogoznica | Фиксирана цена €420 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Летище Дубровник - Rogoznica. Фиксирана цена €420 на автомобил, до 4. Резервирайте директно при Антонио.",
+  "keywords": "такси летище дубровник - rogoznica, трансфер летище дубровник - rogoznica, летищен трансфер летище дубровник - rogoznica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Летище Дубровник - Rogoznica",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Летище Дубровник - Rogoznica, 420 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Летище Дубровник",
+        "Rogoznica"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-letishte-dubrovnik-rogoznica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Летище Дубровник - Rogoznica, на автомобил за до 4 пътници. Отиване и връщане 840 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко дълъг е маршрутът и колко трае пътуването?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Пътуването по маршрута Летище Дубровник - Rogoznica е дълго около 295 км и трае приблизително 4 h 35 min при нормален трафик, малко повече в разгара на лятото. Планирам вземането така, че бавен участък никога да не ви притиска."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Къде ме посрещате?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "В залата за пристигащи, веднага след получаването на багажа, с табела с вашето име. Помагам с багажа и ви водя до автомобила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Какво става, ако полетът ми закъснее?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Няма проблем. Следя полета ви в реално време и съобразявам вземането с действителното кацане, без доплащане за изчакване."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва трансферът по маршрута Летище Дубровник - Rogoznica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 420 на автомобил за до 4 пътници, еднопосочно, пътни такси и багаж включени. Пътуване с отиване и връщане струва 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да планирам около вашия полет. За вземане в същия ден след внезапна промяна се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

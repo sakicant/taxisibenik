@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-bilice-grebastica",
+  "title": "Taksometrs Bilice - Grebaštica | Fiksēta cena €55 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Bilice - Grebaštica. Fiksēta cena €55 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs bilice - grebaštica, transfērs bilice - grebaštica, lidostas transfērs bilice - grebaštica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Bilice - Grebaštica",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Bilice - Grebaštica, 55 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Bilice",
+        "Grebaštica"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-bilice-grebastica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "55",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Bilice - Grebaštica, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 110 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik garš ir maršruts un cik ilgi jābrauc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens maršrutā Bilice - Grebaštica ir aptuveni 22 km garš un ilgst apmēram 30 min normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā Bilice - Grebaštica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 55 par automašīnu līdz 4 pasažieriem vienā virzienā, bagāža iekļauta. Brauciens turp un atpakaļ maksā 110."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kur jūs mani paņemsiet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jūsu precīzajā adresē, vai tā būtu māja, viesnīca vai dzīvoklis. Rezervējot atsūtiet adresi, un es apstiprināšu tikšanās vietu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-baotic-zadaras-lidosta",
+  "title": "Taksometrs Marina Baotić - Zadaras lidosta | Fiksēta cena €200 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Marina Baotić - Zadaras lidosta. Fiksēta cena €200 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs marina baotić - zadaras lidosta, transfērs marina baotić - zadaras lidosta, lidostas transfērs marina baotić - zadaras lidosta",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Marina Baotić - Zadaras lidosta",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Marina Baotić - Zadaras lidosta, 200 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Baotić",
+        "Zadaras lidosta"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-marina-baotic-zadaras-lidosta/",
+      "offers": {
+        "@type": "Offer",
+        "price": "200",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Marina Baotić - Zadaras lidosta, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 400 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā Marina Baotić - Zadaras lidosta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 200 par automašīnu vienā virzienā, līdz 4 pasažieriem. Cena ir par automašīnu, nevis par personu, un ietver ceļa nodevas, degvielu un bagāžu. Brauciens turp un atpakaļ maksā 400."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cikos man jādodas uz lidostu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Parasti aptuveni 3 stundas pirms starptautiska lidojuma un 2 stundas pirms iekšzemes lidojuma. Pasakiet man lidojuma laiku, un es apstiprināšu precīzu izbraukšanas laiku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs aizvedat līdz pašam izlidošanas terminālim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Aizvedu jūs tieši līdz izlidošanas terminālim un palīdzu ar bagāžu. Nav jāiet kājām no stāvvietas un nav jāgaida autobuss."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un izbraukšanu, un agrāk agriem rīta lidojumiem un sezonas laikā. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet man WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

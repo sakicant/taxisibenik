@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-srima",
+  "title": "Taksometrs Srima | TAXI Antonio",
+  "description": "Taksometrs Srima: lidostas transfēri par fiksētu cenu uz Splitu un Zadaru (€110), braucieni uz Šibeniku un aizvešana līdz Vodices prāmim uz Prvić. Sagaidīšana pie durvīm.",
+  "keywords": "taksometrs srima, srima taksometrs, srima vodice taksometrs, srima lidostas transfērs, srima splitas lidosta, srima zadaras lidosta",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Vietējais taksometrs un lidostas transfēri",
+      "name": "Taksometrs Srima",
+      "description": "Privāts taksometrs par fiksētu cenu no Srimas, blakus Vodicēm, uz Splitas lidostu, Zadaras lidostu un Šibeniku, ar izlaišanu pie Vodices salu prāmja.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Srima",
+      "url": "https://taxisibenik.hr/lv/taxi-srima/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksometra cenas no Srimas",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Srima uz Šibeniku",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Srima&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Srima uz Zadaras lidostu",
+            "price": "110",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Srima&to=Zadar%20Airport%20%28ZAD%29&price=110"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Srima uz Splitas lidostu",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Srima&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vai jūs varat mani aizvest līdz prāmim uz Prvić?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Salu prāmis uz Prvić iet no Vodices piestātnes blakus Srimai, un es varu jūs tur nogādāt pāris minūtēs. Pajautājiet man cenu, kad rezervējat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā brauciens no Srimas uz lidostām?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zadaras lidosta maksā fiksētus €110 un Splitas lidosta €115 par automašīnu līdz 4 pasažieriem, ar ceļa nodevām un bagāžu."
+          }
+        }
+      ]
+    }
+  ]
+}

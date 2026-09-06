@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Такси Perković | TAXI Antonio",
+  "description": "Такси Perković: посрещане на перона на главната жп гара за района на Šibenik, с трансфери нататък до Šibenik, Vodice, Krka и по-далеч.",
+  "keywords": "такси perkovic, perkovic такси, такси жп гара perkovic, трансфер от гара perkovic, perkovic до sibenik, perkovic до krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Местно такси и летищни трансфери",
+      "name": "Такси Perković",
+      "description": "Частно такси, което посреща влаковете в Perković, главната жп гара за района на Šibenik, с трансфери нататък до Šibenik, Vodice, Krka, Drniš, Knin и летище Split.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/bg/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Къде ме посрещате на гара Perković?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "На перона или до изхода на гарата, ако предпочитате. Ще нося името ви и ще ви помогна с багажа, за да тръгнете направо към колата."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Какво става, ако влакът ми до Perković закъснее?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Следя влака ви и настройвам часа на вземане според него, без допълнителна такса, така че съм там, когато влакът наистина пристигне."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Има ли таксиметрова стоянка в Perković?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Не, на гарата няма стоянка, затова е най-добре да резервирате предварително. Изпратете ми часа на влака и дестинацията си и ще ви чакам, щом слезете."
+          }
+        }
+      ]
+    }
+  ]
+}

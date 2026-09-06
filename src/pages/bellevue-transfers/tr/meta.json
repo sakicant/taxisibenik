@@ -1,0 +1,145 @@
+{
+  "slug": "bellevue-sibenik-transfers",
+  "title": "Bellevue Superior Hotel Transferleri Šibenik | Sabit Fiyatlar | TAXI Antonio",
+  "description": "Šibenik'teki Bellevue Superior Hotel'e ve otelden özel transferler. Önceden rezerve edilen sabit fiyatlar: Split Havalimanı €95, Zadar Havalimanı €130, Krka €45'ten. Kapıdan kapıya, tek yerel şoför.",
+  "keywords": "bellevue sibenik transferleri, bellevue superior hotel transferi, bellevue sibenik taksi, bellevue havalimanı transferi, taksi bellevue sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Otel havalimanı ve şehir taksi transferleri",
+      "name": "Bellevue Superior Hotel Šibenik Transferleri",
+      "description": "Šibenik'in kalbindeki Bellevue Superior Hotel'e ve otelden özel, sabit fiyatlı taksi transferleri. Havalimanı transferleri, şehirler arası transferler ve Krka günübirlik gezileri, önceden rezerve edilir ve fiyatı baştan anlaşılır.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Bellevue Superior Hotel Šibenik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/tr/bellevue-sibenik-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Bellevue Superior Hotel'den sabit transfer fiyatları",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Bellevue'den Split Havalimanı'na",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue'den Zadar Havalimanı'na",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue'den Zagreb Havalimanı'na",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue'den Dubrovnik Havalimanı'na",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue'den Krka Milli Parkı'na (Lozovac)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue'den Vodice'ye",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue'den Split'e",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue'den Zadar'a",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Bellevue Superior Hotel'den Split Havalimanı'na taksi ne kadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bellevue Superior Hotel'den Split Havalimanı'na özel transfer, önceden rezerve edildiğinde 4 yolcuya kadar araç başına sabit 95 avrodur. Otoyol ücretleri, yakıt ve bagaj dahildir ve fiyat iki yönde de aynıdır."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bellevue Superior Hotel'de nereden alış yapıyorsunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Doğrudan otelin önünden. Bellevue Šibenik'in kalbinde yer alıyor ve kaldırımda beklemek zorunda kalmayasınız diye tam alış noktasını rezervasyon sırasında onaylıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bellevue transferimi önceden rezerve etmeli miyim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Listelenen tüm fiyatlar önceden rezerve edilen transferler için geçerli sabit fiyatlardır. Önceden rezervasyon aracı, alış saatini ve fiyatı garantiler; bu da özellikle erken uçuşlarda ve yoğun sezonda önemlidir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gelen misafirleri havalimanında karşılıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Gelişlerde uçuşunuzu gerçek zamanlı takip ediyor, geliş salonunda isim tabelasıyla bekliyor ve sizi doğrudan Bellevue'ye götürüyorum. Geciken uçuşlar için bekleme ücretsizdir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bizi Bellevue'den Krka Milli Parkı'na götürebilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Krka'nın Lozovac girişine tek yön transfer 45 avro, Skradin girişine 50 avrodur. Ayrıca bekleme süresi dahil, otelden alışla tam günlük özel bir gezi de sunuyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Transfer ücretini nasıl öderim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yüzde 20 ön ödeme (en az 20 avro) rezervasyonu onaylar, havale ya da kartla. Kalan tutarı yolculuk günü şoföre nakit ya da kartla ödersiniz."
+          }
+        }
+      ]
+    }
+  ]
+}

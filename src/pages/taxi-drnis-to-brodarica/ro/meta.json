@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-drnis-brodarica",
+  "title": "Taxi Drniš - Brodarica | Preț fix €70 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Drniš - Brodarica. Preț fix €70 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi drniš - brodarica, transfer drniš - brodarica, transfer aeroport drniš - brodarica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Drniš - Brodarica",
+      "description": "Taxi și transfer privat la preț fix, ruta Drniš - Brodarica, 70 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Drniš",
+        "Brodarica"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-drnis-brodarica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "70",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Drniš - Brodarica, per vehicul pentru până la 4 pasageri. Dus-întors 140 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât de lungă este ruta și cât durează cursa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cursa pe ruta Drniš - Brodarica are aproximativ 36 km și durează în jur de 35 min în trafic normal, puțin mai mult în vârf de sezon. Planific preluarea astfel încât un tronson lent să nu vă grăbească niciodată."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi pe ruta Drniš - Brodarica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 70 per vehicul pentru până la 4 pasageri, dus, cu bagajele incluse. O cursă dus-întors costă 140."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "De unde mă preluați?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De la adresa dumneavoastră exactă, fie că este casă, hotel sau apartament. Trimiteți adresa la rezervare și vă confirm punctul de întâlnire."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+ "taxi_word": "Taxa",
+ "book_slug": "bestil",
+ "airport_name": {
+  "Split Airport": "Split Lufthavn",
+  "Zadar Airport": "Zadar Lufthavn",
+  "Zagreb Airport": "Zagreb Lufthavn",
+  "Dubrovnik Airport": "Dubrovnik Lufthavn"
+ },
+ "airport_slug": {
+  "split-airport": "split-lufthavn",
+  "zadar-airport": "zadar-lufthavn",
+  "zagreb-airport": "zagreb-lufthavn",
+  "dubrovnik-airport": "dubrovnik-lufthavn"
+ },
+ "hero_alt": "Taxa {rel}: Škoda Superb fra TAXI Antonio på den dalmatiske kyst",
+ "per_car": "pr. bil &middot; op til 4 passagerer",
+ "book_now": "Bestil nu",
+ "book_wa": "Bestil via WhatsApp",
+ "why_eyebrow": "Hvorfor bestille denne transfer",
+ "why_title": "Hvorfor bestille din taxa {rel} hos Antonio?",
+ "price_title": "Pris {rel}",
+ "price_sub": "Fast pris pr. bil, op til 4 passagerer, bagage inkluderet. Samme pris gælder i modsat retning.",
+ "price_oneway_lbl": "Enkeltrejse",
+ "price_return_lbl": "Tur &amp; retur",
+ "price_advance_lbl": "Depositum til bekræftelse",
+ "price_balance_val": "Kontant eller kort",
+ "price_balance_lbl": "Resten på dagen",
+ "hub_note": "Et depositum på 20% (mindst &euro;20) bekræfter din bestilling, resten betaler du på turdagen, kontant eller med kort. Rejser du i modsat retning? Se {revlink}.",
+ "reviews_eyebrow": "Anmeldelser",
+ "reviews_title": "Hvad passagererne siger",
+ "reviews_sub": "Ægte anmeldelser fra rigtige passagerer.",
+ "faq_eyebrow": "FAQ",
+ "faq_title": "Taxa {rel}: ofte stillede spørgsmål",
+ "cta_title": "Reserver din transfer {rel}",
+ "cta_sub": "Fast pris &euro;{p} pr. bil, op til 4 passagerer. Bekræftelse med få klik.",
+ "trust_air": "Bekræftet efter depositum &middot; Ingen skjulte omkostninger &middot; Flyovervågning inkluderet",
+ "trust_generic": "Bekræftet efter depositum &middot; Ingen skjulte omkostninger &middot; Fast pris, uden taxameter",
+ "rf_fixed_oneway_lbl": "Fast pris, enkeltrejse",
+ "rf_distance_lbl": "Afstand",
+ "rf_drivetime_lbl": "Køretid",
+ "rf_return_lbl": "Tur &amp; retur",
+ "rf_upto4_val": "Op til 4",
+ "rf_upto4_lbl": "Passagerer",
+ "rf_skoda_lbl": "Privat, dør til dør",
+ "meta_title": "Taxa {rel} | Fast pris €{p} | TAXI Antonio",
+ "meta_desc": "Privat taxa og transfer på ruten {rel}. Fast pris €{p} pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+ "meta_desc_short": "Privat taxa og transfer på ruten {rel}. Fast pris €{p} pr. bil, op til 4. Bestil direkte hos Antonio.",
+ "keywords": "taxa {rell}, transfer {rell}, lufthavnstransfer {rell}",
+ "schema_servicetype": "Privat taxatransfer",
+ "schema_name": "Taxa {rel}",
+ "schema_desc": "Privat taxa og transfer til fast pris på ruten {rel}, {p} euro pr. bil for op til 4 passagerer, dør til dør.",
+ "schema_offer_desc": "Privat enkeltrejse på ruten {rel}, pr. bil for op til 4 passagerer. Tur og retur {rp} euro.",
+ "dist_faq_q": "Hvor lang er ruten, og hvor længe tager turen?",
+ "dist_faq_a": "Turen på ruten {rel} er cirka {km} km lang og tager omkring {t} i normal trafik, lidt længere i sommerens højsæson. Jeg planlægger afhentningen, så en langsom strækning aldrig får dig til at skynde dig.",
+ "types": {
+  "to_airport": {
+   "heading": "Din private taxa og transfer på ruten {rel}",
+   "tagline": "Taxa og privat transfer til fast pris på ruten {rel}, direkte til afgangen.",
+   "intro": "Flyver du fra {city} Lufthavn? På ruten {rel} tilbyder jeg en privat taxa og transfer til fast pris. Jeg hedder Antonio og er lokal chauffør: jeg henter dig på din adresse og kører dig direkte til afgangsterminalen i en komfortabel Škoda Superb. Prisen er fast, &euro;{p} for hele bilen, op til 4 passagerer, aftalt på forhånd, uden taxameter og uden overraskelser. Jeg planlægger afhentningen efter din afgangstid, så du når frem i god tid til check-in. Tilbudsformularen ovenfor er allerede udfyldt for denne rute, så du kan se prisen og bestille med få klik.",
+   "whys": [
+    [
+     "Fast pris &euro;{p}",
+     "Én pris for hele bilen, op til 4 passagerer, aftalt på forhånd. Vejafgifter, brændstof og bagage er inkluderet, intet taxameter."
+    ],
+    [
+     "Tilpasset dit fly",
+     "Fortæl mig din afgangstid, så regner jeg baglæns, så du er i terminalen i god tid til check-in."
+    ],
+    [
+     "Fra døren til terminalen",
+     "Afhentning på din adresse og aflevering lige ved indgangen til afgangsterminalen."
+    ],
+    [
+     "På alle tider af døgnet",
+     "Tidlige morgenfly og sene aftenfly er ingen hindring. Jeg kører døgnet rundt til en pris aftalt på forhånd."
+    ]
+   ],
+   "faqs": [
+    [
+     "Hvad koster en taxa på ruten {rel}?",
+     "Fast &euro;{p} pr. bil, enkeltrejse, for op til 4 passagerer. Prisen er pr. bil, ikke pr. person, og dækker vejafgifter, brændstof og bagage. Tur og retur koster &euro;{rp}."
+    ],
+    [
+     "Hvornår skal jeg tage af sted til lufthavnen?",
+     "Som regel omkring 3 timer før et internationalt fly og 2 timer før et indenrigsfly. Fortæl mig din flytid, så bekræfter jeg det præcise afhentningstidspunkt."
+    ],
+    [
+     "Kører du helt til afgangsterminalen?",
+     "Ja. Jeg kører dig direkte til afgangsterminalen og hjælper med bagagen. Ingen gåtur fra parkeringspladsen og ingen shuttlebus."
+    ],
+    [
+     "Hvor lang tid i forvejen skal jeg bestille?",
+     "Mindst 2 timer før, så jeg kan bekræfte bil og afhentning, og gerne tidligere ved morgenfly og i højsæsonen. Har du brug for en tur med kort varsel, så ring eller skriv til mig på WhatsApp."
+    ]
+   ]
+  },
+  "from_airport": {
+   "heading": "Din afhentning i lufthavnen og transfer på ruten {rel}",
+   "tagline": "Privat afhentning i lufthavnen og transfer til fast pris på ruten {rel}, med flyovervågning.",
+   "intro": "Lige landet i {city} Lufthavn? En privat transfer på ruten {rel} tager stresset ud af ankomsten. Jeg tager imod dig i ankomsthallen med et skilt med dit navn, hjælper med bagagen og kører dig direkte til destinationen i en komfortabel Škoda Superb, til en fast pris på &euro;{p} for hele bilen, op til 4 passagerer. Jeg følger dit fly i realtid, så jeg er der, uanset om du lander før eller efter tid. Ingen taxakø, ingen delt transfer og ingen pristillæg. Formularen ovenfor er allerede udfyldt for denne rute.",
+   "whys": [
+    [
+     "Modtagelse med skilt",
+     "Jeg venter i ankomsthallen med et skilt med dit navn og hjælper med taskerne, så du går direkte til bilen."
+    ],
+    [
+     "Flyovervågning",
+     "Jeg følger dit fly i realtid og tilpasser mig en tidlig landing eller en forsinkelse, med gratis ventetid."
+    ],
+    [
+     "Fast pris &euro;{p}",
+     "Én pris for hele bilen, op til 4 passagerer, aftalt på forhånd. Vejafgifter, brændstof og bagage er inkluderet, intet taxameter."
+    ],
+    [
+     "Helt hen til din dør",
+     "Ingen kø og ingen skift. Jeg kører dig direkte til din adresse."
+    ]
+   ],
+   "faqs": [
+    [
+     "Hvor tager du imod mig?",
+     "I ankomsthallen, lige efter bagageudleveringen, med et skilt med dit navn. Jeg hjælper med bagagen og følger dig til bilen."
+    ],
+    [
+     "Hvad hvis mit fly er forsinket?",
+     "Det er ikke noget problem. Jeg følger dit fly i realtid og tilpasser afhentningen til den faktiske landing, uden ekstra betaling for ventetiden."
+    ],
+    [
+     "Hvad koster transferen på ruten {rel}?",
+     "Fast &euro;{p} pr. bil for op til 4 passagerer, enkeltrejse, vejafgifter og bagage inkluderet. Tur og retur koster &euro;{rp}."
+    ],
+    [
+     "Hvor lang tid i forvejen skal jeg bestille?",
+     "Mindst 2 timer før, så jeg kan planlægge efter dit fly. Har du brug for afhentning samme dag efter en pludselig ændring, så ring eller skriv på WhatsApp."
+    ]
+   ]
+  },
+  "marina": {
+   "heading": "Privat marinatransfer på ruten {rel}",
+   "tagline": "Privat taxa og transfer til fast pris på ruten {rel}, tilpasset din båd.",
+   "intro": "Rejser du på ruten {rel}? Jeg kører privat taxa og transfer til fast pris for marinaens gæster, tilpasset din båd og dine rejseplaner. Jeg henter dig med rigelig plads til bagagen og kører dig hele vejen i en komfortabel Škoda Superb, til en fast pris på &euro;{p} for bilen, op til 4 passagerer, aftalt før afgang. Uanset om du skal ud til din yacht eller rejser videre efter at være gået fra borde, er der intet taxameter og ingen ventetid på holdepladsen, kun én lokal chauffør, som du bestiller direkte. Det er en privat transfer over en længere strækning, og tilbuddet ovenfor er allerede sat op til denne rute.",
+   "whys": [
+    [
+     "Fast pris &euro;{p}",
+     "Én pris pr. bil for op til 4 passagerer, aftalt på forhånd. Vejafgifter, brændstof og bagage er inkluderet, intet kørende taxameter."
+    ],
+    [
+     "Tilpasset din båd",
+     "Fortæl mig tidspunktet for charter, check-in eller afgang, så planlægger jeg afhentningen efter det, så en langsom strækning aldrig får dig til at skynde dig."
+    ],
+    [
+     "Plads til din bagage",
+     "Kufferter, proviant og bådtasker kan alle være i en komfortabel Škoda Superb, og jeg hjælper med at læsse ind og ud."
+    ],
+    [
+     "Én lokal chauffør",
+     "Du aftaler direkte med mig, fra bestilling til ankomst, på telefon, WhatsApp eller e-mail. Intet callcenter."
+    ]
+   ],
+   "faqs": [
+    [
+     "Hvad koster en transfer på ruten {rel}?",
+     "Fast &euro;{p} pr. bil for op til 4 passagerer, enkeltrejse, med vejafgifter, brændstof og bagage. Tur og retur koster &euro;{rp}."
+    ],
+    [
+     "Kan du hente mig direkte i marinaen?",
+     "Ja. Jeg møder dig ved marinaens indgang eller i receptionen og hjælper med bagagen, så du går direkte fra broen til bilen."
+    ],
+    [
+     "Kan du tilpasse transferen til min båd?",
+     "Ja. Send mig tidspunktet for charter, check-in eller afgang, når du bestiller, så planlægger jeg afhentningen efter det."
+    ],
+    [
+     "Hvor lang tid i forvejen skal jeg bestille?",
+     "Mindst 2 timer før, så jeg kan bekræfte bil og afhentningstidspunkt. Har du brug for en tur med kort varsel, så ring eller skriv direkte til mig på WhatsApp."
+    ]
+   ]
+  },
+  "city": {
+   "heading": "Privat transfer på ruten {rel}",
+   "tagline": "Privat taxa og transfer til fast pris på ruten {rel}, dør til dør.",
+   "intro0": "Har du brug for en pålidelig transfer på ruten {rel}? Jeg tilbyder privat taxa og transfer til fast pris, dør til dør, i en komfortabel Škoda Superb. Jeg henter dig på din præcise adresse og kører dig direkte til destinationen, uden stop du ikke har bedt om og uden medpassagerer. Prisen er fast, &euro;{p} for hele bilen, op til 4 passagerer, aftalt før afgang, vejafgifter og bagage inkluderet. Tilbuddet ovenfor er udfyldt for denne rute, så bestillingen tager få klik.",
+   "intro1": "Leder du efter en taxa på ruten {rel} uden taxameter og besvær? Det her er en privat transfer til fast pris med én lokal chauffør. Jeg henter dig ved døren og kører dig behageligt til destinationen, bagagen med, til en fast pris på &euro;{p} pr. bil for op til 4 passagerer. For par og familier er det ofte billigere end separate bus- eller togbilletter, og altid hurtigere og dør til dør. Tilbuddet ovenfor er allerede sat op til denne rute.",
+   "whys": [
+    [
+     "Fast pris &euro;{p}",
+     "Én pris pr. bil for op til 4 passagerer, aftalt på forhånd. Vejafgifter, brændstof og bagage er inkluderet, intet kørende taxameter."
+    ],
+    [
+     "Dør til dør",
+     "Jeg henter dig på din præcise adresse og sætter dig af ved destinationens dør. Ingen stationer, ingen skift."
+    ],
+    [
+     "Én lokal chauffør",
+     "Du aftaler direkte med mig, fra bestilling til ankomst, på telefon, WhatsApp eller e-mail. Intet callcenter."
+    ],
+    [
+     "Stop efter ønske",
+     "På længere ture holder jeg gerne ind til en kop kaffe, et foto eller en kort seværdighed undervejs."
+    ]
+   ],
+   "faqs": [
+    [
+     "Hvad koster en taxa på ruten {rel}?",
+     "Fast &euro;{p} pr. bil for op til 4 passagerer, enkeltrejse, med vejafgifter, brændstof og bagage. Tur og retur koster &euro;{rp}."
+    ],
+    [
+     "Er transferen privat eller delt?",
+     "Hver transfer er privat og dør til dør, i en Škoda Superb. Ingen deling af bilen og ingen ekstra stop, medmindre du beder om det."
+    ],
+    [
+     "Kan du holde ind undervejs?",
+     "Ja. På længere ture holder jeg gerne ind til en kop kaffe, et foto eller en kort seværdighed. Sig bare til, når du bestiller."
+    ],
+    [
+     "Hvor lang tid i forvejen skal jeg bestille?",
+     "Mindst 2 timer før, så jeg kan bekræfte bil og afhentningstidspunkt. Har du brug for en tur med kort varsel, så ring eller skriv på WhatsApp."
+    ]
+   ]
+  },
+  "local": {
+   "heading": "Privat taxa på ruten {rel}",
+   "tagline": "Privat taxa og transfer til fast pris på ruten {rel}, dør til dør.",
+   "intro0": "Rejser du på ruten {rel}? Jeg kører privat taxa og transfer til fast pris, med afhentning ved din dør og aflevering præcis der, hvor du skal hen. Prisen er faste &euro;{p} for hele bilen, op til 4 passagerer, uden taxameter og uden ventetid på holdepladsen. En komfortabel Škoda Superb, plads til din bagage og én lokal chauffør, som du bestiller direkte. Tilbuddet ovenfor er udfyldt for denne rute.",
+   "intro1": "Har du brug for en taxa på ruten {rel}? Jeg tilbyder en privat transfer fra dør til dør til en fast pris på &euro;{p} for hele bilen, op til 4 passagerer. Jeg kommer til din adresse på det aftalte tidspunkt, så du aldrig venter ved vejkanten, og kører dig behageligt til destinationen. Intet taxameter, ingen overraskelser, kun én lokal chauffør fra bestilling til ankomst. Tilbuddet ovenfor er allerede sat op til denne rute.",
+   "whys": [
+    [
+     "Fast pris &euro;{p}",
+     "Én pris pr. bil for op til 4 passagerer, aftalt før turen. Intet taxameter, ingen overraskelser."
+    ],
+    [
+     "Dør til dør",
+     "Afhentning på din adresse og aflevering ved destinationens dør, bagagen med."
+    ],
+    [
+     "Ingen holdeplads nødvendig",
+     "Bestilt på forhånd, så du aldrig venter på en ledig taxa. Jeg kommer til dig."
+    ],
+    [
+     "Én lokal chauffør",
+     "Du aftaler direkte med mig, fra bestilling til ankomst, på telefon, WhatsApp eller e-mail."
+    ]
+   ],
+   "faqs": [
+    [
+     "Hvad koster en taxa på ruten {rel}?",
+     "Fast &euro;{p} pr. bil for op til 4 passagerer, enkeltrejse, bagage inkluderet. Tur og retur koster &euro;{rp}."
+    ],
+    [
+     "Hvor henter du mig?",
+     "På din præcise adresse, uanset om det er et hus, et hotel eller en lejlighed. Send adressen, når du bestiller, så bekræfter jeg mødestedet."
+    ],
+    [
+     "Hvor lang tid i forvejen skal jeg bestille?",
+     "Mindst 2 timer før, så jeg kan bekræfte bil og afhentningstidspunkt. Har du brug for en tur med kort varsel, så ring eller skriv på WhatsApp."
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-krka-national-park-split",
+  "title": "Dagstur til Krka fra Split | Privat transfer, fast €290 | TAXI Antonio",
+  "description": "Privat taxatransfer frem og tilbage til Krka fra Split. Fast €290 pr. bil, op til 4 passagerer, dør til dør fra hoteller i Split, krydstogthavnen og den gamle bydel. Ikke en tur med guide, bare turen derhen og hjem igen.",
+  "keywords": "dagstur til krka fra split, transfer frem og tilbage til krka fra split, taxa til krka fra split, krka fra split, split til krka nationalpark",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privat dagstur til Krka fra Split",
+      "description": "En privat dagstur til Krka Nationalpark fra Split med en lokal, engelsktalende chauffør. Fast pris på 290 euro pr. bil for op til 4 passagerer, med afhentning dør til dør ved hoteller i Split, krydstogthavnen, bus- og togstationen og den gamle bydel.",
+      "touristType": "Natur og seværdigheder",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "290",
+        "priceCurrency": "EUR",
+        "description": "Privat bil, frem og tilbage fra Split til Krka Nationalpark, op til 4 passagerer. Entrébilletter til parken er ikke inkluderet."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Er det en guidet tur eller en taxatransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Det er en taxatransfer, ikke en guidet tur. Antonio er lokal chauffør og kører en privat transfer frem og tilbage fra Split til Krka. Du får bilen og kørslen; inde i parken går du selv på opdagelse i dit eget tempo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster en taxa til Krka fra Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En privat transfer frem og tilbage fra Split til Krka Nationalpark koster fast 290 euro pr. bil for op til 4 passagerer, inklusive vejafgifter, brændstof og omkring 3 til 4 timers ventetid."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Henter du på hoteller i Split og i krydstogthavnen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg henter dør til dør på hoteller og i lejligheder i Split, i den gamle bydel, på bus- og togstationen og direkte i krydstogthavnen og færgeterminalen i Split, med navneskilt efter aftale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid tager dagsturen fra Split til Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kørslen tager omkring en time til en time og et kvarter hver vej, plus cirka 3 til 4 timers fri tid inde i parken. Et kortere eller længere ophold kan aftales, når du bestiller."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvordan bestiller og betaler jeg dagsturen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En forudbetaling på 20% (mindst 20 euro) bekræfter bestillingen, via bankoverførsel eller kort, og du får en faktura som bekræftelse. Restbeløbet betaler du til chaufføren på dagen, kontant eller med kort."
+          }
+        }
+      ]
+    }
+  ]
+}

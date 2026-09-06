@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-dubrovnikas-lidosta-marina-baotic",
+  "title": "Taksometrs Dubrovnikas lidosta - Marina Baotić | Fiksēta cena €420 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Dubrovnikas lidosta - Marina Baotić. Fiksēta cena €420 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs dubrovnikas lidosta - marina baotić, transfērs dubrovnikas lidosta - marina baotić, lidostas transfērs dubrovnikas lidosta - marina baotić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Dubrovnikas lidosta - Marina Baotić",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Dubrovnikas lidosta - Marina Baotić, 420 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnikas lidosta",
+        "Marina Baotić"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-dubrovnikas-lidosta-marina-baotic/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Dubrovnikas lidosta - Marina Baotić, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 840 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kur jūs mani sagaidīsiet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ielidošanas zālē, uzreiz pēc bagāžas saņemšanas, ar plāksnīti, uz kuras ir jūsu vārds. Palīdzu ar bagāžu un aizvedu jūs līdz automašīnai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kas notiek, ja mans lidojums kavējas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nekādu problēmu. Sekoju jūsu lidojumam reāllaikā un pielāgoju sagaidīšanu faktiskajai nolaišanās reizei, bez papildu maksas par gaidīšanu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā transfērs maršrutā Dubrovnikas lidosta - Marina Baotić?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 420 par automašīnu līdz 4 pasažieriem vienā virzienā, ceļa nodevas un bagāža iekļauta. Brauciens turp un atpakaļ maksā 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu plānot pēc jūsu lidojuma. Ja sagaidīšana vajadzīga tajā pašā dienā pēc pēkšņām izmaiņām, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

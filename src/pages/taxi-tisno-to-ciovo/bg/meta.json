@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-tisno-ciovo",
+  "title": "Такси Tisno - Čiovo | Фиксирана цена €145 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Tisno - Čiovo. Фиксирана цена €145 на автомобил, до 4 пътници, от врата до врата. Резервирайте директно при Антонио.",
+  "keywords": "такси tisno - čiovo, трансфер tisno - čiovo, летищен трансфер tisno - čiovo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Tisno - Čiovo",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Tisno - Čiovo, 145 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Tisno",
+        "Čiovo"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-tisno-ciovo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "145",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Tisno - Čiovo, на автомобил за до 4 пътници. Отиване и връщане 290 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко струва такси по маршрута Tisno - Čiovo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 145 на автомобил за до 4 пътници, еднопосочно, багажът е включен. Пътуване с отиване и връщане струва 290."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Откъде ме вземате?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "От точния ви адрес, било то къща, хотел или апартамент. Изпратете адреса при резервацията и ще потвърдя мястото на срещата."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и часа на вземане. За пътуване в последния момент се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

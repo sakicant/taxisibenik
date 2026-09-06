@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-aeroport-dubrovnik-lozovac",
+  "title": "Таксі Аеропорт Дубровник - Lozovac | Фіксована ціна €485 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Аеропорт Дубровник - Lozovac. Фіксована ціна €485 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі аеропорт дубровник - lozovac, трансфер аеропорт дубровник - lozovac, трансфер з аеропорту аеропорт дубровник - lozovac",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Аеропорт Дубровник - Lozovac",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Аеропорт Дубровник - Lozovac, 485 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Аеропорт Дубровник",
+        "Lozovac"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-aeroport-dubrovnik-lozovac/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Аеропорт Дубровник - Lozovac, за автомобіль для до 4 пасажирів. Туди й назад 970 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Яка відстань на маршруті і скільки триває поїздка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поїздка маршрутом Аеропорт Дубровник - Lozovac становить близько 302 км і триває приблизно 4 h 15 min за звичайного руху, трохи довше в розпал літа. Я планую подачу так, щоб повільна ділянка ніколи вас не квапила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Де ви мене зустрічаєте?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "У залі прильоту, одразу після видачі багажу, з табличкою з вашим іменем. Допомагаю з багажем і проводжу до авто."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Що як мій рейс затримується?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Не проблема. Стежу за рейсом у реальному часі й підлаштовую подачу під фактичну посадку, без доплати за очікування."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує трансфер на маршруті Аеропорт Дубровник - Lozovac?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 485 за автомобіль для до 4 пасажирів, в один бік, дорожні збори та багаж включені. Поїздка туди й назад коштує 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я спланував усе під ваш рейс. Для подачі того самого дня після раптової зміни зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

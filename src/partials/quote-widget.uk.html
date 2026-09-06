@@ -1,0 +1,46 @@
+      <div class="quote-widget" id="quote-widget">
+        <div class="quote-trip-toggle">
+          <button type="button" class="trip-toggle-btn active" data-trip="oneway">В один бік</button>
+          <button type="button" class="trip-toggle-btn" data-trip="return">Туди &amp; назад</button>
+        </div>
+
+        <div class="quote-field">
+          <label for="quote-from-input">Звідки</label>
+          <div class="combo" data-placeholder="Місце подачі">
+            <input type="text" class="combo-input" id="quote-from-input" placeholder="Місце подачі" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list">
+            <input type="hidden" id="quote-from">
+            <div class="combo-panel" hidden></div>
+          </div>
+        </div>
+        <div class="quote-field">
+          <label for="quote-to-input">Куди</label>
+          <div class="combo" data-placeholder="Пункт призначення">
+            <input type="text" class="combo-input" id="quote-to-input" placeholder="Пункт призначення" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list">
+            <input type="hidden" id="quote-to">
+            <div class="combo-panel" hidden></div>
+          </div>
+        </div>
+
+        <div class="quote-field-row">
+          <div class="quote-stepper">
+            <label>Пасажири</label>
+            <div class="stepper-control">
+              <button type="button" class="stepper-btn" data-target="quote-passengers" data-delta="-1" aria-label="Зменшити кількість пасажирів">&minus;</button>
+              <span id="quote-passengers" data-value="1" data-min="1" data-max="12">1</span>
+              <button type="button" class="stepper-btn" data-target="quote-passengers" data-delta="1" aria-label="Збільшити кількість пасажирів">+</button>
+            </div>
+          </div>
+          <div class="quote-stepper">
+            <label>Багаж</label>
+            <div class="stepper-control">
+              <button type="button" class="stepper-btn" data-target="quote-luggage" data-delta="-1" aria-label="Зменшити кількість багажу">&minus;</button>
+              <span id="quote-luggage" data-value="1" data-min="0" data-max="6">1</span>
+              <button type="button" class="stepper-btn" data-target="quote-luggage" data-delta="1" aria-label="Збільшити кількість багажу">+</button>
+            </div>
+          </div>
+        </div>
+
+        <button type="button" id="quote-submit" class="btn btn-primary quote-btn">Показати фіксовану ціну</button>
+
+        <div id="quote-result" class="quote-result" hidden></div>
+      </div>

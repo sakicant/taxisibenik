@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "Taksi Vodice | TAXI Antonio",
+  "description": "Taksi Vodice: Zadar (€100) ve Split'e sabit fiyatlı havalimanı transferleri, marina ve otel alışları, Krka transferleri ve ada feribotuna bırakma. Doğrudan rezervasyon.",
+  "keywords": "taksi vodice, vodice taksi, vodice havalimanı transferi, vodice split havalimanı, vodice zadar havalimanı, vodice marina taksi, vodice krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yerel taksi ve havalimanı transferleri",
+      "name": "Taksi Vodice",
+      "description": "Vodice'de sabit fiyatlı özel taksi: Split ve Zadar'a havalimanı transferleri, marina ve otel alışları, Krka Milli Parkı transferleri ve ada feribotuna bırakmalar.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/tr/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Vodice'den taksi fiyatları",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksi Vodice'den Šibenik'e",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Vodice'den Krka Milli Parkı'na (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Vodice'den Zadar Havalimanı'na",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Vodice'den Split Havalimanı'na",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vodice marinasından ekipleri alıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Yat ve kiralama ekiplerini doğrudan marinada karşılıyorum, bagaj ve erzak için yer var, ayrıca kiralama programınıza göre erken ya da geç bir saat ayarlayabilirim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vodice'de gece geç saatte çalışıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Önceden rezervasyon yapılırsa akşam dışarıdan sonra sizi alıp sabit bir fiyata güvenle konaklama yerinize götürebilirim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni Prvić ya da Zlarin feribotuna götürebilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. İkisi de Vodice sahilinden kalkıyor ve sizi tam iskelede bırakabilirim. Rezervasyon sırasında fiyatı bana sorun."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vodice'den Zadar Havalimanı'na ücret ne kadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit €100, Split Havalimanı ise €115; otoyol ücretleri ve bagaj dahil."
+          }
+        }
+      ]
+    }
+  ]
+}

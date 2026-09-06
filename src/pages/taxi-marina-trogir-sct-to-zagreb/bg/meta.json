@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-trogir-sct-zagreb",
+  "title": "Такси Marina Trogir (SCT) - Zagreb | Фиксирана цена €514 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Marina Trogir (SCT) - Zagreb. Фиксирана цена €514 на автомобил, до 4. Резервирайте директно при Антонио.",
+  "keywords": "такси marina trogir (sct) - zagreb, трансфер marina trogir (sct) - zagreb, летищен трансфер marina trogir (sct) - zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Marina Trogir (SCT) - Zagreb",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Marina Trogir (SCT) - Zagreb, 514 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Trogir (SCT)",
+        "Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-marina-trogir-sct-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "514",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Marina Trogir (SCT) - Zagreb, на автомобил за до 4 пътници. Отиване и връщане 1028 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко струва трансфер по маршрута Marina Trogir (SCT) - Zagreb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 514 на автомобил за до 4 пътници, еднопосочно, с пътни такси, гориво и багаж. Пътуване с отиване и връщане струва 1028."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Може ли да ме вземете направо от самата марина?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Посрещам ви на входа на марината или на рецепцията и помагам с багажа, за да стигнете от понтона направо до автомобила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Може ли да съобразите трансфера с моята лодка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Изпратете ми при резервацията часа на чартъра, на настаняването или на отплаването и ще планирам вземането около него."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и часа на вземане. За пътуване в последния момент се обадете или пишете директно на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

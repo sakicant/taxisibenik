@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-krka-national-park-zadar",
+  "title": "Dagstur til Krka fra Zadar | Privat transfer, fast €260 | TAXI Antonio",
+  "description": "Privat taxatransfer frem og tilbage til Krka fra Zadar. Fast €260 pr. bil, op til 4 passagerer, dør til dør fra hoteller i Zadar, færge- og krydstogthavnen og den gamle bydel. Ikke en tur med guide, bare turen derhen og hjem igen.",
+  "keywords": "dagstur til krka fra zadar, transfer frem og tilbage til krka fra zadar, taxa til krka fra zadar, krka fra zadar, zadar til krka nationalpark",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privat dagstur til Krka fra Zadar",
+      "description": "En privat dagstur til Krka Nationalpark fra Zadar med en lokal, engelsktalende chauffør. Fast pris på 260 euro pr. bil for op til 4 passagerer, med afhentning dør til dør ved hoteller i Zadar, færge- og krydstogthavnen, busstationen og den gamle bydel.",
+      "touristType": "Natur og seværdigheder",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "260",
+        "priceCurrency": "EUR",
+        "description": "Privat bil, frem og tilbage fra Zadar til Krka Nationalpark, op til 4 passagerer. Entrébilletter til parken er ikke inkluderet."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Er det en guidet tur eller en taxatransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Det er en taxatransfer, ikke en guidet tur. Antonio er lokal chauffør og kører en privat transfer fra Zadar til Krka og hjem igen. Du får bilen og kørslen; inde i parken går du selv på opdagelse i dit eget tempo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster en taxa til Krka fra Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En privat transfer frem og tilbage fra Zadar til Krka Nationalpark koster faste 260 euro pr. bil for op til 4 passagerer, med vejafgifter, brændstof og omkring 3 til 4 timers ventetid inkluderet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Henter du på hoteller i Zadar og i færgehavnen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg henter dør til dør ved hoteller og lejligheder i Zadar, i den gamle bydel, på busstationen og direkte i færgehavnen i Zadar og ved krydstogtterminalen i Gaženica, med navneskilt efter aftale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid tager dagsturen fra Zadar til Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Køreturen tager omkring en time hver vej ad motorvejen, plus cirka 3 til 4 timers fri tid inde i parken. Et kortere eller længere ophold kan aftales, når du bestiller."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvordan bestiller og betaler jeg dagsturen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En forudbetaling på 20% (mindst 20 euro) bekræfter bestillingen, via bankoverførsel eller kort, og du får en faktura som bekræftelse. Restbeløbet betaler du til chaufføren på dagen, kontant eller med kort."
+          }
+        }
+      ]
+    }
+  ]
+}

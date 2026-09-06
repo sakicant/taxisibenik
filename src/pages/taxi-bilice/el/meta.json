@@ -1,0 +1,119 @@
+{
+  "slug": "taxi-bilice",
+  "title": "Ταξί Bilice | TAXI Antonio",
+  "description": "Ταξί Bilice: μεταφορές με σταθερή τιμή προς το αεροδρόμιο Split (€100) και το Zadar, και γρήγορες διαδρομές προς το Šibenik. Παραλαβή στην πόρτα για επισκέπτες σε διαμερίσματα και βίλες.",
+  "keywords": "ταξί bilice, bilice ταξί, μεταφορά αεροδρομίου bilice, bilice αεροδρόμιο split, bilice sibenik, ταξί bilice sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Τοπικό ταξί και μεταφορές αεροδρομίου",
+      "name": "Ταξί Bilice",
+      "description": "Ιδιωτικό ταξί και μεταφορές αεροδρομίου με σταθερή τιμή από το Bilice, βόρεια του Šibenik, προς το αεροδρόμιο Split, το αεροδρόμιο Zadar, το Šibenik, τα Vodice και το Εθνικό Πάρκο Krka.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Bilice",
+      "url": "https://taxisibenik.hr/el/taxi-bilice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Τιμές ταξί από το Bilice",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Ταξί Bilice προς Šibenik",
+            "price": "20",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Bilice&to=%C5%A0ibenik%20-%20center&price=20"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Bilice προς Vodice",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Bilice&to=Vodice&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Bilice προς Εθνικό Πάρκο Krka (Lozovac)",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Bilice&to=NP%20Krka%20-%20Lozovac%20entrance&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Bilice προς αεροδρόμιο Split",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Bilice&to=Split%20Airport%20%28SPU%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Bilice προς αεροδρόμιο Zadar",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Bilice&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Bilice προς Split",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Bilice&to=Split&price=140"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Bilice προς Zadar",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Bilice&to=Zadar&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Παραλαμβάνετε από διαμερίσματα και βίλες στο Bilice;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Σας παραλαμβάνω ακριβώς στην πόρτα του καταλύματός σας στο Bilice, φορτώνω τις αποσκευές σας και σας πηγαίνω από πόρτα σε πόρτα. Απλώς στείλτε μου τη διεύθυνση όταν κάνετε κράτηση."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίς μπορείτε να κάνετε μεταφορά προς το αεροδρόμιο από το Bilice;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Οποιαδήποτε ώρα, μέρα ή νύχτα, εφόσον υπάρχει κράτηση εκ των προτέρων. Για πρωινές πτήσεις από Split ή Zadar επιβεβαιώνω την ώρα παραλαβής ώστε να φτάσετε στο τερματικό με άνεση χρόνου."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Η τιμή προς το αεροδρόμιο είναι πράγματι σταθερή;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Κάθε τιμή εδώ είναι σταθερή ανά αυτοκίνητο για έως 4 επιβάτες, με τα διόδια, τα καύσιμα και τις αποσκευές. Χωρίς ταξίμετρο."
+          }
+        }
+      ]
+    }
+  ]
+}

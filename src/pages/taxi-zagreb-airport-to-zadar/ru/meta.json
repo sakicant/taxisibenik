@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-aeroport-zagreb-zadar",
+  "title": "Такси Аэропорт Загреб - Zadar | Фиксированная цена €450 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Аэропорт Загреб - Zadar. Фиксированная цена €450 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси аэропорт загреб - zadar, трансфер аэропорт загреб - zadar, трансфер из аэропорта аэропорт загреб - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Аэропорт Загреб - Zadar",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Аэропорт Загреб - Zadar, 450 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Аэропорт Загреб",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-aeroport-zagreb-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "450",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Аэропорт Загреб - Zadar, за автомобиль для до 4 пассажиров. Туда и обратно 900 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Аэропорт Загреб - Zadar составляет около 296 км и занимает примерно 3 h 25 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня встречаете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "В зале прилёта, сразу после выдачи багажа, с табличкой с вашим именем. Помогаю с багажом и провожаю до машины."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Что если мой рейс задерживается?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Не проблема. Слежу за рейсом в реальном времени и подстраиваю подачу под фактическую посадку, без доплаты за ожидание."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит трансфер на маршруте Аэропорт Загреб - Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 450 за автомобиль для до 4 пассажиров, в одну сторону, дорожные сборы и багаж включены. Поездка туда и обратно стоит 900."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я спланировал всё под ваш рейс. Для подачи в тот же день после внезапного изменения позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

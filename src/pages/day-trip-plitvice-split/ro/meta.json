@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-plitvice-lakes-national-park-split",
+  "title": "Excursie de o zi la Plitvice din Split | Transfer privat, preț fix €650 | TAXI Antonio",
+  "description": "Transfer privat cu taxiul, dus-întors la Lacurile Plitvice din Split. Preț fix €650 per mașină, până la 4 pasageri, de la ușă la ușă de la hotelurile din Split, din portul de croazieră și din orașul vechi. Nu este un tur, doar drumul dus și întors.",
+  "keywords": "excursie de o zi la plitvice din split, transfer dus-intors la plitvice, taxi la plitvice din split, lacurile plitvice din split, split la plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Excursie privată de o zi la Lacurile Plitvice din Split",
+      "description": "O excursie privată de o zi în Parcul Național Lacurile Plitvice din Split, cu un șofer local care vorbește engleză. Preț fix de 650 de euro per mașină pentru până la 4 pasageri, cu preluare de la ușă la ușă de la hotelurile din Split, din portul de croazieră, de la autogară, de la gară și din orașul vechi.",
+      "touristType": "Natură și obiective turistice",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "650",
+        "priceCurrency": "EUR",
+        "description": "Vehicul privat, dus-întors din Split în Parcul Național Lacurile Plitvice, până la 4 pasageri. Biletele de intrare în parc nu sunt incluse."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Este un tur ghidat sau un transfer cu taxiul?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Este un transfer cu taxiul, nu un tur ghidat. Antonio este un șofer local care oferă un transfer privat dus-întors din Split la Plitvice și înapoi. Primiți mașina și șoferul; în parc sunteți liberi să explorați pe cont propriu, în ritmul dumneavoastră."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi la Plitvice din Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un transfer privat dus-întors din Split la Lacurile Plitvice costă fix 650 de euro per mașină pentru până la 4 pasageri, cu taxele de drum, combustibilul și timpul de așteptare la parc incluse."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât durează excursia de o zi din Split la Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Drumul durează în jur de două ore și jumătate până la trei ore în fiecare sens, plus aproximativ 4 până la 6 ore ca să parcurgeți lacurile pe jos. Este o zi lungă și plină, de obicei 11 până la 12 ore de la ușă la ușă, așa că un start matinal este esențial."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Biletele de intrare la Plitvice sunt incluse în preț?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nu. Biletele de intrare se cumpără separat de la Parcul Național Lacurile Plitvice, la intrare sau online. Biletele costă aproximativ între 10 și 40 de euro, în funcție de sezon, și includ trenulețul panoramic și barca electrică din parc."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cum rezerv și cum plătesc excursia de o zi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un avans de 20% (minimum 20 de euro) confirmă rezervarea, prin transfer bancar sau card, iar dumneavoastră primiți o factură drept confirmare. Restul se plătește șoferului în ziua excursiei, în numerar sau cu cardul."
+          }
+        }
+      ]
+    }
+  ]
+}

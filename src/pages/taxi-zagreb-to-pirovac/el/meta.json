@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zagreb-pirovac",
+  "title": "Ταξί Zagreb - Pirovac | Σταθερή τιμή €485 | TAXI Antonio",
+  "description": "Ιδιωτικό ταξί και μεταφορά, διαδρομή Zagreb - Pirovac. Σταθερή τιμή €485 ανά όχημα, έως 4 άτομα. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί zagreb - pirovac, μεταφορά zagreb - pirovac, μεταφορά από αεροδρόμιο zagreb - pirovac",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτική μεταφορά με ταξί",
+      "name": "Ταξί Zagreb - Pirovac",
+      "description": "Ιδιωτικό ταξί και μεταφορά σε σταθερή τιμή, διαδρομή Zagreb - Pirovac, 485 ευρώ ανά όχημα για έως 4 επιβάτες, από πόρτα σε πόρτα.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zagreb",
+        "Pirovac"
+      ],
+      "url": "https://taxisibenik.hr/el/taxi-zagreb-pirovac/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Ιδιωτική διαδρομή απλής μετάβασης, διαδρομή Zagreb - Pirovac, ανά όχημα για έως 4 επιβάτες. Μετ' επιστροφής 970 ευρώ."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πόσο μακριά είναι η διαδρομή και πόσο διαρκεί το ταξίδι;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Η διαδρομή Zagreb - Pirovac έχει μήκος περίπου 330 χλμ. και διαρκεί περίπου 3 h 40 min με κανονική κίνηση, λίγο περισσότερο στην καρδιά του καλοκαιριού. Προγραμματίζω την παραλαβή έτσι ώστε ένα αργό κομμάτι του δρόμου να μη σας βιάσει ποτέ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει ένα ταξί στη διαδρομή Zagreb - Pirovac;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά 485 ανά όχημα για έως 4 επιβάτες, απλή διαδρομή, με διόδια, καύσιμα και αποσκευές. Η μετ' επιστροφής διαδρομή κοστίζει 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Η μεταφορά είναι ιδιωτική ή κοινή;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Κάθε μεταφορά είναι ιδιωτική και από πόρτα σε πόρτα, με ένα Škoda Superb. Χωρίς κοινή χρήση του οχήματος και χωρίς επιπλέον στάσεις, εκτός αν τις ζητήσετε."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να σταματήσετε στον δρόμο;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Σε μεγαλύτερες διαδρομές σταματώ ευχαρίστως για έναν καφέ, μια φωτογραφία ή ένα σύντομο αξιοθέατο. Απλώς πείτε μου το κατά την κράτηση."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τουλάχιστον 2 ώρες πριν, για να επιβεβαιώσω όχημα και ώρα παραλαβής. Για διαδρομή τελευταίας στιγμής τηλεφωνήστε μου ή γράψτε στο WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

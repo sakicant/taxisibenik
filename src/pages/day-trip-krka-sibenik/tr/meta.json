@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-sibenik",
+  "title": "Šibenik'ten Krka'ya Günübirlik Gezi | Özel Transfer, Sabit €100 | TAXI Antonio",
+  "description": "Šibenik'ten Krka'ya özel gidiş dönüş taksi transferi. Araç başına sabit €100, 4 yolcuya kadar, otellerden, dairelerden, garlardan ve feribot limanından kapıdan kapıya. Tur değil, sadece gidiş ve dönüş yolculuğu.",
+  "keywords": "šibenik'ten krka'ya günübirlik gezi, krka'ya gidiş dönüş transfer, šibenik'ten krka'ya taksi, krka transferi šibenik, šibenik'ten krka milli parkı'na",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Šibenik'ten Krka'ya özel günübirlik gezi",
+      "description": "Yerel, İngilizce konuşan bir şoförle Šibenik'ten Krka Milli Parkı'na özel günübirlik gezi. 4 yolcuya kadar araç başına sabit 100 avro; otellerden, dairelerden, otogardan, tren istasyonlarından ve feribot limanından kapıdan kapıya alış.",
+      "touristType": "Doğa ve gezi",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Özel araç, Šibenik'ten Krka Milli Parkı'na gidiş dönüş, 4 yolcuya kadar. Park giriş biletleri dahil değildir."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Bu rehberli bir tur mu, taksi transferi mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bu rehberli bir tur değil, bir taksi transferidir. Antonio, Krka'ya gidip dönen özel bir transfer sunan yerel bir Šibenik taksi şoförüdür. Araç ve sürüş size aittir; parkın içinde kendi başınıza, kendi temponuzda gezersiniz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bizi Amadria Park, D-Resort ya da Hotel Bellevue'den alabilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Amadria Park tesisinden, D-Resort Šibenik'ten, Hotel Bellevue'den ve diğer Šibenik otellerinden düzenli olarak misafir alıyorum. Bana otelinizin adını gönderin, tam alış saatini ve buluşma noktasını onaylayayım."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Šibenik feribot limanından, otogardan ya da tren istasyonundan alış yapıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Misafirleri Šibenik feribot ve kruvaziyer limanından, otogardan ve Šibenik ile Perković tren istasyonlarından kapıdan kapıya alıyorum; talep üzerine isim tabelasıyla karşılıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Krka Milli Parkı'nda ne kadar vakit geçiriyoruz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Misafirlerin çoğu parkın içinde yaklaşık 3 ila 4 saat serbest zaman tercih ediyor; bu süre ana şelaleleri görmeye ve klasik ahşap yol turunu yürümeye yetiyor. Rezervasyon sırasında daha kısa ya da daha uzun bir süre kararlaştırılabilir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Krka giriş biletleri fiyata dahil mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hayır. Giriş biletleri doğrudan Krka Milli Parkı'ndan, Skradin ya da Lozovac girişinde veya çevrimiçi olarak ayrıca alınır. Biletler sezona göre yaklaşık 7 ila 40 avro tutar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Šibenik'ten Krka'ya günübirlik gezinin rezervasyonunu ve ödemesini nasıl yaparım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yüzde 20 ön ödeme (en az 20 avro) rezervasyonu onaylar; havale ya da kartla yapılır ve onay olarak bir fatura alırsınız. Kalan tutar yolculuk günü şoföre nakit ya da kartla ödenir."
+          }
+        }
+      ]
+    }
+  ]
+}

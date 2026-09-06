@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-dubrovnik-murter",
+  "title": "Такси Dubrovnik - Murter | Фиксированная цена €535 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Dubrovnik - Murter. Фиксированная цена €535 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси dubrovnik - murter, трансфер dubrovnik - murter, трансфер из аэропорта dubrovnik - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Dubrovnik - Murter",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Dubrovnik - Murter, 535 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-dubrovnik-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "535",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Dubrovnik - Murter, за автомобиль для до 4 пассажиров. Туда и обратно 1070 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Dubrovnik - Murter составляет около 322 км и занимает примерно 4 h 20 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Dubrovnik - Murter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 535 за автомобиль для до 4 пассажиров, в одну сторону, с дорожными сборами, топливом и багажом. Поездка туда и обратно стоит 1070."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансфер частный или общий?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Каждый трансфер частный и от двери до двери, на Škoda Superb. Машину ни с кем не делите, дополнительных остановок нет, если вы сами их не попросите."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете остановиться по пути?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. На длинных маршрутах охотно остановлюсь на кофе, для фото или у короткой достопримечательности. Просто скажите при бронировании."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

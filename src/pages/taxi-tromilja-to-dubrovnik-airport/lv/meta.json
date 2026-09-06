@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-tromilja-dubrovnikas-lidosta",
+  "title": "Taksometrs Tromilja - Dubrovnikas lidosta | Fiksēta cena €485 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Tromilja - Dubrovnikas lidosta. Fiksēta cena €485 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs tromilja - dubrovnikas lidosta, transfērs tromilja - dubrovnikas lidosta, lidostas transfērs tromilja - dubrovnikas lidosta",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Tromilja - Dubrovnikas lidosta",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Tromilja - Dubrovnikas lidosta, 485 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Tromilja",
+        "Dubrovnikas lidosta"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-tromilja-dubrovnikas-lidosta/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Tromilja - Dubrovnikas lidosta, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 970 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik garš ir maršruts un cik ilgi jābrauc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens maršrutā Tromilja - Dubrovnikas lidosta ir aptuveni 298 km garš un ilgst apmēram 4 h 10 min normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā Tromilja - Dubrovnikas lidosta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 485 par automašīnu vienā virzienā, līdz 4 pasažieriem. Cena ir par automašīnu, nevis par personu, un ietver ceļa nodevas, degvielu un bagāžu. Brauciens turp un atpakaļ maksā 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cikos man jādodas uz lidostu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Parasti aptuveni 3 stundas pirms starptautiska lidojuma un 2 stundas pirms iekšzemes lidojuma. Pasakiet man lidojuma laiku, un es apstiprināšu precīzu izbraukšanas laiku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs aizvedat līdz pašam izlidošanas terminālim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Aizvedu jūs tieši līdz izlidošanas terminālim un palīdzu ar bagāžu. Nav jāiet kājām no stāvvietas un nav jāgaida autobuss."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un izbraukšanu, un agrāk agriem rīta lidojumiem un sezonas laikā. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet man WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-trogir-zagrebas-lidosta",
+  "title": "Taksometrs ACI Marina Trogir - Zagrebas lidosta | Fiksēta cena €514 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā ACI Marina Trogir - Zagrebas lidosta. Fiksēta cena €514 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs aci marina trogir - zagrebas lidosta, transfērs aci marina trogir - zagrebas lidosta, lidostas transfērs aci marina trogir - zagrebas lidosta",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs ACI Marina Trogir - Zagrebas lidosta",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā ACI Marina Trogir - Zagrebas lidosta, 514 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Trogir",
+        "Zagrebas lidosta"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-aci-marina-trogir-zagrebas-lidosta/",
+      "offers": {
+        "@type": "Offer",
+        "price": "514",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā ACI Marina Trogir - Zagrebas lidosta, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 1028 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā ACI Marina Trogir - Zagrebas lidosta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 514 par automašīnu vienā virzienā, līdz 4 pasažieriem. Cena ir par automašīnu, nevis par personu, un ietver ceļa nodevas, degvielu un bagāžu. Brauciens turp un atpakaļ maksā 1028."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cikos man jādodas uz lidostu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Parasti aptuveni 3 stundas pirms starptautiska lidojuma un 2 stundas pirms iekšzemes lidojuma. Pasakiet man lidojuma laiku, un es apstiprināšu precīzu izbraukšanas laiku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs aizvedat līdz pašam izlidošanas terminālim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Aizvedu jūs tieši līdz izlidošanas terminālim un palīdzu ar bagāžu. Nav jāiet kājām no stāvvietas un nav jāgaida autobuss."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un izbraukšanu, un agrāk agriem rīta lidojumiem un sezonas laikā. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet man WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

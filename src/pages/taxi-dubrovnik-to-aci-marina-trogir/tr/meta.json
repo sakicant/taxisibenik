@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-dubrovnik-aci-marina-trogir",
+  "title": "Taksi Dubrovnik - ACI Marina Trogir | Sabit fiyat €435 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Dubrovnik - ACI Marina Trogir güzergâhı. Araç başına sabit €435, 4 kişiye kadar. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi dubrovnik - aci marina trogir, transfer dubrovnik - aci marina trogir, havalimanı transferi dubrovnik - aci marina trogir",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Dubrovnik - ACI Marina Trogir",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Dubrovnik - ACI Marina Trogir güzergâhı, 4 yolcuya kadar araç başına 435 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik",
+        "ACI Marina Trogir"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-dubrovnik-aci-marina-trogir/",
+      "offers": {
+        "@type": "Offer",
+        "price": "435",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Dubrovnik - ACI Marina Trogir güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 870 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Dubrovnik - ACI Marina Trogir güzergâhında transfer ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 435, tek yön, otoyol ücretleri, yakıt ve bagaj dahil. Gidiş dönüş yolculuk 870."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni doğrudan marinadan alabilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Sizi marina girişinde veya resepsiyonda karşılar ve bagajla yardım ederim, böylece iskeleden doğruca araca geçersiniz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Transferi tekneme göre ayarlayabilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Rezervasyon sırasında kiralama, check-in veya kalkış saatinizi gönderin, alışı ona göre planlayayım."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya doğrudan WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

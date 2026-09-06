@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-grebastica-aci-marina-vodice",
+  "title": "Ταξί Grebaštica - ACI Marina Vodice | Σταθερή τιμή €55 | TAXI Antonio",
+  "description": "Ιδιωτικό ταξί και μεταφορά, διαδρομή Grebaštica - ACI Marina Vodice. Σταθερή τιμή €55 ανά όχημα, έως 4 άτομα. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί grebaštica - aci marina vodice, μεταφορά grebaštica - aci marina vodice, μεταφορά από αεροδρόμιο grebaštica - aci marina vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτική μεταφορά με ταξί",
+      "name": "Ταξί Grebaštica - ACI Marina Vodice",
+      "description": "Ιδιωτικό ταξί και μεταφορά σε σταθερή τιμή, διαδρομή Grebaštica - ACI Marina Vodice, 55 ευρώ ανά όχημα για έως 4 επιβάτες, από πόρτα σε πόρτα.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Grebaštica",
+        "ACI Marina Vodice"
+      ],
+      "url": "https://taxisibenik.hr/el/taxi-grebastica-aci-marina-vodice/",
+      "offers": {
+        "@type": "Offer",
+        "price": "55",
+        "priceCurrency": "EUR",
+        "description": "Ιδιωτική διαδρομή απλής μετάβασης, διαδρομή Grebaštica - ACI Marina Vodice, ανά όχημα για έως 4 επιβάτες. Μετ' επιστροφής 110 ευρώ."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει μια μεταφορά στη διαδρομή Grebaštica - ACI Marina Vodice;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά 55 ανά όχημα για έως 4 επιβάτες, απλή διαδρομή, με διόδια, καύσιμα και αποσκευές. Η μετ' επιστροφής διαδρομή κοστίζει 110."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να με παραλάβετε μέσα στη μαρίνα;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Σας συναντώ στην είσοδο ή στη ρεσεψιόν της μαρίνας και βοηθώ με τις αποσκευές, ώστε να πάτε από τον προβλήτα κατευθείαν στο όχημα."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να προσαρμόσετε τη μεταφορά στο σκάφος μου;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Στείλτε μου κατά την κράτηση την ώρα του ναύλου, του check-in ή της αναχώρησης και οργανώνω την παραλαβή γύρω από αυτή."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τουλάχιστον 2 ώρες πριν, για να επιβεβαιώσω όχημα και ώρα παραλαβής. Για διαδρομή τελευταίας στιγμής τηλεφωνήστε μου ή γράψτε μου απευθείας στο WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

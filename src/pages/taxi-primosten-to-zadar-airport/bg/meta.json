@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-primosten-letishte-zadar",
+  "title": "Такси Primošten - Летище Задар | Фиксирана цена €160 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Primošten - Летище Задар. Фиксирана цена €160 на автомобил, до 4. Резервирайте директно при Антонио.",
+  "keywords": "такси primošten - летище задар, трансфер primošten - летище задар, летищен трансфер primošten - летище задар",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Primošten - Летище Задар",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Primošten - Летище Задар, 160 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Primošten",
+        "Летище Задар"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-primosten-letishte-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "160",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Primošten - Летище Задар, на автомобил за до 4 пътници. Отиване и връщане 320 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко дълъг е маршрутът и колко трае пътуването?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Пътуването по маршрута Primošten - Летище Задар е дълго около 100 км и трае приблизително 85 min при нормален трафик, малко повече в разгара на лятото. Планирам вземането така, че бавен участък никога да не ви притиска."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва такси по маршрута Primošten - Летище Задар?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 160 на автомобил, еднопосочно, за до 4 пътници. Цената е на автомобил, а не на човек, и включва пътни такси, гориво и багаж. Пътуване с отиване и връщане струва 320."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Кога трябва да тръгна за летището?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По правило около 3 часа преди международен полет и 2 часа преди вътрешен. Кажете ми часа на полета и ще потвърдя точния час на вземане."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Карате ли до самия заминаващ терминал?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Карам ви директно до заминаващия терминал и помагам с багажа. Без вървене от паркинга и без шатъл."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и вземането, и по-рано за ранни сутрешни полети и активния сезон. За пътуване в последния момент се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

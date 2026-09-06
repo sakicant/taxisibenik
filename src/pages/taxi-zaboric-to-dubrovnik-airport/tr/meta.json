@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zaboric-dubrovnik-havalimani",
+  "title": "Taksi Žaborić - Dubrovnik Havalimanı | Sabit fiyat €460 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Žaborić - Dubrovnik Havalimanı güzergâhı. Araç başına sabit €460, 4 kişiye kadar. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi žaborić - dubrovnik havalimanı, transfer žaborić - dubrovnik havalimanı, havalimanı transferi žaborić - dubrovnik havalimanı",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Žaborić - Dubrovnik Havalimanı",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Žaborić - Dubrovnik Havalimanı güzergâhı, 4 yolcuya kadar araç başına 460 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Žaborić",
+        "Dubrovnik Havalimanı"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-zaboric-dubrovnik-havalimani/",
+      "offers": {
+        "@type": "Offer",
+        "price": "460",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Žaborić - Dubrovnik Havalimanı güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 920 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Güzergâh ne kadar uzun ve yolculuk ne kadar sürer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Žaborić - Dubrovnik Havalimanı güzergâhındaki yolculuk yaklaşık 295 km uzunluğunda ve normal trafikte yaklaşık 4 h 10 min sürüyor, yaz yoğunluğunda biraz daha uzun. Alışı, yavaş bir yol sizi asla acele ettirmeyecek şekilde planlıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Žaborić - Dubrovnik Havalimanı güzergâhında taksi ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Araç başına sabit 460, tek yön, 4 yolcuya kadar. Fiyat kişi başına değil araç başınadır ve otoyol ücretlerini, yakıtı ve bagajı kapsar. Gidiş dönüş yolculuk 920."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Havalimanına ne zaman yola çıkmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kural olarak uluslararası uçuştan yaklaşık 3 saat, iç hat uçuşundan 2 saat önce. Bana uçuş saatinizi söyleyin, tam alış saatini onaylayayım."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Giden yolcu terminaline kadar götürüyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Sizi doğrudan giden yolcu terminaline götürüyor ve bagajla yardım ediyorum. Otoparktan yürüyüş yok, servis aracı yok."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alışı onaylayabilmem için en az 2 saat önce, erken sabah uçuşları ve sezon için daha erken. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "marina-zaton-transfers",
+  "title": "Marina Zaton transfēri | Fiksētas cenas | TAXI Antonio",
+  "description": "Privāti transfēri no Marina Zaton pie Šibenikas uz Splitas, Zadaras, Zagrebas un Dubrovnikas lidostām un pilsētām. Fiksētas cenas, sagaidīšana pie piestātnes, viens vietējais šoferis.",
+  "keywords": "marina zaton transfērs, zaton marina taksometrs, marina zaton lidostas transfērs, zaton splitas lidosta",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Marinas taksometra un lidostu transfēri",
+      "name": "Marina Zaton transfēri",
+      "description": "Privāti transfēri no Marina Zaton pie Šibenikas uz Splitas, Zadaras, Zagrebas un Dubrovnikas lidostām un pilsētām. Fiksētas cenas, sagaidīšana pie piestātnes, viens vietējais šoferis.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/lv/marina-zaton-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fiksētas transfēru cenas no Marina Zaton",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton uz Splitas lidostu",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton uz Zadaras lidostu",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton uz Zagrebas lidostu",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton uz Dubrovnikas lidostu",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton uz Splitu",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton uz Zadaru",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton uz Dubrovniku",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton uz Trogiru",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton uz Vodicēm",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton uz Krkas NP (Lozovac)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton uz Šibeniku",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kur jūs sagaidāt Marina Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tieši marinā, pie jūsu piestātnes vai pie marinas reģistratūras, kā jums ērtāk. Rezervējot pasakiet pontona numuru vai laivas vārdu, un es jūs atradīšu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā transfērs uz Splitas lidostu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēta cena par automašīnu līdz 4 pasažieriem, saskaņota pirms brauciena, ar ceļa nodevām, degvielu un bagāžu. Visu maršrutu cenas skatiet cenrādī augstāk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku, un savlaicīgāk agru rīta lidojumu un sezonas pīķa gadījumā. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet man WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-primosten",
+  "title": "Primošten'den Krka'ya Günübirlik Gezi | Özel Transfer, Sabit €155 | TAXI Antonio",
+  "description": "Primošten'den Krka'ya özel gidiş dönüş taksi transferi. Araç başına sabit €155, 4 yolcuya kadar, Primošten, Zečevo ve Rogoznica'daki otel ve dairelerden kapıdan kapıya. Tur değil, sadece gidiş ve dönüş yolculuğu.",
+  "keywords": "primošten'den krka'ya günübirlik gezi, primošten'den krka, primošten'den krka'ya taksi, krka transferi primošten, rogoznica'dan krka, zečevo'dan krka, primošten'den krka milli parkı'na",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Primošten'den Krka'ya özel günübirlik gezi",
+      "description": "Yerel, İngilizce konuşan bir şoförle Primošten'den Krka Milli Parkı'na özel günübirlik gezi. 4 yolcuya kadar araç başına sabit 155 avro; Primošten, Zečevo bölgesi ve Rogoznica'daki otel ve dairelerden kapıdan kapıya alış.",
+      "touristType": "Doğa ve gezi",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "155",
+        "priceCurrency": "EUR",
+        "description": "Özel araç, Primošten'den Krka Milli Parkı'na gidiş dönüş, 4 yolcuya kadar. Park giriş biletleri dahil değildir."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Bu rehberli bir tur mu, taksi transferi mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bu rehberli bir tur değil, bir taksi transferidir. Antonio, Primošten'den Krka'ya gidip dönen özel bir transfer sunan yerel bir şofördür. Araç ve sürüş size aittir; parkın içinde kendi başınıza, kendi temponuzda gezersiniz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Primošten'in yanı sıra Zečevo bölgesi ve Rogoznica'dan da alış yapıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Zečevo bölgesi ve Rogoznica'dan alış, Primošten ile aynı sabit fiyattadır. Rogoznica'daki Marina Frapa dahil, her otel, daire ya da villadan sizi kapıdan kapıya alıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Primošten'den Krka'ya taksi ne kadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Primošten'den Krka'ya özel gidiş dönüş transfer, 4 yolcuya kadar araç başına sabit 155 avrodur; yakıt ve parktaki bekleme süresi dahildir. Aynı fiyat Zečevo bölgesi ve Rogoznica alışlarını da kapsar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Krka Milli Parkı'nda ne kadar vakit geçiriyoruz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Misafirlerin çoğu parkın içinde yaklaşık 3 ila 4 saat serbest zaman tercih ediyor; bu süre ana şelaleleri görmeye ve klasik ahşap yol turunu yürümeye yetiyor. Rezervasyon sırasında daha kısa ya da daha uzun bir süre kararlaştırılabilir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Krka giriş biletleri fiyata dahil mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hayır. Giriş biletleri doğrudan Krka Milli Parkı'ndan, Skradin ya da Lozovac girişinde veya çevrimiçi olarak ayrıca alınır. Biletler sezona göre yaklaşık 7 ila 40 avro tutar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Primošten'den Krka'ya günübirlik gezinin rezervasyonunu ve ödemesini nasıl yaparım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yüzde 20 ön ödeme (en az 20 avro) rezervasyonu onaylar; havale ya da kartla yapılır ve onay olarak bir fatura alırsınız. Kalan tutar yolculuk günü şoföre nakit ya da kartla ödenir."
+          }
+        }
+      ]
+    }
+  ]
+}

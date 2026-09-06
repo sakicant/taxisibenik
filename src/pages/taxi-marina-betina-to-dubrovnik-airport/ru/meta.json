@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-betina-aeroport-dubrovnik",
+  "title": "Такси Marina Betina - Аэропорт Дубровник | Фиксированная цена €535 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Marina Betina - Аэропорт Дубровник. Фиксированная цена €535 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси marina betina - аэропорт дубровник, трансфер marina betina - аэропорт дубровник, трансфер из аэропорта marina betina - аэропорт дубровник",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Marina Betina - Аэропорт Дубровник",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Marina Betina - Аэропорт Дубровник, 535 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Betina",
+        "Аэропорт Дубровник"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-marina-betina-aeroport-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "535",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Marina Betina - Аэропорт Дубровник, за автомобиль для до 4 пассажиров. Туда и обратно 1070 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Marina Betina - Аэропорт Дубровник?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 535 за автомобиль, в одну сторону, для до 4 пассажиров. Цена за автомобиль, а не за человека, и включает дорожные сборы, топливо и багаж. Поездка туда и обратно стоит 1070."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Когда нужно выезжать в аэропорт?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Обычно примерно за 3 часа до международного рейса и за 2 часа до внутреннего. Скажите время рейса, и я подтвержу точное время подачи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Вы подвозите к самому терминалу вылета?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Везу прямо к терминалу вылета и помогаю с багажом. Не нужно идти от парковки и ждать шаттл."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и подачу, и раньше для ранних утренних рейсов и высокого сезона. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-knin",
+  "title": "Таксі Кнін | TAXI Antonio",
+  "description": "Таксі Кнін: трансфери на довгу відстань у Шибеник (€95), аеропорт Спліт (€110) і аеропорт Задар з історичного залізничного міста в глибині краю. Фіксовані ціни.",
+  "keywords": "таксі кнін, кнін таксі, таксі залізнична станція кнін, трансфер кнін аеропорт, кнін аеропорт спліт, кнін шибеник, таксі кнінська фортеця",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Місцеве таксі та трансфери в аеропорт",
+      "name": "Таксі Кнін",
+      "description": "Приватне таксі на довгу відстань за фіксованою ціною з Кніна, історичного залізничного міста в глибині краю, до Шибеника, аеропорту Спліт і аеропорту Задар.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Knin",
+      "url": "https://taxisibenik.hr/uk/taxi-knin/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ціни на таксі з Кніна",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Таксі Кнін - Шибеник",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Knin&to=%C5%A0ibenik%20-%20center&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Кнін - аеропорт Спліт",
+            "price": "110",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Knin&to=Split%20Airport%20%28SPU%29&price=110"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Кнін - аеропорт Задар",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Knin&to=Zadar%20Airport%20%28ZAD%29&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Чи зустрічаєте ви потяги на станції Кнін?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Я зустрічаю вас на пероні або біля виходу зі станції, допомагаю з сумками і везу далі. Надішліть мені час прибуття потяга при бронюванні."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ціна на довгу відстань фіксована?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так, і узгоджена наперед з огляду на відстань. Кнін - Шибеник коштує €95, аеропорт Спліт €110, а аеропорт Задар €140 за автомобіль для до 4 пасажирів."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете виконати поїздку туди й назад того самого дня?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Я можу почекати або повернутися за вами того самого дня. Скажіть мені час, і я підтверджу фіксовану ціну за поїздку туди й назад."
+          }
+        }
+      ]
+    }
+  ]
+}

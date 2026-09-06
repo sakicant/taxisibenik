@@ -1,0 +1,85 @@
+{
+  "slug": "airport-transfers-from-sibenik",
+  "title": "Μεταφορές Αεροδρομίου Šibenik | Σταθερές Τιμές | TAXI Antonio",
+  "description": "Μεταφορές αεροδρομίου Šibenik από και προς τα αεροδρόμια Split, Zadar, Zagreb και Dubrovnik. Σταθερές τιμές, παρακολούθηση πτήσης, από πόρτα σε πόρτα. Εξυπηρετώ και Vodice, Primošten & Skradin. Κλείστε με τον Antonio.",
+  "keywords": "μεταφορές αεροδρομίου sibenik, μεταφορά αεροδρομίου šibenik, αεροδρόμιο split προς sibenik, αεροδρόμιο zadar προς sibenik, μεταφορά αεροδρομίου vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Μεταφορά αεροδρομίου",
+      "name": "Μεταφορές Αεροδρομίου από το Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Αεροδρόμιο Split",
+        "Αεροδρόμιο Zadar",
+        "Αεροδρόμιο Zagreb",
+        "Αεροδρόμιο Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/el/airport-transfers-from-sibenik/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πώς θα βρω τον οδηγό μου στο αεροδρόμιο;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ο Antonio περιμένει στην αίθουσα αφίξεων μετά την παραλαβή αποσκευών, κρατώντας μια ευδιάκριτη πινακίδα με το όνομά σας."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Τι γίνεται αν η πτήση μου καθυστερήσει;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Οι πτήσεις παρακολουθούνται σε πραγματικό χρόνο με τον αριθμό πτήσης που δίνετε κατά την κράτηση. Η ώρα παραλαβής προσαρμόζεται αυτόματα και δεν υπάρχει επιπλέον χρέωση για την αναμονή."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Η τιμή της μεταφοράς αεροδρομίου είναι σταθερή;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Κάθε μεταφορά αεροδρομίου έχει σταθερή τιμή ανά αυτοκίνητο για έως 4 επιβάτες, με τα διόδια, τα καύσιμα και τις αποσκευές. Χωρίς ταξίμετρο, χωρίς εκπλήξεις."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Παρέχετε παιδικά καθίσματα για τις μεταφορές αεροδρομίου;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι, τα παιδικά καθίσματα και τα καθίσματα ενίσχυσης παρέχονται δωρεάν. Ζητήστε τα απλώς στις σημειώσεις της κράτησης, μαζί με την ηλικία του παιδιού."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πώς πληρώνω μια μεταφορά αεροδρομίου;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Προκαταβολή 20% (ελάχιστο 20 ευρώ) επιβεβαιώνει την κράτηση, με τραπεζικό έμβασμα ή κάρτα. Το υπόλοιπο πληρώνεται στον οδηγό την ημέρα της διαδρομής, μετρητά ή με κάρτα."
+          }
+        }
+      ]
+    }
+  ]
+}

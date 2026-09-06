@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-dubrovnik-primosten",
+  "title": "Такси Dubrovnik - Primošten | Фиксирана цена €450 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Dubrovnik - Primošten. Фиксирана цена €450 на автомобил, до 4. Резервирайте директно при Антонио.",
+  "keywords": "такси dubrovnik - primošten, трансфер dubrovnik - primošten, летищен трансфер dubrovnik - primošten",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Dubrovnik - Primošten",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Dubrovnik - Primošten, 450 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-dubrovnik-primosten/",
+      "offers": {
+        "@type": "Offer",
+        "price": "450",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Dubrovnik - Primošten, на автомобил за до 4 пътници. Отиване и връщане 900 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко дълъг е маршрутът и колко трае пътуването?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Пътуването по маршрута Dubrovnik - Primošten е дълго около 295 км и трае приблизително 4 h при нормален трафик, малко повече в разгара на лятото. Планирам вземането така, че бавен участък никога да не ви притиска."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва такси по маршрута Dubrovnik - Primošten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 450 на автомобил за до 4 пътници, еднопосочно, с пътни такси, гориво и багаж. Пътуване с отиване и връщане струва 900."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансферът частен ли е или споделен?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Всеки трансфер е частен и от врата до врата, с Škoda Superb. Автомобилът не се споделя и няма допълнителни спирания, освен ако не ги поискате."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Може ли да спрете по пътя?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. По по-дългите маршрути с удоволствие спирам за кафе, за снимка или за кратка забележителност. Само ми кажете при резервацията."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и часа на вземане. За пътуване в последния момент се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

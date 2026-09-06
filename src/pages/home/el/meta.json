@@ -1,0 +1,241 @@
+{
+  "slug": "",
+  "title": "Ταξί Šibenik - Υπηρεσία που μπορείτε να εμπιστευτείτε | Taxi Antonio",
+  "description": "Ταξί Šibenik για άμεσες τοπικές διαδρομές, παραλαβές από νοσοκομείο και ξενοδοχεία, το σταθμό λεωφορείων και το λιμάνι, και συνδέσεις με τα νησιά. Οδηγός που μιλά αγγλικά. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί šibenik, taxi sibenik, ταξί šibenik νοσοκομείο, ταξί ξενοδοχείο šibenik, ταξί λιμάνι šibenik, ταξί zlarin prvic",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-home-land.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "TAXI Šibenik & Skradin - Antonio",
+      "url": "https://taxisibenik.hr/el/",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "areaServed": [
+        "Šibenik",
+        "Skradin",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Šibenik",
+        "postalCode": "22000",
+        "addressCountry": "HR"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "152"
+      },
+      "priceRange": "€€",
+      "alternateName": "TAXI Antonio",
+      "@id": "https://taxisibenik.hr/el/#business",
+      "image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
+      "paymentAccepted": "Μετρητά, πιστωτική κάρτα",
+      "currenciesAccepted": "EUR",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6956974,
+        "longitude": 15.7891511
+      },
+      "hasMap": "https://www.google.com/maps?cid=4748268601430744277",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "20:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "07:00",
+          "closes": "16:00"
+        }
+      ],
+      "sameAs": [
+        "https://web.facebook.com/profile.php?id=61579783829997",
+        "https://www.instagram.com/taxi_sibenik/",
+        "https://www.tiktok.com/@taxisibenik",
+        "https://www.tripadvisor.com/Attraction_Review-g295375-d24821165-Reviews-TAXI_Sibenik_Skradin_Antonio-Sibenik_Sibenik_Knin_County_Dalmatia.html",
+        "https://www.google.com/maps?cid=4748268601430744277"
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Υπηρεσία ταξί και μεταφορών",
+      "name": "Ταξί Šibenik από την TAXI Antonio",
+      "areaServed": {
+        "@type": "City",
+        "name": "Šibenik"
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Υπηρεσίες ταξί και μεταφορών",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Τοπικές διαδρομές με ταξί στο Šibenik"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Μεταφορές από και προς αεροδρόμια"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Μεταφορές μεταξύ πόλεων"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Μεταφορές από και προς ξενοδοχεία"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Ημερήσιες εκδρομές στο Krka και στις λίμνες Plitvice"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πώς κλείνω ταξί από το Šibenik;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τηλεφωνήστε στο +385 99 447 1013, γράψτε στο WhatsApp ή στείλτε e-mail. Ο Αντόνιο χρειάζεται το σημείο παραλαβής, τον προορισμό και την ώρα παραλαβής ή άφιξης που προτιμάτε."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Οι κρατήσεις χρειάζονται τουλάχιστον 2 ώρες προειδοποίηση. Αιτήματα τελευταίας στιγμής γίνονται δεκτά εντός των ωρών λειτουργίας, αλλά η κράτηση εκ των προτέρων εξασφαλίζει τη διαθεσιμότητα."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Τι σημαίνει \"σταθερή τιμή\"; Τι περιλαμβάνεται;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Οι σταθερές τιμές περιλαμβάνουν τη μεταφορά, τα καύσιμα, τα διόδια και βοήθεια με τις αποσκευές. Χωρίς κρυφές χρεώσεις. Επιπλέον στάσεις ή μεγάλες αναμονές μπορεί να κοστίσουν περισσότερο, και αυτό σας το λέω εκ των προτέρων."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Δέχεστε προκαταβολή;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Για την επιβεβαίωση μιας κράτησης απαιτείται προκαταβολή 20% (τουλάχιστον 20 ευρώ). Όταν η τιμή της διαδρομής είναι 20 ευρώ ή λιγότερο, η ελάχιστη προκαταβολή ισούται με την τιμή. Η προκαταβολή πληρώνεται με τραπεζικό έμβασμα (SEPA) ή με κάρτα, και το υπόλοιπο εξοφλείται την ημέρα της μεταφοράς."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Δέχεστε πληρωμή με κάρτα μέσα στο αυτοκίνητο;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι, δέχομαι κάρτες και άλλες ανέπαφες μεθόδους πληρωμής."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Κάνετε παραλαβές από το νοσοκομείο στο Šibenik;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Ο Αντόνιο μεταφέρει επιβάτες από και προς το Γενικό Νοσοκομείο Šibenik και έχει άδεια να μπει με το αυτοκίνητο μέσα στον χώρο του νοσοκομείου, οπότε δεν χρειάζεται μεγάλο περπάτημα από κάποιο πάρκινγκ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να με πάτε στο πλοίο για τα νησιά;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Ο Αντόνιο σας αφήνει και σας παραλαμβάνει από το λιμάνι των πλοίων και των καταμαράν του Šibenik για Zlarin, Prvić, Kaprije και Žirje, καθώς και για το σκάφος προς το Obonjan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Κάνετε παραλαβές από ξενοδοχεία του Šibenik, από τον σταθμό λεωφορείων και τους σιδηροδρομικούς σταθμούς;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Ο Αντόνιο εξυπηρετεί όλα τα τοπικά ξενοδοχεία, τον σταθμό λεωφορείων, τους σιδηροδρομικούς σταθμούς Šibenik και Perković και το λιμάνι, με βοήθεια στις αποσκευές και πινακίδα με το όνομά σας εφόσον το ζητήσετε."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Τι γίνεται αν καθυστερήσει η πτήση μου;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Οι αφίξεις των πτήσεων παρακολουθούνται σε πραγματικό χρόνο και η ώρα παραλαβής προσαρμόζεται αυτόματα, χωρίς επιπλέον χρέωση."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Τι γίνεται αν χρειαστεί να ακυρώσω;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Οι ακυρώσεις γίνονται γραπτώς με e-mail. Πάνω από 72 ώρες πριν από την κράτηση ισχύει πλήρης επιστροφή χρημάτων, ανεξάρτητα από τον τρόπο πληρωμής. Ακυρώσεις εντός 72 ωρών ή μη εμφάνιση δεν επιστρέφονται. Η αλλαγή ημερομηνίας είναι δωρεάν ανά πάσα στιγμή."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να εξυπηρετήσετε μεγαλύτερη ομάδα;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Το Škoda Superb χωράει έως 4 επιβάτες. Για μεγαλύτερες ομάδες μπορούν να γίνουν διευθετήσεις μέσω τοπικών, προσεκτικά επιλεγμένων συνεργατών."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Παρέχετε παιδικά καθίσματα;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι, παιδικά καθίσματα και καθίσματα ενίσχυσης είναι διαθέσιμα κατόπιν αιτήματος."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-aeroport-zagreb-makarska",
+  "title": "Taxi Aeroportul Zagreb - Makarska | Preț fix €610 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Aeroportul Zagreb - Makarska. Preț fix €610 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi aeroportul zagreb - makarska, transfer aeroportul zagreb - makarska, transfer aeroport aeroportul zagreb - makarska",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Aeroportul Zagreb - Makarska",
+      "description": "Taxi și transfer privat la preț fix, ruta Aeroportul Zagreb - Makarska, 610 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Aeroportul Zagreb",
+        "Makarska"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-aeroport-zagreb-makarska/",
+      "offers": {
+        "@type": "Offer",
+        "price": "610",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Aeroportul Zagreb - Makarska, per vehicul pentru până la 4 pasageri. Dus-întors 1220 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât de lungă este ruta și cât durează cursa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cursa pe ruta Aeroportul Zagreb - Makarska are aproximativ 467 km și durează în jur de 5 h 5 min în trafic normal, puțin mai mult în vârf de sezon. Planific preluarea astfel încât un tronson lent să nu vă grăbească niciodată."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Unde mă întâmpinați?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "În zona de sosiri, imediat după ridicarea bagajelor, cu o plăcuță cu numele dumneavoastră. Vă ajut cu bagajele și vă conduc la vehicul."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ce se întâmplă dacă zborul meu întârzie?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicio problemă. Vă urmăresc zborul în timp real și adaptez preluarea la aterizarea reală, fără cost suplimentar pentru așteptare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă transferul pe ruta Aeroportul Zagreb - Makarska?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 610 per vehicul pentru până la 4 pasageri, dus, cu taxele de drum și bagajele incluse. O cursă dus-întors costă 1220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să pot planifica în jurul zborului dumneavoastră. Pentru o preluare în aceeași zi, după o schimbare de ultim moment, sunați-mă sau scrieți pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

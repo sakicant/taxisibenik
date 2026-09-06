@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zablace-grebastica",
+  "title": "Такси Zablaće - Grebaštica | Фиксированная цена €35 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Zablaće - Grebaštica. Фиксированная цена €35 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси zablaće - grebaštica, трансфер zablaće - grebaštica, трансфер из аэропорта zablaće - grebaštica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Zablaće - Grebaštica",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Zablaće - Grebaštica, 35 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zablaće",
+        "Grebaštica"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-zablace-grebastica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "35",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Zablaće - Grebaštica, за автомобиль для до 4 пассажиров. Туда и обратно 70 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Zablaće - Grebaštica составляет около 18 км и занимает примерно 25 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Zablaće - Grebaštica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 35 за автомобиль для до 4 пассажиров, в одну сторону, багаж включён. Поездка туда и обратно стоит 70."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня забираете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По вашему точному адресу, будь то дом, отель или апартаменты. Пришлите адрес при бронировании, и я подтвержу место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

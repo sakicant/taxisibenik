@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-bilice-brodarica",
+  "title": "Taksi Bilice - Brodarica | Sabit fiyat €30 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Bilice - Brodarica güzergâhı. Araç başına sabit €30, 4 yolcuya kadar, kapıdan kapıya. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi bilice - brodarica, transfer bilice - brodarica, havalimanı transferi bilice - brodarica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Bilice - Brodarica",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Bilice - Brodarica güzergâhı, 4 yolcuya kadar araç başına 30 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Bilice",
+        "Brodarica"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-bilice-brodarica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "30",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Bilice - Brodarica güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 60 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Güzergâh ne kadar uzun ve yolculuk ne kadar sürer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bilice - Brodarica güzergâhındaki yolculuk yaklaşık 10 km uzunluğunda ve normal trafikte yaklaşık 15 min sürüyor, yaz yoğunluğunda biraz daha uzun. Alışı, yavaş bir yol sizi asla acele ettirmeyecek şekilde planlıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bilice - Brodarica güzergâhında taksi ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 30, tek yön, bagaj dahil. Gidiş dönüş yolculuk 60."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni nereden alıyorsunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ev, otel ya da apart olsun, tam adresinizden. Rezervasyon sırasında adresi gönderin, buluşma noktasını onaylayayım."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

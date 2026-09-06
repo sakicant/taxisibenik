@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-letishte-zagreb-zaton",
+  "title": "Такси Летище Загреб - Zaton | Фиксирана цена €485 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Летище Загреб - Zaton. Фиксирана цена €485 на автомобил, до 4. Резервирайте директно при Антонио.",
+  "keywords": "такси летище загреб - zaton, трансфер летище загреб - zaton, летищен трансфер летище загреб - zaton",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Летище Загреб - Zaton",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Летище Загреб - Zaton, 485 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Летище Загреб",
+        "Zaton"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-letishte-zagreb-zaton/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Летище Загреб - Zaton, на автомобил за до 4 пътници. Отиване и връщане 970 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко дълъг е маршрутът и колко трае пътуването?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Пътуването по маршрута Летище Загреб - Zaton е дълго около 338 км и трае приблизително 3 h 45 min при нормален трафик, малко повече в разгара на лятото. Планирам вземането така, че бавен участък никога да не ви притиска."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Къде ме посрещате?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "В залата за пристигащи, веднага след получаването на багажа, с табела с вашето име. Помагам с багажа и ви водя до автомобила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Какво става, ако полетът ми закъснее?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Няма проблем. Следя полета ви в реално време и съобразявам вземането с действителното кацане, без доплащане за изчакване."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва трансферът по маршрута Летище Загреб - Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 485 на автомобил за до 4 пътници, еднопосочно, пътни такси и багаж включени. Пътуване с отиване и връщане струва 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да планирам около вашия полет. За вземане в същия ден след внезапна промяна се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "sibenik-transfers",
+  "title": "Transferuri Šibenik | Prețuri fixe | TAXI Antonio",
+  "description": "Transferuri Šibenik spre și dinspre Split, Zadar, Dubrovnik, Zagreb, Trogir și mai departe. Prețuri fixe, curse private din ușă în ușă, un singur șofer local. Rezervați direct la Antonio.",
+  "keywords": "transferuri šibenik, transfer šibenik, taxi šibenik split, šibenik zadar, šibenik dubrovnik, šibenik zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer cu taxiul de la oraș la oraș",
+      "name": "Transferuri Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/ro/sibenik-transfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât costă un transfer cu taxiul din Šibenik la Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un transfer privat din Šibenik la Split costă fix 140 de euro per mașină pentru până la 4 pasageri, cu taxe de drum, combustibil și bagaje incluse."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Prețurile transferurilor sunt fixe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Fiecare transfer de la oraș la oraș are un preț fix per mașină pentru până la 4 pasageri, agreat dinainte. Fără aparat de taxat și fără surprize."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Transferul este privat sau în comun?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiecare transfer este privat și din ușă în ușă, cu un Škoda Superb. Nu împart mașina cu alți pasageri și nu fac opriri suplimentare decât dacă le cereți."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puteți opri pe drum?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Pe transferurile mai lungi opresc cu plăcere pentru o cafea, o fotografie sau o privire scurtă asupra unui obiectiv. Spuneți-mi la rezervare și țin cont de asta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cum plătesc un transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un avans de 20% (minimum 20 de euro) confirmă rezervarea, prin transfer bancar sau card. Restul se plătește șoferului în ziua cursei, în numerar sau cu cardul."
+          }
+        }
+      ]
+    }
+  ]
+}

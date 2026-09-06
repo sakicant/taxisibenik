@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-grebastica-bilo",
+  "title": "Taksi Grebaštica - Bilo | Sabit fiyat €40 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Grebaštica - Bilo güzergâhı. Araç başına sabit €40, 4 yolcuya kadar, kapıdan kapıya. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi grebaštica - bilo, transfer grebaštica - bilo, havalimanı transferi grebaštica - bilo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Grebaštica - Bilo",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Grebaštica - Bilo güzergâhı, 4 yolcuya kadar araç başına 40 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Grebaštica",
+        "Bilo"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-grebastica-bilo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "40",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Grebaštica - Bilo güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 80 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Güzergâh ne kadar uzun ve yolculuk ne kadar sürer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Grebaštica - Bilo güzergâhındaki yolculuk yaklaşık 5 km uzunluğunda ve normal trafikte yaklaşık 5 min sürüyor, yaz yoğunluğunda biraz daha uzun. Alışı, yavaş bir yol sizi asla acele ettirmeyecek şekilde planlıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Grebaštica - Bilo güzergâhında taksi ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 40, tek yön, bagaj dahil. Gidiş dönüş yolculuk 80."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni nereden alıyorsunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ev, otel ya da apart olsun, tam adresinizden. Rezervasyon sırasında adresi gönderin, buluşma noktasını onaylayayım."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

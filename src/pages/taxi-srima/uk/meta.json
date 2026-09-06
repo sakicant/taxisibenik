@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-srima",
+  "title": "Таксі Сріма | TAXI Antonio",
+  "description": "Таксі Сріма: фіксовані трансфери в аеропорти Спліт і Задар (€110), поїздки в Шибеник і подача до порома у Водіце на Првіч. Подача до дверей.",
+  "keywords": "таксі сріма, сріма таксі, таксі сріма водіце, сріма трансфер аеропорт, сріма аеропорт спліт, сріма аеропорт задар",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Місцеве таксі та трансфери в аеропорт",
+      "name": "Таксі Сріма",
+      "description": "Приватне таксі за фіксованою ціною зі Сріми, поруч із Водіце, до аеропорту Спліт, аеропорту Задар і Шибеника, з висадкою біля порома на острови у Водіце.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Srima",
+      "url": "https://taxisibenik.hr/uk/taxi-srima/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ціни на таксі зі Сріми",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Таксі Сріма - Шибеник",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Srima&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Сріма - аеропорт Задар",
+            "price": "110",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Srima&to=Zadar%20Airport%20%28ZAD%29&price=110"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Сріма - аеропорт Спліт",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Srima&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Чи можете ви відвезти мене до порома на Првіч?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Пором на острів Првіч відходить із пристані у Водіце поруч зі Срімою, і я можу довезти вас туди за пару хвилин. Запитайте мене про ціну при бронюванні."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує зі Сріми до аеропортів?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Аеропорт Задар, це фіксовані €110, а аеропорт Спліт €115 за автомобіль для до 4 пасажирів, з дорожніми зборами і багажем у вартості."
+          }
+        }
+      ]
+    }
+  ]
+}

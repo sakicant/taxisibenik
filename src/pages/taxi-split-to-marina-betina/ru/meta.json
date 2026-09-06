@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-split-marina-betina",
+  "title": "Такси Split - Marina Betina | Фиксированная цена €180 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Split - Marina Betina. Фиксированная цена €180 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси split - marina betina, трансфер split - marina betina, трансфер из аэропорта split - marina betina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Split - Marina Betina",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Split - Marina Betina, 180 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Split",
+        "Marina Betina"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-split-marina-betina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "180",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Split - Marina Betina, за автомобиль для до 4 пассажиров. Туда и обратно 360 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит трансфер на маршруте Split - Marina Betina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 180 за автомобиль для до 4 пассажиров, в одну сторону, с дорожными сборами, топливом и багажом. Поездка туда и обратно стоит 360."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете забрать прямо в марине?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Встречаю вас у входа в марину или на ресепшене и помогаю с багажом, чтобы вы с понтона сразу прошли к машине."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете подстроить трансфер под моё судно?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Пришлите при бронировании время чартера, регистрации или отхода, и я спланирую подачу под него."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите прямо в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-dubrovnik-marina-trogir-sct",
+  "title": "Taxi Dubrovnik - Marina Trogir (SCT) | Preț fix €435 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Dubrovnik - Marina Trogir (SCT). Preț fix €435 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi dubrovnik - marina trogir (sct), transfer dubrovnik - marina trogir (sct), transfer aeroport dubrovnik - marina trogir (sct)",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Dubrovnik - Marina Trogir (SCT)",
+      "description": "Taxi și transfer privat la preț fix, ruta Dubrovnik - Marina Trogir (SCT), 435 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik",
+        "Marina Trogir (SCT)"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-dubrovnik-marina-trogir-sct/",
+      "offers": {
+        "@type": "Offer",
+        "price": "435",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Dubrovnik - Marina Trogir (SCT), per vehicul pentru până la 4 pasageri. Dus-întors 870 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât costă un transfer pe ruta Dubrovnik - Marina Trogir (SCT)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 435 per vehicul pentru până la 4 pasageri, dus, cu taxele de drum, carburantul și bagajele. O cursă dus-întors costă 870."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puteți să mă preluați chiar din marină?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Vă întâlnesc la intrarea în marină sau la recepție și vă ajut cu bagajele, ca să mergeți de pe ponton direct la vehicul."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puteți potrivi transferul cu ambarcațiunea mea?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Trimiteți-mi la rezervare ora charterului, a check-inului sau a plecării și planific preluarea în jurul ei."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți-mi direct pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

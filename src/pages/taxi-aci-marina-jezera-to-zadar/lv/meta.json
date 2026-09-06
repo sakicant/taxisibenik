@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-jezera-zadar",
+  "title": "Taksometrs ACI Marina Jezera - Zadar | Fiksēta cena €110 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā ACI Marina Jezera - Zadar. Fiksēta cena €110 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs aci marina jezera - zadar, transfērs aci marina jezera - zadar, lidostas transfērs aci marina jezera - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs ACI Marina Jezera - Zadar",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā ACI Marina Jezera - Zadar, 110 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Jezera",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-aci-marina-jezera-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā ACI Marina Jezera - Zadar, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 220 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik maksā transfērs maršrutā ACI Marina Jezera - Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 110 par automašīnu līdz 4 pasažieriem vienā virzienā, ar ceļa nodevām, degvielu un bagāžu. Brauciens turp un atpakaļ maksā 220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat mani paņemt tieši marīnā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Sagaidu jūs pie marīnas ieejas vai reģistratūrā un palīdzu ar bagāžu, lai jūs no pontona dotos tieši pie automašīnas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat pielāgot transfēru manai laivai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Rezervējot atsūtiet man čartera, reģistrācijas vai izbraukšanas laiku, un es plānošu sagaidīšanu ap to."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet man tieši WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

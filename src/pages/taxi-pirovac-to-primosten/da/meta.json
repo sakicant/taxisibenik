@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-pirovac-primosten",
+  "title": "Taxa Pirovac - Primošten | Fast pris €100 | TAXI Antonio",
+  "description": "Privat taxa og transfer på ruten Pirovac - Primošten. Fast pris €100 pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+  "keywords": "taxa pirovac - primošten, transfer pirovac - primošten, lufthavnstransfer pirovac - primošten",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxatransfer",
+      "name": "Taxa Pirovac - Primošten",
+      "description": "Privat taxa og transfer til fast pris på ruten Pirovac - Primošten, 100 euro pr. bil for op til 4 passagerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Pirovac",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/da/taxi-pirovac-primosten/",
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Privat enkeltrejse på ruten Pirovac - Primošten, pr. bil for op til 4 passagerer. Tur og retur 200 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er ruten, og hvor længe tager turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på ruten Pirovac - Primošten er cirka 51 km lang og tager omkring 65 min i normal trafik, lidt længere i sommerens højsæson. Jeg planlægger afhentningen, så en langsom strækning aldrig får dig til at skynde dig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster en taxa på ruten Pirovac - Primošten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 100 pr. bil for op til 4 passagerer, enkeltrejse, bagage inkluderet. Tur og retur koster 200."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor henter du mig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "På din præcise adresse, uanset om det er et hus, et hotel eller en lejlighed. Send adressen, når du bestiller, så bekræfter jeg mødestedet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindst 2 timer før, så jeg kan bekræfte bil og afhentningstidspunkt. Har du brug for en tur med kort varsel, så ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-rogoznica-marina-hramina",
+  "title": "Taksometrs Rogoznica - Marina Hramina | Fiksēta cena €135 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Rogoznica - Marina Hramina. Fiksēta cena €135 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs rogoznica - marina hramina, transfērs rogoznica - marina hramina, lidostas transfērs rogoznica - marina hramina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Rogoznica - Marina Hramina",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Rogoznica - Marina Hramina, 135 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Rogoznica",
+        "Marina Hramina"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-rogoznica-marina-hramina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "135",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Rogoznica - Marina Hramina, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 270 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik maksā transfērs maršrutā Rogoznica - Marina Hramina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 135 par automašīnu līdz 4 pasažieriem vienā virzienā, ar ceļa nodevām, degvielu un bagāžu. Brauciens turp un atpakaļ maksā 270."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat mani paņemt tieši marīnā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Sagaidu jūs pie marīnas ieejas vai reģistratūrā un palīdzu ar bagāžu, lai jūs no pontona dotos tieši pie automašīnas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat pielāgot transfēru manai laivai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Rezervējot atsūtiet man čartera, reģistrācijas vai izbraukšanas laiku, un es plānošu sagaidīšanu ap to."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet man tieši WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

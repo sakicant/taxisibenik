@@ -38,21 +38,21 @@
             "name": "Taksi Grebaštica do Šibenika",
             "price": "35",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/sr/book/?from=Greba%C5%A1tica&to=%C5%A0ibenik%20-%20center&price=35"
+            "url": "https://taxisibenik.hr/sr/rezervacija/?from=Greba%C5%A1tica&to=%C5%A0ibenik%20-%20center&price=35"
           },
           {
             "@type": "Offer",
             "name": "Taksi Grebaštica do Vodica",
             "price": "55",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/sr/book/?from=Greba%C5%A1tica&to=Vodice&price=55"
+            "url": "https://taxisibenik.hr/sr/rezervacija/?from=Greba%C5%A1tica&to=Vodice&price=55"
           },
           {
             "@type": "Offer",
             "name": "Taksi Grebaštica do aerodroma Split",
             "price": "90",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/sr/book/?from=Greba%C5%A1tica&to=Split%20Airport%20%28SPU%29&price=90"
+            "url": "https://taxisibenik.hr/sr/rezervacija/?from=Greba%C5%A1tica&to=Split%20Airport%20%28SPU%29&price=90"
           }
         ]
       }

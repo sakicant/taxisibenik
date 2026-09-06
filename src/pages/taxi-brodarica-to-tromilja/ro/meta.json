@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-brodarica-tromilja",
+  "title": "Taxi Brodarica - Tromilja | Preț fix €50 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Brodarica - Tromilja. Preț fix €50 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi brodarica - tromilja, transfer brodarica - tromilja, transfer aeroport brodarica - tromilja",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Brodarica - Tromilja",
+      "description": "Taxi și transfer privat la preț fix, ruta Brodarica - Tromilja, 50 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Brodarica",
+        "Tromilja"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-brodarica-tromilja/",
+      "offers": {
+        "@type": "Offer",
+        "price": "50",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Brodarica - Tromilja, per vehicul pentru până la 4 pasageri. Dus-întors 100 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât de lungă este ruta și cât durează cursa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cursa pe ruta Brodarica - Tromilja are aproximativ 14 km și durează în jur de 15 min în trafic normal, puțin mai mult în vârf de sezon. Planific preluarea astfel încât un tronson lent să nu vă grăbească niciodată."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi pe ruta Brodarica - Tromilja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 50 per vehicul pentru până la 4 pasageri, dus, cu bagajele incluse. O cursă dus-întors costă 100."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "De unde mă preluați?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De la adresa dumneavoastră exactă, fie că este casă, hotel sau apartament. Trimiteți adresa la rezervare și vă confirm punctul de întâlnire."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

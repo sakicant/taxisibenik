@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-tribunj-seget",
+  "title": "Taksi Tribunj - Seget | Sabit fiyat €120 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Tribunj - Seget güzergâhı. Araç başına sabit €120, 4 yolcuya kadar, kapıdan kapıya. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi tribunj - seget, transfer tribunj - seget, havalimanı transferi tribunj - seget",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Tribunj - Seget",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Tribunj - Seget güzergâhı, 4 yolcuya kadar araç başına 120 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Tribunj",
+        "Seget"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-tribunj-seget/",
+      "offers": {
+        "@type": "Offer",
+        "price": "120",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Tribunj - Seget güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 240 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Tribunj - Seget güzergâhında taksi ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 120, tek yön, bagaj dahil. Gidiş dönüş yolculuk 240."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni nereden alıyorsunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ev, otel ya da apart olsun, tam adresinizden. Rezervasyon sırasında adresi gönderin, buluşma noktasını onaylayayım."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

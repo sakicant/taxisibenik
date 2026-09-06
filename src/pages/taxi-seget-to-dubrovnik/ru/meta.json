@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-seget-dubrovnik",
+  "title": "Такси Seget - Dubrovnik | Фиксированная цена €420 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Seget - Dubrovnik. Фиксированная цена €420 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси seget - dubrovnik, трансфер seget - dubrovnik, трансфер из аэропорта seget - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Seget - Dubrovnik",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Seget - Dubrovnik, 420 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Seget",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-seget-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Seget - Dubrovnik, за автомобиль для до 4 пассажиров. Туда и обратно 840 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Seget - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 420 за автомобиль для до 4 пассажиров, в одну сторону, с дорожными сборами, топливом и багажом. Поездка туда и обратно стоит 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансфер частный или общий?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Каждый трансфер частный и от двери до двери, на Škoda Superb. Машину ни с кем не делите, дополнительных остановок нет, если вы сами их не попросите."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете остановиться по пути?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. На длинных маршрутах охотно остановлюсь на кофе, для фото или у короткой достопримечательности. Просто скажите при бронировании."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

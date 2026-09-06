@@ -1,0 +1,139 @@
+{
+  "slug": "marina-zaton-transfers",
+  "title": "Transferuri Marina Zaton | Prețuri fixe | TAXI Antonio",
+  "description": "Transferuri private de la Marina Zaton, lângă Šibenik, către aeroporturile și orașele Split, Zadar, Zagreb și Dubrovnik. Prețuri fixe, preluare la dană, un singur șofer local.",
+  "keywords": "transfer marina zaton, taxi marina zaton, transfer aeroport marina zaton, zaton aeroport split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi de marină și transferuri de aeroport",
+      "name": "Transferuri Marina Zaton",
+      "description": "Transferuri private de la Marina Zaton, lângă Šibenik, către aeroporturile și orașele Split, Zadar, Zagreb și Dubrovnik. Prețuri fixe, preluare la dană, un singur șofer local.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/ro/marina-zaton-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Prețuri fixe de transfer de la Marina Zaton",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Aeroportul Split",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Aeroportul Zadar",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Aeroportul Zagreb",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Aeroportul Dubrovnik",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Split",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Zadar",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Dubrovnik",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Trogir",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Vodice",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Parcul Național Krka (Lozovac)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Šibenik",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "De unde faceți preluarea la Marina Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Chiar la marină, lângă dana dumneavoastră sau la recepția marinei, cum vă convine. Spuneți-mi pontonul sau numele bărcii la rezervare și vă găsesc."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă un transfer la Aeroportul Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un preț fix per mașină pentru până la 4 pasageri, agreat înainte de plecare, cu taxe de drum, combustibil și bagaje incluse. Vedeți lista de prețuri de mai sus pentru fiecare rută."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să pot confirma mașina și ora preluării, și mai devreme pentru zborurile de dimineață devreme și pentru sezonul de vârf. Pentru o cursă mai rapidă, sunați-mă sau scrieți-mi direct pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

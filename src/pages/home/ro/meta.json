@@ -1,0 +1,241 @@
+{
+  "slug": "",
+  "title": "Taxi Šibenik - serviciu pe care vă puteți baza | Taxi Antonio",
+  "description": "Taxi Šibenik pentru curse locale la cerere, preluări de la spital și de la hoteluri, de la autogară și din portul de feriboturi, plus legături cu insulele. Șofer vorbitor de engleză. Rezervați direct la Antonio.",
+  "keywords": "taxi šibenik, taxi sibenik, taxi sibenik spital, taxi hotel sibenik, taxi port feriboturi sibenik, taxi zlarin prvic",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-home-land.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "TAXI Šibenik & Skradin - Antonio",
+      "url": "https://taxisibenik.hr/ro/",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "areaServed": [
+        "Šibenik",
+        "Skradin",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Šibenik",
+        "postalCode": "22000",
+        "addressCountry": "HR"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "152"
+      },
+      "priceRange": "€€",
+      "alternateName": "TAXI Antonio",
+      "@id": "https://taxisibenik.hr/ro/#business",
+      "image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
+      "paymentAccepted": "Numerar, card de credit",
+      "currenciesAccepted": "EUR",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6956974,
+        "longitude": 15.7891511
+      },
+      "hasMap": "https://www.google.com/maps?cid=4748268601430744277",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "20:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "07:00",
+          "closes": "16:00"
+        }
+      ],
+      "sameAs": [
+        "https://web.facebook.com/profile.php?id=61579783829997",
+        "https://www.instagram.com/taxi_sibenik/",
+        "https://www.tiktok.com/@taxisibenik",
+        "https://www.tripadvisor.com/Attraction_Review-g295375-d24821165-Reviews-TAXI_Sibenik_Skradin_Antonio-Sibenik_Sibenik_Knin_County_Dalmatia.html",
+        "https://www.google.com/maps?cid=4748268601430744277"
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Serviciu de taxi și transfer",
+      "name": "Taxi Šibenik de la TAXI Antonio",
+      "areaServed": {
+        "@type": "City",
+        "name": "Šibenik"
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Servicii de taxi și transfer",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Curse locale de taxi în Šibenik"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Transferuri de la aeroport"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Transferuri între orașe"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Transferuri la hotel"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Excursii de o zi la Krka și Plitvice"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cum rezerv un taxi din Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sunați la +385 99 447 1013, scrieți pe WhatsApp sau trimiteți un e-mail. Antonio are nevoie de locul de preluare, de destinație și de ora dorită de preluare sau de sosire."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cererile de ultim moment sunt acceptate în timpul programului de lucru, cu cel puțin 2 ore înainte, dar rezervarea din timp garantează disponibilitatea."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ce înseamnă \"preț fix\"? Ce include?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Prețurile fixe includ transportul, combustibilul, taxele de drum și ajutorul cu bagajele. Fără costuri ascunse. Opririle suplimentare sau așteptările lungi pot costa mai mult, iar acest lucru este comunicat dinainte. Prețul este fix pe mașină, pentru maximum 4 pasageri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Acceptați plata unui avans?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Confirmarea unei rezervări necesită un avans de 20% (minimum 20 de euro). Cursele cu un preț de 20 de euro sau mai puțin se plătesc integral în avans. Avansul poate fi achitat prin transfer bancar (SEPA) sau cu cardul, iar restul se achită în ziua transferului."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Acceptați plata cu cardul în mașină?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, sunt acceptate cardurile și alte metode de plată contactless."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faceți preluări de la spitalul din Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Antonio duce și aduce pasagerii de la Spitalul General Šibenik și are voie să intre cu mașina în incinta spitalului, așa că nu este nevoie de un drum lung pe jos dintr-o parcare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mă puteți duce la feribotul spre insule?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Antonio lasă și preia pasageri în portul de feriboturi și catamarane din Šibenik pentru Zlarin, Prvić, Kaprije și Žirje, precum și la barca spre Obonjan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Preluați de la hotelurile din Šibenik, de la autogară și de la gările feroviare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Antonio deservește toate hotelurile locale, autogara, gările Šibenik și Perković și portul de feriboturi, cu ajutor la bagaje și cu o pancartă cu numele dumneavoastră la cerere."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ce se întâmplă dacă zborul meu are întârziere?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sosirile zborurilor sunt urmărite în timp real, iar ora de preluare este ajustată automat, fără costuri suplimentare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ce se întâmplă dacă trebuie să anulez?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Anulările trebuie făcute în scris, prin e-mail. Cu mai mult de 72 de ore înainte de ora de preluare se face rambursarea integrală, indiferent de metoda de plată folosită. Anulările făcute în ultimele 72 de ore și neprezentările nu se rambursează. Reprogramarea este gratuită oricând."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puteți transporta un grup mai mare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Škoda Superb are loc pentru maximum 4 pasageri. Pentru grupuri mai mari, se pot face aranjamente prin parteneri locali aleși personal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Oferiți scaune pentru copii?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, scaunele pentru copii și înălțătoarele sunt disponibile la cerere."
+          }
+        }
+      ]
+    }
+  ]
+}

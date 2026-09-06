@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-ciovo-dubrovnik",
+  "title": "Taxi Čiovo - Dubrovnik | Preț fix €435 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Čiovo - Dubrovnik. Preț fix €435 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi čiovo - dubrovnik, transfer čiovo - dubrovnik, transfer aeroport čiovo - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Čiovo - Dubrovnik",
+      "description": "Taxi și transfer privat la preț fix, ruta Čiovo - Dubrovnik, 435 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-ciovo-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "435",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Čiovo - Dubrovnik, per vehicul pentru până la 4 pasageri. Dus-întors 870 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi pe ruta Čiovo - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 435 per vehicul pentru până la 4 pasageri, dus, cu taxele de drum, carburantul și bagajele. O cursă dus-întors costă 870."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Transferul este privat sau în comun?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiecare transfer este privat și din ușă în ușă, cu o Škoda Superb. Fără vehicul împărțit și fără opriri suplimentare, decât dacă le cereți."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puteți opri pe drum?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Pe rutele mai lungi opresc cu plăcere pentru o cafea, o fotografie sau un obiectiv scurt. Spuneți-mi doar la rezervare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

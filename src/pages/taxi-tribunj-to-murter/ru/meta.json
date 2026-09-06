@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-tribunj-murter",
+  "title": "Такси Tribunj - Murter | Фиксированная цена €60 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Tribunj - Murter. Фиксированная цена €60 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси tribunj - murter, трансфер tribunj - murter, трансфер из аэропорта tribunj - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Tribunj - Murter",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Tribunj - Murter, 60 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Tribunj",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-tribunj-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "60",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Tribunj - Murter, за автомобиль для до 4 пассажиров. Туда и обратно 120 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Tribunj - Murter составляет около 19 км и занимает примерно 30 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Tribunj - Murter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 60 за автомобиль для до 4 пассажиров, в одну сторону, багаж включён. Поездка туда и обратно стоит 120."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня забираете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По вашему точному адресу, будь то дом, отель или апартаменты. Пришлите адрес при бронировании, и я подтвержу место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-betina-knin",
+  "title": "Такси Betina - Knin | Фиксирана цена €120 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Betina - Knin. Фиксирана цена €120 на автомобил, до 4 пътници, от врата до врата. Резервирайте директно при Антонио.",
+  "keywords": "такси betina - knin, трансфер betina - knin, летищен трансфер betina - knin",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Betina - Knin",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Betina - Knin, 120 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Betina",
+        "Knin"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-betina-knin/",
+      "offers": {
+        "@type": "Offer",
+        "price": "120",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Betina - Knin, на автомобил за до 4 пътници. Отиване и връщане 240 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко дълъг е маршрутът и колко трае пътуването?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Пътуването по маршрута Betina - Knin е дълго около 74 км и трае приблизително 85 min при нормален трафик, малко повече в разгара на лятото. Планирам вземането така, че бавен участък никога да не ви притиска."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва такси по маршрута Betina - Knin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 120 на автомобил за до 4 пътници, еднопосочно, багажът е включен. Пътуване с отиване и връщане струва 240."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Откъде ме вземате?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "От точния ви адрес, било то къща, хотел или апартамент. Изпратете адреса при резервацията и ще потвърдя мястото на срещата."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и часа на вземане. За пътуване в последния момент се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

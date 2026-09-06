@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-trogir-murter",
+  "title": "Таксі ACI Marina Trogir - Murter | Фіксована ціна €165 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут ACI Marina Trogir - Murter. Фіксована ціна €165 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі aci marina trogir - murter, трансфер aci marina trogir - murter, трансфер з аеропорту aci marina trogir - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі ACI Marina Trogir - Murter",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут ACI Marina Trogir - Murter, 165 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Trogir",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-aci-marina-trogir-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "165",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут ACI Marina Trogir - Murter, за автомобіль для до 4 пасажирів. Туди й назад 330 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Скільки коштує трансфер на маршруті ACI Marina Trogir - Murter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 165 за автомобіль для до 4 пасажирів, в один бік, із дорожніми зборами, паливом і багажем. Поїздка туди й назад коштує 330."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете забрати просто в марині?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Зустрічаю вас біля входу в марину або на рецепції та допомагаю з багажем, щоб ви з понтона одразу пройшли до авто."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете підлаштувати трансфер під моє судно?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Надішліть при бронюванні час чартеру, реєстрації або відходу, і я спланую подачу під нього."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть прямо у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

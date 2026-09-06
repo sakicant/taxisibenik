@@ -38,21 +38,21 @@
             "name": "Brodarica 到 Šibenik 出租车",
             "price": "25",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/zh/book/?from=Brodarica%20-%20%C5%A0ibenik&to=%C5%A0ibenik%20-%20center&price=25"
+            "url": "https://taxisibenik.hr/zh/yuding/?from=Brodarica%20-%20%C5%A0ibenik&to=%C5%A0ibenik%20-%20center&price=25"
           },
           {
             "@type": "Offer",
             "name": "Brodarica 到 Split 机场出租车",
             "price": "95",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/zh/book/?from=Brodarica%20-%20%C5%A0ibenik&to=Split%20Airport%20%28SPU%29&price=95"
+            "url": "https://taxisibenik.hr/zh/yuding/?from=Brodarica%20-%20%C5%A0ibenik&to=Split%20Airport%20%28SPU%29&price=95"
           },
           {
             "@type": "Offer",
             "name": "Brodarica 到 Zadar 机场出租车",
             "price": "135",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/zh/book/?from=Brodarica%20-%20%C5%A0ibenik&to=Zadar%20Airport%20%28ZAD%29&price=135"
+            "url": "https://taxisibenik.hr/zh/yuding/?from=Brodarica%20-%20%C5%A0ibenik&to=Zadar%20Airport%20%28ZAD%29&price=135"
           }
         ]
       }

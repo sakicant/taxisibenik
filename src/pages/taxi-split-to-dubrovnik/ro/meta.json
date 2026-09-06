@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-split-dubrovnik",
+  "title": "Taxi Split - Dubrovnik | Preț fix €360 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Split - Dubrovnik. Preț fix €360 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi split - dubrovnik, transfer split - dubrovnik, transfer aeroport split - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Split - Dubrovnik",
+      "description": "Taxi și transfer privat la preț fix, ruta Split - Dubrovnik, 360 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Split",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-split-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "360",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Split - Dubrovnik, per vehicul pentru până la 4 pasageri. Dus-întors 720 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât de lungă este ruta și cât durează cursa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cursa pe ruta Split - Dubrovnik are aproximativ 235 km și durează în jur de 3 h 20 min în trafic normal, puțin mai mult în vârf de sezon. Planific preluarea astfel încât un tronson lent să nu vă grăbească niciodată."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi pe ruta Split - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 360 per vehicul pentru până la 4 pasageri, dus, cu taxele de drum, carburantul și bagajele. O cursă dus-întors costă 720."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Transferul este privat sau în comun?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiecare transfer este privat și din ușă în ușă, cu o Škoda Superb. Fără vehicul împărțit și fără opriri suplimentare, decât dacă le cereți."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puteți opri pe drum?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Pe rutele mai lungi opresc cu plăcere pentru o cafea, o fotografie sau un obiectiv scurt. Spuneți-mi doar la rezervare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -38,21 +38,21 @@
             "name": "Tromilja에서 Šibenik까지 택시",
             "price": "40",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Tromilja&to=%C5%A0ibenik%20-%20center&price=40"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Tromilja&to=%C5%A0ibenik%20-%20center&price=40"
           },
           {
             "@type": "Offer",
             "name": "Tromilja에서 스플리트 공항까지 택시",
             "price": "90",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Tromilja&to=Split%20Airport%20%28SPU%29&price=90"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Tromilja&to=Split%20Airport%20%28SPU%29&price=90"
           },
           {
             "@type": "Offer",
             "name": "Tromilja에서 자다르 공항까지 택시",
             "price": "115",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Tromilja&to=Zadar%20Airport%20%28ZAD%29&price=115"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Tromilja&to=Zadar%20Airport%20%28ZAD%29&price=115"
           }
         ]
       }

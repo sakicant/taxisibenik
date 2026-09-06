@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-kremik-split",
+  "title": "Ταξί Marina Kremik - Split | Σταθερή τιμή €100 | TAXI Antonio",
+  "description": "Ιδιωτικό ταξί και μεταφορά, διαδρομή Marina Kremik - Split. Σταθερή τιμή €100 ανά όχημα, έως 4 άτομα. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί marina kremik - split, μεταφορά marina kremik - split, μεταφορά από αεροδρόμιο marina kremik - split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτική μεταφορά με ταξί",
+      "name": "Ταξί Marina Kremik - Split",
+      "description": "Ιδιωτικό ταξί και μεταφορά σε σταθερή τιμή, διαδρομή Marina Kremik - Split, 100 ευρώ ανά όχημα για έως 4 επιβάτες, από πόρτα σε πόρτα.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Kremik",
+        "Split"
+      ],
+      "url": "https://taxisibenik.hr/el/taxi-marina-kremik-split/",
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Ιδιωτική διαδρομή απλής μετάβασης, διαδρομή Marina Kremik - Split, ανά όχημα για έως 4 επιβάτες. Μετ' επιστροφής 200 ευρώ."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει μια μεταφορά στη διαδρομή Marina Kremik - Split;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά 100 ανά όχημα για έως 4 επιβάτες, απλή διαδρομή, με διόδια, καύσιμα και αποσκευές. Η μετ' επιστροφής διαδρομή κοστίζει 200."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να με παραλάβετε μέσα στη μαρίνα;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Σας συναντώ στην είσοδο ή στη ρεσεψιόν της μαρίνας και βοηθώ με τις αποσκευές, ώστε να πάτε από τον προβλήτα κατευθείαν στο όχημα."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να προσαρμόσετε τη μεταφορά στο σκάφος μου;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Στείλτε μου κατά την κράτηση την ώρα του ναύλου, του check-in ή της αναχώρησης και οργανώνω την παραλαβή γύρω από αυτή."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τουλάχιστον 2 ώρες πριν, για να επιβεβαιώσω όχημα και ώρα παραλαβής. Για διαδρομή τελευταίας στιγμής τηλεφωνήστε μου ή γράψτε μου απευθείας στο WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

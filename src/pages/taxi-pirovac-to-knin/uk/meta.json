@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-pirovac-knin",
+  "title": "Таксі Pirovac - Knin | Фіксована ціна €115 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Pirovac - Knin. Фіксована ціна €115 за автомобіль, до 4 пасажирів, від дверей до дверей. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі pirovac - knin, трансфер pirovac - knin, трансфер з аеропорту pirovac - knin",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Pirovac - Knin",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Pirovac - Knin, 115 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Pirovac",
+        "Knin"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-pirovac-knin/",
+      "offers": {
+        "@type": "Offer",
+        "price": "115",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Pirovac - Knin, за автомобіль для до 4 пасажирів. Туди й назад 230 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Яка відстань на маршруті і скільки триває поїздка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поїздка маршрутом Pirovac - Knin становить близько 65 км і триває приблизно 70 min за звичайного руху, трохи довше в розпал літа. Я планую подачу так, щоб повільна ділянка ніколи вас не квапила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі на маршруті Pirovac - Knin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 115 за автомобіль для до 4 пасажирів, в один бік, багаж включено. Поїздка туди й назад коштує 230."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Де ви мене забираєте?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "За вашою точною адресою, чи то будинок, готель або апартаменти. Надішліть адресу при бронюванні, і я підтверджу місце зустрічі."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

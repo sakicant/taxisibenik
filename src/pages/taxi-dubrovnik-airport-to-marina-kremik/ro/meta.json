@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aeroport-dubrovnik-marina-kremik",
+  "title": "Taxi Aeroportul Dubrovnik - Marina Kremik | Preț fix €435 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Aeroportul Dubrovnik - Marina Kremik. Preț fix €435 per vehicul, până la 4 persoane. Rezervați direct la Antonio.",
+  "keywords": "taxi aeroportul dubrovnik - marina kremik, transfer aeroportul dubrovnik - marina kremik, transfer aeroport aeroportul dubrovnik - marina kremik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Aeroportul Dubrovnik - Marina Kremik",
+      "description": "Taxi și transfer privat la preț fix, ruta Aeroportul Dubrovnik - Marina Kremik, 435 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Aeroportul Dubrovnik",
+        "Marina Kremik"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-aeroport-dubrovnik-marina-kremik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "435",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Aeroportul Dubrovnik - Marina Kremik, per vehicul pentru până la 4 pasageri. Dus-întors 870 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Unde mă întâmpinați?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "În zona de sosiri, imediat după ridicarea bagajelor, cu o plăcuță cu numele dumneavoastră. Vă ajut cu bagajele și vă conduc la vehicul."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ce se întâmplă dacă zborul meu întârzie?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicio problemă. Vă urmăresc zborul în timp real și adaptez preluarea la aterizarea reală, fără cost suplimentar pentru așteptare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă transferul pe ruta Aeroportul Dubrovnik - Marina Kremik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 435 per vehicul pentru până la 4 pasageri, dus, cu taxele de drum și bagajele incluse. O cursă dus-întors costă 870."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să pot planifica în jurul zborului dumneavoastră. Pentru o preluare în aceeași zi, după o schimbare de ultim moment, sunați-mă sau scrieți pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

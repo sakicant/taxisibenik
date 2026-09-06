@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zagreb-marina-trogir-sct",
+  "title": "Таксі Zagreb - Marina Trogir (SCT) | Фіксована ціна €514 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Zagreb - Marina Trogir (SCT). Фіксована ціна €514 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі zagreb - marina trogir (sct), трансфер zagreb - marina trogir (sct), трансфер з аеропорту zagreb - marina trogir (sct)",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Zagreb - Marina Trogir (SCT)",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Zagreb - Marina Trogir (SCT), 514 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zagreb",
+        "Marina Trogir (SCT)"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-zagreb-marina-trogir-sct/",
+      "offers": {
+        "@type": "Offer",
+        "price": "514",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Zagreb - Marina Trogir (SCT), за автомобіль для до 4 пасажирів. Туди й назад 1028 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Скільки коштує трансфер на маршруті Zagreb - Marina Trogir (SCT)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 514 за автомобіль для до 4 пасажирів, в один бік, із дорожніми зборами, паливом і багажем. Поїздка туди й назад коштує 1028."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете забрати просто в марині?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Зустрічаю вас біля входу в марину або на рецепції та допомагаю з багажем, щоб ви з понтона одразу пройшли до авто."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете підлаштувати трансфер під моє судно?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Надішліть при бронюванні час чартеру, реєстрації або відходу, і я спланую подачу під нього."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть прямо у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

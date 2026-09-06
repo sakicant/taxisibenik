@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-agana-murter",
+  "title": "Такси Marina Agana - Murter | Фиксированная цена €150 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Marina Agana - Murter. Фиксированная цена €150 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси marina agana - murter, трансфер marina agana - murter, трансфер из аэропорта marina agana - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Marina Agana - Murter",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Marina Agana - Murter, 150 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Agana",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-marina-agana-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "150",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Marina Agana - Murter, за автомобиль для до 4 пассажиров. Туда и обратно 300 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит трансфер на маршруте Marina Agana - Murter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 150 за автомобиль для до 4 пассажиров, в одну сторону, с дорожными сборами, топливом и багажом. Поездка туда и обратно стоит 300."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете забрать прямо в марине?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Встречаю вас у входа в марину или на ресепшене и помогаю с багажом, чтобы вы с понтона сразу прошли к машине."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете подстроить трансфер под моё судно?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Пришлите при бронировании время чартера, регистрации или отхода, и я спланирую подачу под него."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите прямо в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

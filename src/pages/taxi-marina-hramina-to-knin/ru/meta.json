@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-hramina-knin",
+  "title": "Такси Marina Hramina - Knin | Фиксированная цена €120 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Marina Hramina - Knin. Фиксированная цена €120 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси marina hramina - knin, трансфер marina hramina - knin, трансфер из аэропорта marina hramina - knin",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Marina Hramina - Knin",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Marina Hramina - Knin, 120 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Hramina",
+        "Knin"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-marina-hramina-knin/",
+      "offers": {
+        "@type": "Offer",
+        "price": "120",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Marina Hramina - Knin, за автомобиль для до 4 пассажиров. Туда и обратно 240 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит трансфер на маршруте Marina Hramina - Knin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 120 за автомобиль для до 4 пассажиров, в одну сторону, с дорожными сборами, топливом и багажом. Поездка туда и обратно стоит 240."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете забрать прямо в марине?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Встречаю вас у входа в марину или на ресепшене и помогаю с багажом, чтобы вы с понтона сразу прошли к машине."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете подстроить трансфер под моё судно?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Пришлите при бронировании время чартера, регистрации или отхода, и я спланирую подачу под него."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите прямо в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

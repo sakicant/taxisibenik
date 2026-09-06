@@ -1,0 +1,90 @@
+{
+  "slug": "taxi-jadrija",
+  "title": "Такси Jadrija | TAXI Antonio",
+  "description": "Такси Jadrija: кратки местни курсове до Šibenik и до автогарата и жп гарата, плюс фиксирани летищни трансфери до Split и Zadar. Вземане пред вратата.",
+  "keywords": "такси jadrija, jadrija такси, такси плаж jadrija, jadrija до sibenik, летищен трансфер jadrija",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Местно такси и летищни трансфери",
+      "name": "Такси Jadrija",
+      "description": "Частно такси на фиксирана цена от плажа Jadrija на полуострова на Šibenik до Šibenik, автогарата и жп гарата, летище Split и летище Zadar.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Jadrija",
+      "url": "https://taxisibenik.hr/bg/taxi-jadrija/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Цени за такси от Jadrija",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Такси Jadrija до Šibenik",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Jadrija&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси Jadrija до автогарата и жп гарата в Šibenik",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Jadrija&to=%C5%A0ibenik%20Bus%20Station&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси Jadrija до летище Split",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Jadrija&to=Split%20Airport%20%28SPU%29&price=115"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси Jadrija до летище Zadar",
+            "price": "125",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Jadrija&to=Zadar%20Airport%20%28ZAD%29&price=125"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Предимно кратки местни курсове ли са пътуванията от Jadrija?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да, повечето пътувания са кратки курсове до Šibenik или до гарата, но правя и по-дългите летищни трансфери до Split и Zadar, когато ви трябват."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете ли да ме закарате до автогарата или жп гарата?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Автогарата и жп гарата в Šibenik са една до друга, а трансферът от Jadrija е фиксирани 30 € за автомобил."
+          }
+        }
+      ]
+    }
+  ]
+}

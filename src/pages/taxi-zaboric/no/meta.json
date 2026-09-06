@@ -38,28 +38,28 @@
             "name": "Taxi Žaborić til Šibenik",
             "price": "25",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/no/book/?from=%C5%BDabori%C4%87&to=%C5%A0ibenik%20-%20center&price=25"
+            "url": "https://taxisibenik.hr/no/bestill/?from=%C5%BDabori%C4%87&to=%C5%A0ibenik%20-%20center&price=25"
           },
           {
             "@type": "Offer",
             "name": "Taxi Žaborić til Vodice",
             "price": "50",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/no/book/?from=%C5%BDabori%C4%87&to=Vodice&price=50"
+            "url": "https://taxisibenik.hr/no/bestill/?from=%C5%BDabori%C4%87&to=Vodice&price=50"
           },
           {
             "@type": "Offer",
             "name": "Taxi Žaborić til Split lufthavn",
             "price": "95",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/no/book/?from=%C5%BDabori%C4%87&to=Split%20Airport%20%28SPU%29&price=95"
+            "url": "https://taxisibenik.hr/no/bestill/?from=%C5%BDabori%C4%87&to=Split%20Airport%20%28SPU%29&price=95"
           },
           {
             "@type": "Offer",
             "name": "Taxi Žaborić til Zadar lufthavn",
             "price": "140",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/no/book/?from=%C5%BDabori%C4%87&to=Zadar%20Airport%20%28ZAD%29&price=140"
+            "url": "https://taxisibenik.hr/no/bestill/?from=%C5%BDabori%C4%87&to=Zadar%20Airport%20%28ZAD%29&price=140"
           }
         ]
       }

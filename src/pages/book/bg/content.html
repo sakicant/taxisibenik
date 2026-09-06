@@ -1,0 +1,161 @@
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Резервация</span>
+      <h1>Резервирайте своя трансфер</h1>
+      <p class="page-hero-sub">Добавете данните за пътуването си по-долу и ще потвърдя пътуването ви директно, обикновено в рамките на няколко часа.</p>
+    </div>
+  </section>
+
+  <section class="page-content">
+    <div class="container booking-page">
+      <form class="booking-form" id="booking-page-form" action="/booking-submit.php" method="POST" data-req-label="задължително" data-opt-label="по избор">
+
+        <h3>1. Вашето пътуване</h3>
+        <p class="booking-section-hint">Тези данни идват от офертата, която избрахте. Променете всичко, което не е точно.</p>
+
+        <label for="book-from">Място на вземане (от)</label>
+        <input type="text" id="book-from" name="from" required placeholder="Šibenik - център, вашият хотел или адрес">
+
+        <label for="book-to">Място на оставяне (до)</label>
+        <input type="text" id="book-to" name="to" required placeholder="Летище Сплит (SPU), град или адрес">
+
+        <div class="quote-field">
+          <label for="book-trip">Пътуване</label>
+          <select id="book-trip" name="trip">
+            <option value="oneway">Еднопосочно</option>
+            <option value="return">Отиване и връщане</option>
+          </select>
+        </div>
+        <div class="quote-field-row">
+          <div class="quote-field">
+            <label for="book-pax">Пътници</label>
+            <input type="number" id="book-pax" name="passengers" min="1" max="12" value="1" required>
+          </div>
+          <div class="quote-field">
+            <label for="book-lug">Багаж</label>
+            <input type="number" id="book-lug" name="luggage" min="0" max="12" value="1" required>
+          </div>
+        </div>
+
+        <p class="booking-price-line" id="booking-price-line" hidden>Фиксирана цена: <strong id="sum-price">&mdash;</strong> <span class="booking-price-sub">на автомобил, до 4 пътници</span></p>
+
+        <div class="quote-field-row">
+          <div class="quote-field">
+            <label for="book-date">Дата на вземане</label>
+            <input type="date" id="book-date" name="book-date" required>
+          </div>
+          <div class="quote-field">
+            <label for="book-time">Час на вземане</label>
+            <select id="book-time" name="book-time" required><option value="">--:--</option></select>
+          </div>
+        </div>
+        <p class="form-hint form-hint-center">Моля, резервирайте поне 2 часа предварително, за да мога да потвърдя наличност. Ако ви трябва пътуване по-скоро, <a href="tel:+385994471013">обадете ми се</a> или <a href="https://wa.me/385994471013?text=Hello%20Antonio%2C%20I%20found%20you%20through%20your%20website%20taxisibenik.hr%20and%20I%20have%20an%20inquiry%3A%20" target="_blank" rel="noopener">ми пишете в WhatsApp</a>.</p>
+
+        <div class="quote-field-row" id="book-return-fields" hidden>
+          <div class="quote-field">
+            <label for="book-return-date">Дата на връщане</label>
+            <input type="date" id="book-return-date" name="book-return-date">
+          </div>
+          <div class="quote-field">
+            <label for="book-return-time">Час на връщане</label>
+            <select id="book-return-time" name="book-return-time"><option value="">--:--</option></select>
+          </div>
+        </div>
+
+        <h3>2. Вашите данни</h3>
+
+        <label for="book-name">Име на водещия пътник</label>
+        <input type="text" id="book-name" name="name" required>
+
+        <div class="form-choice" role="group" aria-labelledby="contact-method-legend">
+          <span class="form-choice-legend" id="contact-method-legend">Как да се свържа с вас за потвърждение?</span>
+          <div class="form-choice-options">
+            <label class="form-choice-option">
+              <input type="radio" name="contact_method" value="email" required>
+              <span>Имейл</span>
+            </label>
+            <label class="form-choice-option">
+              <input type="radio" name="contact_method" value="whatsapp" required>
+              <span>WhatsApp</span>
+            </label>
+          </div>
+        </div>
+
+        <label for="book-email">Имейл <span class="field-flag" id="email-flag"></span></label>
+        <input type="email" id="book-email" name="email">
+
+        <label for="book-phone-cc">Телефон / WhatsApp <span class="field-flag" id="phone-flag"></span></label>
+        <div class="phone-row">
+          <select id="book-phone-cc" name="phone_cc"><option value="">Държава</option></select>
+          <input type="tel" id="book-phone" name="phone" placeholder="Останалата част от номера, без водещата 0" inputmode="tel">
+        </div>
+        <p class="form-subhint">Първо изберете държавата си, после напишете останалата част от номера.</p>
+
+        <h3>3. Плащане</h3>
+
+        <div class="form-choice" role="group" aria-labelledby="payment-legend">
+          <span class="form-choice-legend" id="payment-legend">Моля, потвърдете как се обезпечава резервацията</span>
+          <div class="form-choice-options">
+            <label class="form-choice-option">
+              <input type="radio" name="payment_option" value="deposit" required>
+              <span>Капаро за потвърждение<span class="opt-sub">20% сега (минимум &euro;20), остатъкът в деня на пътуването.</span></span>
+            </label>
+          </div>
+        </div>
+
+        <label class="form-consent">
+          <input type="checkbox" id="book-invoice" name="invoice_required" value="1">
+          <span>Нуждая се от фактура за фирмата си.</span>
+        </label>
+
+        <div id="book-invoice-fields" class="invoice-fields" hidden>
+          <label for="book-co-name">Пълно име на фирмата</label>
+          <input type="text" id="book-co-name" name="company_name" autocomplete="organization">
+
+          <label for="book-co-vat">ДДС номер</label>
+          <input type="text" id="book-co-vat" name="company_vat">
+
+          <label for="book-co-address">Адрес</label>
+          <input type="text" id="book-co-address" name="company_address" autocomplete="street-address">
+
+          <div class="quote-field-row">
+            <div class="quote-field">
+              <label for="book-co-zip">Пощенски код</label>
+              <input type="text" id="book-co-zip" name="company_zip" autocomplete="postal-code">
+            </div>
+            <div class="quote-field">
+              <label for="book-co-city">Град</label>
+              <input type="text" id="book-co-city" name="company_city" autocomplete="address-level2">
+            </div>
+          </div>
+        </div>
+
+        <h3>4. Данни за трансфера</h3>
+
+        <label for="book-flight">Данни за вземането (номер на пристигащия полет или адрес)</label>
+        <input type="text" id="book-flight" name="book-flight" required placeholder="Номер на полета, ако пристигате със самолет, или вашият адрес за вземане">
+
+        <label for="book-dropoff-details">Данни за дестинацията (адрес или номер на полет)</label>
+        <input type="text" id="book-dropoff-details" name="book-dropoff-details" placeholder="Адрес на оставяне или номер на полета, ако имате полет за хващане">
+
+        <label for="book-notes">Нещо друго? (по избор)</label>
+        <textarea id="book-notes" name="book-notes" rows="4" placeholder="Детска седалка, допълнителни спирания, извънгабаритен багаж, указания за вземането..."></textarea>
+
+        <input type="text" id="book-company" name="company" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+        <label class="form-consent">
+          <input type="checkbox" id="book-consent" name="consent" value="1" required>
+          <span>Разбирам, че сега изпращам само заявка за резервация и че ще се свържат с мен по избрания от мен начин, за да потвърдя резервацията (чрез плащане на необходимото капаро). Също така приемам <a href="/bg/terms-and-conditions/">Общите условия</a> и <a href="/bg/privacy-policy/">Политиката за поверителност</a>.</span>
+        </label>
+        <button type="submit" class="btn btn-primary">Изпратете заявка за резервация</button>
+        <p class="form-note" id="booking-page-note"></p>
+      </form>
+    </div>
+  </section>
+  <script>
+  (function(){
+    var o='';
+    for(var h=0;h<24;h++){for(var m=0;m<60;m+=5){var t=(h<10?'0':'')+h+':'+(m<10?'0':'')+m;o+='<option value="'+t+'">'+t+'</option>';}}
+    ['book-time','book-return-time'].forEach(function(id){var s=document.getElementById(id);if(s)s.insertAdjacentHTML('beforeend',o);});
+  })();
+  </script>

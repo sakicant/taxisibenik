@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-tisno-splitas-lidosta",
+  "title": "Taksometrs Tisno - Splitas lidosta | Fiksēta cena €130 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Tisno - Splitas lidosta. Fiksēta cena €130 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs tisno - splitas lidosta, transfērs tisno - splitas lidosta, lidostas transfērs tisno - splitas lidosta",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Tisno - Splitas lidosta",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Tisno - Splitas lidosta, 130 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Tisno",
+        "Splitas lidosta"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-tisno-splitas-lidosta/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Tisno - Splitas lidosta, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 260 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik garš ir maršruts un cik ilgi jābrauc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens maršrutā Tisno - Splitas lidosta ir aptuveni 89 km garš un ilgst apmēram 80 min normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā Tisno - Splitas lidosta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 130 par automašīnu vienā virzienā, līdz 4 pasažieriem. Cena ir par automašīnu, nevis par personu, un ietver ceļa nodevas, degvielu un bagāžu. Brauciens turp un atpakaļ maksā 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cikos man jādodas uz lidostu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Parasti aptuveni 3 stundas pirms starptautiska lidojuma un 2 stundas pirms iekšzemes lidojuma. Pasakiet man lidojuma laiku, un es apstiprināšu precīzu izbraukšanas laiku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs aizvedat līdz pašam izlidošanas terminālim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Aizvedu jūs tieši līdz izlidošanas terminālim un palīdzu ar bagāžu. Nav jāiet kājām no stāvvietas un nav jāgaida autobuss."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un izbraukšanu, un agrāk agriem rīta lidojumiem un sezonas laikā. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet man WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

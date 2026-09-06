@@ -1,0 +1,60 @@
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Bize ulaşın</span>
+      <h1>TAXI Šibenik iletişim</h1>
+      <p class="page-hero-sub">Çağrı merkeziyle değil, doğrudan benimle iletişim. Arayın, WhatsApp'tan yazın ya da aşağıdan mesaj gönderin.</p>
+      <div class="hero-actions">
+        <a href="tel:+385994471013" class="btn btn-primary">Hemen taksi çağırın</a>
+        <a href="https://wa.me/385994471013?text=Hello%20Antonio%2C%20I%20found%20you%20through%20your%20website%20taxisibenik.hr%20and%20I%20have%20an%20inquiry%3A%20" target="_blank" rel="noopener" class="btn btn-secondary">WhatsApp mesajı gönderin</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="contact contact-page">
+    <div class="container contact-inner">
+      <div class="contact-info">
+        <span class="eyebrow">Hizmetler</span>
+        <ul class="contact-details">
+          <li><a href="/tr/">Šibenik yerel taksi</a></li>
+          <li><a href="https://taxiskradin.hr" target="_blank" rel="noopener">Taksi Skradin</a></li>
+          <li><a href="/tr/airport-transfers-from-sibenik/">Havalimanı transferleri</a></li>
+          <li><a href="/tr/sibenik-transfers/">Şehirler arası transferler</a></li>
+          <li><a href="/tr/daytrips/">Günübirlik geziler</a></li>
+        </ul>
+      </div>
+
+      <form class="contact-form" id="contact-form" action="/contact.php" method="POST">
+        <input type="text" name="company" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <h3>Bana mesaj gönderin</h3>
+        <label for="name">Ad</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">E-posta</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="phone">WhatsApp numarası (isteğe bağlı)</label>
+        <input type="tel" id="phone" name="phone" placeholder="Ülke kodunu ekleyin">
+
+        <label for="topic">Konu</label>
+        <select id="topic" name="topic" required>
+          <option value="General inquiry">Genel soru</option>
+          <option value="Booking">Rezervasyon</option>
+          <option value="Quote request">Fiyat teklifi talebi</option>
+          <option value="Day trip">Günübirlik gezi</option>
+          <option value="Partnership proposal">İş ortaklığı teklifi</option>
+          <option value="Complaint">Şikâyet</option>
+          <option value="Other">Diğer</option>
+        </select>
+
+        <label for="message">Mesaj</label>
+        <textarea id="message" name="message" rows="5" required placeholder="Alış yerinizi, tarihi ve varış noktanızı yazın..."></textarea>
+
+        <label class="form-consent">
+          <input type="checkbox" name="consent" value="1" required>
+          <span><a href="/tr/privacy-policy/">Gizlilik Politikası</a>'nı okudum ve kabul ediyorum.</span>
+        </label>
+        <button type="submit" class="btn btn-primary">Mesajı gönder</button>
+        <p class="form-note" id="form-note"></p>
+      </form>
+    </div>
+  </section>

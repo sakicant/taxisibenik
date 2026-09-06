@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zaboric-zablace",
+  "title": "Taksi Žaborić - Zablaće | Sabit fiyat €28 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Žaborić - Zablaće güzergâhı. Araç başına sabit €28, 4 yolcuya kadar, kapıdan kapıya. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi žaborić - zablaće, transfer žaborić - zablaće, havalimanı transferi žaborić - zablaće",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Žaborić - Zablaće",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Žaborić - Zablaće güzergâhı, 4 yolcuya kadar araç başına 28 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Žaborić",
+        "Zablaće"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-zaboric-zablace/",
+      "offers": {
+        "@type": "Offer",
+        "price": "28",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Žaborić - Zablaće güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 56 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Güzergâh ne kadar uzun ve yolculuk ne kadar sürer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Žaborić - Zablaće güzergâhındaki yolculuk yaklaşık 9 km uzunluğunda ve normal trafikte yaklaşık 15 min sürüyor, yaz yoğunluğunda biraz daha uzun. Alışı, yavaş bir yol sizi asla acele ettirmeyecek şekilde planlıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Žaborić - Zablaće güzergâhında taksi ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 28, tek yön, bagaj dahil. Gidiş dönüş yolculuk 56."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni nereden alıyorsunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ev, otel ya da apart olsun, tam adresinizden. Rezervasyon sırasında adresi gönderin, buluşma noktasını onaylayayım."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

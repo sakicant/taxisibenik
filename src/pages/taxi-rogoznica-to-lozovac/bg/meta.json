@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-rogoznica-lozovac",
+  "title": "Такси Rogoznica - Lozovac | Фиксирана цена €95 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Rogoznica - Lozovac. Фиксирана цена €95 на автомобил, до 4 пътници, от врата до врата. Резервирайте директно при Антонио.",
+  "keywords": "такси rogoznica - lozovac, трансфер rogoznica - lozovac, летищен трансфер rogoznica - lozovac",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Rogoznica - Lozovac",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Rogoznica - Lozovac, 95 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Rogoznica",
+        "Lozovac"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-rogoznica-lozovac/",
+      "offers": {
+        "@type": "Offer",
+        "price": "95",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Rogoznica - Lozovac, на автомобил за до 4 пътници. Отиване и връщане 190 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко дълъг е маршрутът и колко трае пътуването?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Пътуването по маршрута Rogoznica - Lozovac е дълго около 45 км и трае приблизително 60 min при нормален трафик, малко повече в разгара на лятото. Планирам вземането така, че бавен участък никога да не ви притиска."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва такси по маршрута Rogoznica - Lozovac?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 95 на автомобил за до 4 пътници, еднопосочно, багажът е включен. Пътуване с отиване и връщане струва 190."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Откъде ме вземате?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "От точния ви адрес, било то къща, хотел или апартамент. Изпратете адреса при резервацията и ще потвърдя мястото на срещата."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и часа на вземане. За пътуване в последния момент се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

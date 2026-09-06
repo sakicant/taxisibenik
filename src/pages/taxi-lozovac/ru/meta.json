@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-lozovac",
+  "title": "Такси Лозовац | TAXI Antonio",
+  "description": "Такси Лозовац: трансферы к главному входу в национальный парк Крка (Скрадински Бук), поездки к водопадам на целый день и фиксированные трансферы в аэропорт Сплита (€95). Бронируйте напрямую.",
+  "keywords": "такси лозовац, лозовац такси, такси в национальный парк крка, лозовац вход в крку, такси к водопадам крка, лозовац аэропорт сплита, лозовац шибеник",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Местное такси и трансферы в аэропорт",
+      "name": "Такси Лозовац",
+      "description": "Частное такси в Лозоваце, у главного входа в национальный парк Крка к водопадам Скрадински Бук: поездки в парк на целый день, трансферы по округе и фиксированные трансферы в аэропорт.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Lozovac",
+      "url": "https://taxisibenik.hr/ru/taxi-lozovac/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Цены на такси из Лозоваца",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Такси из Лозоваца в Шибеник",
+            "price": "45",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Lozovac&to=%C5%A0ibenik%20-%20center&price=45"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Лозоваца в Водице",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Lozovac&to=Vodice&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Лозоваца в НП Крка (вход Скрадин)",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Lozovac&to=NP%20Krka%20-%20Skradin%20entrance&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Лозоваца в аэропорт Сплита",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Lozovac&to=Split%20Airport%20%28SPU%29&price=95"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Как далеко Лозовац от входа в парк Крка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Лозовац и есть автомобильный вход в национальный парк Крка, так что вы уже у ворот к водопадам Скрадински Бук. Я высаживаю вас прямо у входа."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете ли вы подождать, пока я гуляю по парку?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Я предлагаю частную поездку в Крку на целый день с включённым временем ожидания: я привожу вас к водопадам, жду, пока вы гуляете в своём темпе, и отвожу обратно. Смотрите страницу поездок на целый день."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Вы возите и ко входу в Скрадине?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Трансфер ко входу в парк Крка в Скрадине, откуда к водопадам идёт кораблик, стоит фиксированные €25 за автомобиль."
+          }
+        }
+      ]
+    }
+  ]
+}

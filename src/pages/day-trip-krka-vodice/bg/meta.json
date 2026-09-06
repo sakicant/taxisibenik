@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-vodice",
+  "title": "Еднодневна екскурзия до Krka от Vodice | Частен трансфер, фиксирани 125 € | TAXI Antonio",
+  "description": "Частен двупосочен таксиметров трансфер до Krka от Vodice. Фиксирани 125 € за автомобил, до 4 пътници, от врата до врата от хотели и апартаменти във Vodice, Srima и Tribunj. Не е тур, а само превозът дотам и обратно.",
+  "keywords": "еднодневна екскурзия до krka от vodice, krka от vodice, такси до krka от vodice, трансфер krka vodice, krka от srima, krka от tribunj, vodice до национален парк krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Частна еднодневна екскурзия до Krka от Vodice",
+      "description": "Частна еднодневна екскурзия до Национален парк Krka от Vodice с местен шофьор, който говори английски. Фиксирана цена от 125 евро за автомобил за до 4 пътници, с вземане от врата до врата от хотели и апартаменти във Vodice, Srima и Tribunj.",
+      "touristType": "Природа и разглеждане на забележителности",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Частен автомобил, двупосочно пътуване Vodice до Национален парк Krka, до 4 пътници. Билетите за вход в парка не са включени."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Това воден тур ли е или таксиметров трансфер?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Това е таксиметров трансфер, а не воден тур. Антонио е местен шофьор, който предлага частен двупосочен трансфер от Vodice до Krka и обратно. Получавате автомобила и шофирането; в парка сте свободни да разглеждате сами, със собствено темпо."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Взимате ли от Srima и Tribunj, освен от Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Вземането от Srima и Tribunj е на същата фиксирана цена като от Vodice. Взимам ви от врата до врата от всеки хотел, апартамент или вила във Vodice, Srima или Tribunj, включително от марината и Riva във Vodice."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва такси до Krka от Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Частен двупосочен трансфер от Vodice до езерата на Krka е на фиксирана цена от 125 евро за автомобил за до 4 пътници, с включени гориво и време за изчакване при парка. Същата цена важи за вземане в Srima и Tribunj."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко време оставаме в Национален парк Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Повечето гости избират около 3 до 4 часа свободно време в парка, достатъчно да видят основните водопади и да извървят класическия кръг по дървените пътеки. По-кратък или по-дълъг престой може да се уговори при резервацията."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Включени ли са билетите за вход в Krka в цената?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Не. Билетите за вход се купуват отделно, директно от Национален парк Krka на входа Skradin или Lozovac, или онлайн. Билетите струват приблизително 7 до 40 евро в зависимост от сезона."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Как да резервирам и платя еднодневната екскурзия от Vodice до Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Авансово плащане от 20% (минимум 20 евро) потвърждава резервацията, с банков превод или карта, и получавате фактура като потвърждение. Остатъкът се плаща на шофьора в деня на пътуването, в брой или с карта."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-brodarica-rogoznica",
+  "title": "Такси Brodarica - Rogoznica | Фиксированная цена €65 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Brodarica - Rogoznica. Фиксированная цена €65 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси brodarica - rogoznica, трансфер brodarica - rogoznica, трансфер из аэропорта brodarica - rogoznica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Brodarica - Rogoznica",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Brodarica - Rogoznica, 65 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Brodarica",
+        "Rogoznica"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-brodarica-rogoznica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "65",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Brodarica - Rogoznica, за автомобиль для до 4 пассажиров. Туда и обратно 130 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Brodarica - Rogoznica составляет около 26 км и занимает примерно 40 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Brodarica - Rogoznica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 65 за автомобиль для до 4 пассажиров, в одну сторону, багаж включён. Поездка туда и обратно стоит 130."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня забираете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По вашему точному адресу, будь то дом, отель или апартаменты. Пришлите адрес при бронировании, и я подтвержу место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

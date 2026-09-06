@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-zablace",
+  "title": "Taksometrs Zablaće | TAXI Antonio",
+  "description": "Taksometrs Zablaće: lidostas transfēri par fiksētu cenu uz Splitu (€95) un Zadaru kempinga un pludmales viesiem pie Amadria Park, plus braucieni uz Šibeniku un Vodicēm.",
+  "keywords": "taksometrs zablace, zablace taksometrs, zablace kempinga taksometrs, zablace lidostas transfērs, amadria park zablace taksometrs, zablace splitas lidosta",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Vietējais taksometrs un lidostas transfēri",
+      "name": "Taksometrs Zablaće",
+      "description": "Privāts taksometrs par fiksētu cenu no Zablaćes, kempinga un Amadria Park apkaimes uz dienvidrietumiem no Šibenikas, uz Splitas lidostu, Zadaras lidostu, Šibeniku un Vodicēm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Zablaće",
+      "url": "https://taxisibenik.hr/lv/taxi-zablace/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksometra cenas no Zablaćes",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Zablaće uz Šibeniku",
+            "price": "18",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Zabla%C4%87e&to=%C5%A0ibenik%20-%20center&price=18"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Zablaće uz Vodicēm",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Zabla%C4%87e&to=Vodice&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Zablaće uz Splitas lidostu",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Zabla%C4%87e&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Zablaće uz Zadaras lidostu",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Zabla%C4%87e&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vai jūs sagaidāt pie kempinga un Amadria Park apkaimē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Es jūs paņemu pie kempinga reģistratūras, jūsu dzīvokļa vai netālu esošās Amadria Park apkaimes, ar vietu bagāžai un mantām. Atsūtiet precīzu vietu, kad rezervējat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai ir vieta kempinga un pludmales mantām?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Škoda Superb ir liels bagāžas nodalījums čemodāniem, kempinga aprīkojumam un pludmales mantām. Pasakiet man, ja jums ir velosipēdi vai lielgabarīta lietas, lai es varu to ieplānot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā brauciens no Zablaćes uz Splitas lidostu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti €95 par automašīnu līdz 4 pasažieriem, ar ceļa nodevām un bagāžu, tā pati cena abos virzienos."
+          }
+        }
+      ]
+    }
+  ]
+}

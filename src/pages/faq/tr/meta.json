@@ -1,0 +1,79 @@
+{
+  "slug": "frequently-asked-questions",
+  "title": "Sık sorulan sorular | TAXI Antonio",
+  "description": "Šibenik çevresinde rezervasyon, fiyatlar ve yerel yolculuklar hakkında kısa yanıtlar.",
+  "keywords": "sık sorulan sorular",
+  "og_image": "https://taxisibenik.hr/assets/og-image.png",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Šibenik'ten nasıl taksi çağırırım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "+385 99 447 1013 numarasını arayın, WhatsApp'tan yazın ya da e-posta gönderin. Alış yerinizi, varış noktanızı ve tercih ettiğiniz alış ya da varış saatini bilmem gerekiyor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervasyonlar en az 2 saat önceden yapılmalıdır. Çalışma saatlerim içinde son dakika taleplerini de değerlendiririm, ama önceden rezervasyon müsaitliği garantiler."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\"Sabit fiyat\" ne demek? Neler dahil?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sabit fiyatlarıma ulaşım, yakıt, otoyol ücretleri ve bagaj yardımı dahildir. Gizli ücret yok. Ek duraklar ya da uzun beklemeler tutarı artırabilir ve bunu size her zaman önceden söylerim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kapora alıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Bir rezervasyonun onaylanması için %20 kapora (en az 20 avro) gerekir. Ücreti 20 avro veya altındaki yolculuklarda en az kapora tutarı ücretin kendisine eşittir, yani o tutar önceden ödenir. Kapora banka havalesi (SEPA) ya da kartla yapılabilir; kalan tutar transfer günü bana ödenir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Šibenik'te hastaneden alış yapıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Yolcuları Šibenik Devlet Hastanesi'ne götürüyor ve oradan alıyorum; hastane alanına araçla girme iznim var, yani otoparktan uzun bir yürüyüş gerekmiyor. Girişe kadar desteğe ihtiyacınız varsa söylemeniz yeterli."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni adalara giden feribota götürebilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Zlarin, Prvić, Kaprije ve Žirje'ye giden feribot ve katamaranların kalktığı Šibenik limanına bırakıyor ve oradan alıyorum; Obonjan teknesi için de aynısı geçerli."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Šibenik otellerinden, otogardan ve tren istasyonundan alış yapıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Tüm yerel otellere, otogara, Šibenik ve Perković tren istasyonlarına ve feribot limanına hizmet veriyorum; bagaj yardımı ve istek üzerine isim tabelasıyla."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Araçta kartla ödeme kabul ediyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet, kartları ve diğer temassız ödeme yöntemlerini kabul ediyorum."
+          }
+        }
+      ]
+    }
+  ]
+}

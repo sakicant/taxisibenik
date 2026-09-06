@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-vodice-betina",
+  "title": "Taxa Vodice - Betina | Fast pris €60 | TAXI Antonio",
+  "description": "Privat taxa og transfer på ruten Vodice - Betina. Fast pris €60 pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+  "keywords": "taxa vodice - betina, transfer vodice - betina, lufthavnstransfer vodice - betina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxatransfer",
+      "name": "Taxa Vodice - Betina",
+      "description": "Privat taxa og transfer til fast pris på ruten Vodice - Betina, 60 euro pr. bil for op til 4 passagerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Vodice",
+        "Betina"
+      ],
+      "url": "https://taxisibenik.hr/da/taxi-vodice-betina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "60",
+        "priceCurrency": "EUR",
+        "description": "Privat enkeltrejse på ruten Vodice - Betina, pr. bil for op til 4 passagerer. Tur og retur 120 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er ruten, og hvor længe tager turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på ruten Vodice - Betina er cirka 21 km lang og tager omkring 30 min i normal trafik, lidt længere i sommerens højsæson. Jeg planlægger afhentningen, så en langsom strækning aldrig får dig til at skynde dig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster en taxa på ruten Vodice - Betina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 60 pr. bil for op til 4 passagerer, enkeltrejse, bagage inkluderet. Tur og retur koster 120."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor henter du mig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "På din præcise adresse, uanset om det er et hus, et hotel eller en lejlighed. Send adressen, når du bestiller, så bekræfter jeg mødestedet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindst 2 timer før, så jeg kan bekræfte bil og afhentningstidspunkt. Har du brug for en tur med kort varsel, så ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

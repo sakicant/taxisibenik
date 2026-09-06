@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-aeroport-dubrovnik-murter",
+  "title": "Таксі Аеропорт Дубровник - Murter | Фіксована ціна €535 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Аеропорт Дубровник - Murter. Фіксована ціна €535 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі аеропорт дубровник - murter, трансфер аеропорт дубровник - murter, трансфер з аеропорту аеропорт дубровник - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Аеропорт Дубровник - Murter",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Аеропорт Дубровник - Murter, 535 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Аеропорт Дубровник",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-aeroport-dubrovnik-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "535",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Аеропорт Дубровник - Murter, за автомобіль для до 4 пасажирів. Туди й назад 1070 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Яка відстань на маршруті і скільки триває поїздка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поїздка маршрутом Аеропорт Дубровник - Murter становить близько 339 км і триває приблизно 4 h 50 min за звичайного руху, трохи довше в розпал літа. Я планую подачу так, щоб повільна ділянка ніколи вас не квапила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Де ви мене зустрічаєте?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "У залі прильоту, одразу після видачі багажу, з табличкою з вашим іменем. Допомагаю з багажем і проводжу до авто."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Що як мій рейс затримується?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Не проблема. Стежу за рейсом у реальному часі й підлаштовую подачу під фактичну посадку, без доплати за очікування."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує трансфер на маршруті Аеропорт Дубровник - Murter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 535 за автомобіль для до 4 пасажирів, в один бік, дорожні збори та багаж включені. Поїздка туди й назад коштує 1070."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я спланував усе під ваш рейс. Для подачі того самого дня після раптової зміни зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

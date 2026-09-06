@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aeroport-zadar-marina-frapa",
+  "title": "Такси Аэропорт Задар - Marina Frapa | Фиксированная цена €160 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Аэропорт Задар - Marina Frapa. Фиксированная цена €160 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси аэропорт задар - marina frapa, трансфер аэропорт задар - marina frapa, трансфер из аэропорта аэропорт задар - marina frapa",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Аэропорт Задар - Marina Frapa",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Аэропорт Задар - Marina Frapa, 160 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Аэропорт Задар",
+        "Marina Frapa"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-aeroport-zadar-marina-frapa/",
+      "offers": {
+        "@type": "Offer",
+        "price": "160",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Аэропорт Задар - Marina Frapa, за автомобиль для до 4 пассажиров. Туда и обратно 320 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Где вы меня встречаете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "В зале прилёта, сразу после выдачи багажа, с табличкой с вашим именем. Помогаю с багажом и провожаю до машины."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Что если мой рейс задерживается?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Не проблема. Слежу за рейсом в реальном времени и подстраиваю подачу под фактическую посадку, без доплаты за ожидание."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит трансфер на маршруте Аэропорт Задар - Marina Frapa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 160 за автомобиль для до 4 пассажиров, в одну сторону, дорожные сборы и багаж включены. Поездка туда и обратно стоит 320."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я спланировал всё под ваш рейс. Для подачи в тот же день после внезапного изменения позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

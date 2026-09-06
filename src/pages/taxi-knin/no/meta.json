@@ -38,21 +38,21 @@
             "name": "Taxi Knin til Šibenik",
             "price": "95",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/no/book/?from=Knin&to=%C5%A0ibenik%20-%20center&price=95"
+            "url": "https://taxisibenik.hr/no/bestill/?from=Knin&to=%C5%A0ibenik%20-%20center&price=95"
           },
           {
             "@type": "Offer",
             "name": "Taxi Knin til Split lufthavn",
             "price": "110",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/no/book/?from=Knin&to=Split%20Airport%20%28SPU%29&price=110"
+            "url": "https://taxisibenik.hr/no/bestill/?from=Knin&to=Split%20Airport%20%28SPU%29&price=110"
           },
           {
             "@type": "Offer",
             "name": "Taxi Knin til Zadar lufthavn",
             "price": "140",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/no/book/?from=Knin&to=Zadar%20Airport%20%28ZAD%29&price=140"
+            "url": "https://taxisibenik.hr/no/bestill/?from=Knin&to=Zadar%20Airport%20%28ZAD%29&price=140"
           }
         ]
       }

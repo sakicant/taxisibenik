@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-agana-dubrovnikas-lidosta",
+  "title": "Taksometrs Marina Agana - Dubrovnikas lidosta | Fiksēta cena €420 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Marina Agana - Dubrovnikas lidosta. Fiksēta cena €420 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs marina agana - dubrovnikas lidosta, transfērs marina agana - dubrovnikas lidosta, lidostas transfērs marina agana - dubrovnikas lidosta",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Marina Agana - Dubrovnikas lidosta",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Marina Agana - Dubrovnikas lidosta, 420 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Agana",
+        "Dubrovnikas lidosta"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-marina-agana-dubrovnikas-lidosta/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Marina Agana - Dubrovnikas lidosta, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 840 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā Marina Agana - Dubrovnikas lidosta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 420 par automašīnu vienā virzienā, līdz 4 pasažieriem. Cena ir par automašīnu, nevis par personu, un ietver ceļa nodevas, degvielu un bagāžu. Brauciens turp un atpakaļ maksā 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cikos man jādodas uz lidostu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Parasti aptuveni 3 stundas pirms starptautiska lidojuma un 2 stundas pirms iekšzemes lidojuma. Pasakiet man lidojuma laiku, un es apstiprināšu precīzu izbraukšanas laiku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs aizvedat līdz pašam izlidošanas terminālim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Aizvedu jūs tieši līdz izlidošanas terminālim un palīdzu ar bagāžu. Nav jāiet kājām no stāvvietas un nav jāgaida autobuss."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un izbraukšanu, un agrāk agriem rīta lidojumiem un sezonas laikā. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet man WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

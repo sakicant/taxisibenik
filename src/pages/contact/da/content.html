@@ -1,0 +1,60 @@
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Kom i kontakt</span>
+      <h1>Kontakt TAXI Šibenik</h1>
+      <p class="page-hero-sub">Direkte kontakt med mig, ikke et callcenter. Ring, skriv på WhatsApp, eller send en besked nedenfor.</p>
+      <div class="hero-actions">
+        <a href="tel:+385994471013" class="btn btn-primary">Ring efter taxa nu</a>
+        <a href="https://wa.me/385994471013?text=Hello%20Antonio%2C%20I%20found%20you%20through%20your%20website%20taxisibenik.hr%20and%20I%20have%20an%20inquiry%3A%20" target="_blank" rel="noopener" class="btn btn-secondary">Send besked på WhatsApp</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="contact contact-page">
+    <div class="container contact-inner">
+      <div class="contact-info">
+        <span class="eyebrow">Ydelser</span>
+        <ul class="contact-details">
+          <li><a href="/da/">Lokal taxa i Šibenik</a></li>
+          <li><a href="https://taxiskradin.hr" target="_blank" rel="noopener">Taxa Skradin</a></li>
+          <li><a href="/da/airport-transfers-from-sibenik/">Lufthavnstransfer</a></li>
+          <li><a href="/da/sibenik-transfers/">Transfer mellem byer</a></li>
+          <li><a href="/da/daytrips/">Dagsture</a></li>
+        </ul>
+      </div>
+
+      <form class="contact-form" id="contact-form" action="/contact.php" method="POST">
+        <input type="text" name="company" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <h3>Send mig en besked</h3>
+        <label for="name">Navn</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">E-mail</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="phone">WhatsApp-nummer (valgfrit)</label>
+        <input type="tel" id="phone" name="phone" placeholder="Med landekode">
+
+        <label for="topic">Emne</label>
+        <select id="topic" name="topic" required>
+          <option value="General inquiry">Generel forespørgsel</option>
+          <option value="Booking">Bestilling</option>
+          <option value="Quote request">Anmodning om tilbud</option>
+          <option value="Day trip">Dagstur</option>
+          <option value="Partnership proposal">Forslag om samarbejde</option>
+          <option value="Complaint">Klage</option>
+          <option value="Other">Andet</option>
+        </select>
+
+        <label for="message">Besked</label>
+        <textarea id="message" name="message" rows="5" required placeholder="Fortæl mig dit afhentningssted, dato og destination..."></textarea>
+
+        <label class="form-consent">
+          <input type="checkbox" name="consent" value="1" required>
+          <span>Jeg har læst og accepterer <a href="/da/privacy-policy/">privatlivspolitikken</a>.</span>
+        </label>
+        <button type="submit" class="btn btn-primary">Send besked</button>
+        <p class="form-note" id="form-note"></p>
+      </form>
+    </div>
+  </section>

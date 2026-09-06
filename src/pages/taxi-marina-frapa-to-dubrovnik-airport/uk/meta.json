@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-frapa-aeroport-dubrovnik",
+  "title": "Таксі Marina Frapa - Аеропорт Дубровник | Фіксована ціна €420 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Marina Frapa - Аеропорт Дубровник. Фіксована ціна €420 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі marina frapa - аеропорт дубровник, трансфер marina frapa - аеропорт дубровник, трансфер з аеропорту marina frapa - аеропорт дубровник",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Marina Frapa - Аеропорт Дубровник",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Marina Frapa - Аеропорт Дубровник, 420 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Frapa",
+        "Аеропорт Дубровник"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-marina-frapa-aeroport-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Marina Frapa - Аеропорт Дубровник, за автомобіль для до 4 пасажирів. Туди й назад 840 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі на маршруті Marina Frapa - Аеропорт Дубровник?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 420 за автомобіль, в один бік, для до 4 пасажирів. Ціна за автомобіль, а не за особу, і включає дорожні збори, паливо та багаж. Поїздка туди й назад коштує 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Коли треба виїжджати в аеропорт?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Зазвичай приблизно за 3 години до міжнародного рейсу і за 2 години до внутрішнього. Скажіть час рейсу, і я підтверджу точний час подачі."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ви підвозите до самого терміналу вильоту?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Везу прямо до терміналу вильоту і допомагаю з багажем. Не треба йти від парковки і чекати шатл."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і подачу, і раніше для ранніх ранкових рейсів та високого сезону. Для термінової поїздки зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

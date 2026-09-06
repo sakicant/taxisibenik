@@ -1,0 +1,84 @@
+{
+  "slug": "taxi-drnis",
+  "title": "Taksometrs Drniš | TAXI Antonio",
+  "description": "Taksometrs Drniš: starppilsētu transfēri uz Šibeniku (€65) un Splitas lidostu (€80) no iekšzemes pilsētas, kas slavena ar savu prosciutto. Fiksētas cenas, rezervējiet tieši.",
+  "keywords": "taksometrs drnis, drnis taksometrs, drnis lidostas transfērs, drnis splitas lidosta, drnis sibenik, drnis starppilsētu transfērs",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Vietējais taksometrs un lidostas transfēri",
+      "name": "Taksometrs Drniš",
+      "description": "Privāts starppilsētu taksometrs par fiksētu cenu no Drniša, iekšzemes pilsētas Krkas ielejā, uz Šibeniku un Splitas lidostu, ar tālākiem iekšzemes maršrutiem pēc pieprasījuma.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Drniš",
+      "url": "https://taxisibenik.hr/lv/taxi-drnis/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksometra cenas no Drniša",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Drniš uz Šibeniku",
+            "price": "65",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Drni%C5%A1&to=%C5%A0ibenik%20-%20center&price=65"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Drniš uz Splitas lidostu",
+            "price": "80",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Drni%C5%A1&to=Split%20Airport%20%28SPU%29&price=80"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vai cena uz Splitas lidostu no Drniša ir fiksēta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Drniš uz Splitas lidostu ir fiksēti €80 par automašīnu līdz 4 pasažieriem, ieskaitot ceļa nodevas un bagāžu, saskaņoti pirms brauciena."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs veicat braucienus turp un atpakaļ un darījumu braucienus no Drniša?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Es nodrošinu transfērus turp un atpakaļ un darījumu braucienus uz piekrasti un lidostu. Pasakiet man laikus, un es apstiprināšu fiksētu cenu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat mani aizvest tālāk iekšzemē uz Kninu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā, es apkalpoju iekšzemes maršrutus uz Kninu un Perković dzelzceļa staciju. Tā kā tie nav manā tiešsaistes cenrādī, rakstiet man, un es apstiprināšu cenu."
+          }
+        }
+      ]
+    }
+  ]
+}

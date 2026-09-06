@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Ταξί Perković | TAXI Antonio",
+  "description": "Ταξί Perković: σας περιμένω στην αποβάθρα του κεντρικού σιδηροδρομικού σταθμού που εξυπηρετεί το Šibenik, με μεταφορές προς το Šibenik, τα Vodice, το Krka και πιο πέρα.",
+  "keywords": "ταξί perkovic, perkovic ταξί, ταξί σιδηροδρομικός σταθμός perkovic, μεταφορά σταθμός perkovic, perkovic sibenik, perkovic krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Τοπικό ταξί και μεταφορές αεροδρομίου",
+      "name": "Ταξί Perković",
+      "description": "Ιδιωτικό ταξί που παραλαμβάνει από τα τρένα στο Perković, τον κεντρικό σιδηροδρομικό σταθμό που εξυπηρετεί την περιοχή του Šibenik, με μεταφορές προς το Šibenik, τα Vodice, το Krka, το Drniš, το Knin και το αεροδρόμιο Split.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/el/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πού θα με συναντήσετε στον σταθμό Perković;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Στην αποβάθρα, ή στην έξοδο του σταθμού αν το προτιμάτε. Θα έχω έτοιμο το όνομά σας και θα σας βοηθήσω με τις αποσκευές ώστε να πάτε κατευθείαν στο αυτοκίνητο."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Τι γίνεται αν το τρένο μου για το Perković καθυστερήσει;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Παρακολουθώ το τρένο σας και προσαρμόζω την παραλαβή ανάλογα, χωρίς επιπλέον χρέωση, ώστε να είμαι εκεί όποτε φτάσει στην πραγματικότητα."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Υπάρχει πιάτσα ταξί στο Perković;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Όχι, δεν υπάρχει πιάτσα στον σταθμό, οπότε είναι καλύτερα να κάνετε κράτηση εκ των προτέρων. Στείλτε μου την ώρα του τρένου σας και τον προορισμό σας και θα σας περιμένω όταν κατεβείτε."
+          }
+        }
+      ]
+    }
+  ]
+}

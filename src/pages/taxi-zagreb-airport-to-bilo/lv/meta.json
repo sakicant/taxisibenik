@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zagrebas-lidosta-bilo",
+  "title": "Taksometrs Zagrebas lidosta - Bilo | Fiksēta cena €499 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Zagrebas lidosta - Bilo. Fiksēta cena €499 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs zagrebas lidosta - bilo, transfērs zagrebas lidosta - bilo, lidostas transfērs zagrebas lidosta - bilo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Zagrebas lidosta - Bilo",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Zagrebas lidosta - Bilo, 499 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zagrebas lidosta",
+        "Bilo"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-zagrebas-lidosta-bilo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "499",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Zagrebas lidosta - Bilo, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 998 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik garš ir maršruts un cik ilgi jābrauc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens maršrutā Zagrebas lidosta - Bilo ir aptuveni 372 km garš un ilgst apmēram 4 h 5 min normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kur jūs mani sagaidīsiet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ielidošanas zālē, uzreiz pēc bagāžas saņemšanas, ar plāksnīti, uz kuras ir jūsu vārds. Palīdzu ar bagāžu un aizvedu jūs līdz automašīnai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kas notiek, ja mans lidojums kavējas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nekādu problēmu. Sekoju jūsu lidojumam reāllaikā un pielāgoju sagaidīšanu faktiskajai nolaišanās reizei, bez papildu maksas par gaidīšanu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā transfērs maršrutā Zagrebas lidosta - Bilo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 499 par automašīnu līdz 4 pasažieriem vienā virzienā, ceļa nodevas un bagāža iekļauta. Brauciens turp un atpakaļ maksā 998."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu plānot pēc jūsu lidojuma. Ja sagaidīšana vajadzīga tajā pašā dienā pēc pēkšņām izmaiņām, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

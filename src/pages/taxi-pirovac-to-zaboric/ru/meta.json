@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-pirovac-zaboric",
+  "title": "Такси Pirovac - Žaborić | Фиксированная цена €70 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Pirovac - Žaborić. Фиксированная цена €70 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси pirovac - žaborić, трансфер pirovac - žaborić, трансфер из аэропорта pirovac - žaborić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Pirovac - Žaborić",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Pirovac - Žaborić, 70 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Pirovac",
+        "Žaborić"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-pirovac-zaboric/",
+      "offers": {
+        "@type": "Offer",
+        "price": "70",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Pirovac - Žaborić, за автомобиль для до 4 пассажиров. Туда и обратно 140 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Pirovac - Žaborić составляет около 33 км и занимает примерно 40 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Pirovac - Žaborić?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 70 за автомобиль для до 4 пассажиров, в одну сторону, багаж включён. Поездка туда и обратно стоит 140."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня забираете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По вашему точному адресу, будь то дом, отель или апартаменты. Пришлите адрес при бронировании, и я подтвержу место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

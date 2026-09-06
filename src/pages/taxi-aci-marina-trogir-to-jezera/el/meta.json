@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-trogir-jezera",
+  "title": "Ταξί ACI Marina Trogir - Jezera | Σταθερή τιμή €150 | TAXI Antonio",
+  "description": "Ιδιωτικό ταξί και μεταφορά, διαδρομή ACI Marina Trogir - Jezera. Σταθερή τιμή €150 ανά όχημα, έως 4 άτομα. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί aci marina trogir - jezera, μεταφορά aci marina trogir - jezera, μεταφορά από αεροδρόμιο aci marina trogir - jezera",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτική μεταφορά με ταξί",
+      "name": "Ταξί ACI Marina Trogir - Jezera",
+      "description": "Ιδιωτικό ταξί και μεταφορά σε σταθερή τιμή, διαδρομή ACI Marina Trogir - Jezera, 150 ευρώ ανά όχημα για έως 4 επιβάτες, από πόρτα σε πόρτα.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Trogir",
+        "Jezera"
+      ],
+      "url": "https://taxisibenik.hr/el/taxi-aci-marina-trogir-jezera/",
+      "offers": {
+        "@type": "Offer",
+        "price": "150",
+        "priceCurrency": "EUR",
+        "description": "Ιδιωτική διαδρομή απλής μετάβασης, διαδρομή ACI Marina Trogir - Jezera, ανά όχημα για έως 4 επιβάτες. Μετ' επιστροφής 300 ευρώ."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει μια μεταφορά στη διαδρομή ACI Marina Trogir - Jezera;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά 150 ανά όχημα για έως 4 επιβάτες, απλή διαδρομή, με διόδια, καύσιμα και αποσκευές. Η μετ' επιστροφής διαδρομή κοστίζει 300."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να με παραλάβετε μέσα στη μαρίνα;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Σας συναντώ στην είσοδο ή στη ρεσεψιόν της μαρίνας και βοηθώ με τις αποσκευές, ώστε να πάτε από τον προβλήτα κατευθείαν στο όχημα."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να προσαρμόσετε τη μεταφορά στο σκάφος μου;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Στείλτε μου κατά την κράτηση την ώρα του ναύλου, του check-in ή της αναχώρησης και οργανώνω την παραλαβή γύρω από αυτή."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τουλάχιστον 2 ώρες πριν, για να επιβεβαιώσω όχημα και ώρα παραλαβής. Για διαδρομή τελευταίας στιγμής τηλεφωνήστε μου ή γράψτε μου απευθείας στο WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

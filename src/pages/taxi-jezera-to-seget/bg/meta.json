@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-jezera-seget",
+  "title": "Такси Jezera - Seget | Фиксирана цена €135 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Jezera - Seget. Фиксирана цена €135 на автомобил, до 4 пътници, от врата до врата. Резервирайте директно при Антонио.",
+  "keywords": "такси jezera - seget, трансфер jezera - seget, летищен трансфер jezera - seget",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Jezera - Seget",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Jezera - Seget, 135 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Jezera",
+        "Seget"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-jezera-seget/",
+      "offers": {
+        "@type": "Offer",
+        "price": "135",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Jezera - Seget, на автомобил за до 4 пътници. Отиване и връщане 270 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко струва такси по маршрута Jezera - Seget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 135 на автомобил за до 4 пътници, еднопосочно, багажът е включен. Пътуване с отиване и връщане струва 270."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Откъде ме вземате?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "От точния ви адрес, било то къща, хотел или апартамент. Изпратете адреса при резервацията и ще потвърдя мястото на срещата."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и часа на вземане. За пътуване в последния момент се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

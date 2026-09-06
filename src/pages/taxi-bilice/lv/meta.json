@@ -1,0 +1,119 @@
+{
+  "slug": "taxi-bilice",
+  "title": "Taksometrs Bilice | TAXI Antonio",
+  "description": "Taksometrs Bilice: lidostas transfēri par fiksētu cenu uz Splitu (€100) un Zadaru, kā arī ātri braucieni uz Šibeniku. Sagaidīšana pie durvīm dzīvokļu un villu viesiem.",
+  "keywords": "taksometrs bilice, bilice taksometrs, bilice lidostas transfērs, bilice splitas lidosta, bilice sibenik, taksometrs bilice sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Vietējais taksometrs un lidostas transfēri",
+      "name": "Taksometrs Bilice",
+      "description": "Privāts taksometrs un lidostas transfēri par fiksētu cenu no Bilices uz ziemeļiem no Šibenikas uz Splitas lidostu, Zadaras lidostu, Šibeniku, Vodicēm un Krkas nacionālo parku.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Bilice",
+      "url": "https://taxisibenik.hr/lv/taxi-bilice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksometra cenas no Bilices",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Bilice uz Šibeniku",
+            "price": "20",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Bilice&to=%C5%A0ibenik%20-%20center&price=20"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Bilice uz Vodicēm",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Bilice&to=Vodice&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Bilice uz Krkas NP (Lozovac)",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Bilice&to=NP%20Krka%20-%20Lozovac%20entrance&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Bilice uz Splitas lidostu",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Bilice&to=Split%20Airport%20%28SPU%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Bilice uz Zadaras lidostu",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Bilice&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Bilice uz Splitu",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Bilice&to=Split&price=140"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Bilice uz Zadaru",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Bilice&to=Zadar&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vai jūs sagaidāt pie dzīvokļiem un villām Bilicē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Es paņemu jūs tieši pie jūsu naktsmītnes durvīm Bilicē, iekrauju jūsu bagāžu un vedu no durvīm līdz durvīm. Vienkārši atsūtiet man adresi, kad rezervējat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik agri jūs varat veikt lidostas transfēru no Bilices?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jebkurā stundā, dienā vai naktī, ja vien tas ir rezervēts iepriekš. Agriem Splitas vai Zadaras lidojumiem es apstiprinu sagaidīšanas laiku, lai jūs sasniegtu termināli ar laika rezervi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai cena līdz lidostai tiešām ir fiksēta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Katra cena šeit ir fiksēta cena par automašīnu līdz 4 pasažieriem, ar ceļa nodevām, degvielu un bagāžu. Bez skaitītāja."
+          }
+        }
+      ]
+    }
+  ]
+}

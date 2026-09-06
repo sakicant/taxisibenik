@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-trogir-sct-aeroport-zagreb",
+  "title": "Таксі Marina Trogir (SCT) - Аеропорт Загреб | Фіксована ціна €514 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Marina Trogir (SCT) - Аеропорт Загреб. Фіксована ціна €514 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі marina trogir (sct) - аеропорт загреб, трансфер marina trogir (sct) - аеропорт загреб, трансфер з аеропорту marina trogir (sct) - аеропорт загреб",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Marina Trogir (SCT) - Аеропорт Загреб",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Marina Trogir (SCT) - Аеропорт Загреб, 514 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Trogir (SCT)",
+        "Аеропорт Загреб"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-marina-trogir-sct-aeroport-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "514",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Marina Trogir (SCT) - Аеропорт Загреб, за автомобіль для до 4 пасажирів. Туди й назад 1028 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі на маршруті Marina Trogir (SCT) - Аеропорт Загреб?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 514 за автомобіль, в один бік, для до 4 пасажирів. Ціна за автомобіль, а не за особу, і включає дорожні збори, паливо та багаж. Поїздка туди й назад коштує 1028."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Коли треба виїжджати в аеропорт?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Зазвичай приблизно за 3 години до міжнародного рейсу і за 2 години до внутрішнього. Скажіть час рейсу, і я підтверджу точний час подачі."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ви підвозите до самого терміналу вильоту?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Везу прямо до терміналу вильоту і допомагаю з багажем. Не треба йти від парковки і чекати шатл."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і подачу, і раніше для ранніх ранкових рейсів та високого сезону. Для термінової поїздки зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

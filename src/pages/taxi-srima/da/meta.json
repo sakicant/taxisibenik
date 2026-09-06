@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-srima",
+  "title": "Taxi Srima | TAXI Antonio",
+  "description": "Taxi Srima: faste lufthavnstransfers til Split og Zadar (110 €), ture ind til Šibenik og kørsel til færgen i Vodice mod Prvić. Afhentning ved døren.",
+  "keywords": "taxi srima, srima taxa, srima vodice taxa, srima lufthavnstransfer, srima til split lufthavn, srima til zadar lufthavn",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokal taxa og lufthavnstransfer",
+      "name": "Taxi Srima",
+      "description": "Privat taxa til fast pris fra Srima, lige ved Vodice, til Split Lufthavn, Zadar Lufthavn og Šibenik, med afsætning ved ø-færgen i Vodice.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Srima",
+      "url": "https://taxisibenik.hr/da/taxi-srima/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxapriser fra Srima",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Srima til Šibenik",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/da/bestil/?from=Srima&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Srima til Zadar Lufthavn",
+            "price": "110",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/da/bestil/?from=Srima&to=Zadar%20Airport%20%28ZAD%29&price=110"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Srima til Split Lufthavn",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/da/bestil/?from=Srima&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kan du køre mig til færgen til Prvić?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ø-færgen til Prvić sejler fra anløbsbroen i Vodice lige ved Srima, og jeg kan sætte dig af der på et par minutter. Spørg mig om prisen, når du bestiller."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster Srima til lufthavnene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zadar Lufthavn koster en fast pris på 110 € og Split Lufthavn 115 € pr. bil for op til 4 passagerer, med vejafgifter og bagage inkluderet."
+          }
+        }
+      ]
+    }
+  ]
+}

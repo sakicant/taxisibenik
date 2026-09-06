@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zadar-marina-frapa",
+  "title": "Таксі Zadar - Marina Frapa | Фіксована ціна €170 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Zadar - Marina Frapa. Фіксована ціна €170 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі zadar - marina frapa, трансфер zadar - marina frapa, трансфер з аеропорту zadar - marina frapa",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Zadar - Marina Frapa",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Zadar - Marina Frapa, 170 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Marina Frapa"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-zadar-marina-frapa/",
+      "offers": {
+        "@type": "Offer",
+        "price": "170",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Zadar - Marina Frapa, за автомобіль для до 4 пасажирів. Туди й назад 340 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Скільки коштує трансфер на маршруті Zadar - Marina Frapa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 170 за автомобіль для до 4 пасажирів, в один бік, із дорожніми зборами, паливом і багажем. Поїздка туди й назад коштує 340."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете забрати просто в марині?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Зустрічаю вас біля входу в марину або на рецепції та допомагаю з багажем, щоб ви з понтона одразу пройшли до авто."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете підлаштувати трансфер під моє судно?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Надішліть при бронюванні час чартеру, реєстрації або відходу, і я спланую подачу під нього."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть прямо у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

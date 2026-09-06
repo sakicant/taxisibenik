@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zaboric-bilo",
+  "title": "Taxa Žaborić - Bilo | Fast pris €40 | TAXI Antonio",
+  "description": "Privat taxa og transfer på ruten Žaborić - Bilo. Fast pris €40 pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+  "keywords": "taxa žaborić - bilo, transfer žaborić - bilo, lufthavnstransfer žaborić - bilo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxatransfer",
+      "name": "Taxa Žaborić - Bilo",
+      "description": "Privat taxa og transfer til fast pris på ruten Žaborić - Bilo, 40 euro pr. bil for op til 4 passagerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Žaborić",
+        "Bilo"
+      ],
+      "url": "https://taxisibenik.hr/da/taxi-zaboric-bilo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "40",
+        "priceCurrency": "EUR",
+        "description": "Privat enkeltrejse på ruten Žaborić - Bilo, pr. bil for op til 4 passagerer. Tur og retur 80 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er ruten, og hvor længe tager turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på ruten Žaborić - Bilo er cirka 15 km lang og tager omkring 20 min i normal trafik, lidt længere i sommerens højsæson. Jeg planlægger afhentningen, så en langsom strækning aldrig får dig til at skynde dig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster en taxa på ruten Žaborić - Bilo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 40 pr. bil for op til 4 passagerer, enkeltrejse, bagage inkluderet. Tur og retur koster 80."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor henter du mig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "På din præcise adresse, uanset om det er et hus, et hotel eller en lejlighed. Send adressen, når du bestiller, så bekræfter jeg mødestedet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindst 2 timer før, så jeg kan bekræfte bil og afhentningstidspunkt. Har du brug for en tur med kort varsel, så ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

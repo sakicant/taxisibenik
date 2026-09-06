@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-srima-zadar-lufthavn",
+  "title": "Taxa Srima - Zadar Lufthavn | Fast pris €110 | TAXI Antonio",
+  "description": "Privat taxa og transfer på ruten Srima - Zadar Lufthavn. Fast pris €110 pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+  "keywords": "taxa srima - zadar lufthavn, transfer srima - zadar lufthavn, lufthavnstransfer srima - zadar lufthavn",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxatransfer",
+      "name": "Taxa Srima - Zadar Lufthavn",
+      "description": "Privat taxa og transfer til fast pris på ruten Srima - Zadar Lufthavn, 110 euro pr. bil for op til 4 passagerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Srima",
+        "Zadar Lufthavn"
+      ],
+      "url": "https://taxisibenik.hr/da/taxi-srima-zadar-lufthavn/",
+      "offers": {
+        "@type": "Offer",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "description": "Privat enkeltrejse på ruten Srima - Zadar Lufthavn, pr. bil for op til 4 passagerer. Tur og retur 220 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er ruten, og hvor længe tager turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på ruten Srima - Zadar Lufthavn er cirka 68 km lang og tager omkring 60 min i normal trafik, lidt længere i sommerens højsæson. Jeg planlægger afhentningen, så en langsom strækning aldrig får dig til at skynde dig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster en taxa på ruten Srima - Zadar Lufthavn?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 110 pr. bil, enkeltrejse, for op til 4 passagerer. Prisen er pr. bil, ikke pr. person, og dækker vejafgifter, brændstof og bagage. Tur og retur koster 220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvornår skal jeg tage af sted til lufthavnen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Som regel omkring 3 timer før et internationalt fly og 2 timer før et indenrigsfly. Fortæl mig din flytid, så bekræfter jeg det præcise afhentningstidspunkt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kører du helt til afgangsterminalen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg kører dig direkte til afgangsterminalen og hjælper med bagagen. Ingen gåtur fra parkeringspladsen og ingen shuttlebus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindst 2 timer før, så jeg kan bekræfte bil og afhentning, og gerne tidligere ved morgenfly og i højsæsonen. Har du brug for en tur med kort varsel, så ring eller skriv til mig på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

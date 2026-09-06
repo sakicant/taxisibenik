@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-srima-zadar",
+  "title": "Такси Srima - Zadar | Фиксированная цена €115 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Srima - Zadar. Фиксированная цена €115 за автомобиль, до 4 пассажиров, от двери до двери. Бронируйте напрямую у Антонио.",
+  "keywords": "такси srima - zadar, трансфер srima - zadar, трансфер из аэропорта srima - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Srima - Zadar",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Srima - Zadar, 115 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Srima",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-srima-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "115",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Srima - Zadar, за автомобиль для до 4 пассажиров. Туда и обратно 230 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Srima - Zadar составляет около 82 км и занимает примерно 75 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Srima - Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 115 за автомобиль для до 4 пассажиров, в одну сторону, с дорожными сборами, топливом и багажом. Поездка туда и обратно стоит 230."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансфер частный или общий?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Каждый трансфер частный и от двери до двери, на Škoda Superb. Машину ни с кем не делите, дополнительных остановок нет, если вы сами их не попросите."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете остановиться по пути?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. На длинных маршрутах охотно остановлюсь на кофе, для фото или у короткой достопримечательности. Просто скажите при бронировании."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

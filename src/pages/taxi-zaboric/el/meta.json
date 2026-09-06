@@ -1,0 +1,90 @@
+{
+  "slug": "taxi-zaboric",
+  "title": "Ταξί Žaborić | TAXI Antonio",
+  "description": "Ταξί Žaborić: μεταφορές από την πόρτα σας προς τα αεροδρόμια Split (€95) και Zadar, και διαδρομές προς το Šibenik και τα Vodice για αυτό το ήσυχο παραθαλάσσιο χωριό.",
+  "keywords": "ταξί zaboric, zaboric ταξί, μεταφορά αεροδρομίου zaboric, zaboric αεροδρόμιο split, zaboric sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Τοπικό ταξί και μεταφορές αεροδρομίου",
+      "name": "Ταξί Žaborić",
+      "description": "Ιδιωτικό ταξί με σταθερή τιμή από το Žaborić, ένα ήσυχο παραθαλάσσιο χωριό ανάμεσα στη Brodarica και τη Grebaštica, προς το αεροδρόμιο Split, το αεροδρόμιο Zadar, το Šibenik και τα Vodice.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Žaborić",
+      "url": "https://taxisibenik.hr/el/taxi-zaboric/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Τιμές ταξί από το Žaborić",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Ταξί Žaborić προς Šibenik",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=%C5%BDabori%C4%87&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Žaborić προς Vodice",
+            "price": "50",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=%C5%BDabori%C4%87&to=Vodice&price=50"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Žaborić προς αεροδρόμιο Split",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=%C5%BDabori%C4%87&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Žaborić προς αεροδρόμιο Zadar",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=%C5%BDabori%C4%87&to=Zadar%20Airport%20%28ZAD%29&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Υπάρχει πιάτσα ταξί στο Žaborić;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Όχι, δεν υπάρχει πιάτσα στο χωριό, οπότε είναι καλύτερα να κάνετε κράτηση εκ των προτέρων. Έρχομαι στο κατάλυμά σας στη συμφωνημένη ώρα, ώστε να μη χρειαστεί ποτέ να περιμένετε."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Εξυπηρετείτε ιδιωτικά διαμερίσματα στο Žaborić;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Σας παραλαμβάνω στην πόρτα του διαμερίσματος ή της εξοχικής σας κατοικίας. Απλώς στείλτε μου τη διεύθυνση όταν κάνετε κράτηση."
+          }
+        }
+      ]
+    }
+  ]
+}

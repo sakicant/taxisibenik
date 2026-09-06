@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-sibenik-marina-hramina",
+  "title": "Taksi Šibenik - Marina Hramina | Sabit fiyat €70 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Šibenik - Marina Hramina güzergâhı. Araç başına sabit €70, 4 yolcuya kadar, kapıdan kapıya. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi šibenik - marina hramina, transfer šibenik - marina hramina, havalimanı transferi šibenik - marina hramina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Šibenik - Marina Hramina",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Šibenik - Marina Hramina güzergâhı, 4 yolcuya kadar araç başına 70 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Marina Hramina"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-sibenik-marina-hramina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "70",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Šibenik - Marina Hramina güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 140 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Šibenik - Marina Hramina güzergâhında transfer ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 70, tek yön, otoyol ücretleri, yakıt ve bagaj dahil. Gidiş dönüş yolculuk 140."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni doğrudan marinadan alabilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Sizi marina girişinde veya resepsiyonda karşılar ve bagajla yardım ederim, böylece iskeleden doğruca araca geçersiniz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Transferi tekneme göre ayarlayabilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Rezervasyon sırasında kiralama, check-in veya kalkış saatinizi gönderin, alışı ona göre planlayayım."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya doğrudan WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

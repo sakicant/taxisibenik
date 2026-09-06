@@ -38,21 +38,21 @@
             "name": "Grebaštica에서 Šibenik까지 택시",
             "price": "35",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Greba%C5%A1tica&to=%C5%A0ibenik%20-%20center&price=35"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Greba%C5%A1tica&to=%C5%A0ibenik%20-%20center&price=35"
           },
           {
             "@type": "Offer",
             "name": "Grebaštica에서 Vodice까지 택시",
             "price": "55",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Greba%C5%A1tica&to=Vodice&price=55"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Greba%C5%A1tica&to=Vodice&price=55"
           },
           {
             "@type": "Offer",
             "name": "Grebaštica에서 스플리트 공항까지 택시",
             "price": "90",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Greba%C5%A1tica&to=Split%20Airport%20%28SPU%29&price=90"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Greba%C5%A1tica&to=Split%20Airport%20%28SPU%29&price=90"
           }
         ]
       }

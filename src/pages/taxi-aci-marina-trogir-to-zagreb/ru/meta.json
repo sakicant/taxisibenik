@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aci-marina-trogir-zagreb",
+  "title": "Такси ACI Marina Trogir - Zagreb | Фиксированная цена €514 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут ACI Marina Trogir - Zagreb. Фиксированная цена €514 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси aci marina trogir - zagreb, трансфер aci marina trogir - zagreb, трансфер из аэропорта aci marina trogir - zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси ACI Marina Trogir - Zagreb",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут ACI Marina Trogir - Zagreb, 514 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "ACI Marina Trogir",
+        "Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-aci-marina-trogir-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "514",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут ACI Marina Trogir - Zagreb, за автомобиль для до 4 пассажиров. Туда и обратно 1028 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит трансфер на маршруте ACI Marina Trogir - Zagreb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 514 за автомобиль для до 4 пассажиров, в одну сторону, с дорожными сборами, топливом и багажом. Поездка туда и обратно стоит 1028."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете забрать прямо в марине?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Встречаю вас у входа в марину или на ресепшене и помогаю с багажом, чтобы вы с понтона сразу прошли к машине."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете подстроить трансфер под моё судно?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Пришлите при бронировании время чартера, регистрации или отхода, и я спланирую подачу под него."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите прямо в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

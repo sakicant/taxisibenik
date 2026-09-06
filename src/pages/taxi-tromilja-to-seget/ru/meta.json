@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-tromilja-seget",
+  "title": "Такси Tromilja - Seget | Фиксированная цена €90 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Tromilja - Seget. Фиксированная цена €90 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси tromilja - seget, трансфер tromilja - seget, трансфер из аэропорта tromilja - seget",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Tromilja - Seget",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Tromilja - Seget, 90 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Tromilja",
+        "Seget"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-tromilja-seget/",
+      "offers": {
+        "@type": "Offer",
+        "price": "90",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Tromilja - Seget, за автомобиль для до 4 пассажиров. Туда и обратно 180 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Tromilja - Seget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 90 за автомобиль для до 4 пассажиров, в одну сторону, багаж включён. Поездка туда и обратно стоит 180."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня забираете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По вашему точному адресу, будь то дом, отель или апартаменты. Пришлите адрес при бронировании, и я подтвержу место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

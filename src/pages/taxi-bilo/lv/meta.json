@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-bilo",
+  "title": "Taksometrs Bilo | TAXI Antonio",
+  "description": "Taksometrs Bilo: transfēri no durvīm līdz durvīm uz Splitas lidostu (€80), Šibeniku un Vodicēm klusai pludmales apdzīvotai vietai ārpus galvenajiem taksometru maršrutiem.",
+  "keywords": "taksometrs bilo, bilo taksometrs, bilo lidostas transfērs, bilo splitas lidosta, bilo sibenik, bilo vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Vietējais taksometrs un lidostas transfēri",
+      "name": "Taksometrs Bilo",
+      "description": "Privāts taksometrs par fiksētu cenu no Bilo, mazas pludmales apdzīvotas vietas starp Grebašticu un Primoštenu, uz Splitas lidostu, Šibeniku un Vodicēm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Bilo",
+      "url": "https://taxisibenik.hr/lv/taxi-bilo/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksometra cenas no Bilo",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Bilo uz Šibeniku",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Bilo&to=%C5%A0ibenik%20-%20center&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Bilo uz Vodicēm",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Bilo&to=Vodice&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Bilo uz Splitas lidostu",
+            "price": "80",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Bilo&to=Split%20Airport%20%28SPU%29&price=80"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kur jūs sagaidāt Bilo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pie jūsu dzīvokļa vai brīvdienu mājas durvīm. Rezervējot atsūtiet adresi vai atzīmi kartē, un es apstiprināšu tikšanās vietu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā Bilo uz Splitas lidostu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti €80 par automašīnu līdz 4 pasažieriem, ar ceļa nodevām, degvielu un bagāžu."
+          }
+        }
+      ]
+    }
+  ]
+}

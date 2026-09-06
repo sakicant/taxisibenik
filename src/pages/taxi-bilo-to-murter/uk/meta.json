@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-bilo-murter",
+  "title": "Таксі Bilo - Murter | Фіксована ціна €110 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Bilo - Murter. Фіксована ціна €110 за автомобіль, до 4 пасажирів, від дверей до дверей. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі bilo - murter, трансфер bilo - murter, трансфер з аеропорту bilo - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Bilo - Murter",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Bilo - Murter, 110 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Bilo",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-bilo-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Bilo - Murter, за автомобіль для до 4 пасажирів. Туди й назад 220 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Яка відстань на маршруті і скільки триває поїздка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поїздка маршрутом Bilo - Murter становить близько 58 км і триває приблизно 75 min за звичайного руху, трохи довше в розпал літа. Я планую подачу так, щоб повільна ділянка ніколи вас не квапила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі на маршруті Bilo - Murter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 110 за автомобіль для до 4 пасажирів, в один бік, багаж включено. Поїздка туди й назад коштує 220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Де ви мене забираєте?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "За вашою точною адресою, чи то будинок, готель або апартаменти. Надішліть адресу при бронюванні, і я підтверджу місце зустрічі."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

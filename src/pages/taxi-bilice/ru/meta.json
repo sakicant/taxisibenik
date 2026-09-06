@@ -1,0 +1,119 @@
+{
+  "slug": "taxi-bilice",
+  "title": "Такси Билице | TAXI Antonio",
+  "description": "Такси Билице: трансферы в аэропорт Сплита (€100) и Задара по фиксированной цене, плюс быстрые поездки в Шибеник. Подача к двери для гостей апартаментов и вилл.",
+  "keywords": "такси билице, билице такси, трансфер из билице в аэропорт, билице аэропорт сплита, билице шибеник, такси билице шибеник",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Местное такси и трансферы в аэропорт",
+      "name": "Такси Билице",
+      "description": "Частное такси и трансферы в аэропорт по фиксированной цене из Билице, к северу от Шибеника, в аэропорт Сплита, аэропорт Задара, Шибеник, Водице и национальный парк Крка.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Bilice",
+      "url": "https://taxisibenik.hr/ru/taxi-bilice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Цены на такси из Билице",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Такси из Билице в Шибеник",
+            "price": "20",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Bilice&to=%C5%A0ibenik%20-%20center&price=20"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Билице в Водице",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Bilice&to=Vodice&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Билице в НП Крка (Лозовац)",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Bilice&to=NP%20Krka%20-%20Lozovac%20entrance&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Билице в аэропорт Сплита",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Bilice&to=Split%20Airport%20%28SPU%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Билице в аэропорт Задара",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Bilice&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Билице в Сплит",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Bilice&to=Split&price=140"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Билице в Задар",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Bilice&to=Zadar&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Забираете ли вы от апартаментов и вилл в Билице?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Я забираю вас прямо у двери вашего жилья в Билице, гружу багаж и везу от двери до двери. Просто пришлите мне адрес при бронировании."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Насколько рано вы можете подать машину на трансфер в аэропорт из Билице?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "В любой час, днём и ночью, если поездка забронирована заранее. Для ранних рейсов из Сплита или Задара я подтверждаю время подачи, чтобы вы приехали в терминал с запасом."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Цена до аэропорта действительно фиксированная?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Каждая цена здесь фиксированная, за автомобиль до 4 пассажиров, дорожные сборы, топливо и багаж включены. Без счётчика."
+          }
+        }
+      ]
+    }
+  ]
+}

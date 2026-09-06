@@ -1,0 +1,149 @@
+{
+  "slug": "daytrips",
+  "title": "Еднодневни екскурзии от Šibenik | Частно до Krka & Plitvice | TAXI Antonio",
+  "description": "Частни еднодневни екскурзии от Šibenik и из цяла Далмация до Национален парк Krka и Плитвичките езера. Двупосочни трансфери от врата до врата на фиксирана цена с местен шофьор. Не е тур, а само превозът дотам и обратно.",
+  "keywords": "еднодневни екскурзии от šibenik, екскурзии šibenik, частна еднодневна екскурзия хърватия, еднодневна екскурзия krka, еднодневна екскурзия plitvice, екскурзия до krka, екскурзия до plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частни еднодневни екскурзии и пътувания",
+      "name": "Еднодневни екскурзии от Šibenik и Далмация",
+      "description": "Частни еднодневни екскурзии на фиксирана цена до Национален парк Krka и Плитвичките езера с местен шофьор от Šibenik. Двупосочни трансфери от врата до врата от Šibenik, Vodice, Primošten, Split и Zadar, до 4 пътници в автомобил.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Vodice",
+        "Primošten",
+        "Split",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/bg/daytrips/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Частни еднодневни екскурзии от Далмация",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Еднодневна екскурзия до Krka от Šibenik",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/day-trip-krka-national-park-sibenik/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Еднодневна екскурзия до Krka от Vodice",
+            "price": "125",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/day-trip-krka-national-park-vodice/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Еднодневна екскурзия до Krka от Primošten",
+            "price": "155",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/day-trip-krka-national-park-primosten/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Еднодневна екскурзия до Krka от Zadar",
+            "price": "260",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/day-trip-krka-national-park-zadar/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Еднодневна екскурзия до Krka от Split",
+            "price": "290",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/day-trip-krka-national-park-split/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Еднодневна екскурзия до Plitvice от Šibenik",
+            "price": "500",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/day-trip-plitvice-lakes-national-park-sibenik/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Еднодневна екскурзия до Plitvice от Split",
+            "price": "650",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/day-trip-plitvice-lakes-national-park-split/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какви еднодневни екскурзии мога да резервирам от Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Двете най-популярни еднодневни екскурзии са Национален парк Krka и Национален парк Плитвичките езера. И двете са частни двупосочни трансфери на фиксирана цена от врата до врата от вашия хотел или апартамент, със свободно време в парка, за да го разгледате със собствено темпо."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Това организирани турове ли са или таксиметрови трансфери?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Това са частни таксиметрови трансфери, а не организирани групови турове. Антонио е местен шофьор, който ви откарва дотам и обратно с удобна Škoda Superb. В парка сте свободни да разглеждате сами, без екскурзовод и без споделена група."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва еднодневна екскурзия до Krka или Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Частна еднодневна екскурзия до Krka започва от фиксирани 100 евро за автомобил от Šibenik. Еднодневна екскурзия до Плитвичките езера е 500 евро за автомобил от Šibenik. Цените са за автомобил за до 4 пътници и зависят от населеното място, от което ви взимам."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Взимате ли пътници и от други населени места, не само от Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Еднодневните екскурзии до Krka тръгват от Šibenik, Vodice, Primošten, Zadar и Split, а тези до Plitvice от Šibenik и Split. Всяко населено място има собствена фиксирана цена и собствена страница с пълни подробности."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Включени ли са входните билети за парка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Не. Цената покрива само частния трансфер и времето за изчакване. Билетите за Krka и Plitvice се купуват отделно на входа или онлайн и струват приблизително от 7 до 40 евро в зависимост от сезона."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Как да резервирам еднодневна екскурзия?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Пишете ми в WhatsApp, обадете се или използвайте страницата за контакт. Авансово плащане от 20% (минимум 20 евро) потвърждава датата, а остатъкът се плаща на шофьора в деня на екскурзията."
+          }
+        }
+      ]
+    }
+  ]
+}

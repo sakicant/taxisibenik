@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-grebastica",
+  "title": "Таксі Гребаштиця | TAXI Antonio",
+  "description": "Таксі Гребаштиця: подача в кемпінгах і на пляжах з фіксованими трансферами в аеропорт Спліт (€90), Шибеник і Водіце. Бронюйте наперед, подача до дверей.",
+  "keywords": "таксі гребаштиця, гребаштиця таксі, таксі кемпінг гребаштиця, трансфер гребаштиця аеропорт, гребаштиця аеропорт спліт, гребаштиця шибеник",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Місцеве таксі та трансфери в аеропорт",
+      "name": "Таксі Гребаштиця",
+      "description": "Приватне таксі за фіксованою ціною з Гребаштиці, прибережного села з кемпінгами і пляжами на південь від Шибеника, до аеропорту Спліт, Шибеника і Водіце.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Grebaštica",
+      "url": "https://taxisibenik.hr/uk/taxi-grebastica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ціни на таксі з Гребаштиці",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Таксі Гребаштиця - Шибеник",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Greba%C5%A1tica&to=%C5%A0ibenik%20-%20center&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Гребаштиця - Водіце",
+            "price": "55",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Greba%C5%A1tica&to=Vodice&price=55"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Гребаштиця - аеропорт Спліт",
+            "price": "90",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Greba%C5%A1tica&to=Split%20Airport%20%28SPU%29&price=90"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Чи забираєте ви з кемпінгів у Гребаштиці?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Я забираю вас біля рецепції кемпінгу або ваших апартаментів, з місцем для кемпінгового і пляжного спорядження. Надішліть точне місце при бронюванні."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи є в Гребаштиці стоянка таксі?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ні, тому краще забронювати наперед. Я приїжджаю до вас у домовлений час, замість того щоб залишати вас шукати таксі в селі."
+          }
+        }
+      ]
+    }
+  ]
+}

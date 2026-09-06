@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-jezera-tromilja",
+  "title": "Таксі Jezera - Tromilja | Фіксована ціна €85 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Jezera - Tromilja. Фіксована ціна €85 за автомобіль, до 4 пасажирів, від дверей до дверей. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі jezera - tromilja, трансфер jezera - tromilja, трансфер з аеропорту jezera - tromilja",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Jezera - Tromilja",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Jezera - Tromilja, 85 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Jezera",
+        "Tromilja"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-jezera-tromilja/",
+      "offers": {
+        "@type": "Offer",
+        "price": "85",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Jezera - Tromilja, за автомобіль для до 4 пасажирів. Туди й назад 170 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Яка відстань на маршруті і скільки триває поїздка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поїздка маршрутом Jezera - Tromilja становить близько 48 км і триває приблизно 45 min за звичайного руху, трохи довше в розпал літа. Я планую подачу так, щоб повільна ділянка ніколи вас не квапила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі на маршруті Jezera - Tromilja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 85 за автомобіль для до 4 пасажирів, в один бік, багаж включено. Поїздка туди й назад коштує 170."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Де ви мене забираєте?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "За вашою точною адресою, чи то будинок, готель або апартаменти. Надішліть адресу при бронюванні, і я підтверджу місце зустрічі."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

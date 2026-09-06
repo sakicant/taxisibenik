@@ -1,0 +1,145 @@
+{
+  "slug": "amadria-park-sibenik-transfers",
+  "title": "Трансферы Amadria Park | Фиксированные цены | TAXI Antonio",
+  "description": "Частные трансферы в Amadria Park Šibenik и обратно, все отели курорта и кемпинг. Фиксированные цены при бронировании заранее: аэропорт Сплита €95, аэропорт Задара €130, Крка от €45. От двери до двери, один местный водитель.",
+  "keywords": "трансферы amadria park, такси amadria park, трансфер amadria park шибеник, amadria park трансфер в аэропорт, такси амадрия парк, солярис шибеник такси",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Такси и трансферы из отеля в аэропорт и города",
+      "name": "Трансферы Amadria Park Šibenik",
+      "description": "Частные такси-трансферы по фиксированным ценам в курорт Amadria Park в Шибенике и обратно, включая все отели курорта и кемпинг. Трансферы в аэропорты, между городами и поездки в НП Крка, забронированные заранее по цене, согласованной до поездки.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Amadria Park Šibenik",
+        "Шибеник"
+      ],
+      "url": "https://taxisibenik.hr/ru/amadria-park-sibenik-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Фиксированные цены на трансферы из Amadria Park",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Amadria Park - аэропорт Сплита",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park - аэропорт Задара",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park - аэропорт Загреба",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park - аэропорт Дубровника",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park - центр Шибеника",
+            "price": "18",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park - национальный парк Крка (Лозовац)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park - Сплит",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Amadria Park - Задар",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси из Amadria Park в аэропорт Сплита?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Частный трансфер из Amadria Park в аэропорт Сплита стоит фиксированные 95 евро за автомобиль до 4 пассажиров при бронировании заранее. Дорожные сборы, топливо и багаж включены, и цена одинакова в обе стороны."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Вы забираете из всех отелей Amadria Park и из кемпинга?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Я подаю машину прямо ко входу любого отеля курорта и к ресепшену кемпинга Amadria Park Camp, по тем же фиксированным ценам. Укажите название отеля при бронировании, и я подтвержу точное место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Нужно ли бронировать трансфер из Amadria Park заранее?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Все указанные цены это фиксированные цены на трансферы, забронированные заранее. Бронирование минимум за 2 часа гарантирует машину, время подачи и цену, что особенно важно для ранних рейсов и высокого сезона."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Вы встречаете гостей в аэропорту?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. При прилёте я отслеживаю ваш рейс в реальном времени, жду в зале прилёта с табличкой с именем и везу вас прямо в ваш отель Amadria Park или в кемпинг. Ожидание задержанного рейса бесплатно."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете отвезти нас из Amadria Park в национальный парк Крка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Трансфер в одну сторону до входа Лозовац стоит 45 евро, до входа Скрадин 50 евро. Я также предлагаю полноценную частную поездку на целый день со временем ожидания, с подачей к вашему отелю Amadria Park. Я водитель, а не турагентство: вы платите только за транспорт."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Как оплатить трансфер?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Бронирование подтверждает предоплата 20% (минимум 20 евро) банковским переводом или картой. Остаток вы платите водителю в день поездки, наличными или картой. При отмене более чем за 72 часа до подачи возврат полный, независимо от способа оплаты."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+ "taxi_word": "Taxi",
+ "book_slug": "rezervare",
+ "airport_name": {
+  "Split Airport": "Aeroportul Split",
+  "Zadar Airport": "Aeroportul Zadar",
+  "Zagreb Airport": "Aeroportul Zagreb",
+  "Dubrovnik Airport": "Aeroportul Dubrovnik"
+ },
+ "airport_slug": {
+  "split-airport": "aeroport-split",
+  "zadar-airport": "aeroport-zadar",
+  "zagreb-airport": "aeroport-zagreb",
+  "dubrovnik-airport": "aeroport-dubrovnik"
+ },
+ "hero_alt": "Taxi {rel}: Škoda Superb de la TAXI Antonio pe coasta Dalmației",
+ "per_car": "per vehicul &middot; până la 4 pasageri",
+ "book_now": "Rezervați acum",
+ "book_wa": "Rezervați pe WhatsApp",
+ "why_eyebrow": "De ce să rezervați acest transfer",
+ "why_title": "De ce să rezervați taxiul dumneavoastră {rel} la Antonio?",
+ "price_title": "Preț {rel}",
+ "price_sub": "Preț fix per vehicul, până la 4 pasageri, bagaje incluse. Același preț este valabil și în sens invers.",
+ "price_oneway_lbl": "Dus",
+ "price_return_lbl": "Dus &amp; întors",
+ "price_advance_lbl": "Avans pentru confirmare",
+ "price_balance_val": "Numerar sau card",
+ "price_balance_lbl": "Restul în ziua cursei",
+ "hub_note": "Un avans de 20% (minimum &euro;20) vă confirmă rezervarea, restul îl plătiți în ziua cursei, numerar sau cu cardul. Călătoriți în sens invers? Vedeți {revlink}.",
+ "reviews_eyebrow": "Recenzii",
+ "reviews_title": "Ce spun pasagerii",
+ "reviews_sub": "Recenzii autentice de la pasageri reali.",
+ "faq_eyebrow": "Întrebări frecvente",
+ "faq_title": "Taxi {rel}: întrebări frecvente",
+ "cta_title": "Rezervați transferul {rel}",
+ "cta_sub": "Preț fix &euro;{p} per vehicul, până la 4 pasageri. Confirmare din câteva clicuri.",
+ "trust_air": "Confirmat după avans &middot; Fără costuri ascunse &middot; Monitorizarea zborului inclusă",
+ "trust_generic": "Confirmat după avans &middot; Fără costuri ascunse &middot; Preț fix, fără aparat de taxat",
+ "rf_fixed_oneway_lbl": "Preț fix, dus",
+ "rf_distance_lbl": "Distanță",
+ "rf_drivetime_lbl": "Durata cursei",
+ "rf_return_lbl": "Dus &amp; întors",
+ "rf_upto4_val": "Până la 4",
+ "rf_upto4_lbl": "Pasageri",
+ "rf_skoda_lbl": "Privat, din ușă în ușă",
+ "meta_title": "Taxi {rel} | Preț fix €{p} | TAXI Antonio",
+ "meta_desc": "Taxi și transfer privat, ruta {rel}. Preț fix €{p} per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+ "meta_desc_short": "Taxi și transfer privat, ruta {rel}. Preț fix €{p} per vehicul, până la 4 persoane. Rezervați direct la Antonio.",
+ "keywords": "taxi {rell}, transfer {rell}, transfer aeroport {rell}",
+ "schema_servicetype": "Transfer privat cu taxi",
+ "schema_name": "Taxi {rel}",
+ "schema_desc": "Taxi și transfer privat la preț fix, ruta {rel}, {p} euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+ "schema_offer_desc": "Cursă privată dus, ruta {rel}, per vehicul pentru până la 4 pasageri. Dus-întors {rp} euro.",
+ "dist_faq_q": "Cât de lungă este ruta și cât durează cursa?",
+ "dist_faq_a": "Cursa pe ruta {rel} are aproximativ {km} km și durează în jur de {t} în trafic normal, puțin mai mult în vârf de sezon. Planific preluarea astfel încât un tronson lent să nu vă grăbească niciodată.",
+ "types": {
+  "to_airport": {
+   "heading": "Taxiul și transferul dumneavoastră privat, ruta {rel}",
+   "tagline": "Taxi și transfer privat la preț fix, ruta {rel}, direct la plecări.",
+   "intro": "Zburați de pe aeroportul {city}? Pentru ruta {rel} ofer un taxi și un transfer privat la preț fix. Sunt Antonio, șofer local: vă preiau de la adresa dumneavoastră și vă duc direct la terminalul de plecări cu o Škoda Superb confortabilă. Prețul este fix, &euro;{p} pentru tot vehiculul, până la 4 pasageri, convenit din timp, fără aparat de taxat și fără surprize. Planific preluarea în funcție de ora zborului, ca să ajungeți cu timp suficient pentru check-in. Formularul de ofertă de mai sus este deja completat pentru această rută, așa că vedeți prețul și rezervați din câteva clicuri.",
+   "whys": [
+    [
+     "Preț fix &euro;{p}",
+     "Un preț pentru tot vehiculul, până la 4 pasageri, convenit din timp. Taxele de drum, carburantul și bagajele sunt incluse, fără aparat de taxat."
+    ],
+    [
+     "Potrivit cu zborul dumneavoastră",
+     "Spuneți-mi ora plecării și calculez invers, ca să fiți la terminal cu timp pentru check-in."
+    ],
+    [
+     "De la ușă la terminal",
+     "Preluare de la adresa dumneavoastră și lăsare chiar la intrarea în terminalul de plecări."
+    ],
+    [
+     "La orice oră",
+     "Zborurile de dimineață devreme și cele de noapte târziu nu sunt o problemă. Conduc non-stop, la un preț convenit din timp."
+    ]
+   ],
+   "faqs": [
+    [
+     "Cât costă un taxi pe ruta {rel}?",
+     "Fix &euro;{p} per vehicul, dus, pentru până la 4 pasageri. Prețul este per vehicul, nu de persoană, și include taxele de drum, carburantul și bagajele. O cursă dus-întors costă &euro;{rp}."
+    ],
+    [
+     "Când ar trebui să plec spre aeroport?",
+     "De regulă cu aproximativ 3 ore înainte de un zbor internațional și cu 2 ore înainte de unul intern. Spuneți-mi ora zborului și vă confirm ora exactă a preluării."
+    ],
+    [
+     "Mergeți până la terminalul de plecări?",
+     "Da. Vă duc direct la terminalul de plecări și vă ajut cu bagajele. Fără mers pe jos din parcare și fără autobuz de legătură."
+    ],
+    [
+     "Cu cât timp înainte ar trebui să rezerv?",
+     "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și preluarea, și mai devreme pentru zborurile de dimineață și pentru vârful de sezon. Pentru o cursă de ultim moment sunați-mă sau scrieți-mi pe WhatsApp."
+    ]
+   ]
+  },
+  "from_airport": {
+   "heading": "Preluarea dumneavoastră de la aeroport și transferul, ruta {rel}",
+   "tagline": "Preluare privată de la aeroport și transfer la preț fix, ruta {rel}, cu monitorizarea zborului.",
+   "intro": "Tocmai ați aterizat pe aeroportul {city}? Un transfer privat pentru ruta {rel} scoate stresul din sosire. Vă întâmpin în zona de sosiri cu o plăcuță cu numele dumneavoastră, vă ajut cu bagajele și vă duc direct la destinație cu o Škoda Superb confortabilă, la un preț fix de &euro;{p} pentru tot vehiculul, până la 4 pasageri. Vă urmăresc zborul în timp real, așa că sunt acolo fie că aterizați mai devreme, fie mai târziu. Fără coadă la taxi, fără transfer în comun și fără scumpiri de moment. Formularul de mai sus este deja completat pentru această rută.",
+   "whys": [
+    [
+     "Întâmpinare cu plăcuță",
+     "Vă aștept în zona de sosiri cu o plăcuță cu numele dumneavoastră și vă ajut cu bagajele, ca să mergeți direct la vehicul."
+    ],
+    [
+     "Monitorizarea zborului",
+     "Vă urmăresc zborul în timp real și mă adaptez la o aterizare mai devreme sau la o întârziere, cu așteptare gratuită."
+    ],
+    [
+     "Preț fix &euro;{p}",
+     "Un preț pentru tot vehiculul, până la 4 pasageri, convenit din timp. Taxele de drum, carburantul și bagajele sunt incluse, fără aparat de taxat."
+    ],
+    [
+     "Direct la ușa dumneavoastră",
+     "Fără coadă și fără schimbări de mijloc de transport. Vă duc direct la adresa dumneavoastră."
+    ]
+   ],
+   "faqs": [
+    [
+     "Unde mă întâmpinați?",
+     "În zona de sosiri, imediat după ridicarea bagajelor, cu o plăcuță cu numele dumneavoastră. Vă ajut cu bagajele și vă conduc la vehicul."
+    ],
+    [
+     "Ce se întâmplă dacă zborul meu întârzie?",
+     "Nicio problemă. Vă urmăresc zborul în timp real și adaptez preluarea la aterizarea reală, fără cost suplimentar pentru așteptare."
+    ],
+    [
+     "Cât costă transferul pe ruta {rel}?",
+     "Fix &euro;{p} per vehicul pentru până la 4 pasageri, dus, cu taxele de drum și bagajele incluse. O cursă dus-întors costă &euro;{rp}."
+    ],
+    [
+     "Cu cât timp înainte ar trebui să rezerv?",
+     "Cu cel puțin 2 ore înainte, ca să pot planifica în jurul zborului dumneavoastră. Pentru o preluare în aceeași zi, după o schimbare de ultim moment, sunați-mă sau scrieți pe WhatsApp."
+    ]
+   ]
+  },
+  "marina": {
+   "heading": "Transfer privat pentru marină, ruta {rel}",
+   "tagline": "Taxi și transfer privat la preț fix, ruta {rel}, potrivit cu ambarcațiunea dumneavoastră.",
+   "intro": "Călătoriți pe ruta {rel}? Ofer un taxi și un transfer privat la preț fix pentru oaspeții marinei, potrivit cu ambarcațiunea și cu planurile dumneavoastră de călătorie. Vă preiau cu mult spațiu pentru bagaje și vă duc confortabil pe tot drumul cu o Škoda Superb, la un preț forfetar de &euro;{p} pentru vehicul, până la 4 pasageri, convenit înainte de plecare. Fie că ajungeți la iahtul dumneavoastră, fie că mergeți mai departe după debarcare, nu există aparat de taxat și nici așteptare în stație, doar un șofer local pe care îl rezervați direct. Este un transfer privat pe o rută mai lungă, iar oferta de mai sus este deja setată pentru această rută.",
+   "whys": [
+    [
+     "Preț fix &euro;{p}",
+     "Un preț per vehicul pentru până la 4 pasageri, convenit din timp. Taxele de drum, carburantul și bagajele sunt incluse, fără aparat de taxat pornit."
+    ],
+    [
+     "Potrivit cu ambarcațiunea dumneavoastră",
+     "Spuneți-mi ora charterului, a check-inului sau a plecării și planific preluarea în jurul ei, ca un tronson lent să nu vă grăbească niciodată."
+    ],
+    [
+     "Spațiu pentru bagajele dumneavoastră",
+     "Valizele, proviziile și gențile de bord încap toate într-o Škoda Superb confortabilă, cu o mână de ajutor la încărcat și descărcat."
+    ],
+    [
+     "Un singur șofer local",
+     "Vorbiți direct cu mine, de la rezervare până la sosire, la telefon, pe WhatsApp sau pe e-mail. Fără call center."
+    ]
+   ],
+   "faqs": [
+    [
+     "Cât costă un transfer pe ruta {rel}?",
+     "Fix &euro;{p} per vehicul pentru până la 4 pasageri, dus, cu taxele de drum, carburantul și bagajele. O cursă dus-întors costă &euro;{rp}."
+    ],
+    [
+     "Puteți să mă preluați chiar din marină?",
+     "Da. Vă întâlnesc la intrarea în marină sau la recepție și vă ajut cu bagajele, ca să mergeți de pe ponton direct la vehicul."
+    ],
+    [
+     "Puteți potrivi transferul cu ambarcațiunea mea?",
+     "Da. Trimiteți-mi la rezervare ora charterului, a check-inului sau a plecării și planific preluarea în jurul ei."
+    ],
+    [
+     "Cu cât timp înainte ar trebui să rezerv?",
+     "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți-mi direct pe WhatsApp."
+    ]
+   ]
+  },
+  "city": {
+   "heading": "Transfer privat, ruta {rel}",
+   "tagline": "Taxi și transfer privat la preț fix, ruta {rel}, din ușă în ușă.",
+   "intro0": "Aveți nevoie de un transfer de încredere pe ruta {rel}? Ofer un taxi și un transfer privat la preț fix, din ușă în ușă, cu o Škoda Superb confortabilă. Vă preiau de la adresa exactă și vă duc direct la destinație, fără opriri nedorite și fără alți pasageri. Prețul este fix, &euro;{p} pentru tot vehiculul, până la 4 pasageri, convenit înainte de plecare, cu taxele de drum și bagajele incluse. Oferta de mai sus este completată pentru această rută, așa că rezervarea durează doar câteva clicuri.",
+   "intro1": "Căutați un taxi pe ruta {rel} fără aparat de taxat și fără bătăi de cap? Acesta este un transfer privat la preț fix, cu un șofer local. Vă preiau de la ușă și vă duc confortabil la destinație, cu tot cu bagaje, la un preț forfetar de &euro;{p} per vehicul pentru până la 4 pasageri. Pentru cupluri și familii este adesea mai avantajos decât bilete separate de autobuz sau de tren, și este mereu mai rapid și din ușă în ușă. Oferta de mai sus este deja setată pentru această rută.",
+   "whys": [
+    [
+     "Preț fix &euro;{p}",
+     "Un preț per vehicul pentru până la 4 pasageri, convenit din timp. Taxele de drum, carburantul și bagajele sunt incluse, fără aparat de taxat pornit."
+    ],
+    [
+     "Din ușă în ușă",
+     "Vă preiau de la adresa exactă și vă las la ușa destinației. Fără gări, fără schimbări."
+    ],
+    [
+     "Un singur șofer local",
+     "Vorbiți direct cu mine, de la rezervare până la sosire, la telefon, pe WhatsApp sau pe e-mail. Fără call center."
+    ],
+    [
+     "Opriri la cerere",
+     "Pe rutele mai lungi opresc cu plăcere pentru o cafea, o fotografie sau un obiectiv scurt de pe drum."
+    ]
+   ],
+   "faqs": [
+    [
+     "Cât costă un taxi pe ruta {rel}?",
+     "Fix &euro;{p} per vehicul pentru până la 4 pasageri, dus, cu taxele de drum, carburantul și bagajele. O cursă dus-întors costă &euro;{rp}."
+    ],
+    [
+     "Transferul este privat sau în comun?",
+     "Fiecare transfer este privat și din ușă în ușă, cu o Škoda Superb. Fără vehicul împărțit și fără opriri suplimentare, decât dacă le cereți."
+    ],
+    [
+     "Puteți opri pe drum?",
+     "Da. Pe rutele mai lungi opresc cu plăcere pentru o cafea, o fotografie sau un obiectiv scurt. Spuneți-mi doar la rezervare."
+    ],
+    [
+     "Cu cât timp înainte ar trebui să rezerv?",
+     "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți pe WhatsApp."
+    ]
+   ]
+  },
+  "local": {
+   "heading": "Taxi privat, ruta {rel}",
+   "tagline": "Taxi și transfer privat la preț fix, ruta {rel}, din ușă în ușă.",
+   "intro0": "Călătoriți pe ruta {rel}? Conduc un taxi și un transfer privat la preț fix, cu preluare de la ușa dumneavoastră și lăsare exact acolo unde trebuie să ajungeți. Prețul este forfetar, &euro;{p} pentru tot vehiculul, până la 4 pasageri, fără aparat de taxat și fără așteptare în stație. O Škoda Superb confortabilă, spațiu pentru bagaje și un șofer local pe care îl rezervați direct. Oferta de mai sus este completată pentru această rută.",
+   "intro1": "Aveți nevoie de un taxi pe ruta {rel}? Ofer un transfer privat din ușă în ușă, la un preț fix de &euro;{p} pentru tot vehiculul, până la 4 pasageri. Ajung la adresa dumneavoastră la ora convenită, așa că nu așteptați niciodată la marginea drumului, și vă duc confortabil la destinație. Fără aparat de taxat, fără surprize, doar un șofer local de la rezervare până la sosire. Oferta de mai sus este deja setată pentru această rută.",
+   "whys": [
+    [
+     "Preț fix &euro;{p}",
+     "Un preț per vehicul pentru până la 4 pasageri, convenit înainte de călătorie. Fără aparat de taxat, fără surprize."
+    ],
+    [
+     "Din ușă în ușă",
+     "Preluare de la adresa dumneavoastră și lăsare la ușa destinației, cu tot cu bagaje."
+    ],
+    [
+     "Fără stație de taxi",
+     "Rezervat din timp, așa că nu așteptați niciodată un taxi care trece. Vin eu la dumneavoastră."
+    ],
+    [
+     "Un singur șofer local",
+     "Vorbiți direct cu mine, de la rezervare până la sosire, la telefon, pe WhatsApp sau pe e-mail."
+    ]
+   ],
+   "faqs": [
+    [
+     "Cât costă un taxi pe ruta {rel}?",
+     "Fix &euro;{p} per vehicul pentru până la 4 pasageri, dus, cu bagajele incluse. O cursă dus-întors costă &euro;{rp}."
+    ],
+    [
+     "De unde mă preluați?",
+     "De la adresa dumneavoastră exactă, fie că este casă, hotel sau apartament. Trimiteți adresa la rezervare și vă confirm punctul de întâlnire."
+    ],
+    [
+     "Cu cât timp înainte ar trebui să rezerv?",
+     "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți pe WhatsApp."
+    ]
+   ]
+  }
+ }
+}

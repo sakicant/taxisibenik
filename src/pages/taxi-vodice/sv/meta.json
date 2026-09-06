@@ -38,28 +38,28 @@
             "name": "Taxi Vodice till Šibenik",
             "price": "30",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/sv/book/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+            "url": "https://taxisibenik.hr/sv/boka/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
           },
           {
             "@type": "Offer",
             "name": "Taxi Vodice till nationalparken Krka (Lozovac)",
             "price": "60",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/sv/book/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+            "url": "https://taxisibenik.hr/sv/boka/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
           },
           {
             "@type": "Offer",
             "name": "Taxi Vodice till Zadars flygplats",
             "price": "100",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/sv/book/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+            "url": "https://taxisibenik.hr/sv/boka/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
           },
           {
             "@type": "Offer",
             "name": "Taxi Vodice till Splits flygplats",
             "price": "115",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/sv/book/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+            "url": "https://taxisibenik.hr/sv/boka/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
           }
         ]
       }

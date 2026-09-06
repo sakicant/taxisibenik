@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-aeroport-dubrovnik-zadar",
+  "title": "Таксі Аеропорт Дубровник - Zadar | Фіксована ціна €625 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Аеропорт Дубровник - Zadar. Фіксована ціна €625 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі аеропорт дубровник - zadar, трансфер аеропорт дубровник - zadar, трансфер з аеропорту аеропорт дубровник - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Аеропорт Дубровник - Zadar",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Аеропорт Дубровник - Zadar, 625 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Аеропорт Дубровник",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-aeroport-dubrovnik-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "625",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Аеропорт Дубровник - Zadar, за автомобіль для до 4 пасажирів. Туди й назад 1250 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Яка відстань на маршруті і скільки триває поїздка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поїздка маршрутом Аеропорт Дубровник - Zadar становить близько 371 км і триває приблизно 5 h за звичайного руху, трохи довше в розпал літа. Я планую подачу так, щоб повільна ділянка ніколи вас не квапила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Де ви мене зустрічаєте?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "У залі прильоту, одразу після видачі багажу, з табличкою з вашим іменем. Допомагаю з багажем і проводжу до авто."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Що як мій рейс затримується?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Не проблема. Стежу за рейсом у реальному часі й підлаштовую подачу під фактичну посадку, без доплати за очікування."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує трансфер на маршруті Аеропорт Дубровник - Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 625 за автомобіль для до 4 пасажирів, в один бік, дорожні збори та багаж включені. Поїздка туди й назад коштує 1250."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я спланував усе під ваш рейс. Для подачі того самого дня після раптової зміни зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

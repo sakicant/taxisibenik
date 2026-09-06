@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zadar-aci-marina-trogir",
+  "title": "Taxa Zadar - ACI Marina Trogir | Fast pris €225 | TAXI Antonio",
+  "description": "Privat taxa og transfer på ruten Zadar - ACI Marina Trogir. Fast pris €225 pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+  "keywords": "taxa zadar - aci marina trogir, transfer zadar - aci marina trogir, lufthavnstransfer zadar - aci marina trogir",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxatransfer",
+      "name": "Taxa Zadar - ACI Marina Trogir",
+      "description": "Privat taxa og transfer til fast pris på ruten Zadar - ACI Marina Trogir, 225 euro pr. bil for op til 4 passagerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "ACI Marina Trogir"
+      ],
+      "url": "https://taxisibenik.hr/da/taxi-zadar-aci-marina-trogir/",
+      "offers": {
+        "@type": "Offer",
+        "price": "225",
+        "priceCurrency": "EUR",
+        "description": "Privat enkeltrejse på ruten Zadar - ACI Marina Trogir, pr. bil for op til 4 passagerer. Tur og retur 450 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvad koster en transfer på ruten Zadar - ACI Marina Trogir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 225 pr. bil for op til 4 passagerer, enkeltrejse, med vejafgifter, brændstof og bagage. Tur og retur koster 450."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du hente mig direkte i marinaen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg møder dig ved marinaens indgang eller i receptionen og hjælper med bagagen, så du går direkte fra broen til bilen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du tilpasse transferen til min båd?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Send mig tidspunktet for charter, check-in eller afgang, når du bestiller, så planlægger jeg afhentningen efter det."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindst 2 timer før, så jeg kan bekræfte bil og afhentningstidspunkt. Har du brug for en tur med kort varsel, så ring eller skriv direkte til mig på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

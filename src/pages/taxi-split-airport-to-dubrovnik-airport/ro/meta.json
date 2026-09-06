@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-aeroport-split-aeroport-dubrovnik",
+  "title": "Taxi Aeroportul Split - Aeroportul Dubrovnik | Preț fix €450 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Aeroportul Split - Aeroportul Dubrovnik. Preț fix €450 per vehicul, până la 4 persoane. Rezervați direct la Antonio.",
+  "keywords": "taxi aeroportul split - aeroportul dubrovnik, transfer aeroportul split - aeroportul dubrovnik, transfer aeroport aeroportul split - aeroportul dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Aeroportul Split - Aeroportul Dubrovnik",
+      "description": "Taxi și transfer privat la preț fix, ruta Aeroportul Split - Aeroportul Dubrovnik, 450 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Aeroportul Split",
+        "Aeroportul Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-aeroport-split-aeroport-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "450",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Aeroportul Split - Aeroportul Dubrovnik, per vehicul pentru până la 4 pasageri. Dus-întors 900 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât de lungă este ruta și cât durează cursa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cursa pe ruta Aeroportul Split - Aeroportul Dubrovnik are aproximativ 264 km și durează în jur de 4 h în trafic normal, puțin mai mult în vârf de sezon. Planific preluarea astfel încât un tronson lent să nu vă grăbească niciodată."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi pe ruta Aeroportul Split - Aeroportul Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 450 per vehicul, dus, pentru până la 4 pasageri. Prețul este per vehicul, nu de persoană, și include taxele de drum, carburantul și bagajele. O cursă dus-întors costă 900."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Când ar trebui să plec spre aeroport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De regulă cu aproximativ 3 ore înainte de un zbor internațional și cu 2 ore înainte de unul intern. Spuneți-mi ora zborului și vă confirm ora exactă a preluării."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mergeți până la terminalul de plecări?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Vă duc direct la terminalul de plecări și vă ajut cu bagajele. Fără mers pe jos din parcare și fără autobuz de legătură."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și preluarea, și mai devreme pentru zborurile de dimineață și pentru vârful de sezon. Pentru o cursă de ultim moment sunați-mă sau scrieți-mi pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zagreb-havalimani-aci-marina-trogir",
+  "title": "Taksi Zagreb Havalimanı - ACI Marina Trogir | Sabit fiyat €514 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Zagreb Havalimanı - ACI Marina Trogir güzergâhı. Araç başına sabit €514, 4 kişiye kadar. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi zagreb havalimanı - aci marina trogir, transfer zagreb havalimanı - aci marina trogir, havalimanı transferi zagreb havalimanı - aci marina trogir",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Zagreb Havalimanı - ACI Marina Trogir",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Zagreb Havalimanı - ACI Marina Trogir güzergâhı, 4 yolcuya kadar araç başına 514 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zagreb Havalimanı",
+        "ACI Marina Trogir"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-zagreb-havalimani-aci-marina-trogir/",
+      "offers": {
+        "@type": "Offer",
+        "price": "514",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Zagreb Havalimanı - ACI Marina Trogir güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 1028 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Beni nerede karşılıyorsunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Geliş salonunda, bagaj alımının hemen ardından, isminizin yazdığı bir tabelayla. Bagajla yardım eder ve sizi araca kadar götürürüm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Uçuşum rötar yaparsa ne olur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sorun değil. Uçuşunuzu gerçek zamanlı takip eder ve alışı gerçek iniş saatine göre ayarlarım, bekleme için ek ücret almadan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zagreb Havalimanı - ACI Marina Trogir güzergâhında transfer ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 514, tek yön, otoyol ücretleri ve bagaj dahil. Gidiş dönüş yolculuk 1028."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Uçuşunuza göre planlayabilmem için en az 2 saat önce. Son dakika bir değişiklikten sonra aynı gün alış için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

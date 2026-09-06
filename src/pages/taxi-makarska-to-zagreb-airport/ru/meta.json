@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-makarska-aeroport-zagreb",
+  "title": "Такси Makarska - Аэропорт Загреб | Фиксированная цена €610 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Makarska - Аэропорт Загреб. Фиксированная цена €610 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси makarska - аэропорт загреб, трансфер makarska - аэропорт загреб, трансфер из аэропорта makarska - аэропорт загреб",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Makarska - Аэропорт Загреб",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Makarska - Аэропорт Загреб, 610 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Makarska",
+        "Аэропорт Загреб"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-makarska-aeroport-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "610",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Makarska - Аэропорт Загреб, за автомобиль для до 4 пассажиров. Туда и обратно 1220 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Makarska - Аэропорт Загреб составляет около 467 км и занимает примерно 5 h 5 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Makarska - Аэропорт Загреб?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 610 за автомобиль, в одну сторону, для до 4 пассажиров. Цена за автомобиль, а не за человека, и включает дорожные сборы, топливо и багаж. Поездка туда и обратно стоит 1220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Когда нужно выезжать в аэропорт?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Обычно примерно за 3 часа до международного рейса и за 2 часа до внутреннего. Скажите время рейса, и я подтвержу точное время подачи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Вы подвозите к самому терминалу вылета?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Везу прямо к терминалу вылета и помогаю с багажом. Не нужно идти от парковки и ждать шаттл."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и подачу, и раньше для ранних утренних рейсов и высокого сезона. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

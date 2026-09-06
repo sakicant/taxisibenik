@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadar-lozovac",
+  "title": "Такси Zadar - Lozovac | Фиксированная цена €145 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Zadar - Lozovac. Фиксированная цена €145 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси zadar - lozovac, трансфер zadar - lozovac, трансфер из аэропорта zadar - lozovac",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Zadar - Lozovac",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Zadar - Lozovac, 145 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Lozovac"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-zadar-lozovac/",
+      "offers": {
+        "@type": "Offer",
+        "price": "145",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Zadar - Lozovac, за автомобиль для до 4 пассажиров. Туда и обратно 290 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Zadar - Lozovac составляет около 90 км и занимает примерно 70 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Zadar - Lozovac?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 145 за автомобиль для до 4 пассажиров, в одну сторону, с дорожными сборами, топливом и багажом. Поездка туда и обратно стоит 290."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансфер частный или общий?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Каждый трансфер частный и от двери до двери, на Škoda Superb. Машину ни с кем не делите, дополнительных остановок нет, если вы сами их не попросите."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете остановиться по пути?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. На длинных маршрутах охотно остановлюсь на кофе, для фото или у короткой достопримечательности. Просто скажите при бронировании."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

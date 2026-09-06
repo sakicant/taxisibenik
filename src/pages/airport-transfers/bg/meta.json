@@ -1,0 +1,85 @@
+{
+  "slug": "airport-transfers-from-sibenik",
+  "title": "Летищни трансфери от Šibenik | Фиксирани цени | TAXI Antonio",
+  "description": "Летищни трансфери от Šibenik до и от летищата Split, Zadar, Zagreb и Dubrovnik. Фиксирани цени, следене на полета, от врата до врата. Обслужвам и Vodice, Primošten & Skradin. Резервирайте при Антонио.",
+  "keywords": "летищни трансфери šibenik, летищен трансфер šibenik, летище split до šibenik, летище zadar до šibenik, летищен трансфер vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Летищен трансфер",
+      "name": "Летищни трансфери от Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split Airport",
+        "Zadar Airport",
+        "Zagreb Airport",
+        "Dubrovnik Airport"
+      ],
+      "url": "https://taxisibenik.hr/bg/airport-transfers-from-sibenik/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Как ще намеря шофьора си на летището?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Антонио чака в залата за пристигащи след получаването на багажа, с ясна табела с вашето име."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Какво става, ако полетът ми закъснее?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Полетите се следят в реално време по номера на полета, който посочвате при резервацията. Часът на вземане се коригира автоматично и няма допълнителна такса за изчакване."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Фиксирана ли е цената на летищния трансфер?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Всеки летищен трансфер е на фиксирана цена за автомобил за до 4 пътници, с включени пътни такси, гориво и багаж. Без таксиметров апарат, без изненади."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Осигурявате ли детски седалки за летищни трансфери?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да, детските и бустер седалките са безплатни. Просто ги поискайте в бележките към резервацията, като посочите възрастта на детето."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Как се плаща летищен трансфер?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Авансово плащане от 20% (минимум 20 евро) потвърждава резервацията, с банков превод или карта. Остатъкът се плаща на шофьора в деня на пътуването, в брой или с карта."
+          }
+        }
+      ]
+    }
+  ]
+}

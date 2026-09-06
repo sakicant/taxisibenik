@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-perkovic-sibenik",
+  "title": "Такси Perković - Šibenik | Фиксированная цена €55 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Perković - Šibenik. Фиксированная цена €55 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси perković - šibenik, трансфер perković - šibenik, трансфер из аэропорта perković - šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Perković - Šibenik",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Perković - Šibenik, 55 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Perković",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-perkovic-sibenik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "55",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Perković - Šibenik, за автомобиль для до 4 пассажиров. Туда и обратно 110 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Perković - Šibenik составляет около 21 км и занимает примерно 30 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Perković - Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 55 за автомобиль для до 4 пассажиров, в одну сторону, багаж включён. Поездка туда и обратно стоит 110."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня забираете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По вашему точному адресу, будь то дом, отель или апартаменты. Пришлите адрес при бронировании, и я подтвержу место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

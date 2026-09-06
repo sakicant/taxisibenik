@@ -38,14 +38,14 @@
             "name": "Drniš에서 Šibenik까지 택시",
             "price": "65",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Drni%C5%A1&to=%C5%A0ibenik%20-%20center&price=65"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Drni%C5%A1&to=%C5%A0ibenik%20-%20center&price=65"
           },
           {
             "@type": "Offer",
             "name": "Drniš에서 스플리트 공항까지 택시",
             "price": "80",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Drni%C5%A1&to=Split%20Airport%20%28SPU%29&price=80"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Drni%C5%A1&to=Split%20Airport%20%28SPU%29&price=80"
           }
         ]
       }

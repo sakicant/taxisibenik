@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-ciovo-zagreb",
+  "title": "Taksometrs Čiovo - Zagreb | Fiksēta cena €514 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Čiovo - Zagreb. Fiksēta cena €514 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs čiovo - zagreb, transfērs čiovo - zagreb, lidostas transfērs čiovo - zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Čiovo - Zagreb",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Čiovo - Zagreb, 514 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-ciovo-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "514",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Čiovo - Zagreb, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 1028 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā Čiovo - Zagreb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 514 par automašīnu līdz 4 pasažieriem vienā virzienā, ar ceļa nodevām, degvielu un bagāžu. Brauciens turp un atpakaļ maksā 1028."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai transfērs ir privāts vai kopīgs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Katrs transfērs ir privāts un no durvīm līdz durvīm, ar Škoda Superb. Automašīna netiek dalīta un papildu pieturu nav, ja vien jūs tās nelūdzat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat apstāties ceļā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Garākos maršrutos labprāt apstājos uz kafiju, fotogrāfiju vai īsu apskates objektu. Vienkārši pasakiet, rezervējot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "slug": "",
+  "title": "Такси Šibenik - услуга, на която можете да разчитате | Taxi Antonio",
+  "description": "Такси Šibenik за местни пътувания при поискване, вземане от болницата и хотелите, автогарата и фериботното пристанище, както и връзки с островите. Резервирайте директно при Антонио.",
+  "keywords": "такси šibenik, такси сибеник, такси болница šibenik, такси хотел šibenik, такси фериботно пристанище šibenik, такси zlarin prvic",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-home-land.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "TAXI Šibenik & Skradin - Antonio",
+      "url": "https://taxisibenik.hr/bg/",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "areaServed": [
+        "Šibenik",
+        "Skradin",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Šibenik",
+        "postalCode": "22000",
+        "addressCountry": "HR"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "152"
+      },
+      "priceRange": "€€",
+      "alternateName": "TAXI Antonio",
+      "@id": "https://taxisibenik.hr/bg/#business",
+      "image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
+      "paymentAccepted": "В брой, кредитна карта",
+      "currenciesAccepted": "EUR",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6956974,
+        "longitude": 15.7891511
+      },
+      "hasMap": "https://www.google.com/maps?cid=4748268601430744277",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "20:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "07:00",
+          "closes": "16:00"
+        }
+      ],
+      "sameAs": [
+        "https://web.facebook.com/profile.php?id=61579783829997",
+        "https://www.instagram.com/taxi_sibenik/",
+        "https://www.tiktok.com/@taxisibenik",
+        "https://www.tripadvisor.com/Attraction_Review-g295375-d24821165-Reviews-TAXI_Sibenik_Skradin_Antonio-Sibenik_Sibenik_Knin_County_Dalmatia.html",
+        "https://www.google.com/maps?cid=4748268601430744277"
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Таксиметрова и трансферна услуга",
+      "name": "Такси Šibenik от TAXI Antonio",
+      "areaServed": {
+        "@type": "City",
+        "name": "Šibenik"
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Таксиметрови и трансферни услуги",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Местни таксиметрови пътувания в Šibenik"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Летищни трансфери"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Трансфери между градове"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Хотелски трансфери"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Еднодневни екскурзии до Krka и Плитвичките езера"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Как да резервирам такси от Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Обадете се на +385 99 447 1013, пишете в WhatsApp или изпратете имейл. На Антонио са му нужни мястото на вземане, дестинацията и предпочитаният час на вземане или пристигане."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Заявки в последния момент се приемат в рамките на работното време, но резервацията предварително гарантира наличност. За всяко пътуване са нужни поне 2 часа предизвестие."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Какво означава „фиксирана цена“? Какво е включено?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксираните цени включват превоза, горивото, пътните такси и помощта с багажа. Без скрити такси. Допълнителните спирания или дългото изчакване може да струват повече, което се съобщава предварително."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Приемате ли капаро?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Потвърждаването на резервация изисква капаро от 20% (минимум 20 евро). Когато цената на пътуването е 20 евро или по-малко, минималното капаро е равно на цената, така че тя се плаща предварително. Капарото се плаща с банков превод (SEPA) или с карта, а остатъкът се плаща в деня на трансфера."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Приемате ли плащане с карта в автомобила?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да, приемат се карти и други безконтактни методи на плащане."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Правите ли вземане от болницата в Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Антонио вози пътници до и от Общата болница Šibenik и има право да влезе с автомобила в двора на болницата, така че няма дълго ходене от паркинг."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Може ли да ме закарате до ферибота за островите?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Антонио оставя и взима пътници на фериботното и катамаранното пристанище на Šibenik за Zlarin, Prvić, Kaprije и Žirje, както и за лодката до Obonjan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Взимате ли от хотелите в Šibenik, от автогарата и жп гарите?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Антонио обслужва всички местни хотели, автогарата, жп гарите Šibenik и Perković и фериботното пристанище, с помощ за багажа и табела с име при поискване."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Какво става, ако полетът ми закъснее?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Пристиганията на полетите се следят в реално време и часът на вземане се коригира автоматично, без допълнителна такса."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Какво става, ако трябва да отменя?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Отмяната се прави писмено по имейл. При повече от 72 часа преди часа на вземане се връща цялата платена сума, независимо от начина на плащане. Отмяна в рамките на 72 часа или неявяване не подлежи на възстановяване. Промяната на датата е безплатна по всяко време."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете ли да превозите по-голяма група?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Škoda Superb побира до 4 пътници. За по-големи групи организирам превоз чрез местни, лично подбрани партньори."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Предлагате ли детски седалки?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да, детски и бустер седалки са налични при поискване."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-tribunj-tromilja",
+  "title": "Такси Tribunj - Tromilja | Фиксированная цена €65 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Tribunj - Tromilja. Фиксированная цена €65 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси tribunj - tromilja, трансфер tribunj - tromilja, трансфер из аэропорта tribunj - tromilja",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Tribunj - Tromilja",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Tribunj - Tromilja, 65 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Tribunj",
+        "Tromilja"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-tribunj-tromilja/",
+      "offers": {
+        "@type": "Offer",
+        "price": "65",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Tribunj - Tromilja, за автомобиль для до 4 пассажиров. Туда и обратно 130 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Tribunj - Tromilja составляет около 24 км и занимает примерно 30 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Tribunj - Tromilja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 65 за автомобиль для до 4 пассажиров, в одну сторону, багаж включён. Поездка туда и обратно стоит 130."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня забираете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По вашему точному адресу, будь то дом, отель или апартаменты. Пришлите адрес при бронировании, и я подтвержу место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

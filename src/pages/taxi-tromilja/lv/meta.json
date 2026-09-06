@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-tromilja",
+  "title": "Taksometrs Tromilja | TAXI Antonio",
+  "description": "Taksometrs Tromilja: lidostas transfēri par fiksētu cenu uz Splitu (€90) un Zadaru un braucieni uz Šibeniku no šīs klusās iekšzemes apdzīvotās vietas pie Bilices.",
+  "keywords": "taksometrs tromilja, tromilja taksometrs, tromilja lidostas transfērs, tromilja splitas lidosta, tromilja sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Vietējais taksometrs un lidostas transfēri",
+      "name": "Taksometrs Tromilja",
+      "description": "Privāts taksometrs par fiksētu cenu no Tromiljas, klusas iekšzemes apdzīvotas vietas pie Bilices, uz Splitas lidostu, Zadaras lidostu un Šibeniku.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Tromilja",
+      "url": "https://taxisibenik.hr/lv/taxi-tromilja/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksometra cenas no Tromiljas",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Tromilja uz Šibeniku",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Tromilja&to=%C5%A0ibenik%20-%20center&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Tromilja uz Splitas lidostu",
+            "price": "90",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Tromilja&to=Split%20Airport%20%28SPU%29&price=90"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Tromilja uz Zadaras lidostu",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Tromilja&to=Zadar%20Airport%20%28ZAD%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vai jūs varat mani aizvest no Tromiljas uz Krkas ūdenskritumiem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Tromilja atrodas netālu no Krkas nacionālā parka, un es vedu dienas braucienus ar gaidīšanas laiku, kamēr jūs izstaigājat parku. Skatiet manu dienas braucienu lapu, un es apstiprināšu cenu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā brauciens no Tromiljas uz Splitas lidostu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti €90 par automašīnu līdz 4 pasažieriem, ar ceļa nodevām, degvielu un bagāžu."
+          }
+        }
+      ]
+    }
+  ]
+}

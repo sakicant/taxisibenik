@@ -1,0 +1,87 @@
+{
+  "slug": "sibenik-transfers",
+  "title": "Трансфери з Шибеника | Фіксовані ціни | TAXI Antonio",
+  "description": "Трансфери з Шибеника і до Шибеника: Спліт, Задар, Дубровник, Загреб, Трогір і далі. Фіксовані ціни, приватно від дверей до дверей, один місцевий водій. Бронюйте напряму в Антоніо.",
+  "keywords": "трансфери шибеник, трансфер шибеник, таксі шибеник спліт, шибеник задар, шибеник дубровник, шибеник загреб",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Таксі-трансфер між містами",
+      "name": "Трансфери з Шибеника",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/uk/sibenik-transfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі-трансфер із Шибеника до Спліта?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Приватний трансфер із Шибеника до Спліта коштує фіксовані 140 євро за автомобіль для до 4 пасажирів, з дорожніми зборами, паливом і багажем у вартості."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ціни на трансфери фіксовані?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Кожен трансфер між містами має фіксовану ціну за автомобіль для до 4 пасажирів, узгоджену заздалегідь. Без лічильника і без сюрпризів."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансфер приватний чи спільний?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Кожен трансфер приватний і від дверей до дверей, на Škoda Superb. Ніякого спільного авто і жодних додаткових зупинок, якщо ви самі про них не попросите."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можна зупинитися дорогою?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. На довших трансферах я радо зупинюся на каву, фото чи коротку зупинку біля цікавого місця. Просто скажіть при бронюванні, і я це врахую."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Як оплатити трансфер?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Передоплата 20% (щонайменше 20 євро) підтверджує бронювання, банківським переказом або карткою. Решту ви платите водієві в день поїздки, готівкою або карткою."
+          }
+        }
+      ]
+    }
+  ]
+}

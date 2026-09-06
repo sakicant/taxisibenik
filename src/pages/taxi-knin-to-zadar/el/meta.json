@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-knin-zadar",
+  "title": "Ταξί Knin - Zadar | Σταθερή τιμή €140 | TAXI Antonio",
+  "description": "Ιδιωτικό ταξί και μεταφορά, διαδρομή Knin - Zadar. Σταθερή τιμή €140 ανά όχημα, έως 4 επιβάτες, από πόρτα σε πόρτα. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί knin - zadar, μεταφορά knin - zadar, μεταφορά από αεροδρόμιο knin - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτική μεταφορά με ταξί",
+      "name": "Ταξί Knin - Zadar",
+      "description": "Ιδιωτικό ταξί και μεταφορά σε σταθερή τιμή, διαδρομή Knin - Zadar, 140 ευρώ ανά όχημα για έως 4 επιβάτες, από πόρτα σε πόρτα.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Knin",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/el/taxi-knin-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "140",
+        "priceCurrency": "EUR",
+        "description": "Ιδιωτική διαδρομή απλής μετάβασης, διαδρομή Knin - Zadar, ανά όχημα για έως 4 επιβάτες. Μετ' επιστροφής 280 ευρώ."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πόσο μακριά είναι η διαδρομή και πόσο διαρκεί το ταξίδι;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Η διαδρομή Knin - Zadar έχει μήκος περίπου 110 χλμ. και διαρκεί περίπου 1 h 40 min με κανονική κίνηση, λίγο περισσότερο στην καρδιά του καλοκαιριού. Προγραμματίζω την παραλαβή έτσι ώστε ένα αργό κομμάτι του δρόμου να μη σας βιάσει ποτέ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει ένα ταξί στη διαδρομή Knin - Zadar;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά 140 ανά όχημα για έως 4 επιβάτες, απλή διαδρομή, με διόδια, καύσιμα και αποσκευές. Η μετ' επιστροφής διαδρομή κοστίζει 280."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Η μεταφορά είναι ιδιωτική ή κοινή;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Κάθε μεταφορά είναι ιδιωτική και από πόρτα σε πόρτα, με ένα Škoda Superb. Χωρίς κοινή χρήση του οχήματος και χωρίς επιπλέον στάσεις, εκτός αν τις ζητήσετε."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να σταματήσετε στον δρόμο;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Σε μεγαλύτερες διαδρομές σταματώ ευχαρίστως για έναν καφέ, μια φωτογραφία ή ένα σύντομο αξιοθέατο. Απλώς πείτε μου το κατά την κράτηση."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τουλάχιστον 2 ώρες πριν, για να επιβεβαιώσω όχημα και ώρα παραλαβής. Για διαδρομή τελευταίας στιγμής τηλεφωνήστε μου ή γράψτε στο WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

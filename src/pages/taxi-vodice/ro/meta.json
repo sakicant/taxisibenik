@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "Taxi Vodice | TAXI Antonio",
+  "description": "Taxi Vodice: transferuri de aeroport la preț fix spre Zadar (100 €) și Split, preluări de la marină și hoteluri, ieșiri de o zi la Krka și opriri la feribot. Rezervați direct.",
+  "keywords": "taxi vodice, vodice taxi, transfer aeroport vodice, vodice aeroportul split, vodice aeroportul zadar, taxi marina vodice, vodice krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi local și transferuri de aeroport",
+      "name": "Taxi Vodice",
+      "description": "Taxi privat la preț fix în Vodice: transferuri de aeroport spre Split și Zadar, preluări de la marină și din hoteluri, ieșiri de o zi în Parcul Național Krka și opriri la feribotul spre insule.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/ro/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Prețuri taxi din Vodice",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice - Šibenik",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/rezervare/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice - Parcul Național Krka (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/rezervare/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice - Aeroportul Zadar",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/rezervare/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Vodice - Aeroportul Split",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/rezervare/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Puteți prelua echipaje la marina din Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Vă aștept cu echipajele de iahturi și charter chiar la marină, cu loc pentru bagaje și provizii, și pot stabili o oră devreme sau târziu, în funcție de charterul dumneavoastră."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Conduceți și noaptea târziu în Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Dacă este rezervat din timp, vă pot lua după o seară în oraș și vă duc înapoi la cazare în siguranță, la un preț fix."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mă puteți duce la feribotul spre Prvić sau Zlarin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Ambele pleacă de pe faleza din Vodice și vă pot lăsa chiar la debarcader. Cereți-mi tariful la rezervare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă din Vodice până la Aeroportul Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un preț fix de 100 € per mașină pentru până la 4 pasageri, iar Aeroportul Split costă 115 €, cu taxe de drum și bagaje incluse."
+          }
+        }
+      ]
+    }
+  ]
+}

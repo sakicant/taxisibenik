@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "Таксі Водіце | TAXI Antonio",
+  "description": "Таксі Водіце: фіксовані трансфери в аеропорти Задар (€100) і Спліт, подача з марини та готелів, поїздки на Крку і до порома на острови. Бронюйте напряму.",
+  "keywords": "таксі водіце, водіце таксі, водіце трансфер аеропорт, водіце аеропорт спліт, водіце аеропорт задар, таксі марина водіце, водіце крка",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Місцеве таксі та трансфери в аеропорт",
+      "name": "Таксі Водіце",
+      "description": "Приватне таксі за фіксованою ціною у Водіце: трансфери в аеропорти Спліт і Задар, подача з марини та готелів, цілоденні поїздки до національного парку Крка і висадка біля порома на острови.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/uk/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ціни на таксі з Водіце",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Таксі Водіце - Шибеник",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Водіце - НП Крка (Лозовац)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Водіце - аеропорт Задар",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Водіце - аеропорт Спліт",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Чи можете ви забрати екіпаж із марини у Водіце?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Я зустрічаю яхтові та чартерні екіпажі просто в марині, з місцем для багажу і припасів, і можу домовитися про ранній чи пізній час під ваш чартер."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи працюєте ви пізно вночі у Водіце?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Якщо це заброньовано наперед, я можу забрати вас після вечора в місті і безпечно відвезти до вашого житла за фіксованою ціною."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете ви відвезти мене до порома на Првіч чи Зларин?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Обидва відходять із набережної у Водіце, і я можу висадити вас просто біля пристані. Запитайте мене про ціну при бронюванні."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує з Водіце до аеропорту Задар?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовані €100 за автомобіль для до 4 пасажирів, а аеропорт Спліт €115, з дорожніми зборами і багажем у вартості."
+          }
+        }
+      ]
+    }
+  ]
+}

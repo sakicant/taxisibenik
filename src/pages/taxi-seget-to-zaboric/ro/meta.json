@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-seget-zaboric",
+  "title": "Taxi Seget - Žaborić | Preț fix €80 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Seget - Žaborić. Preț fix €80 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi seget - žaborić, transfer seget - žaborić, transfer aeroport seget - žaborić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Seget - Žaborić",
+      "description": "Taxi și transfer privat la preț fix, ruta Seget - Žaborić, 80 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Seget",
+        "Žaborić"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-seget-zaboric/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Seget - Žaborić, per vehicul pentru până la 4 pasageri. Dus-întors 160 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi pe ruta Seget - Žaborić?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 80 per vehicul pentru până la 4 pasageri, dus, cu bagajele incluse. O cursă dus-întors costă 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "De unde mă preluați?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De la adresa dumneavoastră exactă, fie că este casă, hotel sau apartament. Trimiteți adresa la rezervare și vă confirm punctul de întâlnire."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

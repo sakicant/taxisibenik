@@ -1,0 +1,139 @@
+{
+  "slug": "marina-zaton-transfers",
+  "title": "Marina Zaton Transferleri | Sabit Fiyatlar | TAXI Antonio",
+  "description": "Šibenik yakınındaki Marina Zaton'dan Split, Zadar, Zagreb ve Dubrovnik havalimanlarına ve şehirlerine özel transferler. Sabit fiyatlar, iskeleden alış, tek yerel şoför.",
+  "keywords": "marina zaton transferi, zaton marina taksi, marina zaton havalimanı transferi, zaton split havalimanı",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Marina taksi ve havalimanı transferleri",
+      "name": "Marina Zaton Transferleri",
+      "description": "Šibenik yakınındaki Marina Zaton'dan Split, Zadar, Zagreb ve Dubrovnik havalimanlarına ve şehirlerine özel transferler. Sabit fiyatlar, iskeleden alış, tek yerel şoför.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/tr/marina-zaton-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Marina Zaton'dan sabit transfer fiyatları",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton'dan Split Havalimanı'na",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton'dan Zadar Havalimanı'na",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton'dan Zagreb Havalimanı'na",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton'dan Dubrovnik Havalimanı'na",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton'dan Split'e",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton'dan Zadar'a",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton'dan Dubrovnik'e",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton'dan Trogir'e",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton'dan Vodice'ye",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton'dan Krka Milli Parkı'na (Lozovac)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton'dan Šibenik'e",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Marina Zaton'da nereden alış yapıyorsunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Doğrudan marinada, iskelenizin yanında ya da marina resepsiyonunda, hangisi size uyuyorsa. Rezervasyon sırasında iskelenizi ya da teknenizin adını söyleyin, sizi bulurum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Split Havalimanı'na transfer ne kadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yola çıkmadan önce anlaşılan, 4 yolcuya kadar araç başına sabit bir fiyat; otoyol ücretleri, yakıt ve bagaj dahil. Tüm güzergâhlar için yukarıdaki fiyat listesine bakın."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alış saatinizi onaylayabilmem için en az 2 saat önceden, sabah erken uçuşlar ve yoğun sezon için daha da erken. Daha yakın bir yolculuk için beni doğrudan arayın ya da WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

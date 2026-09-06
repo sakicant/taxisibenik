@@ -1,0 +1,261 @@
+{
+ "taxi_word": "Taksometrs",
+ "book_slug": "rezervet",
+ "airport_name": {
+  "Split Airport": "Splitas lidosta",
+  "Zadar Airport": "Zadaras lidosta",
+  "Zagreb Airport": "Zagrebas lidosta",
+  "Dubrovnik Airport": "Dubrovnikas lidosta"
+ },
+ "airport_slug": {
+  "split-airport": "splitas-lidosta",
+  "zadar-airport": "zadaras-lidosta",
+  "zagreb-airport": "zagrebas-lidosta",
+  "dubrovnik-airport": "dubrovnikas-lidosta"
+ },
+ "hero_alt": "Taksometrs {rel}: TAXI Antonio Škoda Superb Dalmācijas piekrastē",
+ "per_car": "par automašīnu &middot; līdz 4 pasažieriem",
+ "book_now": "Rezervēt tagad",
+ "book_wa": "Rezervēt, izmantojot WhatsApp",
+ "why_eyebrow": "Kāpēc rezervēt šo transfēru",
+ "why_title": "Kāpēc rezervēt taksometru {rel} pie Antonio?",
+ "price_title": "Cena {rel}",
+ "price_sub": "Fiksēta cena par automašīnu, līdz 4 pasažieriem, bagāža iekļauta. Tāda pati cena ir spēkā pretējā virzienā.",
+ "price_oneway_lbl": "Vienā virzienā",
+ "price_return_lbl": "Turp &amp; atpakaļ",
+ "price_advance_lbl": "Avanss apstiprināšanai",
+ "price_balance_val": "Skaidrā naudā vai ar karti",
+ "price_balance_lbl": "Atlikums brauciena dienā",
+ "hub_note": "20% avanss (vismaz &euro;20) apstiprina jūsu rezervāciju, atlikumu samaksājat brauciena dienā, skaidrā naudā vai ar karti. Ceļojat pretējā virzienā? Skatiet {revlink}.",
+ "reviews_eyebrow": "Atsauksmes",
+ "reviews_title": "Ko saka pasažieri",
+ "reviews_sub": "Īstas atsauksmes no īstiem pasažieriem.",
+ "faq_eyebrow": "BUJ",
+ "faq_title": "Taksometrs {rel}: biežāk uzdotie jautājumi",
+ "cta_title": "Rezervējiet savu transfēru {rel}",
+ "cta_sub": "Fiksēta cena &euro;{p} par automašīnu, līdz 4 pasažieriem. Apstiprinājums dažos klikšķos.",
+ "trust_air": "Apstiprināts pēc avansa &middot; Bez slēptām izmaksām &middot; Lidojuma uzraudzība iekļauta",
+ "trust_generic": "Apstiprināts pēc avansa &middot; Bez slēptām izmaksām &middot; Fiksēta cena, bez skaitītāja",
+ "rf_fixed_oneway_lbl": "Fiksēta cena, vienā virzienā",
+ "rf_distance_lbl": "Attālums",
+ "rf_drivetime_lbl": "Brauciena ilgums",
+ "rf_return_lbl": "Turp &amp; atpakaļ",
+ "rf_upto4_val": "Līdz 4",
+ "rf_upto4_lbl": "Pasažieri",
+ "rf_skoda_lbl": "Privāts, no durvīm līdz durvīm",
+ "meta_title": "Taksometrs {rel} | Fiksēta cena €{p} | TAXI Antonio",
+ "meta_desc": "Privāts taksometrs un transfērs maršrutā {rel}. Fiksēta cena €{p} par automašīnu, līdz 4 pasažieriem, no durvīm līdz durvīm. Rezervējiet tieši pie Antonio.",
+ "meta_desc_short": "Privāts taksometrs un transfērs maršrutā {rel}. Fiksēta cena €{p} par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+ "keywords": "taksometrs {rell}, transfērs {rell}, lidostas transfērs {rell}",
+ "schema_servicetype": "Privāts taksometra transfērs",
+ "schema_name": "Taksometrs {rel}",
+ "schema_desc": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā {rel}, {p} eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+ "schema_offer_desc": "Privāts brauciens vienā virzienā maršrutā {rel}, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ {rp} eiro.",
+ "dist_faq_q": "Cik garš ir maršruts un cik ilgi jābrauc?",
+ "dist_faq_a": "Brauciens maršrutā {rel} ir aptuveni {km} km garš un ilgst apmēram {t} normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu.",
+ "types": {
+  "to_airport": {
+   "heading": "Jūsu privātais taksometrs un transfērs maršrutā {rel}",
+   "tagline": "Taksometrs un privāts transfērs par fiksētu cenu maršrutā {rel}, tieši līdz izlidošanai.",
+   "intro": "Lidojat no {city} lidostas? Maršrutā {rel} piedāvāju privātu taksometru un transfēru par fiksētu cenu. Esmu Antonio, vietējais šoferis: paņemu jūs jūsu adresē un aizvedu tieši līdz izlidošanas terminālim ērtā Škoda Superb. Cena ir fiksēta, &euro;{p} par visu automašīnu, līdz 4 pasažieriem, saskaņota iepriekš, bez skaitītāja un bez pārsteigumiem. Izbraukšanu plānoju pēc jūsu lidojuma laika, lai jūs paspētu reģistrēties bez steigas. Piedāvājuma forma augšpusē jau ir aizpildīta šim maršrutam, tāpēc cenu redzat un rezervāciju veicat dažos klikšķos.",
+   "whys": [
+    [
+     "Fiksēta cena &euro;{p}",
+     "Viena cena par visu automašīnu, līdz 4 pasažieriem, saskaņota iepriekš. Ceļa nodevas, degviela un bagāža iekļauta, bez skaitītāja."
+    ],
+    [
+     "Pielāgots jūsu lidojumam",
+     "Pasakiet man izlidošanas laiku, un es aprēķinu atpakaļ, lai jūs būtu terminālī ar laiku reģistrācijai."
+    ],
+    [
+     "No durvīm līdz terminālim",
+     "Paņemšana jūsu adresē un nogādāšana tieši pie izlidošanas termināļa ieejas."
+    ],
+    [
+     "Jebkurā diennakts laikā",
+     "Agri rīta un vēli vakara lidojumi nav problēma. Braucu visu diennakti par iepriekš saskaņotu cenu."
+    ]
+   ],
+   "faqs": [
+    [
+     "Cik maksā taksometrs maršrutā {rel}?",
+     "Fiksēti &euro;{p} par automašīnu vienā virzienā, līdz 4 pasažieriem. Cena ir par automašīnu, nevis par personu, un ietver ceļa nodevas, degvielu un bagāžu. Brauciens turp un atpakaļ maksā &euro;{rp}."
+    ],
+    [
+     "Cikos man jādodas uz lidostu?",
+     "Parasti aptuveni 3 stundas pirms starptautiska lidojuma un 2 stundas pirms iekšzemes lidojuma. Pasakiet man lidojuma laiku, un es apstiprināšu precīzu izbraukšanas laiku."
+    ],
+    [
+     "Vai jūs aizvedat līdz pašam izlidošanas terminālim?",
+     "Jā. Aizvedu jūs tieši līdz izlidošanas terminālim un palīdzu ar bagāžu. Nav jāiet kājām no stāvvietas un nav jāgaida autobuss."
+    ],
+    [
+     "Cik ilgi iepriekš jārezervē?",
+     "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un izbraukšanu, un agrāk agriem rīta lidojumiem un sezonas laikā. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet man WhatsApp."
+    ]
+   ]
+  },
+  "from_airport": {
+   "heading": "Jūsu sagaidīšana lidostā un transfērs maršrutā {rel}",
+   "tagline": "Privāta sagaidīšana lidostā un transfērs par fiksētu cenu maršrutā {rel}, ar lidojuma uzraudzību.",
+   "intro": "Tikko nolaidāties {city} lidostā? Privāts transfērs maršrutā {rel} noņem stresu no ierašanās. Sagaidu jūs ielidošanas zālē ar plāksnīti, uz kuras ir jūsu vārds, palīdzu ar bagāžu un aizvedu tieši uz galamērķi ērtā Škoda Superb par fiksētu cenu &euro;{p} par visu automašīnu, līdz 4 pasažieriem. Lidojumam sekoju līdzi reāllaikā, tāpēc esmu klāt neatkarīgi no tā, vai nolaižaties agrāk vai vēlāk. Nav jāstāv taksometru rindā, nav kopīga transfēra un nav pēkšņu uzcenojumu. Forma augšpusē jau ir aizpildīta šim maršrutam.",
+   "whys": [
+    [
+     "Sagaidīšana ar plāksnīti",
+     "Gaidu ielidošanas zālē ar plāksnīti, uz kuras ir jūsu vārds, un palīdzu ar somām, lai jūs dotos tieši pie automašīnas."
+    ],
+    [
+     "Lidojuma uzraudzība",
+     "Sekoju jūsu lidojumam reāllaikā un pielāgojos agrākai vai vēlākai nolaišanās reizei, gaidīšana ir bez maksas."
+    ],
+    [
+     "Fiksēta cena &euro;{p}",
+     "Viena cena par visu automašīnu, līdz 4 pasažieriem, saskaņota iepriekš. Ceļa nodevas, degviela un bagāža iekļauta, bez skaitītāja."
+    ],
+    [
+     "Tieši līdz jūsu durvīm",
+     "Bez rindas un bez pārsēšanās. Aizvedu jūs tieši uz jūsu adresi."
+    ]
+   ],
+   "faqs": [
+    [
+     "Kur jūs mani sagaidīsiet?",
+     "Ielidošanas zālē, uzreiz pēc bagāžas saņemšanas, ar plāksnīti, uz kuras ir jūsu vārds. Palīdzu ar bagāžu un aizvedu jūs līdz automašīnai."
+    ],
+    [
+     "Kas notiek, ja mans lidojums kavējas?",
+     "Nekādu problēmu. Sekoju jūsu lidojumam reāllaikā un pielāgoju sagaidīšanu faktiskajai nolaišanās reizei, bez papildu maksas par gaidīšanu."
+    ],
+    [
+     "Cik maksā transfērs maršrutā {rel}?",
+     "Fiksēti &euro;{p} par automašīnu līdz 4 pasažieriem vienā virzienā, ceļa nodevas un bagāža iekļauta. Brauciens turp un atpakaļ maksā &euro;{rp}."
+    ],
+    [
+     "Cik ilgi iepriekš jārezervē?",
+     "Vismaz 2 stundas iepriekš, lai varu plānot pēc jūsu lidojuma. Ja sagaidīšana vajadzīga tajā pašā dienā pēc pēkšņām izmaiņām, zvaniet vai rakstiet WhatsApp."
+    ]
+   ]
+  },
+  "marina": {
+   "heading": "Privāts marīnas transfērs maršrutā {rel}",
+   "tagline": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā {rel}, pielāgots jūsu laivai.",
+   "intro": "Ceļojat maršrutā {rel}? Braucu privātu taksometru un transfēru par fiksētu cenu marīnas viesiem, pielāgojoties jūsu laivai un ceļojuma plāniem. Paņemu jūs ar pietiekami daudz vietas bagāžai un ērti aizvedu visu ceļu ar Škoda Superb par vienotu cenu &euro;{p} par automašīnu, līdz 4 pasažieriem, saskaņotu pirms brauciena. Neatkarīgi no tā, vai dodaties uz savu jahtu vai ceļojat tālāk pēc izkāpšanas krastā, nav skaitītāja un nav jāgaida taksometru pieturā, ir tikai viens vietējais šoferis, ko rezervējat tieši. Šis ir privāts transfērs garākā maršrutā, un piedāvājums augšpusē jau ir sagatavots šim maršrutam.",
+   "whys": [
+    [
+     "Fiksēta cena &euro;{p}",
+     "Viena cena par automašīnu līdz 4 pasažieriem, saskaņota iepriekš. Ceļa nodevas, degviela un bagāža iekļauta, bez ieslēgta skaitītāja."
+    ],
+    [
+     "Pielāgots jūsu laivai",
+     "Pasakiet man čartera, reģistrācijas vai izbraukšanas laiku, un es plānošu sagaidīšanu ap to, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+    ],
+    [
+     "Vieta jūsu bagāžai",
+     "Koferi, pārtikas krājumi un laivas somas ietilpst ērtā Škoda Superb, un es palīdzu iekraut un izkraut."
+    ],
+    [
+     "Viens vietējais šoferis",
+     "Jūs vienojaties tieši ar mani, no rezervācijas līdz ierašanās brīdim, pa tālruni, WhatsApp vai e-pastu. Bez zvanu centra."
+    ]
+   ],
+   "faqs": [
+    [
+     "Cik maksā transfērs maršrutā {rel}?",
+     "Fiksēti &euro;{p} par automašīnu līdz 4 pasažieriem vienā virzienā, ar ceļa nodevām, degvielu un bagāžu. Brauciens turp un atpakaļ maksā &euro;{rp}."
+    ],
+    [
+     "Vai varat mani paņemt tieši marīnā?",
+     "Jā. Sagaidu jūs pie marīnas ieejas vai reģistratūrā un palīdzu ar bagāžu, lai jūs no pontona dotos tieši pie automašīnas."
+    ],
+    [
+     "Vai varat pielāgot transfēru manai laivai?",
+     "Jā. Rezervējot atsūtiet man čartera, reģistrācijas vai izbraukšanas laiku, un es plānošu sagaidīšanu ap to."
+    ],
+    [
+     "Cik ilgi iepriekš jārezervē?",
+     "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet man tieši WhatsApp."
+    ]
+   ]
+  },
+  "city": {
+   "heading": "Privāts transfērs maršrutā {rel}",
+   "tagline": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā {rel}, no durvīm līdz durvīm.",
+   "intro0": "Vai jums vajadzīgs uzticams transfērs maršrutā {rel}? Piedāvāju privātu taksometru un transfēru par fiksētu cenu, no durvīm līdz durvīm, ērtā Škoda Superb. Paņemu jūs jūsu precīzajā adresē un aizvedu tieši uz galamērķi, bez neplānotām pieturām un bez citiem pasažieriem. Cena ir fiksēta, &euro;{p} par visu automašīnu, līdz 4 pasažieriem, saskaņota pirms izbraukšanas, ceļa nodevas un bagāža iekļauta. Piedāvājums augšpusē ir aizpildīts šim maršrutam, tāpēc rezervācija aizņem tikai dažus klikšķus.",
+   "intro1": "Meklējat taksometru maršrutā {rel} bez skaitītāja un liekas ņemšanās? Šis ir privāts transfērs par fiksētu cenu ar vienu vietējo šoferi. Paņemu jūs pie durvīm un ērti aizvedu uz galamērķi kopā ar bagāžu par vienotu cenu &euro;{p} par automašīnu līdz 4 pasažieriem. Pāriem un ģimenēm tas bieži izmaksā mazāk nekā atsevišķas autobusa vai vilciena biļetes, un vienmēr ir ātrāk un no durvīm līdz durvīm. Piedāvājums augšpusē jau ir sagatavots šim maršrutam.",
+   "whys": [
+    [
+     "Fiksēta cena &euro;{p}",
+     "Viena cena par automašīnu līdz 4 pasažieriem, saskaņota iepriekš. Ceļa nodevas, degviela un bagāža iekļauta, bez ieslēgta skaitītāja."
+    ],
+    [
+     "No durvīm līdz durvīm",
+     "Paņemu jūs jūsu precīzajā adresē un izlaižu pie galamērķa durvīm. Bez stacijām un bez pārsēšanās."
+    ],
+    [
+     "Viens vietējais šoferis",
+     "Jūs vienojaties tieši ar mani, no rezervācijas līdz ierašanās brīdim, pa tālruni, WhatsApp vai e-pastu. Bez zvanu centra."
+    ],
+    [
+     "Pieturas pēc pieprasījuma",
+     "Garākos maršrutos labprāt apstājos uz kafiju, fotogrāfiju vai īsu apskates objektu ceļā."
+    ]
+   ],
+   "faqs": [
+    [
+     "Cik maksā taksometrs maršrutā {rel}?",
+     "Fiksēti &euro;{p} par automašīnu līdz 4 pasažieriem vienā virzienā, ar ceļa nodevām, degvielu un bagāžu. Brauciens turp un atpakaļ maksā &euro;{rp}."
+    ],
+    [
+     "Vai transfērs ir privāts vai kopīgs?",
+     "Katrs transfērs ir privāts un no durvīm līdz durvīm, ar Škoda Superb. Automašīna netiek dalīta un papildu pieturu nav, ja vien jūs tās nelūdzat."
+    ],
+    [
+     "Vai varat apstāties ceļā?",
+     "Jā. Garākos maršrutos labprāt apstājos uz kafiju, fotogrāfiju vai īsu apskates objektu. Vienkārši pasakiet, rezervējot."
+    ],
+    [
+     "Cik ilgi iepriekš jārezervē?",
+     "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet WhatsApp."
+    ]
+   ]
+  },
+  "local": {
+   "heading": "Privāts taksometrs maršrutā {rel}",
+   "tagline": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā {rel}, no durvīm līdz durvīm.",
+   "intro0": "Ceļojat maršrutā {rel}? Braucu privātu taksometru un transfēru par fiksētu cenu, paņemot jūs pie jūsu durvīm un nogādājot tieši tur, kur jums jābūt. Cena ir vienoti &euro;{p} par visu automašīnu, līdz 4 pasažieriem, bez skaitītāja un bez gaidīšanas taksometru pieturā. Ērta Škoda Superb, vieta jūsu bagāžai un viens vietējais šoferis, ko rezervējat tieši. Piedāvājums augšpusē ir aizpildīts šim maršrutam.",
+   "intro1": "Vai jums vajadzīgs taksometrs maršrutā {rel}? Piedāvāju privātu transfēru no durvīm līdz durvīm par fiksētu cenu &euro;{p} par visu automašīnu, līdz 4 pasažieriem. Ierodos jūsu adresē norunātajā laikā, tāpēc jums nekad nav jāgaida ceļmalā, un ērti aizvedu uz galamērķi. Bez skaitītāja, bez pārsteigumiem, tikai viens vietējais šoferis no rezervācijas līdz ierašanās brīdim. Piedāvājums augšpusē jau ir sagatavots šim maršrutam.",
+   "whys": [
+    [
+     "Fiksēta cena &euro;{p}",
+     "Viena cena par automašīnu līdz 4 pasažieriem, saskaņota pirms brauciena. Bez skaitītāja, bez pārsteigumiem."
+    ],
+    [
+     "No durvīm līdz durvīm",
+     "Paņemšana jūsu adresē un nogādāšana pie galamērķa durvīm kopā ar bagāžu."
+    ],
+    [
+     "Taksometru pietura nav vajadzīga",
+     "Rezervēts iepriekš, tāpēc jums nekad nav jāgaida garāmbraucošs taksometrs. Es atbraucu pie jums."
+    ],
+    [
+     "Viens vietējais šoferis",
+     "Jūs vienojaties tieši ar mani, no rezervācijas līdz ierašanās brīdim, pa tālruni, WhatsApp vai e-pastu."
+    ]
+   ],
+   "faqs": [
+    [
+     "Cik maksā taksometrs maršrutā {rel}?",
+     "Fiksēti &euro;{p} par automašīnu līdz 4 pasažieriem vienā virzienā, bagāža iekļauta. Brauciens turp un atpakaļ maksā &euro;{rp}."
+    ],
+    [
+     "Kur jūs mani paņemsiet?",
+     "Jūsu precīzajā adresē, vai tā būtu māja, viesnīca vai dzīvoklis. Rezervējot atsūtiet adresi, un es apstiprināšu tikšanās vietu."
+    ],
+    [
+     "Cik ilgi iepriekš jārezervē?",
+     "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet WhatsApp."
+    ]
+   ]
+  }
+ }
+}

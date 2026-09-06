@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zaboric-dubrovnik",
+  "title": "Такси Žaborić - Dubrovnik | Фиксированная цена €460 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Žaborić - Dubrovnik. Фиксированная цена €460 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси žaborić - dubrovnik, трансфер žaborić - dubrovnik, трансфер из аэропорта žaborić - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Žaborić - Dubrovnik",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Žaborić - Dubrovnik, 460 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Žaborić",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-zaboric-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "460",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Žaborić - Dubrovnik, за автомобиль для до 4 пассажиров. Туда и обратно 920 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Žaborić - Dubrovnik составляет около 278 км и занимает примерно 3 h 45 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Žaborić - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 460 за автомобиль для до 4 пассажиров, в одну сторону, с дорожными сборами, топливом и багажом. Поездка туда и обратно стоит 920."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансфер частный или общий?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Каждый трансфер частный и от двери до двери, на Škoda Superb. Машину ни с кем не делите, дополнительных остановок нет, если вы сами их не попросите."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете остановиться по пути?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. На длинных маршрутах охотно остановлюсь на кофе, для фото или у короткой достопримечательности. Просто скажите при бронировании."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

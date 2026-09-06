@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-kremik-split",
+  "title": "Таксі Marina Kremik - Split | Фіксована ціна €100 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Marina Kremik - Split. Фіксована ціна €100 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі marina kremik - split, трансфер marina kremik - split, трансфер з аеропорту marina kremik - split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Marina Kremik - Split",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Marina Kremik - Split, 100 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Kremik",
+        "Split"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-marina-kremik-split/",
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Marina Kremik - Split, за автомобіль для до 4 пасажирів. Туди й назад 200 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Скільки коштує трансфер на маршруті Marina Kremik - Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 100 за автомобіль для до 4 пасажирів, в один бік, із дорожніми зборами, паливом і багажем. Поїздка туди й назад коштує 200."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете забрати просто в марині?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Зустрічаю вас біля входу в марину або на рецепції та допомагаю з багажем, щоб ви з понтона одразу пройшли до авто."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете підлаштувати трансфер під моє судно?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Надішліть при бронюванні час чартеру, реєстрації або відходу, і я спланую подачу під нього."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть прямо у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

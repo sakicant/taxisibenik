@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "Ταξί Vodice | TAXI Antonio",
+  "description": "Ταξί Vodice: μεταφορές με σταθερή τιμή προς τα αεροδρόμια Zadar (€100) και Split, παραλαβές από τη μαρίνα και τα ξενοδοχεία, ολοήμερες εκδρομές στο Krka και αποβίβαση στο φέρι για τα νησιά. Κλείστε απευθείας.",
+  "keywords": "ταξί vodice, vodice ταξί, μεταφορά αεροδρομίου vodice, vodice αεροδρόμιο split, vodice αεροδρόμιο zadar, ταξί μαρίνα vodice, vodice krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Τοπικό ταξί και μεταφορές αεροδρομίου",
+      "name": "Ταξί Vodice",
+      "description": "Ιδιωτικό ταξί με σταθερή τιμή στα Vodice: μεταφορές προς τα αεροδρόμια Split και Zadar, παραλαβές από τη μαρίνα και τα καταλύματα, μεταφορές για ολοήμερες εκδρομές στο Εθνικό Πάρκο Krka και αποβίβαση στο φέρι για τα νησιά.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/el/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Τιμές ταξί από τα Vodice",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Ταξί Vodice προς Šibenik",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Vodice προς Εθνικό Πάρκο Krka (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Vodice προς αεροδρόμιο Zadar",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Vodice προς αεροδρόμιο Split",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να παραλάβετε πληρώματα από τη μαρίνα των Vodice;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Παραλαμβάνω πληρώματα σκαφών και ναυλώσεων ακριβώς στη μαρίνα, με χώρο για αποσκευές και προμήθειες, και μπορώ να κανονίσω πρωινή ή βραδινή ώρα γύρω από τη ναύλωσή σας."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Δουλεύετε αργά τη νύχτα στα Vodice;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Εφόσον υπάρχει κράτηση εκ των προτέρων μπορώ να σας παραλάβω μετά από μια βραδινή έξοδο και να σας γυρίσω με ασφάλεια στο κατάλυμά σας σε σταθερή τιμή."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να με πάτε στο φέρι για το Prvić ή το Zlarin;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Και τα δύο φεύγουν από την προκυμαία των Vodice και μπορώ να σας αφήσω ακριβώς στην αποβάθρα. Ρωτήστε με για την τιμή όταν κάνετε κράτηση."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει από τα Vodice προς το αεροδρόμιο Zadar;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά €100 ανά αυτοκίνητο για έως 4 επιβάτες, και το αεροδρόμιο Split κοστίζει €115, με τα διόδια και τις αποσκευές."
+          }
+        }
+      ]
+    }
+  ]
+}

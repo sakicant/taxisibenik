@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadar-murter",
+  "title": "Ταξί Zadar - Murter | Σταθερή τιμή €130 | TAXI Antonio",
+  "description": "Ιδιωτικό ταξί και μεταφορά, διαδρομή Zadar - Murter. Σταθερή τιμή €130 ανά όχημα, έως 4 άτομα. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί zadar - murter, μεταφορά zadar - murter, μεταφορά από αεροδρόμιο zadar - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτική μεταφορά με ταξί",
+      "name": "Ταξί Zadar - Murter",
+      "description": "Ιδιωτικό ταξί και μεταφορά σε σταθερή τιμή, διαδρομή Zadar - Murter, 130 ευρώ ανά όχημα για έως 4 επιβάτες, από πόρτα σε πόρτα.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/el/taxi-zadar-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Ιδιωτική διαδρομή απλής μετάβασης, διαδρομή Zadar - Murter, ανά όχημα για έως 4 επιβάτες. Μετ' επιστροφής 260 ευρώ."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πόσο μακριά είναι η διαδρομή και πόσο διαρκεί το ταξίδι;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Η διαδρομή Zadar - Murter έχει μήκος περίπου 88 χλμ. και διαρκεί περίπου 85 min με κανονική κίνηση, λίγο περισσότερο στην καρδιά του καλοκαιριού. Προγραμματίζω την παραλαβή έτσι ώστε ένα αργό κομμάτι του δρόμου να μη σας βιάσει ποτέ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει ένα ταξί στη διαδρομή Zadar - Murter;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά 130 ανά όχημα για έως 4 επιβάτες, απλή διαδρομή, με διόδια, καύσιμα και αποσκευές. Η μετ' επιστροφής διαδρομή κοστίζει 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Η μεταφορά είναι ιδιωτική ή κοινή;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Κάθε μεταφορά είναι ιδιωτική και από πόρτα σε πόρτα, με ένα Škoda Superb. Χωρίς κοινή χρήση του οχήματος και χωρίς επιπλέον στάσεις, εκτός αν τις ζητήσετε."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να σταματήσετε στον δρόμο;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Σε μεγαλύτερες διαδρομές σταματώ ευχαρίστως για έναν καφέ, μια φωτογραφία ή ένα σύντομο αξιοθέατο. Απλώς πείτε μου το κατά την κράτηση."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τουλάχιστον 2 ώρες πριν, για να επιβεβαιώσω όχημα και ώρα παραλαβής. Για διαδρομή τελευταίας στιγμής τηλεφωνήστε μου ή γράψτε στο WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -38,28 +38,28 @@
             "name": "Taxi Jadrija til Šibenik",
             "price": "30",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/no/book/?from=Jadrija&to=%C5%A0ibenik%20-%20center&price=30"
+            "url": "https://taxisibenik.hr/no/bestill/?from=Jadrija&to=%C5%A0ibenik%20-%20center&price=30"
           },
           {
             "@type": "Offer",
             "name": "Taxi Jadrija til Šibenik buss- og togstasjon",
             "price": "30",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/no/book/?from=Jadrija&to=%C5%A0ibenik%20Bus%20Station&price=30"
+            "url": "https://taxisibenik.hr/no/bestill/?from=Jadrija&to=%C5%A0ibenik%20Bus%20Station&price=30"
           },
           {
             "@type": "Offer",
             "name": "Taxi Jadrija til Split lufthavn",
             "price": "115",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/no/book/?from=Jadrija&to=Split%20Airport%20%28SPU%29&price=115"
+            "url": "https://taxisibenik.hr/no/bestill/?from=Jadrija&to=Split%20Airport%20%28SPU%29&price=115"
           },
           {
             "@type": "Offer",
             "name": "Taxi Jadrija til Zadar lufthavn",
             "price": "125",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/no/book/?from=Jadrija&to=Zadar%20Airport%20%28ZAD%29&price=125"
+            "url": "https://taxisibenik.hr/no/bestill/?from=Jadrija&to=Zadar%20Airport%20%28ZAD%29&price=125"
           }
         ]
       }

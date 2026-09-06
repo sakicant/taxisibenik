@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-trogir-grebastica",
+  "title": "Такси Trogir - Grebaštica | Фиксирана цена €80 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Trogir - Grebaštica. Фиксирана цена €80 на автомобил, до 4 пътници, от врата до врата. Резервирайте директно при Антонио.",
+  "keywords": "такси trogir - grebaštica, трансфер trogir - grebaštica, летищен трансфер trogir - grebaštica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Trogir - Grebaštica",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Trogir - Grebaštica, 80 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Trogir",
+        "Grebaštica"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-trogir-grebastica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Trogir - Grebaštica, на автомобил за до 4 пътници. Отиване и връщане 160 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко дълъг е маршрутът и колко трае пътуването?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Пътуването по маршрута Trogir - Grebaštica е дълго около 41 км и трае приблизително 50 min при нормален трафик, малко повече в разгара на лятото. Планирам вземането така, че бавен участък никога да не ви притиска."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва такси по маршрута Trogir - Grebaštica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 80 на автомобил за до 4 пътници, еднопосочно, с пътни такси, гориво и багаж. Пътуване с отиване и връщане струва 160."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансферът частен ли е или споделен?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Всеки трансфер е частен и от врата до врата, с Škoda Superb. Автомобилът не се споделя и няма допълнителни спирания, освен ако не ги поискате."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Може ли да спрете по пътя?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. По по-дългите маршрути с удоволствие спирам за кафе, за снимка или за кратка забележителност. Само ми кажете при резервацията."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и часа на вземане. За пътуване в последния момент се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

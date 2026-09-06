@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sibenik-rak-winery",
+  "title": "Таксі Šibenik - Rak Winery | Фіксована ціна €25 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Šibenik - Rak Winery. Фіксована ціна €25 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі šibenik - rak winery, трансфер šibenik - rak winery, трансфер з аеропорту šibenik - rak winery",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Šibenik - Rak Winery",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Šibenik - Rak Winery, 25 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Rak Winery"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-sibenik-rak-winery/",
+      "offers": {
+        "@type": "Offer",
+        "price": "25",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Šibenik - Rak Winery, за автомобіль для до 4 пасажирів. Туди й назад 50 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі на маршруті Šibenik - Rak Winery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 25 за автомобіль для до 4 пасажирів, в один бік, багаж включено. Поїздка туди й назад коштує 50."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Де ви мене забираєте?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "За вашою точною адресою, чи то будинок, готель або апартаменти. Надішліть адресу при бронюванні, і я підтверджу місце зустрічі."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

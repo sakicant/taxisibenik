@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-seget-zagreb",
+  "title": "Taksi Seget - Zagreb | Sabit fiyat €499 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Seget - Zagreb güzergâhı. Araç başına sabit €499, 4 yolcuya kadar, kapıdan kapıya. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi seget - zagreb, transfer seget - zagreb, havalimanı transferi seget - zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Seget - Zagreb",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Seget - Zagreb güzergâhı, 4 yolcuya kadar araç başına 499 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Seget",
+        "Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-seget-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "499",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Seget - Zagreb güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 998 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Seget - Zagreb güzergâhında taksi ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 499, tek yön, otoyol ücretleri, yakıt ve bagaj dahil. Gidiş dönüş yolculuk 998."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Transfer özel mi yoksa paylaşımlı mı?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Her transfer özeldir ve kapıdan kapıyadır, bir Škoda Superb ile. Araç paylaşımı yok, siz istemedikçe ek durak yok."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Yol üstünde durabilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Daha uzun güzergâhlarda bir kahve, bir fotoğraf ya da kısa bir görülecek yer için memnuniyetle dururum. Rezervasyon sırasında söylemeniz yeterli."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

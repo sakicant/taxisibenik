@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-baotic-dubrovnik",
+  "title": "Таксі Marina Baotić - Dubrovnik | Фіксована ціна €420 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Marina Baotić - Dubrovnik. Фіксована ціна €420 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі marina baotić - dubrovnik, трансфер marina baotić - dubrovnik, трансфер з аеропорту marina baotić - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Marina Baotić - Dubrovnik",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Marina Baotić - Dubrovnik, 420 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Baotić",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-marina-baotic-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Marina Baotić - Dubrovnik, за автомобіль для до 4 пасажирів. Туди й назад 840 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Скільки коштує трансфер на маршруті Marina Baotić - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 420 за автомобіль для до 4 пасажирів, в один бік, із дорожніми зборами, паливом і багажем. Поїздка туди й назад коштує 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете забрати просто в марині?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Зустрічаю вас біля входу в марину або на рецепції та допомагаю з багажем, щоб ви з понтона одразу пройшли до авто."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете підлаштувати трансфер під моє судно?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Надішліть при бронюванні час чартеру, реєстрації або відходу, і я спланую подачу під нього."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть прямо у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

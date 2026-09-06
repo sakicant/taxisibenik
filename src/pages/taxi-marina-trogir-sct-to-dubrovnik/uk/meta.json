@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-trogir-sct-dubrovnik",
+  "title": "Таксі Marina Trogir (SCT) - Dubrovnik | Фіксована ціна €435 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Marina Trogir (SCT) - Dubrovnik. Фіксована ціна €435 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі marina trogir (sct) - dubrovnik, трансфер marina trogir (sct) - dubrovnik, трансфер з аеропорту marina trogir (sct) - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Marina Trogir (SCT) - Dubrovnik",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Marina Trogir (SCT) - Dubrovnik, 435 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Trogir (SCT)",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-marina-trogir-sct-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "435",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Marina Trogir (SCT) - Dubrovnik, за автомобіль для до 4 пасажирів. Туди й назад 870 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Скільки коштує трансфер на маршруті Marina Trogir (SCT) - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 435 за автомобіль для до 4 пасажирів, в один бік, із дорожніми зборами, паливом і багажем. Поїздка туди й назад коштує 870."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете забрати просто в марині?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Зустрічаю вас біля входу в марину або на рецепції та допомагаю з багажем, щоб ви з понтона одразу пройшли до авто."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете підлаштувати трансфер під моє судно?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Надішліть при бронюванні час чартеру, реєстрації або відходу, і я спланую подачу під нього."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть прямо у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

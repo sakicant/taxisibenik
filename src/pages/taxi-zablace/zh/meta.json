@@ -38,28 +38,28 @@
             "name": "Zablaće 到 Šibenik 出租车",
             "price": "18",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/zh/book/?from=Zabla%C4%87e&to=%C5%A0ibenik%20-%20center&price=18"
+            "url": "https://taxisibenik.hr/zh/yuding/?from=Zabla%C4%87e&to=%C5%A0ibenik%20-%20center&price=18"
           },
           {
             "@type": "Offer",
             "name": "Zablaće 到 Vodice 出租车",
             "price": "40",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/zh/book/?from=Zabla%C4%87e&to=Vodice&price=40"
+            "url": "https://taxisibenik.hr/zh/yuding/?from=Zabla%C4%87e&to=Vodice&price=40"
           },
           {
             "@type": "Offer",
             "name": "Zablaće 到斯普利特机场出租车",
             "price": "95",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/zh/book/?from=Zabla%C4%87e&to=Split%20Airport%20%28SPU%29&price=95"
+            "url": "https://taxisibenik.hr/zh/yuding/?from=Zabla%C4%87e&to=Split%20Airport%20%28SPU%29&price=95"
           },
           {
             "@type": "Offer",
             "name": "Zablaće 到扎达尔机场出租车",
             "price": "130",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/zh/book/?from=Zabla%C4%87e&to=Zadar%20Airport%20%28ZAD%29&price=130"
+            "url": "https://taxisibenik.hr/zh/yuding/?from=Zabla%C4%87e&to=Zadar%20Airport%20%28ZAD%29&price=130"
           }
         ]
       }

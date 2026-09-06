@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Taxi Perković | TAXI Antonio",
+  "description": "Taxi Perković: vă întâmpin pe peron în gara principală care deservește Šibenik, cu transferuri mai departe spre Šibenik, Vodice, Krka și nu numai.",
+  "keywords": "taxi perkovic, perkovic taxi, taxi gara perkovic, transfer gara perkovic, perkovic sibenik, perkovic krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi local și transferuri de aeroport",
+      "name": "Taxi Perković",
+      "description": "Taxi privat care întâmpină trenurile la Perković, gara principală care deservește zona Šibenik, cu transferuri mai departe spre Šibenik, Vodice, Krka, Drniš, Knin și Aeroportul Split.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/ro/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Unde ne întâlnim în gara Perković?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pe peron sau la ieșirea din gară, dacă preferați. Am numele dumneavoastră pregătit și vă ajut cu bagajele, ca să mergeți direct la mașină."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ce se întâmplă dacă trenul meu spre Perković întârzie?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Urmăresc trenul și potrivesc ora preluării cu el, fără costuri suplimentare, așa că sunt acolo când ajunge de fapt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Există o stație de taxi la Perković?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nu, nu există stație în gară, așa că cel mai bine este să rezervați din timp. Trimiteți-mi ora trenului și destinația și vă aștept când coborâți."
+          }
+        }
+      ]
+    }
+  ]
+}

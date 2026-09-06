@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-plitvice-lakes-national-park-sibenik",
+  "title": "Dienas ekskursija uz Plitvici no Šibenikas | Privāts transfērs, fiksēti €500 | TAXI Antonio",
+  "description": "Privāts taksometra transfērs turp un atpakaļ uz Plitvices ezeriem no Šibenikas. Fiksēti €500 par automašīnu, līdz 4 pasažieriem, no durvīm līdz durvīm no Šibenikas viesnīcām, dzīvokļiem, stacijām un ostas. Nav ekskursija, tikai brauciens turp un atpakaļ.",
+  "keywords": "dienas ekskursija uz plitvici no šibenikas, transfērs turp un atpakaļ uz plitvici, taksometrs uz plitvici no šibenikas, plitvices ezeri no šibenikas, no šibenikas uz plitvici",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privāta dienas ekskursija uz Plitvices ezeriem no Šibenikas",
+      "description": "Privāta dienas ekskursija uz Plitvices ezeru nacionālo parku no Šibenikas ar vietējo šoferi, kurš runā angliski. Fiksēta cena 500 eiro par automašīnu līdz 4 pasažieriem, ar sagaidīšanu no durvīm līdz durvīm pie Šibenikas viesnīcām, dzīvokļiem, autoostas un dzelzceļa stacijām un prāmju ostas.",
+      "touristType": "Daba un apskates vietas",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "500",
+        "priceCurrency": "EUR",
+        "description": "Privāta automašīna, brauciens turp un atpakaļ no Šibenikas uz Plitvices ezeru nacionālo parku, līdz 4 pasažieriem. Parka ieejas biļetes nav iekļautas."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vai šī ir ekskursija ar gidu vai taksometra transfērs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tas ir taksometra transfērs, nevis ekskursija ar gidu. Antonio ir vietējais šoferis, kurš nodrošina privātu transfēru turp un atpakaļ no Šibenikas uz Plitvici. Jūs saņemat automašīnu un braucienu; parkā jūs varat brīvi visu izpētīt paši, savā tempā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs uz Plitvici no Šibenikas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privāts transfērs turp un atpakaļ no Šibenikas uz Plitvices ezeriem maksā fiksēti 500 eiro par automašīnu līdz 4 pasažieriem, iekļaujot ceļa nodevas, degvielu un gaidīšanas laiku pie parka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilga ir dienas ekskursija no Šibenikas uz Plitvici?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens ir aptuveni divas stundas līdz divām stundām un piecpadsmit minūtēm katrā virzienā, plus aptuveni 4 līdz 6 stundas, lai izstaigātu ezerus. Tā ir pilna diena, parasti 9 līdz 10 stundas no durvīm līdz durvīm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai Plitvices ieejas biļetes ir iekļautas cenā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nē. Ieejas biļetes pērkat atsevišķi no Plitvices ezeru nacionālā parka, pie ieejas vai internetā. Biļetes maksā aptuveni no 10 līdz 40 eiro atkarībā no sezonas, un tajās ir iekļauts panorāmas vilciens un elektriskā laiva parkā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kā rezervēt un samaksāt par dienas ekskursiju?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervāciju apstiprina 20% avansa maksājums (vismaz 20 eiro) ar bankas pārskaitījumu vai karti, un jūs saņemat rēķinu kā apstiprinājumu. Atlikumu samaksājat šoferim brauciena dienā, skaidrā naudā vai ar karti."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "special-offers",
+  "title": "Šibenik taksi özel teklifleri | En iyi fiyatlı transfer fırsatları",
+  "description": "Šibenik taksi transferlerinde sınırlı süreli özel teklifler: son dakika ve boş dönüş yolculukları en iyi fiyatla. Sabit ücretler, tek şoför, bitmeden yer ayırtın.",
+  "keywords": "sibenik taksi özel teklifler, en iyi fiyat transfer sibenik, sınırlı süreli transfer teklifi, son dakika taksi sibenik, uygun split havalimanı transferi",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Šibenik taksi özel teklifleri: en iyi fiyatlı transfer fırsatları",
+    "description": "Šibenik taksi ve transfer yolculuklarında en iyi fiyatla sınırlı süreli özel teklifler: son dakika ve boş dönüş fırsatları, sabit ücretler.",
+    "url": "https://taxisibenik.hr/tr/special-offers/",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Taxi Antonio",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" }
+    }
+  }
+}

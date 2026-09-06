@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-brodarica-letishte-zagreb",
+  "title": "Такси Brodarica - Летище Загреб | Фиксирана цена €485 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Brodarica - Летище Загреб. Фиксирана цена €485 на автомобил, до 4. Резервирайте директно при Антонио.",
+  "keywords": "такси brodarica - летище загреб, трансфер brodarica - летище загреб, летищен трансфер brodarica - летище загреб",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Brodarica - Летище Загреб",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Brodarica - Летище Загреб, 485 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Brodarica",
+        "Летище Загреб"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-brodarica-letishte-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Brodarica - Летище Загреб, на автомобил за до 4 пътници. Отиване и връщане 970 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко дълъг е маршрутът и колко трае пътуването?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Пътуването по маршрута Brodarica - Летище Загреб е дълго около 353 км и трае приблизително 3 h 50 min при нормален трафик, малко повече в разгара на лятото. Планирам вземането така, че бавен участък никога да не ви притиска."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва такси по маршрута Brodarica - Летище Загреб?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 485 на автомобил, еднопосочно, за до 4 пътници. Цената е на автомобил, а не на човек, и включва пътни такси, гориво и багаж. Пътуване с отиване и връщане струва 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Кога трябва да тръгна за летището?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По правило около 3 часа преди международен полет и 2 часа преди вътрешен. Кажете ми часа на полета и ще потвърдя точния час на вземане."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Карате ли до самия заминаващ терминал?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Карам ви директно до заминаващия терминал и помагам с багажа. Без вървене от паркинга и без шатъл."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и вземането, и по-рано за ранни сутрешни полети и активния сезон. За пътуване в последния момент се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

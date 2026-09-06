@@ -1,0 +1,84 @@
+{
+  "slug": "taxi-drnis",
+  "title": "Ταξί Drniš | TAXI Antonio",
+  "description": "Ταξί Drniš: υπεραστικές μεταφορές προς το Šibenik (€65) και το αεροδρόμιο Split (€80) από την ενδοχώρα, από την πόλη που φημίζεται για το προσούτο της. Σταθερές τιμές, απευθείας κράτηση.",
+  "keywords": "ταξί drnis, drnis ταξί, μεταφορά αεροδρομίου drnis, drnis αεροδρόμιο split, drnis sibenik, υπεραστική μεταφορά drnis",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Τοπικό ταξί και μεταφορές αεροδρομίου",
+      "name": "Ταξί Drniš",
+      "description": "Ιδιωτικό υπεραστικό ταξί με σταθερή τιμή από το Drniš, μια πόλη της ενδοχώρας στην κοιλάδα του Krka, προς το Šibenik και το αεροδρόμιο Split, με περαιτέρω διαδρομές στην ενδοχώρα κατόπιν αιτήματος.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Drniš",
+      "url": "https://taxisibenik.hr/el/taxi-drnis/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Τιμές ταξί από το Drniš",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Ταξί Drniš προς Šibenik",
+            "price": "65",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Drni%C5%A1&to=%C5%A0ibenik%20-%20center&price=65"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Drniš προς αεροδρόμιο Split",
+            "price": "80",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Drni%C5%A1&to=Split%20Airport%20%28SPU%29&price=80"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Η τιμή προς το αεροδρόμιο Split από το Drniš είναι σταθερή;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Η διαδρομή Drniš προς αεροδρόμιο Split είναι σταθερά €80 ανά αυτοκίνητο για έως 4 επιβάτες, με τα διόδια και τις αποσκευές, συμφωνημένη πριν ταξιδέψετε."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Κάνετε διαδρομές με επιστροφή και επαγγελματικά ταξίδια από το Drniš;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Αναλαμβάνω μεταφορές με επιστροφή και επαγγελματικά ταξίδια προς την ακτή και το αεροδρόμιο. Πείτε μου τις ώρες και θα σας επιβεβαιώσω σταθερή τιμή."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να με πάτε πιο βαθιά στην ενδοχώρα, στο Knin;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι, καλύπτω τις διαδρομές της ενδοχώρας προς το Knin και τον σιδηροδρομικό σταθμό Perković. Επειδή δεν υπάρχουν στον online τιμοκατάλογό μου, γράψτε μου και θα σας επιβεβαιώσω την τιμή."
+          }
+        }
+      ]
+    }
+  ]
+}

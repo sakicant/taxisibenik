@@ -1,0 +1,60 @@
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Связаться</span>
+      <h1>Контакты TAXI Šibenik</h1>
+      <p class="page-hero-sub">Прямая связь со мной, а не с колл-центром. Позвоните, напишите в WhatsApp или отправьте сообщение ниже.</p>
+      <div class="hero-actions">
+        <a href="tel:+385994471013" class="btn btn-primary">Позвонить в такси</a>
+        <a href="https://wa.me/385994471013?text=Hello%20Antonio%2C%20I%20found%20you%20through%20your%20website%20taxisibenik.hr%20and%20I%20have%20an%20inquiry%3A%20" target="_blank" rel="noopener" class="btn btn-secondary">Написать в WhatsApp</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="contact contact-page">
+    <div class="container contact-inner">
+      <div class="contact-info">
+        <span class="eyebrow">Услуги</span>
+        <ul class="contact-details">
+          <li><a href="/ru/">Местное такси в Шибенике</a></li>
+          <li><a href="https://taxiskradin.hr" target="_blank" rel="noopener">Такси Скрадин</a></li>
+          <li><a href="/ru/airport-transfers-from-sibenik/">Трансферы в аэропорт</a></li>
+          <li><a href="/ru/sibenik-transfers/">Трансферы между городами</a></li>
+          <li><a href="/ru/daytrips/">Однодневные поездки</a></li>
+        </ul>
+      </div>
+
+      <form class="contact-form" id="contact-form" action="/contact.php" method="POST">
+        <input type="text" name="company" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <h3>Напишите мне</h3>
+        <label for="name">Имя</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Эл. почта</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="phone">Номер WhatsApp (необязательно)</label>
+        <input type="tel" id="phone" name="phone" placeholder="Укажите код страны">
+
+        <label for="topic">Тема</label>
+        <select id="topic" name="topic" required>
+          <option value="General inquiry">Общий вопрос</option>
+          <option value="Booking">Бронирование</option>
+          <option value="Quote request">Запрос цены</option>
+          <option value="Day trip">Однодневная поездка</option>
+          <option value="Partnership proposal">Предложение о сотрудничестве</option>
+          <option value="Complaint">Жалоба</option>
+          <option value="Other">Другое</option>
+        </select>
+
+        <label for="message">Сообщение</label>
+        <textarea id="message" name="message" rows="5" required placeholder="Напишите место подачи, дату и пункт назначения..."></textarea>
+
+        <label class="form-consent">
+          <input type="checkbox" name="consent" value="1" required>
+          <span>Я прочитал и принимаю <a href="/ru/privacy-policy/">Политику конфиденциальности</a>.</span>
+        </label>
+        <button type="submit" class="btn btn-primary">Отправить сообщение</button>
+        <p class="form-note" id="form-note"></p>
+      </form>
+    </div>
+  </section>

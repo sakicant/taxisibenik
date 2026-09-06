@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-brodarica",
+  "title": "Такси Бродарица | TAXI Antonio",
+  "description": "Такси Бродарица: подача у парома на Крапань и вдоль набережной, плюс фиксированные трансферы в аэропорты Сплита (€95) и Задара и поездки в Шибеник.",
+  "keywords": "такси бродарица, бродарица такси, паром крапань бродарица, трансфер из бродарицы в аэропорт, бродарица аэропорт сплита, такси бродарица шибеник",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Местное такси и трансферы в аэропорт",
+      "name": "Такси Бродарица",
+      "description": "Частное такси по фиксированной цене из Бродарицы, к югу от Шибеника у переправы на Крапань, в аэропорт Сплита, аэропорт Задара и Шибеник.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Brodarica",
+      "url": "https://taxisibenik.hr/ru/taxi-brodarica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Цены на такси из Бродарицы",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Такси из Бродарицы в Шибеник",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Brodarica%20-%20%C5%A0ibenik&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Бродарицы в аэропорт Сплита",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Brodarica%20-%20%C5%A0ibenik&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Бродарицы в аэропорт Задара",
+            "price": "135",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Brodarica%20-%20%C5%A0ibenik&to=Zadar%20Airport%20%28ZAD%29&price=135"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Можете ли вы отвезти меня к парому на Крапань?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Я довожу вас прямо до набережной Бродарицы, к причалу переправы на Крапань, и могу забрать вас там же на обратном пути."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Обслуживаете ли вы всю набережную Бродарицы?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да, вдоль набережной и на улицах за ней. Пришлите адрес или название жилья, и я подтвержу точное место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансфер в аэропорт по фиксированной цене?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Аэропорт Сплита стоит €95, аэропорт Задара €135 за автомобиль до 4 пассажиров, дорожные сборы и багаж включены."
+          }
+        }
+      ]
+    }
+  ]
+}

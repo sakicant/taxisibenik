@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-aeroport-zadar-primosten",
+  "title": "Таксі Аеропорт Задар - Primošten | Фіксована ціна €160 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Аеропорт Задар - Primošten. Фіксована ціна €160 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі аеропорт задар - primošten, трансфер аеропорт задар - primošten, трансфер з аеропорту аеропорт задар - primošten",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Аеропорт Задар - Primošten",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Аеропорт Задар - Primošten, 160 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Аеропорт Задар",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-aeroport-zadar-primosten/",
+      "offers": {
+        "@type": "Offer",
+        "price": "160",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Аеропорт Задар - Primošten, за автомобіль для до 4 пасажирів. Туди й назад 320 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Яка відстань на маршруті і скільки триває поїздка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поїздка маршрутом Аеропорт Задар - Primošten становить близько 100 км і триває приблизно 85 min за звичайного руху, трохи довше в розпал літа. Я планую подачу так, щоб повільна ділянка ніколи вас не квапила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Де ви мене зустрічаєте?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "У залі прильоту, одразу після видачі багажу, з табличкою з вашим іменем. Допомагаю з багажем і проводжу до авто."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Що як мій рейс затримується?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Не проблема. Стежу за рейсом у реальному часі й підлаштовую подачу під фактичну посадку, без доплати за очікування."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує трансфер на маршруті Аеропорт Задар - Primošten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 160 за автомобіль для до 4 пасажирів, в один бік, дорожні збори та багаж включені. Поїздка туди й назад коштує 320."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я спланував усе під ваш рейс. Для подачі того самого дня після раптової зміни зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

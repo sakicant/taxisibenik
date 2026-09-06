@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-primosten-zadar-havalimani",
+  "title": "Taksi Primošten - Zadar Havalimanı | Sabit fiyat €160 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Primošten - Zadar Havalimanı güzergâhı. Araç başına sabit €160, 4 kişiye kadar. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi primošten - zadar havalimanı, transfer primošten - zadar havalimanı, havalimanı transferi primošten - zadar havalimanı",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Primošten - Zadar Havalimanı",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Primošten - Zadar Havalimanı güzergâhı, 4 yolcuya kadar araç başına 160 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Primošten",
+        "Zadar Havalimanı"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-primosten-zadar-havalimani/",
+      "offers": {
+        "@type": "Offer",
+        "price": "160",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Primošten - Zadar Havalimanı güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 320 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Güzergâh ne kadar uzun ve yolculuk ne kadar sürer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Primošten - Zadar Havalimanı güzergâhındaki yolculuk yaklaşık 100 km uzunluğunda ve normal trafikte yaklaşık 85 min sürüyor, yaz yoğunluğunda biraz daha uzun. Alışı, yavaş bir yol sizi asla acele ettirmeyecek şekilde planlıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Primošten - Zadar Havalimanı güzergâhında taksi ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Araç başına sabit 160, tek yön, 4 yolcuya kadar. Fiyat kişi başına değil araç başınadır ve otoyol ücretlerini, yakıtı ve bagajı kapsar. Gidiş dönüş yolculuk 320."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Havalimanına ne zaman yola çıkmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kural olarak uluslararası uçuştan yaklaşık 3 saat, iç hat uçuşundan 2 saat önce. Bana uçuş saatinizi söyleyin, tam alış saatini onaylayayım."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Giden yolcu terminaline kadar götürüyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Sizi doğrudan giden yolcu terminaline götürüyor ve bagajla yardım ediyorum. Otoparktan yürüyüş yok, servis aracı yok."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alışı onaylayabilmem için en az 2 saat önce, erken sabah uçuşları ve sezon için daha erken. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

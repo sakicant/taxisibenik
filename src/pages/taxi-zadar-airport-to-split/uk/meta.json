@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-aeroport-zadar-split",
+  "title": "Таксі Аеропорт Задар - Split | Фіксована ціна €210 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Аеропорт Задар - Split. Фіксована ціна €210 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі аеропорт задар - split, трансфер аеропорт задар - split, трансфер з аеропорту аеропорт задар - split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Аеропорт Задар - Split",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Аеропорт Задар - Split, 210 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Аеропорт Задар",
+        "Split"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-aeroport-zadar-split/",
+      "offers": {
+        "@type": "Offer",
+        "price": "210",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Аеропорт Задар - Split, за автомобіль для до 4 пасажирів. Туди й назад 420 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Яка відстань на маршруті і скільки триває поїздка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поїздка маршрутом Аеропорт Задар - Split становить близько 144 км і триває приблизно 1 h 45 min за звичайного руху, трохи довше в розпал літа. Я планую подачу так, щоб повільна ділянка ніколи вас не квапила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Де ви мене зустрічаєте?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "У залі прильоту, одразу після видачі багажу, з табличкою з вашим іменем. Допомагаю з багажем і проводжу до авто."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Що як мій рейс затримується?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Не проблема. Стежу за рейсом у реальному часі й підлаштовую подачу під фактичну посадку, без доплати за очікування."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує трансфер на маршруті Аеропорт Задар - Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 210 за автомобіль для до 4 пасажирів, в один бік, дорожні збори та багаж включені. Поїздка туди й назад коштує 420."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я спланував усе під ваш рейс. Для подачі того самого дня після раптової зміни зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

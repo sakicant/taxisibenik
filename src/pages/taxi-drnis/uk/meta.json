@@ -1,0 +1,84 @@
+{
+  "slug": "taxi-drnis",
+  "title": "Таксі Дрниш | TAXI Antonio",
+  "description": "Таксі Дрниш: міжміські трансфери в Шибеник (€65) і аеропорт Спліт (€80) з міста в глибині краю, відомого своїм пршутом. Фіксовані ціни, бронюйте напряму.",
+  "keywords": "таксі дрниш, дрниш таксі, трансфер дрниш аеропорт, дрниш аеропорт спліт, дрниш шибеник, міжміський трансфер дрниш",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Місцеве таксі та трансфери в аеропорт",
+      "name": "Таксі Дрниш",
+      "description": "Приватне міжміське таксі за фіксованою ціною з Дрниша, міста в глибині краю в долині Крки, до Шибеника і аеропорту Спліт, з подальшими маршрутами вглиб краю на запит.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Drniš",
+      "url": "https://taxisibenik.hr/uk/taxi-drnis/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ціни на таксі з Дрниша",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Таксі Дрниш - Шибеник",
+            "price": "65",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Drni%C5%A1&to=%C5%A0ibenik%20-%20center&price=65"
+          },
+          {
+            "@type": "Offer",
+            "name": "Таксі Дрниш - аеропорт Спліт",
+            "price": "80",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/uk/bronyuvannya/?from=Drni%C5%A1&to=Split%20Airport%20%28SPU%29&price=80"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Аеропорт Спліт з Дрниша має фіксовану ціну?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Дрниш - аеропорт Спліт коштує фіксовані €80 за автомобіль для до 4 пасажирів, дорожні збори і багаж у вартості, узгоджено до поїздки."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи виконуєте ви зворотні та ділові поїздки з Дрниша?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Я виконую зворотні трансфери і ділові поїздки до узбережжя та аеропорту. Скажіть мені час, і я підтверджу фіксовану ціну."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете відвезти мене далі вглиб краю до Кніна?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так, я покриваю маршрути вглиб краю до Кніна і до залізничної станції Перковіч. Оскільки їх немає в моєму онлайн-переліку цін, напишіть мені, і я підтверджу вартість."
+          }
+        }
+      ]
+    }
+  ]
+}

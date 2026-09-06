@@ -1,0 +1,149 @@
+{
+  "slug": "daytrips",
+  "title": "Excursii de o zi din Šibenik | Krka & Plitvice privat | TAXI Antonio",
+  "description": "Excursii private de o zi din Šibenik și din toată Dalmația la Parcul Național Krka și la Lacurile Plitvice. Transferuri dus-întors la preț fix, din ușă în ușă, cu un șofer local. Nu este un tur, doar cursa dus și întors.",
+  "keywords": "excursii de o zi din sibenik, excursii sibenik, excursie privata croatia, excursie krka, excursie plitvice, excursie de o zi la krka, excursie de o zi la plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Excursii private de o zi",
+      "name": "Excursii de o zi din Šibenik și din Dalmația",
+      "description": "Excursii private de o zi, la preț fix, la Parcul Național Krka și la Lacurile Plitvice, cu un șofer local din Šibenik. Transferuri dus-întors din ușă în ușă din Šibenik, Vodice, Primošten, Split și Zadar, până la 4 pasageri per mașină.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Vodice",
+        "Primošten",
+        "Split",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/ro/daytrips/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Excursii private de o zi din Dalmația",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Excursie de o zi la Krka din Šibenik",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/day-trip-krka-national-park-sibenik/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Excursie de o zi la Krka din Vodice",
+            "price": "125",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/day-trip-krka-national-park-vodice/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Excursie de o zi la Krka din Primošten",
+            "price": "155",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/day-trip-krka-national-park-primosten/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Excursie de o zi la Krka din Zadar",
+            "price": "260",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/day-trip-krka-national-park-zadar/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Excursie de o zi la Krka din Split",
+            "price": "290",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/day-trip-krka-national-park-split/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Excursie de o zi la Plitvice din Šibenik",
+            "price": "500",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/day-trip-plitvice-lakes-national-park-sibenik/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Excursie de o zi la Plitvice din Split",
+            "price": "650",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/day-trip-plitvice-lakes-national-park-split/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ce excursii de o zi pot rezerva din Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cele două excursii de o zi cele mai populare sunt Parcul Național Krka și Parcul Național Lacurile Plitvice. Ambele sunt transferuri private dus-întors, la preț fix, din ușă în ușă de la hotelul sau apartamentul dumneavoastră, cu timp liber în parc pentru a explora în ritmul propriu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sunt tururi ghidate sau transferuri cu taxiul?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sunt transferuri private cu taxiul, nu tururi ghidate de grup. Antonio este un șofer local care vă duce acolo și înapoi cu un Škoda Superb confortabil. În parc sunteți liberi să explorați singuri, fără ghid și fără grup."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă o excursie de o zi la Krka sau la Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O excursie privată de o zi la Krka pornește de la un preț fix de 100 de euro per mașină din Šibenik. O excursie de o zi la Lacurile Plitvice costă 500 de euro per mașină din Šibenik. Prețurile sunt per mașină, pentru până la 4 pasageri, și depind de localitatea de preluare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faceți preluări și din alte localități, nu doar din Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Excursiile la Krka pleacă din Šibenik, Vodice, Primošten, Zadar și Split, iar cele la Plitvice din Šibenik și Split. Fiecare localitate are propriul preț fix și propria pagină cu toate detaliile."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Biletele de intrare în parc sunt incluse?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nu. Prețul acoperă doar transferul privat și timpul de așteptare. Biletele pentru Krka și Plitvice se cumpără separat, la intrare sau online, și costă aproximativ între 7 și 40 de euro, în funcție de sezon."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cum rezerv o excursie de o zi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Scrieți-mi pe WhatsApp, sunați sau folosiți pagina de contact. Un avans de 20% (minimum 20 de euro) confirmă data, iar restul se plătește șoferului în ziua excursiei."
+          }
+        }
+      ]
+    }
+  ]
+}

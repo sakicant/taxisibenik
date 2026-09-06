@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sibenik-testament-winery",
+  "title": "Такси Šibenik - Testament Winery | Фиксированная цена €30 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Šibenik - Testament Winery. Фиксированная цена €30 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси šibenik - testament winery, трансфер šibenik - testament winery, трансфер из аэропорта šibenik - testament winery",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Šibenik - Testament Winery",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Šibenik - Testament Winery, 30 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Testament Winery"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-sibenik-testament-winery/",
+      "offers": {
+        "@type": "Offer",
+        "price": "30",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Šibenik - Testament Winery, за автомобиль для до 4 пассажиров. Туда и обратно 60 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Šibenik - Testament Winery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 30 за автомобиль для до 4 пассажиров, в одну сторону, багаж включён. Поездка туда и обратно стоит 60."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня забираете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По вашему точному адресу, будь то дом, отель или апартаменты. Пришлите адрес при бронировании, и я подтвержу место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-zablace",
+  "title": "Такси Zablaće | TAXI Antonio",
+  "description": "Такси Zablaće: фиксирани летищни трансфери до Split (€95) и Zadar за къмпингуващи и гости на плажа до Amadria Park, плюс курсове до Šibenik и Vodice.",
+  "keywords": "такси zablace, zablace такси, такси къмпинг zablace, летищен трансфер zablace, такси amadria park zablace, zablace до летище split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Местно такси и летищни трансфери",
+      "name": "Такси Zablaće",
+      "description": "Частно такси на фиксирана цена от Zablaće, района на къмпинга и Amadria Park югозападно от Šibenik, за летище Split, летище Zadar, Šibenik и Vodice.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Zablaće",
+      "url": "https://taxisibenik.hr/bg/taxi-zablace/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Цени за такси от Zablaće",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Такси Zablaće до Šibenik",
+            "price": "18",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Zabla%C4%87e&to=%C5%A0ibenik%20-%20center&price=18"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси Zablaće до Vodice",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Zabla%C4%87e&to=Vodice&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси Zablaće до летище Split",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Zabla%C4%87e&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси Zablaće до летище Zadar",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Zabla%C4%87e&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Взимате ли пътници от къмпинга и района на Amadria Park?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Взимам ви от рецепцията на къмпинга, от вашия апартамент или от близкия район на Amadria Park, с място за багаж и екипировка. Изпратете ми точното място при резервацията."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Има ли място за къмпинг и плажна екипировка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Škoda Superb има голям багажник за куфари, къмпинг оборудване и плажни принадлежности. Кажете ми, ако имате велосипеди или обемисти неща, за да го предвидя."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва от Zablaće до летище Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирани €95 за автомобил за до 4 пътници, с включени пътни такси и багаж, същата цена и в двете посоки."
+          }
+        }
+      ]
+    }
+  ]
+}

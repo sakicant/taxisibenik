@@ -1,0 +1,241 @@
+{
+  "slug": "",
+  "title": "Такси Шибеник - сервис, на который можно положиться | Taxi Antonio",
+  "description": "Такси Шибеник: поездки по городу по вызову, подача к больнице и отелям, к автовокзалу и паромному порту, связь с островами. Водитель говорит по-английски. Бронируйте напрямую у Антонио.",
+  "keywords": "такси шибеник, taxi sibenik, такси больница шибеник, такси отель шибеник, такси паромный порт шибеник, такси зларин првич",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-home-land.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "TAXI Šibenik & Skradin - Antonio",
+      "url": "https://taxisibenik.hr/ru/",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "areaServed": [
+        "Šibenik",
+        "Skradin",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Šibenik",
+        "postalCode": "22000",
+        "addressCountry": "HR"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "152"
+      },
+      "priceRange": "€€",
+      "alternateName": "TAXI Antonio",
+      "@id": "https://taxisibenik.hr/ru/#business",
+      "image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
+      "paymentAccepted": "Наличные, банковская карта",
+      "currenciesAccepted": "EUR",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6956974,
+        "longitude": 15.7891511
+      },
+      "hasMap": "https://www.google.com/maps?cid=4748268601430744277",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "20:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "07:00",
+          "closes": "16:00"
+        }
+      ],
+      "sameAs": [
+        "https://web.facebook.com/profile.php?id=61579783829997",
+        "https://www.instagram.com/taxi_sibenik/",
+        "https://www.tiktok.com/@taxisibenik",
+        "https://www.tripadvisor.com/Attraction_Review-g295375-d24821165-Reviews-TAXI_Sibenik_Skradin_Antonio-Sibenik_Sibenik_Knin_County_Dalmatia.html",
+        "https://www.google.com/maps?cid=4748268601430744277"
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Такси и трансферы",
+      "name": "Такси Шибеник от TAXI Antonio",
+      "areaServed": {
+        "@type": "City",
+        "name": "Šibenik"
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Услуги такси и трансферов",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Местные поездки на такси в Шибенике"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Трансферы в аэропорт"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Трансферы между городами"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Трансферы в отели"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Однодневные поездки в Крку и на Плитвицкие озёра"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Как заказать такси из Шибеника?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Позвоните по номеру +385 99 447 1013, напишите в WhatsApp или отправьте письмо по электронной почте. Антонио нужны место подачи, пункт назначения и желаемое время подачи или прибытия."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени лучше бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Заявки в последний момент принимаются в рабочие часы, но бронирование заранее гарантирует наличие свободного времени."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Что означает \"фиксированная цена\"? Что в неё входит?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированные цены включают перевозку, топливо, дорожные сборы и помощь с багажом. Никаких скрытых доплат. Дополнительные остановки или долгое ожидание могут стоить дороже, о чём сообщается заранее."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Берёте ли вы предоплату?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Для подтверждения бронирования нужна предоплата 20% (минимум 20 евро). Если поездка стоит 20 евро или меньше, минимальная предоплата равна её стоимости, поэтому эта сумма вносится заранее. Предоплату можно внести банковским переводом (SEPA) или картой, а остаток оплачивается в день трансфера."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Принимаете ли вы оплату картой в машине?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да, карты и другие бесконтактные способы оплаты принимаются."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Забираете ли вы пассажиров у больницы в Шибенике?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Антонио возит пассажиров в Общую больницу Шибеника и обратно, и ему разрешён въезд на территорию больницы, поэтому идти пешком от дальней парковки не придётся."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете отвезти меня на паром до островов?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Антонио высаживает и забирает пассажиров в паромном и катамаранном порту Шибеника для Зларина, Првича, Каприе и Жирье, а также у катера на Обонян."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Забираете ли вы от отелей Шибеника, автовокзала и железнодорожных станций?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Антонио обслуживает все местные отели, автовокзал, железнодорожные станции Шибеник и Перкович, а также паромный порт, помогает с багажом и по запросу встречает с табличкой."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Что будет, если мой рейс задержится?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Прилёты отслеживаются в реальном времени, и время подачи корректируется автоматически, без доплаты."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Что делать, если поездку нужно отменить?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Отмену нужно оформить письменно по электронной почте. При отмене более чем за 72 часа до бронирования возвращается полная сумма независимо от способа оплаты. Отмены менее чем за 72 часа и неявка возврату не подлежат. Перенос поездки на другую дату всегда бесплатный."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете ли вы перевезти группу больше четырёх человек?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "В Škoda Superb помещается до 4 пассажиров. Для больших групп поездку можно организовать через местных, лично отобранных партнёров."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Есть ли детские кресла?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да, детские кресла и бустеры доступны по запросу."
+          }
+        }
+      ]
+    }
+  ]
+}

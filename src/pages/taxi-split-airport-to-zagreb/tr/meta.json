@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-split-havalimani-zagreb",
+  "title": "Taksi Split Havalimanı - Zagreb | Sabit fiyat €550 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Split Havalimanı - Zagreb güzergâhı. Araç başına sabit €550, 4 kişiye kadar. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi split havalimanı - zagreb, transfer split havalimanı - zagreb, havalimanı transferi split havalimanı - zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Split Havalimanı - Zagreb",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Split Havalimanı - Zagreb güzergâhı, 4 yolcuya kadar araç başına 550 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Split Havalimanı",
+        "Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-split-havalimani-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "550",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Split Havalimanı - Zagreb güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 1100 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Güzergâh ne kadar uzun ve yolculuk ne kadar sürer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Split Havalimanı - Zagreb güzergâhındaki yolculuk yaklaşık 381 km uzunluğunda ve normal trafikte yaklaşık 4 h 15 min sürüyor, yaz yoğunluğunda biraz daha uzun. Alışı, yavaş bir yol sizi asla acele ettirmeyecek şekilde planlıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni nerede karşılıyorsunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Geliş salonunda, bagaj alımının hemen ardından, isminizin yazdığı bir tabelayla. Bagajla yardım eder ve sizi araca kadar götürürüm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Uçuşum rötar yaparsa ne olur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sorun değil. Uçuşunuzu gerçek zamanlı takip eder ve alışı gerçek iniş saatine göre ayarlarım, bekleme için ek ücret almadan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Split Havalimanı - Zagreb güzergâhında transfer ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 550, tek yön, otoyol ücretleri ve bagaj dahil. Gidiş dönüş yolculuk 1100."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Uçuşunuza göre planlayabilmem için en az 2 saat önce. Son dakika bir değişiklikten sonra aynı gün alış için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

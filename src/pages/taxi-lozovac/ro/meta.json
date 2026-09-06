@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-lozovac",
+  "title": "Taxi Lozovac | TAXI Antonio",
+  "description": "Taxi Lozovac: transferuri la intrarea în Parcul Național Krka (Skradinski Buk), ieșiri de o zi la Krka și curse fixe spre Aeroportul Split (95 €). Rezervați direct.",
+  "keywords": "taxi lozovac, lozovac taxi, taxi parcul national krka, lozovac intrare krka, taxi cascadele krka, lozovac aeroportul split, lozovac sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxi local și transferuri de aeroport",
+      "name": "Taxi Lozovac",
+      "description": "Taxi privat la Lozovac, intrarea principală în Parcul Național Krka pentru cascadele Skradinski Buk: ieșiri de o zi în parc, deplasări și transferuri de aeroport la preț fix.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Lozovac",
+      "url": "https://taxisibenik.hr/ro/taxi-lozovac/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Prețuri taxi din Lozovac",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Lozovac - Šibenik",
+            "price": "45",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/rezervare/?from=Lozovac&to=%C5%A0ibenik%20-%20center&price=45"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Lozovac - Vodice",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/rezervare/?from=Lozovac&to=Vodice&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Lozovac - Parcul Național Krka (intrarea Skradin)",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/rezervare/?from=Lozovac&to=NP%20Krka%20-%20Skradin%20entrance&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Lozovac - Aeroportul Split",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ro/rezervare/?from=Lozovac&to=Split%20Airport%20%28SPU%29&price=95"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât de departe este Lozovac de intrarea în Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lozovac este chiar intrarea rutieră în Parcul Național Krka, așa că sunteți deja la poarta pentru cascadele Skradinski Buk. Vă las exact la intrare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puteți aștepta cât vizitez parcul?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Vă duc la cascade, vă aștept cât explorați în ritmul dumneavoastră și vă aduc înapoi, ca transfer privat dus-întors cu timp de așteptare inclus. Vedeți pagina mea de ieșiri de o zi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mergeți și la intrarea din Skradin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Un transfer până la intrarea Skradin în Krka, de unde luați barca spre cascade, costă fix 25 € per mașină."
+          }
+        }
+      ]
+    }
+  ]
+}

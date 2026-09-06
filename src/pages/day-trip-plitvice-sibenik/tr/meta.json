@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-plitvice-lakes-national-park-sibenik",
+  "title": "Šibenik'ten Plitvice'ye Günübirlik Gezi | Özel Transfer, Sabit €500 | TAXI Antonio",
+  "description": "Šibenik'ten Plitvice Göllerine özel gidiş dönüş taksi transferi. Araç başına sabit €500, 4 yolcuya kadar, Šibenik otellerinden, dairelerinden, garlarından ve limanından kapıdan kapıya. Tur değil, sadece gidiş ve dönüş yolculuğu.",
+  "keywords": "šibenik'ten plitvice'ye günübirlik gezi, plitvice'ye gidiş dönüş transfer, šibenik'ten plitvice'ye taksi, šibenik'ten plitvice gölleri, šibenik'ten plitvice'ye",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Šibenik'ten Plitvice Göllerine özel günübirlik gezi",
+      "description": "Yerel, İngilizce konuşan bir şoförle Šibenik'ten Plitvice Gölleri Milli Parkı'na özel günübirlik gezi. 4 yolcuya kadar araç başına sabit 500 avro; Šibenik otellerinden, dairelerinden, otogardan, tren istasyonlarından ve feribot limanından kapıdan kapıya alış.",
+      "touristType": "Doğa ve gezi",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "500",
+        "priceCurrency": "EUR",
+        "description": "Özel araç, Šibenik'ten Plitvice Gölleri Milli Parkı'na gidiş dönüş, 4 yolcuya kadar. Park giriş biletleri dahil değildir."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Bu rehberli bir tur mu, taksi transferi mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bu rehberli bir tur değil, bir taksi transferidir. Antonio, Šibenik'ten Plitvice'ye gidip dönen özel bir transfer sunan yerel bir şofördür. Araç ve sürüş size aittir; parkın içinde kendi başınıza, kendi temponuzda gezersiniz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Šibenik'ten Plitvice'ye taksi ne kadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Šibenik'ten Plitvice Göllerine özel gidiş dönüş transfer, 4 yolcuya kadar araç başına sabit 500 avrodur; otoyol ücretleri, yakıt ve parktaki bekleme süresi dahildir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Šibenik'ten Plitvice'ye günübirlik gezi ne kadar sürüyor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tek yön yaklaşık iki ila iki saat on beş dakikalık yolculuk, artı gölleri yürümek için kabaca 4 ila 6 saat. Kapıdan kapıya genellikle 9 ila 10 saat süren tam bir gün demektir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Plitvice giriş biletleri fiyata dahil mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hayır. Giriş biletleri Plitvice Gölleri Milli Parkı'ndan, girişte ya da çevrimiçi olarak ayrıca alınır. Biletler sezona göre yaklaşık 10 ila 40 avro tutar ve parkın içindeki panoramik tren ile elektrikli tekneyi kapsar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Günübirlik gezinin rezervasyonunu ve ödemesini nasıl yaparım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yüzde 20 ön ödeme (en az 20 avro) rezervasyonu onaylar; havale ya da kartla yapılır ve onay olarak bir fatura alırsınız. Kalan tutar yolculuk günü şoföre nakit ya da kartla ödenir."
+          }
+        }
+      ]
+    }
+  ]
+}

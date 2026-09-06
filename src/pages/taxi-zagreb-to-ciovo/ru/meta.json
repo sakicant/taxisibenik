@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zagreb-ciovo",
+  "title": "Такси Zagreb - Čiovo | Фиксированная цена €514 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Zagreb - Čiovo. Фиксированная цена €514 за автомобиль, до 4 пассажиров, от двери до двери. Бронируйте напрямую у Антонио.",
+  "keywords": "такси zagreb - čiovo, трансфер zagreb - čiovo, трансфер из аэропорта zagreb - čiovo",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Zagreb - Čiovo",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Zagreb - Čiovo, 514 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zagreb",
+        "Čiovo"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-zagreb-ciovo/",
+      "offers": {
+        "@type": "Offer",
+        "price": "514",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Zagreb - Čiovo, за автомобиль для до 4 пассажиров. Туда и обратно 1028 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Zagreb - Čiovo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 514 за автомобиль для до 4 пассажиров, в одну сторону, с дорожными сборами, топливом и багажом. Поездка туда и обратно стоит 1028."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансфер частный или общий?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Каждый трансфер частный и от двери до двери, на Škoda Superb. Машину ни с кем не делите, дополнительных остановок нет, если вы сами их не попросите."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете остановиться по пути?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. На длинных маршрутах охотно остановлюсь на кофе, для фото или у короткой достопримечательности. Просто скажите при бронировании."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sibenik-sukosan",
+  "title": "Taxi Šibenik - Sukošan | Preț fix €130 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Šibenik - Sukošan. Preț fix €130 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi šibenik - sukošan, transfer šibenik - sukošan, transfer aeroport šibenik - sukošan",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Šibenik - Sukošan",
+      "description": "Taxi și transfer privat la preț fix, ruta Šibenik - Sukošan, 130 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Sukošan"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-sibenik-sukosan/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Šibenik - Sukošan, per vehicul pentru până la 4 pasageri. Dus-întors 260 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi pe ruta Šibenik - Sukošan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 130 per vehicul pentru până la 4 pasageri, dus, cu bagajele incluse. O cursă dus-întors costă 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "De unde mă preluați?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De la adresa dumneavoastră exactă, fie că este casă, hotel sau apartament. Trimiteți adresa la rezervare și vă confirm punctul de întâlnire."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-sibenik",
+  "title": "Excursie de o zi la Krka din Šibenik | Transfer privat, preț fix €100 | TAXI Antonio",
+  "description": "Transfer privat cu taxiul, dus-întors la Krka din Šibenik. Preț fix €100 per mașină, până la 4 pasageri, de la ușă la ușă de la hoteluri, apartamente, gări și portul de feriboturi. Nu este un tur, doar drumul dus și întors.",
+  "keywords": "excursie de o zi la krka din sibenik, transfer dus-intors la krka, taxi la krka din sibenik, transfer krka sibenik, sibenik la parcul national krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Excursie privată de o zi la Krka din Šibenik",
+      "description": "O excursie privată de o zi în Parcul Național Krka din Šibenik, cu un șofer local care vorbește engleză. Preț fix de 100 de euro per mașină pentru până la 4 pasageri, cu preluare de la ușă la ușă de la hoteluri, apartamente, autogară, gară și portul de feriboturi.",
+      "touristType": "Natură și obiective turistice",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Vehicul privat, dus-întors din Šibenik în Parcul Național Krka, până la 4 pasageri. Biletele de intrare în parc nu sunt incluse."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Este un tur ghidat sau un transfer cu taxiul?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Este un transfer cu taxiul, nu un tur ghidat. Antonio este un șofer de taxi local din Šibenik care oferă un transfer privat dus-întors la Krka și înapoi. Primiți mașina și șoferul; în parc sunteți liberi să explorați pe cont propriu, în ritmul dumneavoastră."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne puteți lua de la Amadria Park, D-Resort sau Hotel Bellevue?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Iau în mod regulat oaspeți de la Amadria Park resort, D-Resort Šibenik, Hotel Bellevue și de la alte hoteluri din Šibenik. Trimiteți-mi numele hotelului dumneavoastră și vă confirm ora exactă de preluare și punctul de întâlnire."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Preluați din portul de feriboturi, din autogara sau din gara Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Iau oaspeții de la ușă la ușă din portul de feriboturi și de croazieră din Šibenik, din autogară și din gările Šibenik și Perković, cu o plăcuță cu numele la cerere."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât timp petrecem în Parcul Național Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Majoritatea oaspeților aleg în jur de 3 până la 4 ore de timp liber în parc, suficient pentru a vedea cascadele principale și a parcurge traseul clasic pe potecile de lemn. O ședere mai scurtă sau mai lungă poate fi convenită la rezervare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Biletele de intrare la Krka sunt incluse în preț?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nu. Biletele de intrare se cumpără separat, direct de la Parcul Național Krka, la intrarea Skradin sau Lozovac ori online. Biletele costă aproximativ între 7 și 40 de euro, în funcție de sezon."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cum rezerv și cum plătesc excursia de o zi din Šibenik la Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un avans de 20% (minimum 20 de euro) confirmă rezervarea, prin transfer bancar sau card, iar dumneavoastră primiți o factură drept confirmare. Restul se plătește șoferului în ziua excursiei, în numerar sau cu cardul."
+          }
+        }
+      ]
+    }
+  ]
+}

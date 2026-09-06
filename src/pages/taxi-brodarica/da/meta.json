@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-brodarica",
+  "title": "Taxi Brodarica | TAXI Antonio",
+  "description": "Taxi Brodarica: afhentning ved Krapanj-færgen og langs havnefronten, plus faste lufthavnstransfers til Split (95 €) og Zadar og ture ind til Šibenik.",
+  "keywords": "taxi brodarica, brodarica taxa, brodarica krapanj færge, brodarica lufthavnstransfer, brodarica til split lufthavn, taxi brodarica sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lokal taxa og lufthavnstransfer",
+      "name": "Taxi Brodarica",
+      "description": "Privat taxa til fast pris fra Brodarica, syd for Šibenik og ved færgeoverfarten til Krapanj, til Split Lufthavn, Zadar Lufthavn og Šibenik.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Brodarica",
+      "url": "https://taxisibenik.hr/da/taxi-brodarica/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxapriser fra Brodarica",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taxi Brodarica til Šibenik",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/da/bestil/?from=Brodarica%20-%20%C5%A0ibenik&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Brodarica til Split Lufthavn",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/da/bestil/?from=Brodarica%20-%20%C5%A0ibenik&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taxi Brodarica til Zadar Lufthavn",
+            "price": "135",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/da/bestil/?from=Brodarica%20-%20%C5%A0ibenik&to=Zadar%20Airport%20%28ZAD%29&price=135"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kan du sætte mig af ved Krapanj-færgen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg kører dig helt ned til havnefronten i Brodarica ved færgelejet til Krapanj, og jeg kan også hente dig der på vejen tilbage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dækker du hele havnefronten i Brodarica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, både langs vandet og i gaderne bagved. Send din adresse eller navnet på din bolig, så bekræfter jeg det præcise mødested."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Er lufthavnstransferen til fast pris?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Split Lufthavn koster 95 € og Zadar Lufthavn 135 € pr. bil for op til 4 passagerer, med vejafgifter og bagage inkluderet."
+          }
+        }
+      ]
+    }
+  ]
+}

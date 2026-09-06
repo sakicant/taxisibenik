@@ -1,0 +1,85 @@
+{
+  "slug": "airport-transfers-from-sibenik",
+  "title": "Трансфери з Шибеника в аеропорт | Фіксовані ціни | TAXI Antonio",
+  "description": "Трансфери з Шибеника до аеропортів Спліт, Задар, Загреб і Дубровник та у зворотному напрямку. Фіксовані ціни, відстеження рейсу, від дверей до дверей. Також з Водіце, Примоштена і Скрадіна. Бронюйте в Антоніо.",
+  "keywords": "трансфер в аеропорт шибеник, трансфер шибеник аеропорт, аеропорт спліт шибеник, аеропорт задар шибеник, трансфер в аеропорт водіце",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Трансфер в аеропорт",
+      "name": "Трансфери в аеропорт із Шибеника",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split Airport",
+        "Zadar Airport",
+        "Zagreb Airport",
+        "Dubrovnik Airport"
+      ],
+      "url": "https://taxisibenik.hr/uk/airport-transfers-from-sibenik/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Як мені знайти водія в аеропорту?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Антоніо чекає в залі прильотів за видачею багажу з добре помітною табличкою з вашим іменем."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Що буде, якщо мій рейс затримається?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Рейси відстежуються в реальному часі за номером рейсу, який ви вказуєте при бронюванні. Час подачі коригується автоматично, і за очікування нічого доплачувати не треба."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи є ціна трансферу в аеропорт фіксованою?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Кожен трансфер в аеропорт має фіксовану ціну за автомобіль для до 4 пасажирів, з дорожніми зборами, паливом і багажем у вартості. Без лічильника, без сюрпризів."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи надаєте дитячі крісла для трансферів в аеропорт?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так, дитячі крісла та бустери надаються безкоштовно. Просто попросіть їх у примітках до бронювання і вкажіть вік дитини."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Як оплатити трансфер в аеропорт?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Передоплата 20% (щонайменше 20 євро) підтверджує бронювання, банківським переказом або карткою. Решту ви платите водієві в день поїздки, готівкою або карткою."
+          }
+        }
+      ]
+    }
+  ]
+}

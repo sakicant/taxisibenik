@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-trogir-dubrovnik",
+  "title": "Taxa Trogir - Dubrovnik | Fast pris €420 | TAXI Antonio",
+  "description": "Privat taxa og transfer på ruten Trogir - Dubrovnik. Fast pris €420 pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+  "keywords": "taxa trogir - dubrovnik, transfer trogir - dubrovnik, lufthavnstransfer trogir - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxatransfer",
+      "name": "Taxa Trogir - Dubrovnik",
+      "description": "Privat taxa og transfer til fast pris på ruten Trogir - Dubrovnik, 420 euro pr. bil for op til 4 passagerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Trogir",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/da/taxi-trogir-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Privat enkeltrejse på ruten Trogir - Dubrovnik, pr. bil for op til 4 passagerer. Tur og retur 840 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er ruten, og hvor længe tager turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på ruten Trogir - Dubrovnik er cirka 252 km lang og tager omkring 3 h 35 min i normal trafik, lidt længere i sommerens højsæson. Jeg planlægger afhentningen, så en langsom strækning aldrig får dig til at skynde dig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster en taxa på ruten Trogir - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 420 pr. bil for op til 4 passagerer, enkeltrejse, med vejafgifter, brændstof og bagage. Tur og retur koster 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Er transferen privat eller delt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hver transfer er privat og dør til dør, i en Škoda Superb. Ingen deling af bilen og ingen ekstra stop, medmindre du beder om det."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du holde ind undervejs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. På længere ture holder jeg gerne ind til en kop kaffe, et foto eller en kort seværdighed. Sig bare til, når du bestiller."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindst 2 timer før, så jeg kan bekræfte bil og afhentningstidspunkt. Har du brug for en tur med kort varsel, så ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

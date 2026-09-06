@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-makarska-zadar",
+  "title": "Taksometrs Makarska - Zadar | Fiksēta cena €275 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Makarska - Zadar. Fiksēta cena €275 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs makarska - zadar, transfērs makarska - zadar, lidostas transfērs makarska - zadar",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Makarska - Zadar",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Makarska - Zadar, 275 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Makarska",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-makarska-zadar/",
+      "offers": {
+        "@type": "Offer",
+        "price": "275",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Makarska - Zadar, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 550 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik garš ir maršruts un cik ilgi jābrauc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens maršrutā Makarska - Zadar ir aptuveni 205 km garš un ilgst apmēram 2 h 25 min normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs maršrutā Makarska - Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 275 par automašīnu līdz 4 pasažieriem vienā virzienā, ar ceļa nodevām, degvielu un bagāžu. Brauciens turp un atpakaļ maksā 550."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai transfērs ir privāts vai kopīgs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Katrs transfērs ir privāts un no durvīm līdz durvīm, ar Škoda Superb. Automašīna netiek dalīta un papildu pieturu nav, ja vien jūs tās nelūdzat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat apstāties ceļā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Garākos maršrutos labprāt apstājos uz kafiju, fotogrāfiju vai īsu apskates objektu. Vienkārši pasakiet, rezervējot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu apstiprināt automašīnu un sagaidīšanas laiku. Ja brauciens vajadzīgs ātrāk, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-vodice",
+  "title": "Excursie de o zi la Krka din Vodice | Transfer privat, preț fix €125 | TAXI Antonio",
+  "description": "Transfer privat cu taxiul, dus-întors la Krka din Vodice. Preț fix €125 per mașină, până la 4 pasageri, de la ușă la ușă de la hotelurile și apartamentele din Vodice, Srima și Tribunj. Nu este un tur, doar drumul dus și întors.",
+  "keywords": "excursie de o zi la krka din vodice, krka din vodice, taxi la krka din vodice, transfer krka vodice, krka din srima, krka din tribunj, vodice la parcul national krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Excursie privată de o zi la Krka din Vodice",
+      "description": "O excursie privată de o zi în Parcul Național Krka din Vodice, cu un șofer local care vorbește engleză. Preț fix de 125 de euro per mașină pentru până la 4 pasageri, cu preluare de la ușă la ușă de la hoteluri și apartamente din Vodice, Srima și Tribunj.",
+      "touristType": "Natură și obiective turistice",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Vehicul privat, dus-întors din Vodice în Parcul Național Krka, până la 4 pasageri. Biletele de intrare în parc nu sunt incluse."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Este un tur ghidat sau un transfer cu taxiul?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Este un transfer cu taxiul, nu un tur ghidat. Antonio este un șofer local care oferă un transfer privat dus-întors din Vodice la Krka și înapoi. Primiți mașina și șoferul; în parc sunteți liberi să explorați pe cont propriu, în ritmul dumneavoastră."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Preluați și din Srima și Tribunj, nu doar din Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Preluarea din Srima și Tribunj se face la același preț fix ca din Vodice. Vă iau de la ușă la ușă de la orice hotel, apartament sau vilă din Vodice, Srima sau Tribunj, inclusiv de la marina și de pe faleza din Vodice."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi la Krka din Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un transfer privat dus-întors din Vodice la lacurile Krka costă fix 125 de euro per mașină pentru până la 4 pasageri, cu combustibilul și timpul de așteptare la parc incluse. Același preț acoperă preluările din Srima și Tribunj."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât timp petrecem în Parcul Național Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Majoritatea oaspeților aleg în jur de 3 până la 4 ore de timp liber în parc, suficient pentru a vedea cascadele principale și a parcurge traseul clasic pe potecile de lemn. O ședere mai scurtă sau mai lungă poate fi convenită la rezervare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Biletele de intrare la Krka sunt incluse în preț?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nu. Biletele de intrare se cumpără separat, direct de la Parcul Național Krka, la intrarea Skradin sau Lozovac ori online. Biletele costă aproximativ între 7 și 40 de euro, în funcție de sezon."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cum rezerv și cum plătesc excursia de o zi din Vodice la Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un avans de 20% (minimum 20 de euro) confirmă rezervarea, prin transfer bancar sau card, iar dumneavoastră primiți o factură drept confirmare. Restul se plătește șoferului în ziua excursiei, în numerar sau cu cardul."
+          }
+        }
+      ]
+    }
+  ]
+}

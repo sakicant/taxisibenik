@@ -1,0 +1,119 @@
+{
+  "slug": "taxi-bilice",
+  "title": "Taksi Bilice | TAXI Antonio",
+  "description": "Taksi Bilice: Split (€100) ve Zadar havalimanlarına sabit fiyatlı transferler, ayrıca Šibenik'e kısa yolculuklar. Apart ve villa misafirleri için kapıdan alış.",
+  "keywords": "taksi bilice, bilice taksi, bilice havalimanı transferi, bilice split havalimanı, bilice sibenik, taksi bilice sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yerel taksi ve havalimanı transferleri",
+      "name": "Taksi Bilice",
+      "description": "Šibenik'in kuzeyindeki Bilice'den Split Havalimanı, Zadar Havalimanı, Šibenik, Vodice ve Krka Milli Parkı'na sabit fiyatlı özel taksi ve havalimanı transferleri.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Bilice",
+      "url": "https://taxisibenik.hr/tr/taxi-bilice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Bilice'den taksi fiyatları",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksi Bilice'den Šibenik'e",
+            "price": "20",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Bilice&to=%C5%A0ibenik%20-%20center&price=20"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Bilice'den Vodice'ye",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Bilice&to=Vodice&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Bilice'den Krka Milli Parkı'na (Lozovac)",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Bilice&to=NP%20Krka%20-%20Lozovac%20entrance&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Bilice'den Split Havalimanı'na",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Bilice&to=Split%20Airport%20%28SPU%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Bilice'den Zadar Havalimanı'na",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Bilice&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Bilice'den Split'e",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Bilice&to=Split&price=140"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Bilice'den Zadar'a",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Bilice&to=Zadar&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Bilice'deki apart ve villalardan alış yapıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Sizi Bilice'deki konaklama yerinizin kapısından alıyor, bagajınızı yüklüyor ve kapıdan kapıya götürüyorum. Rezervasyon sırasında adresi bana gönderin, yeter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bilice'den havalimanı transferini en erken saat kaçta yapabilirsiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Önceden rezervasyon yapıldığı sürece gece gündüz her saatte. Sabah erken Split ya da Zadar uçuşları için alış saatini terminale rahat rahat yetişeceğiniz şekilde onaylıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Havalimanı fiyatı gerçekten sabit mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Buradaki her fiyat, 4 yolcuya kadar araç başına sabit bir fiyattır; otoyol ücretleri, yakıt ve bagaj dahildir. Taksimetre yok."
+          }
+        }
+      ]
+    }
+  ]
+}

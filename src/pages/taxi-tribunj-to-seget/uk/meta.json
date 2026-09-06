@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-tribunj-seget",
+  "title": "Таксі Tribunj - Seget | Фіксована ціна €120 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Tribunj - Seget. Фіксована ціна €120 за автомобіль, до 4 пасажирів, від дверей до дверей. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі tribunj - seget, трансфер tribunj - seget, трансфер з аеропорту tribunj - seget",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Tribunj - Seget",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Tribunj - Seget, 120 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Tribunj",
+        "Seget"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-tribunj-seget/",
+      "offers": {
+        "@type": "Offer",
+        "price": "120",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Tribunj - Seget, за автомобіль для до 4 пасажирів. Туди й назад 240 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі на маршруті Tribunj - Seget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 120 за автомобіль для до 4 пасажирів, в один бік, багаж включено. Поїздка туди й назад коштує 240."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Де ви мене забираєте?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "За вашою точною адресою, чи то будинок, готель або апартаменти. Надішліть адресу при бронюванні, і я підтверджу місце зустрічі."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

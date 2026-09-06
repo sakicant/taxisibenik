@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-plitvice-lakes-national-park-split",
+  "title": "Dienas ekskursija uz Plitvici no Splitas | Privāts transfērs, fiksēti €650 | TAXI Antonio",
+  "description": "Privāts taksometra transfērs turp un atpakaļ uz Plitvices ezeriem no Splitas. Fiksēti €650 par automašīnu, līdz 4 pasažieriem, no durvīm līdz durvīm no Splitas viesnīcām, kruīza ostas un vecpilsētas. Nav ekskursija, tikai brauciens turp un atpakaļ.",
+  "keywords": "dienas ekskursija uz plitvici no splitas, transfērs turp un atpakaļ uz plitvici, taksometrs uz plitvici no splitas, plitvices ezeri no splitas, no splitas uz plitvici",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-plitvice-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privāta dienas ekskursija uz Plitvices ezeriem no Splitas",
+      "description": "Privāta dienas ekskursija uz Plitvices ezeru nacionālo parku no Splitas ar vietējo šoferi, kurš runā angliski. Fiksēta cena 650 eiro par automašīnu līdz 4 pasažieriem, ar sagaidīšanu no durvīm līdz durvīm pie Splitas viesnīcām, kruīza ostas, autoostas un dzelzceļa stacijas un vecpilsētas.",
+      "touristType": "Daba un apskates vietas",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "650",
+        "priceCurrency": "EUR",
+        "description": "Privāta automašīna, brauciens turp un atpakaļ no Splitas uz Plitvices ezeru nacionālo parku, līdz 4 pasažieriem. Parka ieejas biļetes nav iekļautas."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vai šī ir ekskursija ar gidu vai taksometra transfērs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tas ir taksometra transfērs, nevis ekskursija ar gidu. Antonio ir vietējais šoferis, kurš nodrošina privātu transfēru turp un atpakaļ no Splitas uz Plitvici. Jūs saņemat automašīnu un braucienu; parkā jūs varat brīvi visu izpētīt paši, savā tempā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs uz Plitvici no Splitas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privāts transfērs turp un atpakaļ no Splitas uz Plitvices ezeriem maksā fiksēti 650 eiro par automašīnu līdz 4 pasažieriem, iekļaujot ceļa nodevas, degvielu un gaidīšanas laiku pie parka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilga ir dienas ekskursija no Splitas uz Plitvici?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens ir aptuveni divarpus līdz trīs stundas katrā virzienā, plus aptuveni 4 līdz 6 stundas, lai izstaigātu ezerus. Tā ir gara pilna diena, parasti 11 līdz 12 stundas no durvīm līdz durvīm, tāpēc agrs starts ir obligāts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai Plitvices ieejas biļetes ir iekļautas cenā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nē. Ieejas biļetes pērkat atsevišķi no Plitvices ezeru nacionālā parka, pie ieejas vai internetā. Biļetes maksā aptuveni no 10 līdz 40 eiro atkarībā no sezonas, un tajās ir iekļauts panorāmas vilciens un elektriskā laiva parkā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kā rezervēt un samaksāt par dienas ekskursiju?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervāciju apstiprina 20% avansa maksājums (vismaz 20 eiro) ar bankas pārskaitījumu vai karti, un jūs saņemat rēķinu kā apstiprinājumu. Atlikumu samaksājat šoferim brauciena dienā, skaidrā naudā vai ar karti."
+          }
+        }
+      ]
+    }
+  ]
+}

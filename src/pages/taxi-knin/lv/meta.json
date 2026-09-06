@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-knin",
+  "title": "Taksometrs Knin | TAXI Antonio",
+  "description": "Taksometrs Knin: tālsatiksmes transfēri uz Šibeniku (€95), Splitas lidostu (€110) un Zadaras lidostu no vēsturiskās iekšzemes dzelzceļa pilsētas. Fiksētas cenas.",
+  "keywords": "taksometrs knin, knin taksometrs, knin dzelzceļa stacijas taksometrs, knin lidostas transfērs, knin splitas lidosta, knin sibenik, knin cietokšņa taksometrs",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Vietējais taksometrs un lidostas transfēri",
+      "name": "Taksometrs Knin",
+      "description": "Privāts tālsatiksmes taksometrs par fiksētu cenu no Knina, vēsturiskas iekšzemes dzelzceļa pilsētas, uz Šibeniku, Splitas lidostu un Zadaras lidostu.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Knin",
+      "url": "https://taxisibenik.hr/lv/taxi-knin/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksometra cenas no Knina",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Knin uz Šibeniku",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Knin&to=%C5%A0ibenik%20-%20center&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Knin uz Splitas lidostu",
+            "price": "110",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Knin&to=Split%20Airport%20%28SPU%29&price=110"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Knin uz Zadaras lidostu",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Knin&to=Zadar%20Airport%20%28ZAD%29&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vai jūs sagaidāt vilcienus Knina stacijā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Es sagaidu jūs uz perona vai pie stacijas izejas, palīdzu ar somām un uzreiz vedu tālāk. Rezervējot atsūtiet man sava vilciena laiku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai tālsatiksmes cena ir fiksēta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā, un attāluma dēļ tā tiek saskaņota jau iepriekš. Knin uz Šibeniku ir €95, Splitas lidosta €110 un Zadaras lidosta €140 par automašīnu līdz 4 pasažieriem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat veikt braucienu turp un atpakaļ tajā pašā dienā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Es varu pagaidīt vai atbraukt pēc jums tajā pašā dienā. Pasakiet man laikus, un es apstiprināšu fiksētu cenu braucienam turp un atpakaļ."
+          }
+        }
+      ]
+    }
+  ]
+}

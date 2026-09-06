@@ -1,0 +1,241 @@
+{
+  "slug": "",
+  "title": "Taxa Šibenik - en service du kan stole på | Taxi Antonio",
+  "description": "Taxa Šibenik til lokale ture på bestilling, afhentning ved hospitalet og hotellerne, busstationen og færgehavnen samt forbindelser til øerne. Engelsktalende chauffør. Bestil direkte hos Antonio.",
+  "keywords": "taxa šibenik, taxa sibenik, taxa sibenik hospital, sibenik hotel taxa, sibenik færgehavn taxa, taxa zlarin prvic",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-home-land.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "TAXI Šibenik & Skradin - Antonio",
+      "url": "https://taxisibenik.hr/da/",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "areaServed": [
+        "Šibenik",
+        "Skradin",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Šibenik",
+        "postalCode": "22000",
+        "addressCountry": "HR"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "152"
+      },
+      "priceRange": "€€",
+      "alternateName": "TAXI Antonio",
+      "@id": "https://taxisibenik.hr/da/#business",
+      "image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
+      "paymentAccepted": "Kontant, kreditkort",
+      "currenciesAccepted": "EUR",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6956974,
+        "longitude": 15.7891511
+      },
+      "hasMap": "https://www.google.com/maps?cid=4748268601430744277",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "20:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "07:00",
+          "closes": "16:00"
+        }
+      ],
+      "sameAs": [
+        "https://web.facebook.com/profile.php?id=61579783829997",
+        "https://www.instagram.com/taxi_sibenik/",
+        "https://www.tiktok.com/@taxisibenik",
+        "https://www.tripadvisor.com/Attraction_Review-g295375-d24821165-Reviews-TAXI_Sibenik_Skradin_Antonio-Sibenik_Sibenik_Knin_County_Dalmatia.html",
+        "https://www.google.com/maps?cid=4748268601430744277"
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taxa- og transferservice",
+      "name": "Taxa Šibenik fra TAXI Antonio",
+      "areaServed": {
+        "@type": "City",
+        "name": "Šibenik"
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taxa- og transferydelser",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Lokale taxature i Šibenik"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Lufthavnstransfer"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Transfer mellem byer"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Hoteltransfer"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Dagsture til Krka og Plitvice"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvordan bestiller jeg en taxa fra Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ring på +385 99 447 1013, skriv på WhatsApp eller send en e-mail. Antonio skal bruge afhentningssted, destination og det ønskede afhentnings- eller ankomsttidspunkt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ture med kort varsel tages inden for arbejdstiden, men en bestilling i god tid sikrer, at bilen er ledig. Bestil mindst 2 timer før afhentning."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad betyder \"fast pris\"? Hvad er inkluderet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Faste priser dækker selve kørslen, brændstof, vejafgifter og hjælp med bagagen. Ingen skjulte gebyrer. Ekstra stop eller lang ventetid kan koste mere, og det får du altid at vide på forhånd."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Tager du imod forudbetaling?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. En bestilling bekræftes med et depositum på 20% (mindst 20 euro). Er prisen 20 euro eller lavere, svarer minimumsdepositummet til hele prisen, så det beløb betales forud. Depositum betales med bankoverførsel (SEPA) eller kort, og resten betales på turdagen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan jeg betale med kort i bilen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, kort og andre kontaktløse betalingsmetoder tages imod."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kører du til og fra hospitalet i Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Antonio kører passagerer til og fra Šibenik Almene Hospital og må køre ind på hospitalets område, så der er ingen lang gåtur fra en parkeringsplads."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du køre mig til færgen til øerne?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Antonio afleverer og henter ved færge- og katamaranhavnen i Šibenik til Zlarin, Prvić, Kaprije og Žirje samt ved båden til Obonjan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Henter du ved hotellerne i Šibenik, ved busstationen og togstationerne?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Antonio betjener alle de lokale hoteller, busstationen, togstationerne i Šibenik og Perković samt færgehavnen, med hjælp til bagagen og et navneskilt, hvis du ønsker det."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad sker der, hvis mit fly er forsinket?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ankommende fly følges i realtid, og afhentningstidspunktet justeres automatisk uden ekstra omkostninger."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad hvis jeg bliver nødt til at afbestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Afbestilling skal ske skriftligt på e-mail. Mere end 72 timer før den aftalte afhentning får du hele beløbet retur, uanset hvilken betalingsmetode du har brugt. Afbestilling inden for 72 timer eller udeblivelse refunderes ikke. Ændring til en anden dato er altid gratis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du køre en større gruppe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Škoda Superb har plads til op til 4 passagerer. Større grupper kan arrangeres gennem lokale, håndplukkede samarbejdspartnere."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Har du barnestole?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, barnestole og selepuder er tilgængelige efter aftale."
+          }
+        }
+      ]
+    }
+  ]
+}

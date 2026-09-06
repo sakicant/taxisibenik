@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-tromilja-primosten",
+  "title": "Таксі Tromilja - Primošten | Фіксована ціна €75 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Tromilja - Primošten. Фіксована ціна €75 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі tromilja - primošten, трансфер tromilja - primošten, трансфер з аеропорту tromilja - primošten",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Tromilja - Primošten",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Tromilja - Primošten, 75 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Tromilja",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-tromilja-primosten/",
+      "offers": {
+        "@type": "Offer",
+        "price": "75",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Tromilja - Primošten, за автомобіль для до 4 пасажирів. Туди й назад 150 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Яка відстань на маршруті і скільки триває поїздка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поїздка маршрутом Tromilja - Primošten становить близько 36 км і триває приблизно 40 min за звичайного руху, трохи довше в розпал літа. Я планую подачу так, щоб повільна ділянка ніколи вас не квапила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі на маршруті Tromilja - Primošten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 75 за автомобіль для до 4 пасажирів, в один бік, багаж включено. Поїздка туди й назад коштує 150."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Де ви мене забираєте?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "За вашою точною адресою, чи то будинок, готель або апартаменти. Надішліть адресу при бронюванні, і я підтверджу місце зустрічі."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

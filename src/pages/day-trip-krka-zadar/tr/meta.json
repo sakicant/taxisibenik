@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-krka-national-park-zadar",
+  "title": "Zadar'dan Krka'ya Günübirlik Gezi | Özel Transfer, Sabit €260 | TAXI Antonio",
+  "description": "Zadar'dan Krka'ya özel gidiş dönüş taksi transferi. Araç başına sabit €260, 4 yolcuya kadar, Zadar otellerinden, feribot ve kruvaziyer limanından ve eski şehirden kapıdan kapıya. Tur değil, sadece gidiş ve dönüş yolculuğu.",
+  "keywords": "zadar'dan krka'ya günübirlik gezi, zadar'dan krka'ya gidiş dönüş transfer, zadar'dan krka'ya taksi, zadar'dan krka, zadar'dan krka milli parkı'na",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Zadar'dan Krka'ya özel günübirlik gezi",
+      "description": "Yerel, İngilizce konuşan bir şoförle Zadar'dan Krka Milli Parkı'na özel günübirlik gezi. 4 yolcuya kadar araç başına sabit 260 avro; Zadar otellerinden, feribot ve kruvaziyer limanından, otogardan ve eski şehirden kapıdan kapıya alış.",
+      "touristType": "Doğa ve gezi",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "260",
+        "priceCurrency": "EUR",
+        "description": "Özel araç, Zadar'dan Krka Milli Parkı'na gidiş dönüş, 4 yolcuya kadar. Park giriş biletleri dahil değildir."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Bu rehberli bir tur mu, taksi transferi mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bu rehberli bir tur değil, bir taksi transferidir. Antonio, Zadar'dan Krka'ya gidip dönen özel bir transfer sunan yerel bir şofördür. Araç ve sürüş size aittir; parkın içinde kendi başınıza, kendi temponuzda gezersiniz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zadar'dan Krka'ya taksi ne kadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zadar'dan Krka Milli Parkı'na özel gidiş dönüş transfer, 4 yolcuya kadar araç başına sabit 260 avrodur; otoyol ücretleri, yakıt ve yaklaşık 3 ila 4 saatlik bekleme süresi dahildir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zadar otellerinden ve feribot limanından alış yapıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Zadar otelleri ve dairelerinden, eski şehirden, otogardan, ayrıca doğrudan Zadar feribot limanından ve Gaženica kruvaziyer terminalinden kapıdan kapıya alış yapıyorum; talep üzerine isim tabelasıyla karşılıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zadar'dan Krka'ya günübirlik gezi ne kadar sürüyor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Otoyoldan tek yön yaklaşık bir saatlik yolculuk, artı parkın içinde yaklaşık 3 ila 4 saat serbest zaman. Rezervasyon sırasında daha kısa ya da daha uzun bir süre kararlaştırılabilir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Günübirlik gezinin rezervasyonunu ve ödemesini nasıl yaparım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yüzde 20 ön ödeme (en az 20 avro) rezervasyonu onaylar; havale ya da kartla yapılır ve onay olarak bir fatura alırsınız. Kalan tutar yolculuk günü şoföre nakit ya da kartla ödenir."
+          }
+        }
+      ]
+    }
+  ]
+}

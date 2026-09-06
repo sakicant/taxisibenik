@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-sibenik",
+  "title": "Dienas ekskursija uz Krku no Šibenikas | Privāts transfērs, fiksēti €100 | TAXI Antonio",
+  "description": "Privāts taksometra transfērs turp un atpakaļ uz Krku no Šibenikas. Fiksēti €100 par automašīnu, līdz 4 pasažieriem, no durvīm līdz durvīm no viesnīcām, dzīvokļiem, stacijām un prāmju ostas. Nav ekskursija, tikai brauciens turp un atpakaļ.",
+  "keywords": "dienas ekskursija uz krku no šibenikas, transfērs turp un atpakaļ uz krku, taksometrs uz krku no šibenikas, krkas transfērs šibenika, no šibenikas uz krkas nacionālo parku",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privāta dienas ekskursija uz Krku no Šibenikas",
+      "description": "Privāta dienas ekskursija uz Krkas nacionālo parku no Šibenikas ar vietējo šoferi, kurš runā angliski. Fiksēta cena 100 eiro par automašīnu līdz 4 pasažieriem, ar sagaidīšanu no durvīm līdz durvīm pie viesnīcām, dzīvokļiem, autoostas un dzelzceļa stacijas, kā arī pie prāmju ostas.",
+      "touristType": "Daba un apskates vietas",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Privāta automašīna, brauciens turp un atpakaļ no Šibenikas uz Krkas nacionālo parku, līdz 4 pasažieriem. Parka ieejas biļetes nav iekļautas."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vai šī ir ekskursija ar gidu vai taksometra transfērs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tas ir taksometra transfērs, nevis ekskursija ar gidu. Antonio ir vietējais Šibenikas taksometra šoferis, kurš nodrošina privātu transfēru turp un atpakaļ uz Krku. Jūs saņemat automašīnu un braucienu; parkā jūs varat brīvi visu izpētīt paši, savā tempā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs varat mūs sagaidīt pie Amadria Park, D-Resort vai Hotel Bellevue?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Es regulāri sagaidu viesus Amadria Park kūrortā, D-Resort Šibenik, Hotel Bellevue un citās Šibenikas viesnīcās. Atsūtiet man savas viesnīcas nosaukumu, un es apstiprināšu precīzu sagaidīšanas laiku un tikšanās vietu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs sagaidāt pie Šibenikas prāmju ostas, autoostas vai dzelzceļa stacijas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Es sagaidu viesus no durvīm līdz durvīm pie Šibenikas prāmju un kruīza kuģu ostas, pie autoostas un pie Šibenikas un Perković dzelzceļa stacijām, pēc pieprasījuma ar vārda plāksnīti."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi mēs uzturamies Krkas nacionālajā parkā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lielākā daļa viesu izvēlas aptuveni 3 līdz 4 stundas brīva laika parkā, ar to pietiek, lai apskatītu galvenos ūdenskritumus un izstaigātu klasisko koka laipu loku. Īsāku vai garāku uzturēšanos var saskaņot, rezervējot braucienu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai Krkas ieejas biļetes ir iekļautas cenā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nē. Ieejas biļetes pērkat atsevišķi, tieši no Krkas nacionālā parka pie Skradinas vai Lozovacas ieejas vai internetā. Biļetes maksā aptuveni no 7 līdz 40 eiro atkarībā no sezonas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kā rezervēt un samaksāt par dienas ekskursiju no Šibenikas uz Krku?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervāciju apstiprina 20% avansa maksājums (vismaz 20 eiro) ar bankas pārskaitījumu vai karti, un jūs saņemat rēķinu kā apstiprinājumu. Atlikumu samaksājat šoferim brauciena dienā, skaidrā naudā vai ar karti."
+          }
+        }
+      ]
+    }
+  ]
+}

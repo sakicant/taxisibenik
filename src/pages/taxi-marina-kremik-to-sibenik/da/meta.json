@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-kremik-sibenik",
+  "title": "Taxa Marina Kremik - Šibenik | Fast pris €60 | TAXI Antonio",
+  "description": "Privat taxa og transfer på ruten Marina Kremik - Šibenik. Fast pris €60 pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+  "keywords": "taxa marina kremik - šibenik, transfer marina kremik - šibenik, lufthavnstransfer marina kremik - šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxatransfer",
+      "name": "Taxa Marina Kremik - Šibenik",
+      "description": "Privat taxa og transfer til fast pris på ruten Marina Kremik - Šibenik, 60 euro pr. bil for op til 4 passagerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Kremik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/da/taxi-marina-kremik-sibenik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "60",
+        "priceCurrency": "EUR",
+        "description": "Privat enkeltrejse på ruten Marina Kremik - Šibenik, pr. bil for op til 4 passagerer. Tur og retur 120 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvad koster en transfer på ruten Marina Kremik - Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 60 pr. bil for op til 4 passagerer, enkeltrejse, med vejafgifter, brændstof og bagage. Tur og retur koster 120."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du hente mig direkte i marinaen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg møder dig ved marinaens indgang eller i receptionen og hjælper med bagagen, så du går direkte fra broen til bilen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du tilpasse transferen til min båd?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Send mig tidspunktet for charter, check-in eller afgang, når du bestiller, så planlægger jeg afhentningen efter det."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindst 2 timer før, så jeg kan bekræfte bil og afhentningstidspunkt. Har du brug for en tur med kort varsel, så ring eller skriv direkte til mig på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

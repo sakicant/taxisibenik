@@ -1,0 +1,119 @@
+{
+  "slug": "taxi-bilice",
+  "title": "Такси Bilice | TAXI Antonio",
+  "description": "Такси Bilice: летищни трансфери на фиксирана цена до Split (100 €) и Zadar, плюс бързи курсове до Šibenik. Вземане пред вратата за гости на апартаменти и вили.",
+  "keywords": "такси bilice, bilice такси, летищен трансфер bilice, bilice до летище split, bilice до sibenik, такси bilice sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Местно такси и летищни трансфери",
+      "name": "Такси Bilice",
+      "description": "Частно такси и летищни трансфери на фиксирана цена от Bilice, северно от Šibenik, до летище Split, летище Zadar, Šibenik, Vodice и Национален парк Krka.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Bilice",
+      "url": "https://taxisibenik.hr/bg/taxi-bilice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Цени за такси от Bilice",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Такси Bilice до Šibenik",
+            "price": "20",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Bilice&to=%C5%A0ibenik%20-%20center&price=20"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси Bilice до Vodice",
+            "price": "35",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Bilice&to=Vodice&price=35"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси Bilice до НП Krka (Lozovac)",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Bilice&to=NP%20Krka%20-%20Lozovac%20entrance&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси Bilice до летище Split",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Bilice&to=Split%20Airport%20%28SPU%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси Bilice до летище Zadar",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Bilice&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси Bilice до Split",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Bilice&to=Split&price=140"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси Bilice до Zadar",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/bg/rezervatsiya/?from=Bilice&to=Zadar&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Взимате ли пътници от апартаменти и вили в Bilice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Взимам ви точно пред вратата на вашето настаняване в Bilice, товаря багажа ви и ви карам от врата до врата. Просто ми изпратете адреса при резервацията."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко рано можете да направите летищен трансфер от Bilice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По всяко време, денем или нощем, стига да е резервирано предварително. За ранни полети от Split или Zadar потвърждавам часа на вземане, за да стигнете до терминала с достатъчно време."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Наистина ли цената до летището е фиксирана?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Всяка цена тук е фиксирана цена за автомобил за до 4 пътници, с включени пътни такси, гориво и багаж. Без таксиметров апарат."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -329,3 +329,14 @@ Options -Indexes
     Deny from all
   </IfModule>
 </FilesMatch>
+
+# Booking page moved to the localized slug (sibenik). 301 so Google
+# transfers the old URL on its own; no Search Console action needed.
+Redirect 301 /es/book/ /es/reservar/
+Redirect 301 /fi/book/ /fi/varaa/
+Redirect 301 /ja/book/ /ja/yoyaku/
+Redirect 301 /ko/book/ /ko/yeyak/
+Redirect 301 /no/book/ /no/bestill/
+Redirect 301 /sr/book/ /sr/rezervacija/
+Redirect 301 /sv/book/ /sv/boka/
+Redirect 301 /zh/book/ /zh/yuding/

@@ -1,0 +1,106 @@
+{
+  "slug": "taxi-vodice",
+  "title": "Taksometrs Vodice | TAXI Antonio",
+  "description": "Taksometrs Vodice: lidostas transfēri par fiksētu cenu uz Zadaru (€100) un Splitu, sagaidīšana marīnā un kūrortos, dienas braucieni uz Krku un izlaišana pie salu prāmja. Rezervējiet tieši.",
+  "keywords": "taksometrs vodice, vodice taksometrs, vodice lidostas transfērs, vodice splitas lidosta, vodice zadaras lidosta, vodice marīnas taksometrs, vodice krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Vietējais taksometrs un lidostas transfēri",
+      "name": "Taksometrs Vodice",
+      "description": "Privāts taksometrs par fiksētu cenu Vodicēs: lidostas transfēri uz Splitu un Zadaru, sagaidīšana marīnā un kūrortos, dienas braucieni uz Krkas nacionālo parku un izlaišana pie salu prāmja.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Vodice",
+      "url": "https://taxisibenik.hr/lv/taxi-vodice/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksometra cenas no Vodicēm",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Vodice uz Šibeniku",
+            "price": "30",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Vodice uz Krkas NP (Lozovac)",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Vodice uz Zadaras lidostu",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Vodice uz Splitas lidostu",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vai jūs varat paņemt komandas Vodices marīnā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Es sagaidu jahtu un čartera komandas tieši marīnā, ar vietu bagāžai un pārtikas krājumiem, un varu sarunāt agru vai vēlu laiku ap jūsu čarteru."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs braucat vēlu naktī Vodicēs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Ja tas ir rezervēts iepriekš, es varu jūs paņemt pēc vakara pilsētā un droši nogādāt atpakaļ jūsu naktsmītnē par fiksētu cenu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs varat mani aizvest līdz Prvić vai Zlarin prāmim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Abi iet no Vodices krastmalas, un es varu jūs izlaist tieši pie piestātnes. Pajautājiet man cenu, kad rezervējat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā brauciens no Vodicēm uz Zadaras lidostu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti €100 par automašīnu līdz 4 pasažieriem, un Splitas lidosta maksā €115, ar ceļa nodevām un bagāžu."
+          }
+        }
+      ]
+    }
+  ]
+}

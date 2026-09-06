@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-jezera-seget",
+  "title": "Такси Jezera - Seget | Фиксированная цена €135 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Jezera - Seget. Фиксированная цена €135 за автомобиль, до 4 пассажиров, от двери до двери. Бронируйте напрямую у Антонио.",
+  "keywords": "такси jezera - seget, трансфер jezera - seget, трансфер из аэропорта jezera - seget",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Jezera - Seget",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Jezera - Seget, 135 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Jezera",
+        "Seget"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-jezera-seget/",
+      "offers": {
+        "@type": "Offer",
+        "price": "135",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Jezera - Seget, за автомобиль для до 4 пассажиров. Туда и обратно 270 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Jezera - Seget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 135 за автомобиль для до 4 пассажиров, в одну сторону, багаж включён. Поездка туда и обратно стоит 270."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня забираете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По вашему точному адресу, будь то дом, отель или апартаменты. Пришлите адрес при бронировании, и я подтвержу место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

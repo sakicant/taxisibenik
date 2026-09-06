@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Такси Перкович | TAXI Antonio",
+  "description": "Такси Перкович: встреча на перроне главной железнодорожной станции района Шибеника и трансферы дальше в Шибеник, Водице, к Крке и не только.",
+  "keywords": "такси перкович, перкович такси, такси на вокзале перкович, трансфер от станции перкович, перкович шибеник, перкович крка",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Местное такси и трансферы в аэропорт",
+      "name": "Такси Перкович",
+      "description": "Частное такси встречает поезда в Перковиче, на главной железнодорожной станции района Шибеника, и везёт дальше в Шибеник, Водице, к Крке, в Дрниш, Книн и аэропорт Сплита.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/ru/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Где вы встречаете меня на станции Перкович?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "На перроне или у выхода со станции, как вам удобнее. У меня будет табличка с вашим именем, и я помогу с сумками, чтобы вы сразу дошли до машины."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "А если мой поезд в Перкович опаздывает?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Я слежу за вашим поездом и подстраиваю время подачи, без доплаты, так что я на месте, когда поезд действительно приходит."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Есть ли на станции Перкович стоянка такси?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Нет, стоянки у станции нет, поэтому лучше забронировать заранее. Пришлите мне время поезда и пункт назначения, и я буду ждать, когда вы сойдёте."
+          }
+        }
+      ]
+    }
+  ]
+}

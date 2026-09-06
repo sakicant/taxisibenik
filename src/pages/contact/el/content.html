@@ -1,0 +1,60 @@
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Επικοινωνία</span>
+      <h1>Επικοινωνία με το TAXI Šibenik</h1>
+      <p class="page-hero-sub">Απευθείας επικοινωνία μαζί μου, όχι με τηλεφωνικό κέντρο. Τηλεφωνήστε, γράψτε στο WhatsApp ή στείλτε μήνυμα παρακάτω.</p>
+      <div class="hero-actions">
+        <a href="tel:+385994471013" class="btn btn-primary">Καλέστε ταξί τώρα</a>
+        <a href="https://wa.me/385994471013?text=Hello%20Antonio%2C%20I%20found%20you%20through%20your%20website%20taxisibenik.hr%20and%20I%20have%20an%20inquiry%3A%20" target="_blank" rel="noopener" class="btn btn-secondary">Στείλτε μήνυμα στο WhatsApp</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="contact contact-page">
+    <div class="container contact-inner">
+      <div class="contact-info">
+        <span class="eyebrow">Υπηρεσίες</span>
+        <ul class="contact-details">
+          <li><a href="/el/">Τοπικό ταξί Šibenik</a></li>
+          <li><a href="https://taxiskradin.hr" target="_blank" rel="noopener">Ταξί Skradin</a></li>
+          <li><a href="/el/airport-transfers-from-sibenik/">Μεταφορές από και προς αεροδρόμια</a></li>
+          <li><a href="/el/sibenik-transfers/">Μεταφορές από πόλη σε πόλη</a></li>
+          <li><a href="/el/daytrips/">Ημερήσιες εκδρομές</a></li>
+        </ul>
+      </div>
+
+      <form class="contact-form" id="contact-form" action="/contact.php" method="POST">
+        <input type="text" name="company" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <h3>Στείλτε μου μήνυμα</h3>
+        <label for="name">Όνομα</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="phone">Αριθμός WhatsApp (προαιρετικό)</label>
+        <input type="tel" id="phone" name="phone" placeholder="Με τον κωδικό χώρας">
+
+        <label for="topic">Θέμα</label>
+        <select id="topic" name="topic" required>
+          <option value="General inquiry">Γενική ερώτηση</option>
+          <option value="Booking">Κράτηση</option>
+          <option value="Quote request">Αίτημα προσφοράς</option>
+          <option value="Day trip">Ημερήσια εκδρομή</option>
+          <option value="Partnership proposal">Πρόταση συνεργασίας</option>
+          <option value="Complaint">Παράπονο</option>
+          <option value="Other">Άλλο</option>
+        </select>
+
+        <label for="message">Μήνυμα</label>
+        <textarea id="message" name="message" rows="5" required placeholder="Πείτε μου το σημείο παραλαβής, την ημερομηνία και τον προορισμό σας..."></textarea>
+
+        <label class="form-consent">
+          <input type="checkbox" name="consent" value="1" required>
+          <span>Έχω διαβάσει και αποδέχομαι την <a href="/el/privacy-policy/">Πολιτική απορρήτου</a>.</span>
+        </label>
+        <button type="submit" class="btn btn-primary">Αποστολή μηνύματος</button>
+        <p class="form-note" id="form-note"></p>
+      </form>
+    </div>
+  </section>

@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-aeroport-split-murter",
+  "title": "Такси Аэропорт Сплит - Murter | Фиксированная цена €150 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Аэропорт Сплит - Murter. Фиксированная цена €150 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси аэропорт сплит - murter, трансфер аэропорт сплит - murter, трансфер из аэропорта аэропорт сплит - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Аэропорт Сплит - Murter",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Аэропорт Сплит - Murter, 150 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Аэропорт Сплит",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-aeroport-split-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "150",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Аэропорт Сплит - Murter, за автомобиль для до 4 пассажиров. Туда и обратно 300 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Аэропорт Сплит - Murter составляет около 97 км и занимает примерно 1 h 35 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня встречаете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "В зале прилёта, сразу после выдачи багажа, с табличкой с вашим именем. Помогаю с багажом и провожаю до машины."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Что если мой рейс задерживается?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Не проблема. Слежу за рейсом в реальном времени и подстраиваю подачу под фактическую посадку, без доплаты за ожидание."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит трансфер на маршруте Аэропорт Сплит - Murter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 150 за автомобиль для до 4 пассажиров, в одну сторону, дорожные сборы и багаж включены. Поездка туда и обратно стоит 300."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я спланировал всё под ваш рейс. Для подачи в тот же день после внезапного изменения позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

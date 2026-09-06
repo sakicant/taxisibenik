@@ -1,0 +1,21 @@
+{
+  "slug": "special-offers",
+  "title": "Šibenikas taksometra īpašie piedāvājumi | Labākās transfēru cenas",
+  "description": "Ierobežota laika īpašie piedāvājumi Šibenikas taksometra transfēriem: pēdējā brīža un tukšie braucieni par labāko cenu. Fiksētas cenas, viens šoferis, rezervējiet, kamēr tie nav izpirkti.",
+  "keywords": "šibenikas taksometra īpašie piedāvājumi, labākā cena taksometra transfēram šibenik, ierobežota laika transfēra piedāvājums, pēdējā brīža taksometrs šibenik, lēts splitas lidostas transfērs",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Šibenikas taksometra īpašie piedāvājumi: labākās transfēru cenas",
+    "description": "Ierobežota laika īpašie piedāvājumi Šibenikas taksometra un transfēra braucieniem par labāko cenu: pēdējā brīža un tukšo braucienu piedāvājumi, fiksētas cenas.",
+    "url": "https://taxisibenik.hr/lv/special-offers/",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Taxi Antonio",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "address": { "@type": "PostalAddress", "addressLocality": "Šibenik", "addressCountry": "HR" }
+    }
+  }
+}

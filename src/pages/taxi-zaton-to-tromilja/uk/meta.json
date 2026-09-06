@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zaton-tromilja",
+  "title": "Таксі Zaton - Tromilja | Фіксована ціна €55 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Zaton - Tromilja. Фіксована ціна €55 за автомобіль, до 4 пасажирів, від дверей до дверей. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі zaton - tromilja, трансфер zaton - tromilja, трансфер з аеропорту zaton - tromilja",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Zaton - Tromilja",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Zaton - Tromilja, 55 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zaton",
+        "Tromilja"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-zaton-tromilja/",
+      "offers": {
+        "@type": "Offer",
+        "price": "55",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Zaton - Tromilja, за автомобіль для до 4 пасажирів. Туди й назад 110 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Яка відстань на маршруті і скільки триває поїздка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поїздка маршрутом Zaton - Tromilja становить близько 19 км і триває приблизно 25 min за звичайного руху, трохи довше в розпал літа. Я планую подачу так, щоб повільна ділянка ніколи вас не квапила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі на маршруті Zaton - Tromilja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 55 за автомобіль для до 4 пасажирів, в один бік, багаж включено. Поїздка туди й назад коштує 110."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Де ви мене забираєте?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "За вашою точною адресою, чи то будинок, готель або апартаменти. Надішліть адресу при бронюванні, і я підтверджу місце зустрічі."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

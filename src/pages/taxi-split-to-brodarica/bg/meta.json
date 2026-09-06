@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-split-brodarica",
+  "title": "Такси Split - Brodarica | Фиксирана цена €140 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Split - Brodarica. Фиксирана цена €140 на автомобил, до 4 пътници, от врата до врата. Резервирайте директно при Антонио.",
+  "keywords": "такси split - brodarica, трансфер split - brodarica, летищен трансфер split - brodarica",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Split - Brodarica",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Split - Brodarica, 140 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Split",
+        "Brodarica"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-split-brodarica/",
+      "offers": {
+        "@type": "Offer",
+        "price": "140",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Split - Brodarica, на автомобил за до 4 пътници. Отиване и връщане 280 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко дълъг е маршрутът и колко трае пътуването?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Пътуването по маршрута Split - Brodarica е дълго около 85 км и трае приблизително 70 min при нормален трафик, малко повече в разгара на лятото. Планирам вземането така, че бавен участък никога да не ви притиска."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва такси по маршрута Split - Brodarica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 140 на автомобил за до 4 пътници, еднопосочно, с пътни такси, гориво и багаж. Пътуване с отиване и връщане струва 280."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансферът частен ли е или споделен?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Всеки трансфер е частен и от врата до врата, с Škoda Superb. Автомобилът не се споделя и няма допълнителни спирания, освен ако не ги поискате."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Може ли да спрете по пътя?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. По по-дългите маршрути с удоволствие спирам за кафе, за снимка или за кратка забележителност. Само ми кажете при резервацията."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и часа на вземане. За пътуване в последния момент се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

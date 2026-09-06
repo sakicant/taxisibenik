@@ -1,0 +1,83 @@
+{
+  "slug": "taxi-tromilja",
+  "title": "Ταξί Tromilja | TAXI Antonio",
+  "description": "Ταξί Tromilja: μεταφορές με σταθερή τιμή προς τα αεροδρόμια Split (€90) και Zadar και διαδρομές προς το Šibenik από αυτόν τον ήσυχο οικισμό της ενδοχώρας κοντά στο Bilice.",
+  "keywords": "ταξί tromilja, tromilja ταξί, μεταφορά αεροδρομίου tromilja, tromilja αεροδρόμιο split, tromilja sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Τοπικό ταξί και μεταφορές αεροδρομίου",
+      "name": "Ταξί Tromilja",
+      "description": "Ιδιωτικό ταξί με σταθερή τιμή από την Tromilja, έναν ήσυχο οικισμό της ενδοχώρας κοντά στο Bilice, προς το αεροδρόμιο Split, το αεροδρόμιο Zadar και το Šibenik.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Tromilja",
+      "url": "https://taxisibenik.hr/el/taxi-tromilja/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Τιμές ταξί από την Tromilja",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Ταξί Tromilja προς Šibenik",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Tromilja&to=%C5%A0ibenik%20-%20center&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Tromilja προς αεροδρόμιο Split",
+            "price": "90",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Tromilja&to=Split%20Airport%20%28SPU%29&price=90"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ταξί Tromilja προς αεροδρόμιο Zadar",
+            "price": "115",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/kratisi/?from=Tromilja&to=Zadar%20Airport%20%28ZAD%29&price=115"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να με πάτε στους καταρράκτες Krka από την Tromilja;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Η Tromilja είναι κοντά στο Εθνικό Πάρκο Krka, και κάνω μεταφορές για ολοήμερες εκδρομές με χρόνο αναμονής όσο εξερευνάτε. Δείτε τη σελίδα μου με τις ημερήσιες εκδρομές για λεπτομέρειες και θα σας επιβεβαιώσω την τιμή."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει από την Tromilja προς το αεροδρόμιο Split;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά €90 ανά αυτοκίνητο για έως 4 επιβάτες, με τα διόδια, τα καύσιμα και τις αποσκευές."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "frequently-asked-questions",
+  "title": "Întrebări frecvente | TAXI Antonio",
+  "description": "Răspunsuri rapide despre rezervare, prețuri și curse locale în jurul Šibenikului.",
+  "keywords": "intrebari frecvente",
+  "og_image": "https://taxisibenik.hr/assets/og-image.png",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cum rezerv un taxi din Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sunați la +385 99 447 1013, scrieți-mi pe WhatsApp sau trimiteți-mi un e-mail. Am nevoie de locul de preluare, de destinație și de ora dorită de preluare sau de sosire."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Accept cereri de ultim moment în timpul programului meu de lucru, cu cel puțin 2 ore înainte, dar rezervarea din timp garantează disponibilitatea."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ce înseamnă \"preț fix\"? Ce include?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Prețurile mele fixe includ transportul, combustibilul, taxele de drum și ajutorul cu bagajele. Fără costuri ascunse. Opririle suplimentare sau așteptările lungi pot costa mai mult, iar eu vă spun întotdeauna dinainte. Prețul este fix pe mașină, pentru maximum 4 pasageri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Acceptați plata unui avans?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Confirmarea unei rezervări necesită un avans de 20% (minimum 20 €). Cursele cu un preț de 20 € sau mai puțin se plătesc integral în avans. Avansul poate fi achitat prin transfer bancar (SEPA) sau cu cardul, iar restul îl achitați la mine în ziua transferului."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faceți preluări de la spitalul din Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Duc pasagerii la și de la Spitalul General Šibenik și am voie să intru cu mașina în incinta spitalului, așa că nu este nevoie de un drum lung pe jos dintr-o parcare. Spuneți-mi dacă aveți nevoie de ajutor până la intrare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mă puteți duce la feribotul spre insule?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Las și preiau pasageri în portul de feriboturi și catamarane din Šibenik pentru Zlarin, Prvić, Kaprije și Žirje, precum și la barca spre Obonjan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Preluați de la hotelurile din Šibenik, de la autogară și de la gările feroviare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Deservesc toate hotelurile locale, autogara, gările Šibenik și Perković și portul de feriboturi, cu ajutor la bagaje și cu o pancartă cu numele dumneavoastră la cerere."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Acceptați plata cu cardul în mașină?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, accept cardurile și alte metode de plată contactless."
+          }
+        }
+      ]
+    }
+  ]
+}

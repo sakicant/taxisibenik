@@ -1,0 +1,85 @@
+{
+  "slug": "airport-transfers-from-sibenik",
+  "title": "Transferuri aeroport Šibenik | Prețuri fixe | TAXI Antonio",
+  "description": "Transferuri aeroport Šibenik spre și dinspre aeroporturile Split, Zadar, Zagreb și Dubrovnik. Prețuri fixe, monitorizarea zborului, din ușă în ușă. Deservesc și Vodice, Primošten și Skradin. Rezervați la Antonio.",
+  "keywords": "transferuri aeroport šibenik, transfer aeroport šibenik, aeroport split šibenik, aeroport zadar šibenik, transfer aeroport vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer aeroport",
+      "name": "Transferuri aeroport din Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split Airport",
+        "Zadar Airport",
+        "Zagreb Airport",
+        "Dubrovnik Airport"
+      ],
+      "url": "https://taxisibenik.hr/ro/airport-transfers-from-sibenik/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cum îmi găsesc șoferul la aeroport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio vă așteaptă în holul de sosiri, după recuperarea bagajelor, cu o plăcuță clară pe care scrie numele dumneavoastră."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ce se întâmplă dacă zborul meu întârzie?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zborurile sunt monitorizate în timp real folosind numărul de zbor pe care îl dați la rezervare. Ora preluării se ajustează automat și nu se percepe niciun cost suplimentar pentru așteptare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Prețul transferului de aeroport este fix?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Fiecare transfer de aeroport are un preț fix per mașină pentru până la 4 pasageri, cu taxe de drum, combustibil și bagaje incluse. Fără aparat de taxat, fără surprize."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Oferiți scaune pentru copii la transferurile de aeroport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da, scaunele pentru copii și înălțătoarele sunt gratuite. Cereți-le în notele rezervării, cu vârsta copilului."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cum plătesc un transfer de aeroport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un avans de 20% (minimum 20 de euro) confirmă rezervarea, prin transfer bancar sau card. Restul se plătește șoferului în ziua cursei, în numerar sau cu cardul."
+          }
+        }
+      ]
+    }
+  ]
+}

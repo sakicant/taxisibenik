@@ -1,0 +1,149 @@
+{
+  "slug": "daytrips",
+  "title": "Однодневные поездки из Шибеника | Частные поездки в Крка и Плитвице | TAXI Antonio",
+  "description": "Частные однодневные поездки из Шибеника и по всей Далмации в национальный парк Крка и на Плитвицкие озёра. Трансфер туда и обратно от двери до двери по фиксированной цене с местным водителем. Это не тур, а только дорога туда и обратно.",
+  "keywords": "однодневные поездки из шибеника, поездки на день шибеник, частная поездка на день хорватия, поездка в крка, поездка на плитвицкие озёра, экскурсия крка, экскурсия плитвице",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частные однодневные поездки и выезды",
+      "name": "Однодневные поездки из Шибеника и Далмации",
+      "description": "Частные однодневные поездки по фиксированной цене в национальный парк Крка и на Плитвицкие озёра с местным водителем из Шибеника. Трансфер туда и обратно от двери до двери из Шибеника, Водице, Примоштена, Сплита и Задара, до 4 пассажиров в автомобиле.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Шибеник",
+        "Водице",
+        "Примоштен",
+        "Сплит",
+        "Задар"
+      ],
+      "url": "https://taxisibenik.hr/ru/daytrips/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Частные однодневные поездки из Далмации",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Поездка на день в Крка из Шибеника",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/day-trip-krka-national-park-sibenik/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Поездка на день в Крка из Водице",
+            "price": "125",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/day-trip-krka-national-park-vodice/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Поездка на день в Крка из Примоштена",
+            "price": "155",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/day-trip-krka-national-park-primosten/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Поездка на день в Крка из Задара",
+            "price": "260",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/day-trip-krka-national-park-zadar/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Поездка на день в Крка из Сплита",
+            "price": "290",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/day-trip-krka-national-park-split/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Поездка на день на Плитвице из Шибеника",
+            "price": "500",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/day-trip-plitvice-lakes-national-park-sibenik/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Поездка на день на Плитвице из Сплита",
+            "price": "650",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/day-trip-plitvice-lakes-national-park-split/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какие однодневные поездки можно заказать из Шибеника?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Две самые популярные поездки на день это национальный парк Крка и национальный парк Плитвицкие озёра. Обе представляют собой частный трансфер туда и обратно по фиксированной цене от двери вашего отеля или апартаментов, со свободным временем внутри парка, чтобы гулять в своём темпе."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Это экскурсии с гидом или трансферы на такси?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Это частные трансферы на такси, а не групповые экскурсии с гидом. Антонио местный водитель, который отвозит вас туда и обратно на удобной Škoda Superb. Внутри парка вы гуляете сами, без гида и без общей группы."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит поездка на день в Крка или на Плитвице?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Частная поездка на день в Крка начинается от фиксированных 100 евро за автомобиль из Шибеника. Поездка на Плитвицкие озёра стоит 500 евро за автомобиль из Шибеника. Цены указаны за автомобиль до 4 пассажиров и зависят от города, откуда вас забирают."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Забираете ли вы из других городов, а не только из Шибеника?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Поездки в Крка идут из Шибеника, Водице, Примоштена, Задара и Сплита, а поездки на Плитвице из Шибеника и Сплита. У каждого города своя фиксированная цена и своя страница со всеми деталями."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Входят ли билеты в парк в цену?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Нет. В цену входит только частный трансфер и время ожидания. Билеты в Крка и на Плитвице покупаются отдельно на входе или онлайн и стоят примерно от 7 до 40 евро в зависимости от сезона."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Как заказать поездку на день?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Напишите мне в WhatsApp, позвоните или воспользуйтесь страницей контактов. Предоплата 20% (минимум 20 евро) подтверждает дату, а остаток вы платите водителю в день поездки."
+          }
+        }
+      ]
+    }
+  ]
+}

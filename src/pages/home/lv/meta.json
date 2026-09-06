@@ -1,0 +1,241 @@
+{
+  "slug": "",
+  "title": "Taxi Šibenik - pakalpojums, uz kuru varat paļauties | Taxi Antonio",
+  "description": "Taxi Šibenik vietējiem braucieniem pēc pieprasījuma, izbraukumiem uz slimnīcu un viesnīcām, autoostu un prāmju ostu, kā arī savienojumiem ar salām. Šoferis runā angliski. Rezervējiet tieši pie Antonio.",
+  "keywords": "taxi šibenik, taxi sibenik, taksometrs sibenik slimnica, sibenik viesnicu taksometrs, sibenik pramju osta taksometrs, taxi zlarin prvic",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-home-land.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "TAXI Šibenik & Skradin - Antonio",
+      "url": "https://taxisibenik.hr/lv/",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "areaServed": [
+        "Šibenik",
+        "Skradin",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Šibenik",
+        "postalCode": "22000",
+        "addressCountry": "HR"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "152"
+      },
+      "priceRange": "€€",
+      "alternateName": "TAXI Antonio",
+      "@id": "https://taxisibenik.hr/lv/#business",
+      "image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
+      "paymentAccepted": "Skaidra nauda, kredītkarte",
+      "currenciesAccepted": "EUR",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6956974,
+        "longitude": 15.7891511
+      },
+      "hasMap": "https://www.google.com/maps?cid=4748268601430744277",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "20:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "07:00",
+          "closes": "16:00"
+        }
+      ],
+      "sameAs": [
+        "https://web.facebook.com/profile.php?id=61579783829997",
+        "https://www.instagram.com/taxi_sibenik/",
+        "https://www.tiktok.com/@taxisibenik",
+        "https://www.tripadvisor.com/Attraction_Review-g295375-d24821165-Reviews-TAXI_Sibenik_Skradin_Antonio-Sibenik_Sibenik_Knin_County_Dalmatia.html",
+        "https://www.google.com/maps?cid=4748268601430744277"
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taksometra un transfēru pakalpojums",
+      "name": "Taxi Šibenik no TAXI Antonio",
+      "areaServed": {
+        "@type": "City",
+        "name": "Šibenik"
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksometra un transfēru pakalpojumi",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Vietējie taksometra braucieni Šibenikā"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Lidostu transfēri"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Transfēri starp pilsētām"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Viesnīcu transfēri"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Dienas ekskursijas uz Krku un Plitvicēm"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kā es varu rezervēt taksometru no Šibenikas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zvaniet +385 99 447 1013, rakstiet WhatsApp vai sūtiet e-pastu. Antonio vajag uzņemšanas vietu, galamērķi un vēlamo uzņemšanas vai ierašanās laiku."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš man jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pēdējā brīža pieprasījumi tiek pieņemti darba laika ietvaros, bet rezervācija iepriekš garantē pieejamību."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ko nozīmē \"fiksēta cena\"? Kas tajā ietilpst?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksētajās cenās ietilpst pārvadājums, degviela, ceļa nodevas un palīdzība ar bagāžu. Nekādu slēptu maksu. Papildu pieturas vai ilga gaidīšana var maksāt vairāk, un par to tiek paziņots jau sākumā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs pieņemat priekšapmaksu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Rezervācijas apstiprināšanai nepieciešama 20% priekšapmaksa (vismaz 20 eiro). Ja brauciena cena ir 20 eiro vai mazāka, minimālā priekšapmaksa ir vienāda ar brauciena cenu. Priekšapmaksu var veikt ar bankas pārskaitījumu (SEPA) vai karti, bet atlikumu nokārto transfēra dienā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs pieņemat kartes maksājumus automašīnā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā, kartes un citi bezkontakta maksājumu veidi tiek pieņemti."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs veicat izbraukumus uz slimnīcu Šibenikā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Antonio ved pasažierus uz Šibenikas vispārējo slimnīcu un no tās, un viņam ir atļauts iebraukt slimnīcas teritorijā, tāpēc nav jāiet garš gabals no autostāvvietas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat mani aizvest uz prāmi uz salām?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Antonio izlaiž un sagaida pasažierus Šibenikas prāmju un katamarānu ostā, no kurienes kuģo uz Zlarinu, Prviču, Kapriji un Žirji, kā arī pie laivas uz Obonjanu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs sagaidāt Šibenikas viesnīcās, autoostā un dzelzceļa stacijās?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Antonio apkalpo visas vietējās viesnīcas, autoostu, Šibenikas un Perkovičas dzelzceļa stacijas un prāmju ostu, ar palīdzību bagāžai un vārda zīmi pēc pieprasījuma."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kas notiek, ja mans lidojums kavējas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ielidojumi tiek uzraudzīti reāllaikā, un uzņemšanas laiks tiek automātiski pielāgots bez papildu maksas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kas notiek, ja man jāatceļ rezervācija?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Atcelšana jāveic rakstiski pa e-pastu. Vairāk nekā 72 stundas pirms rezervētā laika tiek atmaksāta visa summa neatkarīgi no izmantotā maksājuma veida. Atcelšana 72 stundu laikā vai neierašanās netiek atmaksāta. Rezervācijas pārcelšana uz citu datumu vienmēr ir bez maksas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat pārvadāt lielāku grupu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Škoda Superb uzņem līdz 4 pasažieriem. Lielākām grupām var vienoties, izmantojot vietējos, personīgi izraudzītus partnerus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai piedāvājat bērnu sēdeklīšus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā, bērnu un paaugstinājuma sēdeklīši ir pieejami pēc pieprasījuma."
+          }
+        }
+      ]
+    }
+  ]
+}

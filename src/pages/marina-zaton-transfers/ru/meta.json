@@ -1,0 +1,139 @@
+{
+  "slug": "marina-zaton-transfers",
+  "title": "Трансферы из Marina Zaton | Фиксированные цены | TAXI Antonio",
+  "description": "Частные трансферы из Marina Zaton рядом с Шибеником в аэропорты и города Сплита, Задара, Загреба и Дубровника. Фиксированные цены, подача к причалу, один местный водитель.",
+  "keywords": "трансфер marina zaton, такси марина затон, marina zaton трансфер в аэропорт, затон аэропорт сплит",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Такси и трансферы в аэропорт из марины",
+      "name": "Трансферы из Marina Zaton",
+      "description": "Частные трансферы из Marina Zaton рядом с Шибеником в аэропорты и города Сплита, Задара, Загреба и Дубровника. Фиксированные цены, подача к причалу, один местный водитель.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Шибеник"
+      ],
+      "url": "https://taxisibenik.hr/ru/marina-zaton-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Фиксированные цены на трансферы из Marina Zaton",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - аэропорт Сплита",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - аэропорт Задара",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - аэропорт Загреба",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - аэропорт Дубровника",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Сплит",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Задар",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Дубровник",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Трогир",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Водице",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - НП Крка (Лозовац)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton - Шибеник",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Где вы забираете в Marina Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Прямо в марине, у вашего причала или у ресепшена марины, как вам удобнее. Скажите при бронировании номер понтона или название лодки, и я вас найду."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит трансфер в аэропорт Сплита?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированная цена за автомобиль до 4 пассажиров, согласованная до поездки, дорожные сборы, топливо и багаж включены. Смотрите прайс выше по каждому маршруту."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил машину и время подачи, и раньше для ранних утренних рейсов и высокого сезона. Если поездка нужна быстрее, позвоните мне или напишите в WhatsApp напрямую."
+          }
+        }
+      ]
+    }
+  ]
+}

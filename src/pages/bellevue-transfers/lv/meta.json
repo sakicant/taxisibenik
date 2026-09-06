@@ -1,0 +1,145 @@
+{
+  "slug": "bellevue-sibenik-transfers",
+  "title": "Bellevue Superior Hotel transfēri Šibenikā | Fiksētas cenas | TAXI Antonio",
+  "description": "Privāti transfēri uz un no Bellevue Superior Hotel Šibenikā. Fiksētas cenas, rezervējot iepriekš: Splitas lidosta €95, Zadaras lidosta €130, Krka no €45. No durvīm līdz durvīm, viens vietējais šoferis.",
+  "keywords": "bellevue šibenik transfēri, bellevue superior hotel transfērs, bellevue šibenik taksometrs, bellevue lidostas transfērs, taksometrs bellevue šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Viesnīcu lidostu un pilsētu taksometra transfēri",
+      "name": "Bellevue Superior Hotel Šibenik transfēri",
+      "description": "Privāti taksometra transfēri par fiksētu cenu uz un no Bellevue Superior Hotel pašā Šibenikas sirdī. Lidostu transfēri, transfēri starp pilsētām un Krkas dienas braucieni, rezervēti iepriekš par iepriekš saskaņotu cenu.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Bellevue Superior Hotel Šibenik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/lv/bellevue-sibenik-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fiksētas transfēru cenas no Bellevue Superior Hotel",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Bellevue uz Splitas lidostu",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue uz Zadaras lidostu",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue uz Zagrebas lidostu",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue uz Dubrovnikas lidostu",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue uz Krkas nacionālo parku (Lozovac)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue uz Vodicēm",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue uz Splitu",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue uz Zadaru",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs no Bellevue Superior Hotel uz Splitas lidostu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privāts transfērs no Bellevue Superior Hotel uz Splitas lidostu maksā fiksētus 95 eiro par automašīnu līdz 4 pasažieriem, rezervējot iepriekš. Ceļa nodevas, degviela un bagāža ir iekļautas, un cena ir vienāda abos virzienos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kur jūs sagaidāt pie Bellevue Superior Hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tieši viesnīcas priekšā. Bellevue atrodas pašā Šibenikas sirdī, un es apstiprinu precīzu sagaidīšanas vietu, kad rezervējat, lai jums nebūtu jāgaida uz ielas malas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai Bellevue transfērs jārezervē iepriekš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Visas norādītās cenas ir fiksētas cenas transfēriem, kas rezervēti iepriekš. Rezervējot laikus, jums ir garantēta automašīna, sagaidīšanas laiks un cena, kas visvairāk nozīmē agru lidojumu un sezonas pīķa gadījumā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs sagaidāt viesus lidostā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Ielidojot es reāllaikā sekoju jūsu lidojumam, gaidu ielidošanas zālē ar vārda plāksnīti un aizvedu jūs tieši uz Bellevue. Gaidīšana aizkavētu lidojumu gadījumā ir bez maksas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat mūs aizvest no Bellevue uz Krkas nacionālo parku?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Vienvirziena transfērs uz Krkas Lozovac ieeju maksā 45 eiro, bet uz Skradinas ieeju 50 eiro. Piedāvāju arī pilnu privātu dienas braucienu ar iekļautu gaidīšanas laiku un sagaidīšanu pie viesnīcas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kā es maksāju par transfēru?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervāciju apstiprina 20% avansa maksājums (minimums 20 eiro) ar bankas pārskaitījumu vai karti. Atlikumu maksājat šoferim brauciena dienā, skaidrā naudā vai ar karti."
+          }
+        }
+      ]
+    }
+  ]
+}

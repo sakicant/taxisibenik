@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-frapa-zagreb",
+  "title": "Taxa Marina Frapa - Zagreb | Fast pris €499 | TAXI Antonio",
+  "description": "Privat taxa og transfer på ruten Marina Frapa - Zagreb. Fast pris €499 pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+  "keywords": "taxa marina frapa - zagreb, transfer marina frapa - zagreb, lufthavnstransfer marina frapa - zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxatransfer",
+      "name": "Taxa Marina Frapa - Zagreb",
+      "description": "Privat taxa og transfer til fast pris på ruten Marina Frapa - Zagreb, 499 euro pr. bil for op til 4 passagerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Frapa",
+        "Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/da/taxi-marina-frapa-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "499",
+        "priceCurrency": "EUR",
+        "description": "Privat enkeltrejse på ruten Marina Frapa - Zagreb, pr. bil for op til 4 passagerer. Tur og retur 998 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvad koster en transfer på ruten Marina Frapa - Zagreb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 499 pr. bil for op til 4 passagerer, enkeltrejse, med vejafgifter, brændstof og bagage. Tur og retur koster 998."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du hente mig direkte i marinaen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg møder dig ved marinaens indgang eller i receptionen og hjælper med bagagen, så du går direkte fra broen til bilen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du tilpasse transferen til min båd?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Send mig tidspunktet for charter, check-in eller afgang, når du bestiller, så planlægger jeg afhentningen efter det."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindst 2 timer før, så jeg kan bekræfte bil og afhentningstidspunkt. Har du brug for en tur med kort varsel, så ring eller skriv direkte til mig på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

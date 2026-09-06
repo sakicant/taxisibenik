@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-krka-national-park-split",
+  "title": "Excursie de o zi la Krka din Split | Transfer privat, preț fix €290 | TAXI Antonio",
+  "description": "Transfer privat cu taxiul, dus-întors la Krka din Split. Preț fix €290 per mașină, până la 4 pasageri, de la ușă la ușă de la hotelurile din Split, din portul de croazieră și din orașul vechi. Nu este un tur, doar drumul dus și întors.",
+  "keywords": "excursie de o zi la krka din split, transfer dus-intors la krka din split, taxi la krka din split, krka din split, split la parcul national krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Excursie privată de o zi la Krka din Split",
+      "description": "O excursie privată de o zi în Parcul Național Krka din Split, cu un șofer local care vorbește engleză. Preț fix de 290 de euro per mașină pentru până la 4 pasageri, cu preluare de la ușă la ușă de la hotelurile din Split, din portul de croazieră, de la autogară, de la gară și din orașul vechi.",
+      "touristType": "Natură și obiective turistice",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "290",
+        "priceCurrency": "EUR",
+        "description": "Vehicul privat, dus-întors din Split în Parcul Național Krka, până la 4 pasageri. Biletele de intrare în parc nu sunt incluse."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Este un tur ghidat sau un transfer cu taxiul?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Este un transfer cu taxiul, nu un tur ghidat. Antonio este un șofer local care oferă un transfer privat dus-întors din Split la Krka și înapoi. Primiți mașina și șoferul; în parc sunteți liberi să explorați pe cont propriu, în ritmul dumneavoastră."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi la Krka din Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un transfer privat dus-întors din Split în Parcul Național Krka costă fix 290 de euro per mașină pentru până la 4 pasageri, cu taxele de drum, combustibilul și în jur de 3 până la 4 ore de așteptare incluse."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Preluați de la hotelurile din Split și din portul de croazieră?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Iau oaspeții de la ușă la ușă de la hotelurile și apartamentele din Split, din orașul vechi, de la autogară și de la gară, precum și direct din portul de croazieră și de la terminalul de feriboturi din Split, cu o plăcuță cu numele la cerere."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât durează excursia de o zi din Split la Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Drumul durează în jur de o oră până la o oră și un sfert în fiecare sens, plus circa 3 până la 4 ore de timp liber în parc. O ședere mai scurtă sau mai lungă poate fi convenită la rezervare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cum rezerv și cum plătesc excursia de o zi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un avans de 20% (minimum 20 de euro) confirmă rezervarea, prin transfer bancar sau card, iar dumneavoastră primiți o factură drept confirmare. Restul se plătește șoferului în ziua excursiei, în numerar sau cu cardul."
+          }
+        }
+      ]
+    }
+  ]
+}

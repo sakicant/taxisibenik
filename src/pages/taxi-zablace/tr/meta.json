@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-zablace",
+  "title": "Taksi Zablaće | TAXI Antonio",
+  "description": "Taksi Zablaće: Amadria Park yakınındaki kampçılar ve plaj misafirleri için Split (€95) ve Zadar'a sabit fiyatlı havalimanı transferleri, ayrıca Šibenik ve Vodice yolculukları.",
+  "keywords": "taksi zablace, zablace taksi, zablace kamp taksi, zablace havalimanı transferi, amadria park zablace taksi, zablace split havalimanı",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yerel taksi ve havalimanı transferleri",
+      "name": "Taksi Zablaće",
+      "description": "Šibenik'in güneybatısındaki kamp ve Amadria Park bölgesi Zablaće'den Split Havalimanı, Zadar Havalimanı, Šibenik ve Vodice'ye sabit fiyatlı özel taksi.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Zablaće",
+      "url": "https://taxisibenik.hr/tr/taxi-zablace/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Zablaće'den taksi fiyatları",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksi Zablaće'den Šibenik'e",
+            "price": "18",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Zabla%C4%87e&to=%C5%A0ibenik%20-%20center&price=18"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Zablaće'den Vodice'ye",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Zabla%C4%87e&to=Vodice&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Zablaće'den Split Havalimanı'na",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Zabla%C4%87e&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksi Zablaće'den Zadar Havalimanı'na",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/rezervasyon/?from=Zabla%C4%87e&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kamp alanından ve Amadria Park bölgesinden alış yapıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Sizi kamp resepsiyonundan, apartınızdan ya da yakındaki Amadria Park bölgesinden alıyorum; bagaj ve ekipman için yer var. Rezervasyon sırasında tam noktayı gönderin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kamp ve plaj eşyaları için yer var mı?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Škoda Superb'in bavullar, kamp ekipmanı ve plaj malzemeleri için geniş bir bagajı var. Bisikletiniz ya da hacimli eşyanız varsa söyleyin, ona göre planlayayım."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zablaće'den Split Havalimanı'na ücret ne kadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit €95; otoyol ücretleri ve bagaj dahil, iki yönde de aynı fiyat."
+          }
+        }
+      ]
+    }
+  ]
+}

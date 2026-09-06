@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadar-zagreb",
+  "title": "Ταξί Zadar - Zagreb | Σταθερή τιμή €450 | TAXI Antonio",
+  "description": "Ιδιωτικό ταξί και μεταφορά, διαδρομή Zadar - Zagreb. Σταθερή τιμή €450 ανά όχημα, έως 4 άτομα. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί zadar - zagreb, μεταφορά zadar - zagreb, μεταφορά από αεροδρόμιο zadar - zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτική μεταφορά με ταξί",
+      "name": "Ταξί Zadar - Zagreb",
+      "description": "Ιδιωτικό ταξί και μεταφορά σε σταθερή τιμή, διαδρομή Zadar - Zagreb, 450 ευρώ ανά όχημα για έως 4 επιβάτες, από πόρτα σε πόρτα.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Zagreb"
+      ],
+      "url": "https://taxisibenik.hr/el/taxi-zadar-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "450",
+        "priceCurrency": "EUR",
+        "description": "Ιδιωτική διαδρομή απλής μετάβασης, διαδρομή Zadar - Zagreb, ανά όχημα για έως 4 επιβάτες. Μετ' επιστροφής 900 ευρώ."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πόσο μακριά είναι η διαδρομή και πόσο διαρκεί το ταξίδι;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Η διαδρομή Zadar - Zagreb έχει μήκος περίπου 286 χλμ. και διαρκεί περίπου 3 h 20 min με κανονική κίνηση, λίγο περισσότερο στην καρδιά του καλοκαιριού. Προγραμματίζω την παραλαβή έτσι ώστε ένα αργό κομμάτι του δρόμου να μη σας βιάσει ποτέ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει ένα ταξί στη διαδρομή Zadar - Zagreb;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά 450 ανά όχημα για έως 4 επιβάτες, απλή διαδρομή, με διόδια, καύσιμα και αποσκευές. Η μετ' επιστροφής διαδρομή κοστίζει 900."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Η μεταφορά είναι ιδιωτική ή κοινή;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Κάθε μεταφορά είναι ιδιωτική και από πόρτα σε πόρτα, με ένα Škoda Superb. Χωρίς κοινή χρήση του οχήματος και χωρίς επιπλέον στάσεις, εκτός αν τις ζητήσετε."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να σταματήσετε στον δρόμο;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Σε μεγαλύτερες διαδρομές σταματώ ευχαρίστως για έναν καφέ, μια φωτογραφία ή ένα σύντομο αξιοθέατο. Απλώς πείτε μου το κατά την κράτηση."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τουλάχιστον 2 ώρες πριν, για να επιβεβαιώσω όχημα και ώρα παραλαβής. Για διαδρομή τελευταίας στιγμής τηλεφωνήστε μου ή γράψτε στο WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

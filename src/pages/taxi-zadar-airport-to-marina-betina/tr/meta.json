@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-zadar-havalimani-marina-betina",
+  "title": "Taksi Zadar Havalimanı - Marina Betina | Sabit fiyat €115 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Zadar Havalimanı - Marina Betina güzergâhı. Araç başına sabit €115, 4 kişiye kadar. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi zadar havalimanı - marina betina, transfer zadar havalimanı - marina betina, havalimanı transferi zadar havalimanı - marina betina",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Zadar Havalimanı - Marina Betina",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Zadar Havalimanı - Marina Betina güzergâhı, 4 yolcuya kadar araç başına 115 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar Havalimanı",
+        "Marina Betina"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-zadar-havalimani-marina-betina/",
+      "offers": {
+        "@type": "Offer",
+        "price": "115",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Zadar Havalimanı - Marina Betina güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 230 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Beni nerede karşılıyorsunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Geliş salonunda, bagaj alımının hemen ardından, isminizin yazdığı bir tabelayla. Bagajla yardım eder ve sizi araca kadar götürürüm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Uçuşum rötar yaparsa ne olur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sorun değil. Uçuşunuzu gerçek zamanlı takip eder ve alışı gerçek iniş saatine göre ayarlarım, bekleme için ek ücret almadan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Zadar Havalimanı - Marina Betina güzergâhında transfer ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 115, tek yön, otoyol ücretleri ve bagaj dahil. Gidiş dönüş yolculuk 230."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Uçuşunuza göre planlayabilmem için en az 2 saat önce. Son dakika bir değişiklikten sonra aynı gün alış için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

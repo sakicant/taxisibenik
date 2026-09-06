@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-dubrovnik-vodice",
+  "title": "Ταξί Dubrovnik - Vodice | Σταθερή τιμή €485 | TAXI Antonio",
+  "description": "Ιδιωτικό ταξί και μεταφορά, διαδρομή Dubrovnik - Vodice. Σταθερή τιμή €485 ανά όχημα, έως 4 άτομα. Κάντε κράτηση απευθείας με τον Αντόνιο.",
+  "keywords": "ταξί dubrovnik - vodice, μεταφορά dubrovnik - vodice, μεταφορά από αεροδρόμιο dubrovnik - vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτική μεταφορά με ταξί",
+      "name": "Ταξί Dubrovnik - Vodice",
+      "description": "Ιδιωτικό ταξί και μεταφορά σε σταθερή τιμή, διαδρομή Dubrovnik - Vodice, 485 ευρώ ανά όχημα για έως 4 επιβάτες, από πόρτα σε πόρτα.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik",
+        "Vodice"
+      ],
+      "url": "https://taxisibenik.hr/el/taxi-dubrovnik-vodice/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Ιδιωτική διαδρομή απλής μετάβασης, διαδρομή Dubrovnik - Vodice, ανά όχημα για έως 4 επιβάτες. Μετ' επιστροφής 970 ευρώ."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πόσο μακριά είναι η διαδρομή και πόσο διαρκεί το ταξίδι;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Η διαδρομή Dubrovnik - Vodice έχει μήκος περίπου 290 χλμ. και διαρκεί περίπου 4 h με κανονική κίνηση, λίγο περισσότερο στην καρδιά του καλοκαιριού. Προγραμματίζω την παραλαβή έτσι ώστε ένα αργό κομμάτι του δρόμου να μη σας βιάσει ποτέ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει ένα ταξί στη διαδρομή Dubrovnik - Vodice;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Σταθερά 485 ανά όχημα για έως 4 επιβάτες, απλή διαδρομή, με διόδια, καύσιμα και αποσκευές. Η μετ' επιστροφής διαδρομή κοστίζει 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Η μεταφορά είναι ιδιωτική ή κοινή;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Κάθε μεταφορά είναι ιδιωτική και από πόρτα σε πόρτα, με ένα Škoda Superb. Χωρίς κοινή χρήση του οχήματος και χωρίς επιπλέον στάσεις, εκτός αν τις ζητήσετε."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να σταματήσετε στον δρόμο;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Σε μεγαλύτερες διαδρομές σταματώ ευχαρίστως για έναν καφέ, μια φωτογραφία ή ένα σύντομο αξιοθέατο. Απλώς πείτε μου το κατά την κράτηση."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο νωρίτερα πρέπει να κάνω κράτηση;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Τουλάχιστον 2 ώρες πριν, για να επιβεβαιώσω όχημα και ώρα παραλαβής. Για διαδρομή τελευταίας στιγμής τηλεφωνήστε μου ή γράψτε στο WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

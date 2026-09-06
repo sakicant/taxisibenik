@@ -1,0 +1,149 @@
+{
+  "slug": "daytrips",
+  "title": "Dagsture fra Šibenik | Private ture til Krka & Plitvice | TAXI Antonio",
+  "description": "Private dagsture fra Šibenik og hele Dalmatien til Krka Nationalpark og Plitvicesøerne. Transfer frem og tilbage til fast pris, dør til dør, med en lokal chauffør. Ikke en guidet tur, bare turen derhen og hjem igen.",
+  "keywords": "dagsture fra sibenik, sibenik dagsture, privat dagstur kroatien, krka dagstur, plitvice dagstur, dagstur til krka, dagstur til plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Private dagsture og udflugtskørsel",
+      "name": "Dagsture fra Šibenik og Dalmatien",
+      "description": "Private dagsture til fast pris til Krka Nationalpark og Plitvicesøerne med en lokal chauffør fra Šibenik. Transfer frem og tilbage dør til dør fra Šibenik, Vodice, Primošten, Split og Zadar, op til 4 passagerer pr. bil.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Vodice",
+        "Primošten",
+        "Split",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/da/daytrips/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Private dagsture fra Dalmatien",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Dagstur til Krka fra Šibenik",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/da/day-trip-krka-national-park-sibenik/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Dagstur til Krka fra Vodice",
+            "price": "125",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/da/day-trip-krka-national-park-vodice/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Dagstur til Krka fra Primošten",
+            "price": "155",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/da/day-trip-krka-national-park-primosten/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Dagstur til Krka fra Zadar",
+            "price": "260",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/da/day-trip-krka-national-park-zadar/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Dagstur til Krka fra Split",
+            "price": "290",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/da/day-trip-krka-national-park-split/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Dagstur til Plitvice fra Šibenik",
+            "price": "500",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/da/day-trip-plitvice-lakes-national-park-sibenik/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Dagstur til Plitvice fra Split",
+            "price": "650",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/da/day-trip-plitvice-lakes-national-park-split/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvilke dagsture kan jeg bestille fra Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De to mest populære dagsture går til Krka Nationalpark og Plitvicesøernes Nationalpark. Begge er private transfers frem og tilbage til fast pris, dør til dør fra dit hotel eller din lejlighed, med fri tid inde i parken til at gå på opdagelse i dit eget tempo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Er det guidede ture eller taxatransfers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Det er private taxatransfers, ikke guidede grupperejser. Antonio er en lokal chauffør, der kører dig derhen og hjem igen i en behagelig Škoda Superb. Inde i parken går du selv på opdagelse, uden guide og uden en gruppe at følges med."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster en dagstur til Krka eller Plitvice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En privat dagstur til Krka starter ved fast 100 euro pr. bil fra Šibenik. En dagstur til Plitvicesøerne koster 500 euro pr. bil fra Šibenik. Priserne er pr. bil for op til 4 passagerer og afhænger af, hvilken by du hentes i."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Henter du også i andre byer end Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Dagsture til Krka kører fra Šibenik, Vodice, Primošten, Zadar og Split, og dagsture til Plitvice kører fra Šibenik og Split. Hver by har sin egen faste pris og sin egen side med alle detaljer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Er entrébilletter til parken inkluderet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nej. Prisen dækker kun den private transfer og ventetiden. Billetter til Krka og Plitvice køber du selv ved indgangen eller online, og de koster cirka 7 til 40 euro afhængigt af sæsonen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvordan bestiller jeg en dagstur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Skriv til mig på WhatsApp, ring, eller brug kontaktsiden. En forudbetaling på 20% (mindst 20 euro) bekræfter datoen, og restbeløbet betaler du til chaufføren på dagen."
+          }
+        }
+      ]
+    }
+  ]
+}

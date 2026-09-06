@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-marina-tribunj-split-lufthavn",
+  "title": "Taxa Marina Tribunj - Split Lufthavn | Fast pris €120 | TAXI Antonio",
+  "description": "Privat taxa og transfer på ruten Marina Tribunj - Split Lufthavn. Fast pris €120 pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+  "keywords": "taxa marina tribunj - split lufthavn, transfer marina tribunj - split lufthavn, lufthavnstransfer marina tribunj - split lufthavn",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxatransfer",
+      "name": "Taxa Marina Tribunj - Split Lufthavn",
+      "description": "Privat taxa og transfer til fast pris på ruten Marina Tribunj - Split Lufthavn, 120 euro pr. bil for op til 4 passagerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Tribunj",
+        "Split Lufthavn"
+      ],
+      "url": "https://taxisibenik.hr/da/taxi-marina-tribunj-split-lufthavn/",
+      "offers": {
+        "@type": "Offer",
+        "price": "120",
+        "priceCurrency": "EUR",
+        "description": "Privat enkeltrejse på ruten Marina Tribunj - Split Lufthavn, pr. bil for op til 4 passagerer. Tur og retur 240 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvad koster en taxa på ruten Marina Tribunj - Split Lufthavn?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 120 pr. bil, enkeltrejse, for op til 4 passagerer. Prisen er pr. bil, ikke pr. person, og dækker vejafgifter, brændstof og bagage. Tur og retur koster 240."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvornår skal jeg tage af sted til lufthavnen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Som regel omkring 3 timer før et internationalt fly og 2 timer før et indenrigsfly. Fortæl mig din flytid, så bekræfter jeg det præcise afhentningstidspunkt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kører du helt til afgangsterminalen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg kører dig direkte til afgangsterminalen og hjælper med bagagen. Ingen gåtur fra parkeringspladsen og ingen shuttlebus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindst 2 timer før, så jeg kan bekræfte bil og afhentning, og gerne tidligere ved morgenfly og i højsæsonen. Har du brug for en tur med kort varsel, så ring eller skriv til mig på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

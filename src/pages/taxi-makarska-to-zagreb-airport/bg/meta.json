@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-makarska-letishte-zagreb",
+  "title": "Такси Makarska - Летище Загреб | Фиксирана цена €610 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Makarska - Летище Загреб. Фиксирана цена €610 на автомобил, до 4. Резервирайте директно при Антонио.",
+  "keywords": "такси makarska - летище загреб, трансфер makarska - летище загреб, летищен трансфер makarska - летище загреб",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Makarska - Летище Загреб",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Makarska - Летище Загреб, 610 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Makarska",
+        "Летище Загреб"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-makarska-letishte-zagreb/",
+      "offers": {
+        "@type": "Offer",
+        "price": "610",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Makarska - Летище Загреб, на автомобил за до 4 пътници. Отиване и връщане 1220 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко дълъг е маршрутът и колко трае пътуването?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Пътуването по маршрута Makarska - Летище Загреб е дълго около 467 км и трае приблизително 5 h 5 min при нормален трафик, малко повече в разгара на лятото. Планирам вземането така, че бавен участък никога да не ви притиска."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва такси по маршрута Makarska - Летище Загреб?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 610 на автомобил, еднопосочно, за до 4 пътници. Цената е на автомобил, а не на човек, и включва пътни такси, гориво и багаж. Пътуване с отиване и връщане струва 1220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Кога трябва да тръгна за летището?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По правило около 3 часа преди международен полет и 2 часа преди вътрешен. Кажете ми часа на полета и ще потвърдя точния час на вземане."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Карате ли до самия заминаващ терминал?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Карам ви директно до заминаващия терминал и помагам с багажа. Без вървене от паркинга и без шатъл."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и вземането, и по-рано за ранни сутрешни полети и активния сезон. За пътуване в последния момент се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

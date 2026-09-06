@@ -1,0 +1,85 @@
+{
+  "slug": "airport-transfers-from-sibenik",
+  "title": "Šibenik Havalimanı Transferleri | Sabit Fiyatlar | TAXI Antonio",
+  "description": "Split, Zadar, Zagreb ve Dubrovnik havalimanlarına ve bu havalimanlarından Šibenik havalimanı transferleri. Sabit fiyatlar, uçuş takibi, kapıdan kapıya. Vodice, Primošten ve Skradin de kapsam dahilinde. Antonio'dan rezervasyon yapın.",
+  "keywords": "šibenik havalimanı transferleri, sibenik havalimanı transferi, split havalimanından šibenik'e, zadar havalimanından šibenik'e, vodice havalimanı transferi",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Havalimanı transferi",
+      "name": "Šibenik'ten Havalimanı Transferleri",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split Havalimanı",
+        "Zadar Havalimanı",
+        "Zagreb Havalimanı",
+        "Dubrovnik Havalimanı"
+      ],
+      "url": "https://taxisibenik.hr/tr/airport-transfers-from-sibenik/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Havalimanında şoförümü nasıl bulurum?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio, bagaj alım bandından sonra geliş salonunda, üzerinde adınızın açıkça yazdığı bir tabelayla bekler."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Uçuşum gecikirse ne olur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Uçuşlar, rezervasyon sırasında verdiğiniz uçuş numarasıyla gerçek zamanlı olarak takip edilir. Alış saati otomatik olarak ayarlanır ve bekleme için ek ücret alınmaz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Havalimanı transferi fiyatı sabit mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Her havalimanı transferi, 4 yolcuya kadar araç başına sabit bir fiyattır; otoyol ücretleri, yakıt ve bagaj dahildir. Taksimetre yok, sürpriz yok."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Havalimanı transferleri için çocuk koltuğu sağlıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet, çocuk ve yükseltici koltuklar ücretsiz sağlanır. Rezervasyon notlarında çocuğun yaşıyla birlikte belirtmeniz yeterli."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Havalimanı transferi için nasıl ödeme yaparım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yüzde 20 ön ödeme (en az 20 avro) rezervasyonu onaylar, havale ya da kartla. Kalan tutar yolculuk günü şoföre nakit ya da kartla ödenir."
+          }
+        }
+      ]
+    }
+  ]
+}

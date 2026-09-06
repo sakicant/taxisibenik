@@ -1,0 +1,87 @@
+{
+  "slug": "sibenik-transfers",
+  "title": "Šibenikas transfēri | Fiksētas cenas | TAXI Antonio",
+  "description": "Šibenikas transfēri uz Splitu, Zadaru, Dubrovniku, Zagrebu, Trogiru un tālāk, kā arī atpakaļ. Fiksētas cenas, privāti no durvīm līdz durvīm, viens vietējais šoferis. Rezervējiet tieši pie Antonio.",
+  "keywords": "šibenikas transfēri, šibenik transfērs, taksometrs šibenik split, šibenik uz zadaru, šibenik uz dubrovniku, šibenik uz zagrebu",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taksometra transfērs starp pilsētām",
+      "name": "Šibenikas transfēri",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/lv/sibenik-transfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometra transfērs no Šibenikas uz Splitu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privāts transfērs no Šibenikas uz Splitu maksā fiksētus 140 eiro par automašīnu līdz 4 pasažieriem, ar ceļa nodevām, degvielu un bagāžu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai transfēru cenas ir fiksētas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Katrs transfērs starp pilsētām ir par fiksētu cenu par automašīnu līdz 4 pasažieriem, saskaņotu iepriekš. Bez skaitītāja un bez pārsteigumiem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai transfērs ir privāts vai kopīgs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Katrs transfērs ir privāts un no durvīm līdz durvīm, ar Škoda Superb. Automašīna netiek dalīta un papildu pieturu nav, ja vien jūs tās nelūdzat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat apstāties ceļā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Garākos transfēros labprāt apstājos uz kafiju, fotogrāfiju vai īsu apskates objektu. Vienkārši pasakiet, rezervējot, un es to ieplānošu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kā notiek samaksa par transfēru?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervāciju apstiprina 20% avansa maksājums (vismaz 20 eiro) ar bankas pārskaitījumu vai karti. Atlikumu samaksājat šoferim brauciena dienā, skaidrā naudā vai ar karti."
+          }
+        }
+      ]
+    }
+  ]
+}

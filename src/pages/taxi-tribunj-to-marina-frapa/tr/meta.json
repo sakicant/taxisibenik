@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-tribunj-marina-frapa",
+  "title": "Taksi Tribunj - Marina Frapa | Sabit fiyat €105 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Tribunj - Marina Frapa güzergâhı. Araç başına sabit €105, 4 yolcuya kadar, kapıdan kapıya. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi tribunj - marina frapa, transfer tribunj - marina frapa, havalimanı transferi tribunj - marina frapa",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Tribunj - Marina Frapa",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Tribunj - Marina Frapa güzergâhı, 4 yolcuya kadar araç başına 105 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Tribunj",
+        "Marina Frapa"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-tribunj-marina-frapa/",
+      "offers": {
+        "@type": "Offer",
+        "price": "105",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Tribunj - Marina Frapa güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 210 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Tribunj - Marina Frapa güzergâhında transfer ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 105, tek yön, otoyol ücretleri, yakıt ve bagaj dahil. Gidiş dönüş yolculuk 210."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni doğrudan marinadan alabilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Sizi marina girişinde veya resepsiyonda karşılar ve bagajla yardım ederim, böylece iskeleden doğruca araca geçersiniz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Transferi tekneme göre ayarlayabilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Rezervasyon sırasında kiralama, check-in veya kalkış saatinizi gönderin, alışı ona göre planlayayım."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya doğrudan WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

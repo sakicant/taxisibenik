@@ -38,28 +38,28 @@
             "name": "Vodice 到 Šibenik 出租车",
             "price": "30",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/zh/book/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
+            "url": "https://taxisibenik.hr/zh/yuding/?from=Vodice&to=%C5%A0ibenik%20-%20center&price=30"
           },
           {
             "@type": "Offer",
             "name": "Vodice 到 Krka 国家公园（Lozovac）出租车",
             "price": "60",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/zh/book/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
+            "url": "https://taxisibenik.hr/zh/yuding/?from=Vodice&to=NP%20Krka%20-%20Lozovac%20entrance&price=60"
           },
           {
             "@type": "Offer",
             "name": "Vodice 到 Zadar 机场出租车",
             "price": "100",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/zh/book/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
+            "url": "https://taxisibenik.hr/zh/yuding/?from=Vodice&to=Zadar%20Airport%20%28ZAD%29&price=100"
           },
           {
             "@type": "Offer",
             "name": "Vodice 到 Split 机场出租车",
             "price": "115",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/zh/book/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
+            "url": "https://taxisibenik.hr/zh/yuding/?from=Vodice&to=Split%20Airport%20%28SPU%29&price=115"
           }
         ]
       }

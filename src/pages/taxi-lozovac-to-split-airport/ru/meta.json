@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-lozovac-aeroport-split",
+  "title": "Такси Lozovac - Аэропорт Сплит | Фиксированная цена €95 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Lozovac - Аэропорт Сплит. Фиксированная цена €95 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси lozovac - аэропорт сплит, трансфер lozovac - аэропорт сплит, трансфер из аэропорта lozovac - аэропорт сплит",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Lozovac - Аэропорт Сплит",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Lozovac - Аэропорт Сплит, 95 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Lozovac",
+        "Аэропорт Сплит"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-lozovac-aeroport-split/",
+      "offers": {
+        "@type": "Offer",
+        "price": "95",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Lozovac - Аэропорт Сплит, за автомобиль для до 4 пассажиров. Туда и обратно 190 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Какое расстояние на маршруте и сколько длится поездка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поездка по маршруту Lozovac - Аэропорт Сплит составляет около 59 км и занимает примерно 60 min при обычном движении, чуть дольше в разгар лета. Я планирую подачу так, чтобы медленный участок никогда вас не торопил."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Lozovac - Аэропорт Сплит?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 95 за автомобиль, в одну сторону, для до 4 пассажиров. Цена за автомобиль, а не за человека, и включает дорожные сборы, топливо и багаж. Поездка туда и обратно стоит 190."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Когда нужно выезжать в аэропорт?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Обычно примерно за 3 часа до международного рейса и за 2 часа до внутреннего. Скажите время рейса, и я подтвержу точное время подачи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Вы подвозите к самому терминалу вылета?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Везу прямо к терминалу вылета и помогаю с багажом. Не нужно идти от парковки и ждать шаттл."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и подачу, и раньше для ранних утренних рейсов и высокого сезона. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

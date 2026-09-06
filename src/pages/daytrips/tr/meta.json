@@ -1,0 +1,149 @@
+{
+  "slug": "daytrips",
+  "title": "Šibenik'ten Günübirlik Geziler | Özel Krka & Plitvice Transferleri | TAXI Antonio",
+  "description": "Šibenik'ten ve Dalmaçya genelinden Krka Milli Parkı ile Plitvice Göllerine özel günübirlik geziler. Yerel bir şoförle sabit fiyatlı, kapıdan kapıya gidiş dönüş transferler. Tur değil, sadece gidiş ve dönüş yolculuğu.",
+  "keywords": "šibenik'ten günübirlik geziler, šibenik günübirlik gezi, hırvatistan özel günübirlik gezi, krka günübirlik gezi, plitvice günübirlik gezi, krka'ya günübirlik gezi, plitvice'ye günübirlik gezi",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel günübirlik geziler ve gidiş dönüş transferler",
+      "name": "Šibenik ve Dalmaçya'dan günübirlik geziler",
+      "description": "Yerel bir Šibenik şoförüyle Krka Milli Parkı ve Plitvice Göllerine özel, sabit fiyatlı günübirlik geziler. Šibenik, Vodice, Primošten, Split ve Zadar'dan kapıdan kapıya gidiş dönüş transferler, araç başına 4 yolcuya kadar.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Vodice",
+        "Primošten",
+        "Split",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/tr/daytrips/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Dalmaçya'dan özel günübirlik geziler",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Šibenik'ten Krka'ya günübirlik gezi",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/day-trip-krka-national-park-sibenik/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Vodice'den Krka'ya günübirlik gezi",
+            "price": "125",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/day-trip-krka-national-park-vodice/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Primošten'den Krka'ya günübirlik gezi",
+            "price": "155",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/day-trip-krka-national-park-primosten/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Zadar'dan Krka'ya günübirlik gezi",
+            "price": "260",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/day-trip-krka-national-park-zadar/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Split'ten Krka'ya günübirlik gezi",
+            "price": "290",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/day-trip-krka-national-park-split/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Šibenik'ten Plitvice'ye günübirlik gezi",
+            "price": "500",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/day-trip-plitvice-lakes-national-park-sibenik/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Split'ten Plitvice'ye günübirlik gezi",
+            "price": "650",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/tr/day-trip-plitvice-lakes-national-park-split/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Šibenik'ten hangi günübirlik gezileri rezerve edebilirim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En popüler iki günübirlik gezi Krka Milli Parkı ve Plitvice Gölleri Milli Parkı'dır. Her ikisi de otelinizden ya da dairenizden kapıdan kapıya, özel ve sabit fiyatlı gidiş dönüş transferlerdir; parkın içinde kendi temponuzda gezmek için serbest zamanınız olur."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bunlar rehberli tur mu, taksi transferi mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bunlar rehberli grup turları değil, özel taksi transferleridir. Antonio, sizi konforlu bir Škoda Superb ile götürüp geri getiren yerel bir şofördür. Parkın içinde rehber olmadan ve grupla birlikte olmadan, kendi başınıza gezersiniz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Krka ya da Plitvice'ye günübirlik gezi ne kadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Özel bir Krka günübirlik gezisi Šibenik'ten sabit 100 avrodan başlar. Plitvice Gölleri günübirlik gezisi Šibenik'ten araç başına 500 avrodur. Fiyatlar 4 yolcuya kadar araç başınadır ve alış yapılan kasabaya göre değişir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sadece Šibenik'ten değil, başka kasabalardan da alış yapıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Krka günübirlik gezileri Šibenik, Vodice, Primošten, Zadar ve Split'ten, Plitvice günübirlik gezileri ise Šibenik ve Split'ten yapılır. Her kasabanın kendi sabit fiyatı ve tüm ayrıntıları içeren kendi sayfası vardır."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Park giriş biletleri dahil mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hayır. Fiyat yalnızca özel transferi ve bekleme süresini kapsar. Krka ve Plitvice biletleri girişte ya da çevrimiçi olarak ayrıca satın alınır ve sezona göre yaklaşık 7 ila 40 avro tutar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Günübirlik gezi rezervasyonunu nasıl yaparım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bana WhatsApp'tan yazın, arayın ya da iletişim sayfasını kullanın. Yüzde 20 ön ödeme (en az 20 avro) tarihi onaylar, kalan tutar yolculuk günü şoföre ödenir."
+          }
+        }
+      ]
+    }
+  ]
+}

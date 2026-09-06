@@ -38,14 +38,14 @@
             "name": "Taxi Drniš till Šibenik",
             "price": "65",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/sv/book/?from=Drni%C5%A1&to=%C5%A0ibenik%20-%20center&price=65"
+            "url": "https://taxisibenik.hr/sv/boka/?from=Drni%C5%A1&to=%C5%A0ibenik%20-%20center&price=65"
           },
           {
             "@type": "Offer",
             "name": "Taxi Drniš till Splits flygplats",
             "price": "80",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/sv/book/?from=Drni%C5%A1&to=Split%20Airport%20%28SPU%29&price=80"
+            "url": "https://taxisibenik.hr/sv/boka/?from=Drni%C5%A1&to=Split%20Airport%20%28SPU%29&price=80"
           }
         ]
       }

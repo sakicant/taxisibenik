@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-ciovo-dubrovnik",
+  "title": "Такси Čiovo - Dubrovnik | Фиксирана цена €435 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Čiovo - Dubrovnik. Фиксирана цена €435 на автомобил, до 4 пътници, от врата до врата. Резервирайте директно при Антонио.",
+  "keywords": "такси čiovo - dubrovnik, трансфер čiovo - dubrovnik, летищен трансфер čiovo - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Čiovo - Dubrovnik",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Čiovo - Dubrovnik, 435 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-ciovo-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "435",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Čiovo - Dubrovnik, на автомобил за до 4 пътници. Отиване и връщане 870 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко струва такси по маршрута Čiovo - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 435 на автомобил за до 4 пътници, еднопосочно, с пътни такси, гориво и багаж. Пътуване с отиване и връщане струва 870."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансферът частен ли е или споделен?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Всеки трансфер е частен и от врата до врата, с Škoda Superb. Автомобилът не се споделя и няма допълнителни спирания, освен ако не ги поискате."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Може ли да спрете по пътя?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. По по-дългите маршрути с удоволствие спирам за кафе, за снимка или за кратка забележителност. Само ми кажете при резервацията."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и часа на вземане. За пътуване в последния момент се обадете или пишете на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

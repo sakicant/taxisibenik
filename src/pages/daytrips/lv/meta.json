@@ -1,0 +1,149 @@
+{
+  "slug": "daytrips",
+  "title": "Dienas ekskursijas no Šibenikas | Privāti braucieni uz Krku & Plitvicēm | TAXI Antonio",
+  "description": "Privātas dienas ekskursijas no Šibenikas un visas Dalmācijas uz Krkas nacionālo parku un Plitvices ezeriem. Fiksētas cenas transfērs turp un atpakaļ no durvīm līdz durvīm ar vietējo šoferi. Tā nav ekskursija ar gidu, tikai brauciens turp un atpakaļ.",
+  "keywords": "dienas ekskursijas no šibenikas, šibenikas dienas ekskursijas, privāta dienas ekskursija horvātijā, krkas dienas ekskursija, plitvices dienas ekskursija, dienas brauciens uz krku, dienas brauciens uz plitvicēm",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privātas dienas ekskursijas un izbraucieni",
+      "name": "Dienas ekskursijas no Šibenikas un Dalmācijas",
+      "description": "Privātas dienas ekskursijas par fiksētu cenu uz Krkas nacionālo parku un Plitvices ezeriem ar vietējo Šibenikas šoferi. Transfēri turp un atpakaļ no durvīm līdz durvīm no Šibenikas, Vodicēm, Primoštenas, Splitas un Zadaras, līdz 4 pasažieriem automašīnā.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Vodice",
+        "Primošten",
+        "Split",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/lv/daytrips/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Privātas dienas ekskursijas no Dalmācijas",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Dienas ekskursija uz Krku no Šibenikas",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/day-trip-krka-national-park-sibenik/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Dienas ekskursija uz Krku no Vodicēm",
+            "price": "125",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/day-trip-krka-national-park-vodice/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Dienas ekskursija uz Krku no Primoštenas",
+            "price": "155",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/day-trip-krka-national-park-primosten/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Dienas ekskursija uz Krku no Zadaras",
+            "price": "260",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/day-trip-krka-national-park-zadar/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Dienas ekskursija uz Krku no Splitas",
+            "price": "290",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/day-trip-krka-national-park-split/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Dienas ekskursija uz Plitvicēm no Šibenikas",
+            "price": "500",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/day-trip-plitvice-lakes-national-park-sibenik/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Dienas ekskursija uz Plitvicēm no Splitas",
+            "price": "650",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/day-trip-plitvice-lakes-national-park-split/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kādas dienas ekskursijas var rezervēt no Šibenikas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Divas populārākās dienas ekskursijas ir uz Krkas nacionālo parku un Plitvices ezeru nacionālo parku. Abas ir privāti transfēri turp un atpakaļ par fiksētu cenu, no durvīm līdz durvīm no jūsu viesnīcas vai dzīvokļa, ar brīvu laiku parkā, lai to izpētītu savā tempā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai tie ir braucieni ar gidu vai taksometra transfēri?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tie ir privāti taksometra transfēri, nevis ekskursijas ar gidu grupā. Antonio ir vietējais šoferis, kas jūs aizved turp un atpakaļ ērtā Škoda Superb. Parkā jūs brīvi pastaigājaties paši, bez gida un bez kopīgas grupas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā dienas ekskursija uz Krku vai Plitvicēm?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privāta dienas ekskursija uz Krku sākas ar fiksētiem 100 eiro par automašīnu no Šibenikas. Dienas ekskursija uz Plitvices ezeriem maksā 500 eiro par automašīnu no Šibenikas. Cenas ir par automašīnu līdz 4 pasažieriem un ir atkarīgas no jūsu izbraukšanas pilsētas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs sagaidāt arī citās pilsētās, ne tikai Šibenikā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Braucieni uz Krku notiek no Šibenikas, Vodicēm, Primoštenas, Zadaras un Splitas, bet braucieni uz Plitvicēm no Šibenikas un Splitas. Katrai pilsētai ir sava fiksētā cena un sava lapa ar pilnu informāciju."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai parka ieejas biļetes ir iekļautas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nē. Cenā ir iekļauts tikai privātais transfērs un gaidīšanas laiks. Krkas un Plitvices biļetes pērkat atsevišķi pie ieejas vai internetā, un tās maksā aptuveni no 7 līdz 40 eiro atkarībā no sezonas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kā rezervēt dienas ekskursiju?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rakstiet man WhatsApp, zvaniet vai izmantojiet kontaktu lapu. Datumu apstiprina 20% avansa maksājums (vismaz 20 eiro), bet atlikumu samaksājat šoferim brauciena dienā."
+          }
+        }
+      ]
+    }
+  ]
+}

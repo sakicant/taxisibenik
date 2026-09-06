@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-aeroport-zadar-vodice",
+  "title": "Taxi Aeroportul Zadar - Vodice | Preț fix €100 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Aeroportul Zadar - Vodice. Preț fix €100 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi aeroportul zadar - vodice, transfer aeroportul zadar - vodice, transfer aeroport aeroportul zadar - vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Aeroportul Zadar - Vodice",
+      "description": "Taxi și transfer privat la preț fix, ruta Aeroportul Zadar - Vodice, 100 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Aeroportul Zadar",
+        "Vodice"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-aeroport-zadar-vodice/",
+      "offers": {
+        "@type": "Offer",
+        "price": "100",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Aeroportul Zadar - Vodice, per vehicul pentru până la 4 pasageri. Dus-întors 200 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât de lungă este ruta și cât durează cursa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cursa pe ruta Aeroportul Zadar - Vodice are aproximativ 63 km și durează în jur de 55 min în trafic normal, puțin mai mult în vârf de sezon. Planific preluarea astfel încât un tronson lent să nu vă grăbească niciodată."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Unde mă întâmpinați?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "În zona de sosiri, imediat după ridicarea bagajelor, cu o plăcuță cu numele dumneavoastră. Vă ajut cu bagajele și vă conduc la vehicul."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ce se întâmplă dacă zborul meu întârzie?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicio problemă. Vă urmăresc zborul în timp real și adaptez preluarea la aterizarea reală, fără cost suplimentar pentru așteptare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă transferul pe ruta Aeroportul Zadar - Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 100 per vehicul pentru până la 4 pasageri, dus, cu taxele de drum și bagajele incluse. O cursă dus-întors costă 200."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să pot planifica în jurul zborului dumneavoastră. Pentru o preluare în aceeași zi, după o schimbare de ultim moment, sunați-mă sau scrieți pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

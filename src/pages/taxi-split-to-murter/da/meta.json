@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-split-murter",
+  "title": "Taxa Split - Murter | Fast pris €180 | TAXI Antonio",
+  "description": "Privat taxa og transfer på ruten Split - Murter. Fast pris €180 pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+  "keywords": "taxa split - murter, transfer split - murter, lufthavnstransfer split - murter",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxatransfer",
+      "name": "Taxa Split - Murter",
+      "description": "Privat taxa og transfer til fast pris på ruten Split - Murter, 180 euro pr. bil for op til 4 passagerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Split",
+        "Murter"
+      ],
+      "url": "https://taxisibenik.hr/da/taxi-split-murter/",
+      "offers": {
+        "@type": "Offer",
+        "price": "180",
+        "priceCurrency": "EUR",
+        "description": "Privat enkeltrejse på ruten Split - Murter, pr. bil for op til 4 passagerer. Tur og retur 360 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er ruten, og hvor længe tager turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på ruten Split - Murter er cirka 126 km lang og tager omkring 1 h 45 min i normal trafik, lidt længere i sommerens højsæson. Jeg planlægger afhentningen, så en langsom strækning aldrig får dig til at skynde dig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster en taxa på ruten Split - Murter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 180 pr. bil for op til 4 passagerer, enkeltrejse, med vejafgifter, brændstof og bagage. Tur og retur koster 360."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Er transferen privat eller delt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hver transfer er privat og dør til dør, i en Škoda Superb. Ingen deling af bilen og ingen ekstra stop, medmindre du beder om det."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du holde ind undervejs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. På længere ture holder jeg gerne ind til en kop kaffe, et foto eller en kort seværdighed. Sig bare til, når du bestiller."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindst 2 timer før, så jeg kan bekræfte bil og afhentningstidspunkt. Har du brug for en tur med kort varsel, så ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "marina-zaton-transfers",
+  "title": "Трансфери от Marina Zaton | Фиксирани цени | TAXI Antonio",
+  "description": "Частни трансфери от Marina Zaton край Šibenik до летищата и градовете Split, Zadar, Zagreb и Dubrovnik. Фиксирани цени, вземане от кея, един местен шофьор.",
+  "keywords": "трансфер marina zaton, такси marina zaton, летищен трансфер marina zaton, zaton летище split",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Такси от марина и летищни трансфери",
+      "name": "Трансфери от Marina Zaton",
+      "description": "Частни трансфери от Marina Zaton край Šibenik до летищата и градовете Split, Zadar, Zagreb и Dubrovnik. Фиксирани цени, вземане от кея, един местен шофьор.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Marina Zaton",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/bg/marina-zaton-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Фиксирани цени за трансфери от Marina Zaton",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton до летище Split",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton до летище Zadar",
+            "price": "125",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton до летище Zagreb",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton до летище Dubrovnik",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton до Split",
+            "price": "150",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton до Zadar",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton до Dubrovnik",
+            "price": "490",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton до Trogir",
+            "price": "115",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton до Vodice",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton до НП Krka (Lozovac)",
+            "price": "65",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Marina Zaton до Šibenik",
+            "price": "20",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Откъде взимате пътници в Marina Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Директно в марината, до вашия кей или на рецепцията на марината, както ви е удобно. Кажете ми понтона или името на лодката при резервацията и ще ви намеря."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко струва трансфер до летище Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирана цена за автомобил за до 4 пътници, договорена преди пътуването, с включени пътни такси, гориво и багаж. Вижте ценоразписа по-горе за всеки маршрут."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко време предварително да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа предварително, за да мога да потвърдя автомобила и часа на вземане, и по-рано за ранни сутрешни полети и през активния сезон. За по-скорошно пътуване ми се обадете или ми пишете директно в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadaras-lidosta-jadrija",
+  "title": "Taksometrs Zadaras lidosta - Jadrija | Fiksēta cena €130 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Zadaras lidosta - Jadrija. Fiksēta cena €130 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs zadaras lidosta - jadrija, transfērs zadaras lidosta - jadrija, lidostas transfērs zadaras lidosta - jadrija",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Zadaras lidosta - Jadrija",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Zadaras lidosta - Jadrija, 130 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadaras lidosta",
+        "Jadrija"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-zadaras-lidosta-jadrija/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Zadaras lidosta - Jadrija, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 260 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik garš ir maršruts un cik ilgi jābrauc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens maršrutā Zadaras lidosta - Jadrija ir aptuveni 72 km garš un ilgst apmēram 70 min normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kur jūs mani sagaidīsiet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ielidošanas zālē, uzreiz pēc bagāžas saņemšanas, ar plāksnīti, uz kuras ir jūsu vārds. Palīdzu ar bagāžu un aizvedu jūs līdz automašīnai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kas notiek, ja mans lidojums kavējas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nekādu problēmu. Sekoju jūsu lidojumam reāllaikā un pielāgoju sagaidīšanu faktiskajai nolaišanās reizei, bez papildu maksas par gaidīšanu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā transfērs maršrutā Zadaras lidosta - Jadrija?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 130 par automašīnu līdz 4 pasažieriem vienā virzienā, ceļa nodevas un bagāža iekļauta. Brauciens turp un atpakaļ maksā 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu plānot pēc jūsu lidojuma. Ja sagaidīšana vajadzīga tajā pašā dienā pēc pēkšņām izmaiņām, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

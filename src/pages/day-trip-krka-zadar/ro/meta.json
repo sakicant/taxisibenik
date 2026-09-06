@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-krka-national-park-zadar",
+  "title": "Excursie de o zi la Krka din Zadar | Transfer privat, preț fix €260 | TAXI Antonio",
+  "description": "Transfer privat cu taxiul, dus-întors la Krka din Zadar. Preț fix €260 per mașină, până la 4 pasageri, de la ușă la ușă de la hotelurile din Zadar, din portul de feriboturi și de croazieră și din centrul vechi. Nu este un tur, doar drumul dus și întors.",
+  "keywords": "excursie de o zi la krka din zadar, transfer dus-intors la krka din zadar, taxi la krka din zadar, krka din zadar, zadar la parcul national krka",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Excursie privată de o zi la Krka din Zadar",
+      "description": "O excursie privată de o zi în Parcul Național Krka din Zadar, cu un șofer local care vorbește engleză. Preț fix de 260 de euro per mașină pentru până la 4 pasageri, cu preluare de la ușă la ușă de la hotelurile din Zadar, din portul de feriboturi și de croazieră, din autogară și din centrul vechi.",
+      "touristType": "Natură și obiective turistice",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "260",
+        "priceCurrency": "EUR",
+        "description": "Vehicul privat, dus-întors din Zadar în Parcul Național Krka, până la 4 pasageri. Biletele de intrare în parc nu sunt incluse."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Este un tur ghidat sau un transfer cu taxiul?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Este un transfer cu taxiul, nu un tur ghidat. Antonio este un șofer local care oferă un transfer privat dus-întors din Zadar la Krka și înapoi. Primiți mașina și șoferul; în parc sunteți liberi să explorați pe cont propriu, în ritmul dumneavoastră."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât costă un taxi la Krka din Zadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un transfer privat dus-întors din Zadar în Parcul Național Krka costă fix 260 de euro per mașină pentru până la 4 pasageri, cu taxele de drum, combustibilul și circa 3 până la 4 ore de așteptare incluse."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Preluați de la hotelurile din Zadar și din portul de feriboturi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Iau oaspeții de la ușă la ușă de la hotelurile și apartamentele din Zadar, din centrul vechi, din autogară și direct din portul de feriboturi Zadar și din terminalul de croazieră Gaženica, cu o plăcuță cu numele la cerere."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cât durează excursia de o zi din Zadar la Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Drumul durează în jur de o oră pe sens, pe autostradă, plus circa 3 până la 4 ore de timp liber în parc. O ședere mai scurtă sau mai lungă poate fi convenită la rezervare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cum rezerv și cum plătesc excursia de o zi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un avans de 20% (minimum 20 de euro) confirmă rezervarea, prin transfer bancar sau card, iar dumneavoastră primiți o factură drept confirmare. Restul se plătește șoferului în ziua excursiei, în numerar sau cu cardul."
+          }
+        }
+      ]
+    }
+  ]
+}

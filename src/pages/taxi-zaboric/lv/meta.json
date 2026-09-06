@@ -1,0 +1,90 @@
+{
+  "slug": "taxi-zaboric",
+  "title": "Taksometrs Žaborić | TAXI Antonio",
+  "description": "Taksometrs Žaborić: lidostas transfēri no durvīm uz Splitu (€95) un Zadaru, plus braucieni uz Šibeniku un Vodicēm šim klusajam pludmales ciematam.",
+  "keywords": "taksometrs zaboric, zaboric taksometrs, zaboric lidostas transfērs, zaboric splitas lidosta, zaboric sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Vietējais taksometrs un lidostas transfēri",
+      "name": "Taksometrs Žaborić",
+      "description": "Privāts taksometrs par fiksētu cenu no Žaborića, klusa pludmales ciemata starp Brodaricu un Grebašticu, uz Splitas lidostu, Zadaras lidostu, Šibeniku un Vodicēm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Žaborić",
+      "url": "https://taxisibenik.hr/lv/taxi-zaboric/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksometra cenas no Žaborića",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Žaborić uz Šibeniku",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=%C5%BDabori%C4%87&to=%C5%A0ibenik%20-%20center&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Žaborić uz Vodicēm",
+            "price": "50",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=%C5%BDabori%C4%87&to=Vodice&price=50"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Žaborić uz Splitas lidostu",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=%C5%BDabori%C4%87&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Žaborić uz Zadaras lidostu",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=%C5%BDabori%C4%87&to=Zadar%20Airport%20%28ZAD%29&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vai Žaborićā ir taksometru pietura?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nē, ciematā pieturas nav, tāpēc vislabāk rezervēt iepriekš. Es atbraucu pie jūsu naktsmītnes norunātajā laikā, tāpēc jums nekad nav jāgaida."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs apkalpojat privātos dzīvokļus Žaborićā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Es paņemu jūs pie jūsu dzīvokļa vai brīvdienu mājas durvīm. Vienkārši atsūtiet adresi, kad rezervējat."
+          }
+        }
+      ]
+    }
+  ]
+}

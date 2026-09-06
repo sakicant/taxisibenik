@@ -1,0 +1,241 @@
+{
+  "slug": "",
+  "title": "Taksi Šibenik - Güvenebileceğiniz Hizmet | Taxi Antonio",
+  "description": "Šibenik'te anlık şehir içi yolculuklar, hastane ve otel alışları, otobüs ve feribot limanı ile adalara bağlantılar için taksi. İngilizce konuşan şoför. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi šibenik, taksi sibenik, taksi sibenik hastane, sibenik otel taksi, sibenik feribot limanı taksi, taksi zlarin prvic",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-home-land.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "TAXI Šibenik & Skradin - Antonio",
+      "url": "https://taxisibenik.hr/tr/",
+      "telephone": "+385994471013",
+      "email": "info@taxisibenik.hr",
+      "areaServed": [
+        "Šibenik",
+        "Skradin",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Šibenik",
+        "postalCode": "22000",
+        "addressCountry": "HR"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "152"
+      },
+      "priceRange": "€€",
+      "alternateName": "TAXI Antonio",
+      "@id": "https://taxisibenik.hr/tr/#business",
+      "image": "https://taxisibenik.hr/assets/img/hero-bg.webp",
+      "paymentAccepted": "Nakit, Kredi kartı",
+      "currenciesAccepted": "EUR",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6956974,
+        "longitude": 15.7891511
+      },
+      "hasMap": "https://www.google.com/maps?cid=4748268601430744277",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "20:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "07:00",
+          "closes": "16:00"
+        }
+      ],
+      "sameAs": [
+        "https://web.facebook.com/profile.php?id=61579783829997",
+        "https://www.instagram.com/taxi_sibenik/",
+        "https://www.tiktok.com/@taxisibenik",
+        "https://www.tripadvisor.com/Attraction_Review-g295375-d24821165-Reviews-TAXI_Sibenik_Skradin_Antonio-Sibenik_Sibenik_Knin_County_Dalmatia.html",
+        "https://www.google.com/maps?cid=4748268601430744277"
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Taksi ve transfer hizmeti",
+      "name": "TAXI Antonio'dan Taksi Šibenik",
+      "areaServed": {
+        "@type": "City",
+        "name": "Šibenik"
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksi ve transfer hizmetleri",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Šibenik'te şehir içi taksi yolculukları"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Havalimanı transferleri"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Şehirler arası transferler"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Otel transferleri"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Krka ve Plitvice'ye günübirlik geziler"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Šibenik'ten nasıl taksi rezervasyonu yaparım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "+385 99 447 1013 numarasını arayın, WhatsApp'tan yazın veya e-posta gönderin. Antonio'nun alış yerine, gideceğiniz yere ve tercih ettiğiniz alış ya da varış saatine ihtiyacı var."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Son dakika talepleri çalışma saatleri içinde kabul edilir, ancak önceden rezervasyon müsaitliği garanti eder."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\"Sabit fiyat\" ne demek? Neler dahil?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sabit fiyatlara ulaşım, yakıt, otoyol ücretleri ve bagaj yardımı dahildir. Gizli ücret yoktur. Ek duraklar veya uzun beklemeler daha fazlaya mal olabilir, bu da önceden bildirilir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ön ödeme alıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Bir rezervasyonun onaylanması için %20 ön ödeme gerekir (en az 20 euro). Ücreti 20 euro veya altında olan yolculuklarda asgari kapora ücretin tamamına eşit olur, dolayısıyla o tutar önceden ödenir. Ön ödemeler banka havalesi (SEPA) veya kartla yapılabilir, kalan tutar transfer günü ödenir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Araçta kartla ödeme kabul ediyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet, kartlar ve diğer temassız ödeme yöntemleri kabul edilir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Šibenik'te hastaneden alış yapıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Antonio yolcuları Šibenik Genel Hastanesine götürür ve oradan alır; hastane alanına araçla girme izni vardır, böylece otoparktan uzun bir yürüyüş gerekmez."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni adalara giden feribota götürebilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Antonio, Zlarin, Prvić, Kaprije ve Žirje için Šibenik feribot ve katamaran limanında, ayrıca Obonjan'a giden tekne için sizi bırakır ve alır."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Šibenik otellerinden, otobüs ve tren istasyonlarından alış yapıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Antonio tüm yerel otellere, otogara, Šibenik ve Perković tren istasyonlarına ve feribot limanına hizmet verir; bagaj yardımı ve talep üzerine isim tabelası sunar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Uçağım rötar yaparsa ne olur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Uçuş varışları gerçek zamanlı izlenir ve alış saati ek ücret olmadan otomatik olarak ayarlanır."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "İptal etmem gerekirse ne olur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "İptaller e-posta ile yazılı olarak yapılmalıdır. Rezervasyondan 72 saatten fazla süre önce, hangi ödeme yöntemi kullanılmış olursa olsun tam iade yapılır. 72 saat içindeki iptaller veya gelmeme durumları iade edilmez. Tarih değişikliği her zaman ücretsizdir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Daha büyük bir grubu taşıyabilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Škoda Superb 4 yolcuya kadar yer sunar. Daha büyük gruplar için yerel, özenle seçilmiş partnerler aracılığıyla düzenleme yapılabilir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Çocuk koltuğu sunuyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet, çocuk koltukları ve yükseltici koltuklar talep üzerine mevcuttur."
+          }
+        }
+      ]
+    }
+  ]
+}

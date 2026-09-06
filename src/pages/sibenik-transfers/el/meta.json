@@ -1,0 +1,87 @@
+{
+  "slug": "sibenik-transfers",
+  "title": "Μεταφορές Šibenik | Σταθερές Τιμές | TAXI Antonio",
+  "description": "Μεταφορές Šibenik από και προς Split, Zadar, Dubrovnik, Zagreb, Trogir και πιο πέρα. Σταθερές τιμές, ιδιωτική μεταφορά από πόρτα σε πόρτα, ένας τοπικός οδηγός. Κλείστε απευθείας με τον Antonio.",
+  "keywords": "μεταφορές sibenik, μεταφορά šibenik, ταξί sibenik split, sibenik προς zadar, sibenik προς dubrovnik, sibenik προς zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Μεταφορά με ταξί από πόλη σε πόλη",
+      "name": "Μεταφορές Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/el/sibenik-transfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει μια μεταφορά με ταξί από το Šibenik στο Split;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Μια ιδιωτική μεταφορά από το Šibenik στο Split κοστίζει σταθερά 140 ευρώ ανά αυτοκίνητο για έως 4 επιβάτες, με τα διόδια, τα καύσιμα και τις αποσκευές."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Οι τιμές των μεταφορών είναι σταθερές;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Κάθε μεταφορά από πόλη σε πόλη έχει σταθερή τιμή ανά αυτοκίνητο για έως 4 επιβάτες, συμφωνημένη εκ των προτέρων. Χωρίς ταξίμετρο και χωρίς εκπλήξεις."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Η μεταφορά είναι ιδιωτική ή κοινή;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Κάθε μεταφορά είναι ιδιωτική και από πόρτα σε πόρτα, με ένα Škoda Superb. Δεν υπάρχει κοινή χρήση του αυτοκινήτου και δεν γίνονται επιπλέον στάσεις, εκτός αν τις ζητήσετε."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Μπορείτε να σταματήσετε στον δρόμο;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Σε μεγαλύτερες μεταφορές σταματώ ευχαρίστως για έναν καφέ, μια φωτογραφία ή ένα γρήγορο αξιοθέατο. Πείτε μου το απλώς κατά την κράτηση και θα το υπολογίσω."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πώς πληρώνω μια μεταφορά;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Προκαταβολή 20% (ελάχιστο 20 ευρώ) επιβεβαιώνει την κράτηση, με τραπεζικό έμβασμα ή κάρτα. Το υπόλοιπο πληρώνεται στον οδηγό την ημέρα της διαδρομής, μετρητά ή με κάρτα."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-brodarica-aci-marina-jezera",
+  "title": "Такси Brodarica - ACI Marina Jezera | Фиксирана цена €60 | TAXI Antonio",
+  "description": "Частно такси и трансфер, маршрут Brodarica - ACI Marina Jezera. Фиксирана цена €60 на автомобил, до 4. Резервирайте директно при Антонио.",
+  "keywords": "такси brodarica - aci marina jezera, трансфер brodarica - aci marina jezera, летищен трансфер brodarica - aci marina jezera",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частен таксиметров трансфер",
+      "name": "Такси Brodarica - ACI Marina Jezera",
+      "description": "Частно такси и трансфер на фиксирана цена, маршрут Brodarica - ACI Marina Jezera, 60 евро на автомобил за до 4 пътници, от врата до врата.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Brodarica",
+        "ACI Marina Jezera"
+      ],
+      "url": "https://taxisibenik.hr/bg/taxi-brodarica-aci-marina-jezera/",
+      "offers": {
+        "@type": "Offer",
+        "price": "60",
+        "priceCurrency": "EUR",
+        "description": "Еднопосочно частно пътуване, маршрут Brodarica - ACI Marina Jezera, на автомобил за до 4 пътници. Отиване и връщане 120 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко струва трансфер по маршрута Brodarica - ACI Marina Jezera?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксирано 60 на автомобил за до 4 пътници, еднопосочно, с пътни такси, гориво и багаж. Пътуване с отиване и връщане струва 120."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Може ли да ме вземете направо от самата марина?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Посрещам ви на входа на марината или на рецепцията и помагам с багажа, за да стигнете от понтона направо до автомобила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Може ли да съобразите трансфера с моята лодка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Изпратете ми при резервацията часа на чартъра, на настаняването или на отплаването и ще планирам вземането около него."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Колко предварително трябва да резервирам?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поне 2 часа по-рано, за да потвърдя автомобила и часа на вземане. За пътуване в последния момент се обадете или пишете директно на WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

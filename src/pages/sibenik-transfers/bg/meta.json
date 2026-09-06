@@ -1,0 +1,87 @@
+{
+  "slug": "sibenik-transfers",
+  "title": "Трансфери от Šibenik | Фиксирани цени | TAXI Antonio",
+  "description": "Трансфери от и до Šibenik за Split, Zadar, Dubrovnik, Zagreb, Trogir и по-нататък. Фиксирани цени, частно от врата до врата, един местен шофьор. Резервирайте директно при Антонио.",
+  "keywords": "трансфери šibenik, трансфер сибеник, такси šibenik split, šibenik до zadar, šibenik до dubrovnik, šibenik до zagreb",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Таксиметров трансфер от град до град",
+      "name": "Трансфери от Šibenik",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split",
+        "Zadar",
+        "Dubrovnik",
+        "Zagreb",
+        "Trogir",
+        "Primošten"
+      ],
+      "url": "https://taxisibenik.hr/bg/sibenik-transfers/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Колко струва таксиметров трансфер от Šibenik до Split?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Частен трансфер от Šibenik до Split е на фиксирана цена от 140 евро за автомобил за до 4 пътници, с включени пътни такси, гориво и багаж."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Фиксирани ли са цените на трансферите?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Всеки трансфер от град до град е на фиксирана цена за автомобил за до 4 пътници, договорена предварително. Без таксиметров апарат и без изненади."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансферът частен ли е или споделен?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Всеки трансфер е частен и от врата до врата, в Škoda Superb. Няма споделяне на автомобила и няма допълнителни спирания, освен ако не ги поискате."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Може ли да спираме по пътя?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. При по-дълги трансфери с удоволствие спирам за кафе, снимка или бърза забележителност. Просто ми кажете при резервацията и ще го предвидя."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Как се плаща трансферът?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Авансово плащане от 20% (минимум 20 евро) потвърждава резервацията, с банков превод или карта. Остатъкът се плаща на шофьора в деня на пътуването, в брой или с карта."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "day-trip-krka-national-park-split",
+  "title": "Dienas ekskursija uz Krku no Splitas | Privāts transfērs, fiksēti €290 | TAXI Antonio",
+  "description": "Privāts taksometra transfērs turp un atpakaļ uz Krku no Splitas. Fiksēti €290 par automašīnu, līdz 4 pasažieriem, no durvīm līdz durvīm no Splitas viesnīcām, kruīza ostas un vecpilsētas. Nav ekskursija, tikai brauciens turp un atpakaļ.",
+  "keywords": "dienas ekskursija uz krku no splitas, transfērs turp un atpakaļ uz krku no splitas, taksometrs uz krku no splitas, krka no splitas, no splitas uz krkas nacionālo parku",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privāta dienas ekskursija uz Krku no Splitas",
+      "description": "Privāta dienas ekskursija uz Krkas nacionālo parku no Splitas ar vietējo šoferi, kurš runā angliski. Fiksēta cena 290 eiro par automašīnu līdz 4 pasažieriem, ar sagaidīšanu no durvīm līdz durvīm pie Splitas viesnīcām, kruīza ostas, autoostas un dzelzceļa stacijas un vecpilsētas.",
+      "touristType": "Daba un apskates vietas",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "290",
+        "priceCurrency": "EUR",
+        "description": "Privāta automašīna, brauciens turp un atpakaļ no Splitas uz Krkas nacionālo parku, līdz 4 pasažieriem. Parka ieejas biļetes nav iekļautas."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Vai šī ir ekskursija ar gidu vai taksometra transfērs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tas ir taksometra transfērs, nevis ekskursija ar gidu. Antonio ir vietējais šoferis, kurš nodrošina privātu transfēru turp un atpakaļ no Splitas uz Krku. Jūs saņemat automašīnu un braucienu; parkā jūs varat brīvi visu izpētīt paši, savā tempā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs uz Krku no Splitas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privāts transfērs turp un atpakaļ no Splitas uz Krkas nacionālo parku maksā fiksēti 290 eiro par automašīnu līdz 4 pasažieriem, iekļaujot ceļa nodevas, degvielu un aptuveni 3 līdz 4 stundas gaidīšanas laika."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs sagaidāt pie Splitas viesnīcām un kruīza ostas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Es sagaidu viesus no durvīm līdz durvīm pie Splitas viesnīcām un dzīvokļiem, vecpilsētā, pie autoostas un dzelzceļa stacijas, kā arī tieši Splitas kruīza ostā un prāmju terminālī, pēc pieprasījuma ar vārda plāksnīti."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilga ir dienas ekskursija no Splitas uz Krku?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens ir aptuveni no vienas stundas līdz stundai un piecpadsmit minūtēm katrā virzienā, plus apmēram 3 līdz 4 stundas brīva laika parkā. Īsāku vai garāku uzturēšanos var saskaņot, rezervējot braucienu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kā rezervēt un samaksāt par dienas ekskursiju?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervāciju apstiprina 20% avansa maksājums (vismaz 20 eiro) ar bankas pārskaitījumu vai karti, un jūs saņemat rēķinu kā apstiprinājumu. Atlikumu samaksājat šoferim brauciena dienā, skaidrā naudā vai ar karti."
+          }
+        }
+      ]
+    }
+  ]
+}

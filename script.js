@@ -2776,6 +2776,17 @@ if (quoteWidget) {
     });
   });
 
+  // Booking page path per language.
+  // Built from each language's book/<lang>/meta.json slug. Without this the
+  // quote widget and the offers list sent every non-English visitor to the
+  // English booking page.
+  const BOOK_PATHS = {"bg": "/bg/rezervatsiya/", "cs": "/cs/rezervace/", "da": "/da/bestil/", "de": "/de/buchen/", "el": "/el/kratisi/", "en": "/book/", "es": "/es/reservar/", "fi": "/fi/varaa/", "fr": "/fr/reservation/", "hr": "/hr/rezervacija/", "hu": "/hu/foglalas/", "it": "/it/prenota/", "ja": "/ja/yoyaku/", "ko": "/ko/yeyak/", "lv": "/lv/rezervet/", "nl": "/nl/boeken/", "no": "/no/bestill/", "pl": "/pl/rezerwacja/", "ro": "/ro/rezervare/", "ru": "/ru/bronirovanie/", "sk": "/sk/rezervacia/", "sl": "/sl/rezervacija/", "sr": "/sr/rezervacija/", "sv": "/sv/boka/", "tr": "/tr/rezervasyon/", "uk": "/uk/bronyuvannya/", "zh": "/zh/yuding/"};
+  function bookPath() {
+    const seg = window.location.pathname.split('/')[1];
+    return BOOK_PATHS[seg] || BOOK_PATHS.en || '/book/';
+  }
+  // end booking path map
+
   function bookingUrl(q) {
     const params = new URLSearchParams();
     params.set('from', q.from);
@@ -2784,7 +2795,7 @@ if (quoteWidget) {
     params.set('pax', q.passengers);
     params.set('lug', q.luggage);
     params.set('price', q.priceParam);
-    return '/book/?' + params.toString();
+    return bookPath() + '?' + params.toString();
   }
 
   const quoteResult = document.getElementById('quote-result');

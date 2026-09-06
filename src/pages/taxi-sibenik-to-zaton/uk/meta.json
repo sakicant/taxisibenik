@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-sibenik-zaton",
+  "title": "Таксі Šibenik - Zaton | Фіксована ціна €25 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Šibenik - Zaton. Фіксована ціна €25 за автомобіль, до 4 пасажирів, від дверей до дверей. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі šibenik - zaton, трансфер šibenik - zaton, трансфер з аеропорту šibenik - zaton",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Šibenik - Zaton",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Šibenik - Zaton, 25 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Zaton"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-sibenik-zaton/",
+      "offers": {
+        "@type": "Offer",
+        "price": "25",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Šibenik - Zaton, за автомобіль для до 4 пасажирів. Туди й назад 50 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Яка відстань на маршруті і скільки триває поїздка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поїздка маршрутом Šibenik - Zaton становить близько 10 км і триває приблизно 15 min за звичайного руху, трохи довше в розпал літа. Я планую подачу так, щоб повільна ділянка ніколи вас не квапила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі на маршруті Šibenik - Zaton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 25 за автомобіль для до 4 пасажирів, в один бік, багаж включено. Поїздка туди й назад коштує 50."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Де ви мене забираєте?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "За вашою точною адресою, чи то будинок, готель або апартаменти. Надішліть адресу при бронюванні, і я підтверджу місце зустрічі."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-jezera-dubrovnik",
+  "title": "Таксі Jezera - Dubrovnik | Фіксована ціна €530 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Jezera - Dubrovnik. Фіксована ціна €530 за автомобіль, до 4. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі jezera - dubrovnik, трансфер jezera - dubrovnik, трансфер з аеропорту jezera - dubrovnik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Jezera - Dubrovnik",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Jezera - Dubrovnik, 530 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Jezera",
+        "Dubrovnik"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-jezera-dubrovnik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "530",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Jezera - Dubrovnik, за автомобіль для до 4 пасажирів. Туди й назад 1060 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Яка відстань на маршруті і скільки триває поїздка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поїздка маршрутом Jezera - Dubrovnik становить близько 317 км і триває приблизно 4 h 15 min за звичайного руху, трохи довше в розпал літа. Я планую подачу так, щоб повільна ділянка ніколи вас не квапила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі на маршруті Jezera - Dubrovnik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 530 за автомобіль для до 4 пасажирів, в один бік, із дорожніми зборами, паливом і багажем. Поїздка туди й назад коштує 1060."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансфер приватний чи спільний?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Кожен трансфер приватний і від дверей до дверей, на Škoda Superb. Автомобіль ні з ким не ділите, додаткових зупинок немає, якщо ви самі їх не попросите."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете зупинитися дорогою?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. На довших маршрутах охоче зупинюся на каву, для фото або біля короткої пам'ятки. Просто скажіть при бронюванні."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

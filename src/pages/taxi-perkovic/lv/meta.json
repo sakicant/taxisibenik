@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Taksometrs Perković | TAXI Antonio",
+  "description": "Taksometrs Perković: sagaidīšana uz perona galvenajā dzelzceļa stacijā, kas apkalpo Šibeniku, ar tālākiem transfēriem uz Šibeniku, Vodicēm, Krku un tālāk.",
+  "keywords": "taksometrs perkovic, perkovic taksometrs, perkovic dzelzceļa stacijas taksometrs, perkovic stacijas transfērs, perkovic sibenik, perkovic krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Vietējais taksometrs un lidostas transfēri",
+      "name": "Taksometrs Perković",
+      "description": "Privāts taksometrs, kas sagaida vilcienus Perkovićā, galvenajā dzelzceļa stacijā, kura apkalpo Šibenikas apkārtni, ar tālākiem transfēriem uz Šibeniku, Vodicēm, Krku, Drnišu, Kninu un Splitas lidostu.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/lv/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kur jūs mani sagaidāt Perkovića stacijā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Uz perona vai pie stacijas izejas, ja jums tā ērtāk. Man būs sagatavots jūsu vārds, un es palīdzēšu ar somām, lai jūs varētu doties tieši pie automašīnas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kas notiek, ja mans vilciens uz Perkoviću kavējas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es sekoju jūsu vilcienam un pielāgoju sagaidīšanas laiku, bez papildu maksas, tāpēc esmu klāt tad, kad tas patiešām pienāk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai Perkovićā ir taksometru pietura?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nē, pie stacijas pieturas nav, tāpēc vislabāk rezervēt iepriekš. Atsūtiet man sava vilciena laiku un galamērķi, un es jūs gaidīšu, kad izkāpsiet."
+          }
+        }
+      ]
+    }
+  ]
+}

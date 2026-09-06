@@ -1,0 +1,92 @@
+{
+  "slug": "day-trip-krka-national-park-vodice",
+  "title": "Dagstur til Krka fra Vodice | Privat transfer, fast €125 | TAXI Antonio",
+  "description": "Privat taxatransfer frem og tilbage til Krka fra Vodice. Fast €125 pr. bil, op til 4 passagerer, dør til dør fra hoteller og lejligheder i Vodice, Srima og Tribunj. Ikke en tur med guide, bare turen derhen og hjem igen.",
+  "keywords": "dagstur til krka fra vodice, krka fra vodice, taxa til krka fra vodice, krka transfer vodice, krka fra srima, krka fra tribunj, vodice til krka nationalpark",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": "Privat dagstur til Krka fra Vodice",
+      "description": "En privat dagstur til Krka Nationalpark fra Vodice med en lokal, engelsktalende chauffør. Fast pris på 125 euro pr. bil for op til 4 passagerer, med afhentning dør til dør ved hoteller og lejligheder i Vodice, Srima og Tribunj.",
+      "touristType": "Natur og seværdigheder",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "125",
+        "priceCurrency": "EUR",
+        "description": "Privat bil, frem og tilbage fra Vodice til Krka Nationalpark, op til 4 passagerer. Entrébilletter til parken er ikke inkluderet."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Er det en guidet tur eller en taxatransfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Det er en taxatransfer, ikke en guidet tur. Antonio er lokal chauffør og kører en privat transfer fra Vodice til Krka og hjem igen. Du får bilen og kørslen; inde i parken går du selv på opdagelse i dit eget tempo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Henter du også i Srima og Tribunj ud over Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Afhentning i Srima og Tribunj koster den samme faste pris som i Vodice. Jeg henter dig dør til dør ved ethvert hotel, enhver lejlighed eller villa, også ved marinaen og Rivaen i Vodice."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster en taxa til Krka fra Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En privat transfer frem og tilbage fra Vodice til Krka-søerne koster faste 125 euro pr. bil for op til 4 passagerer, med brændstof og ventetiden ved parken inkluderet. Den samme pris dækker afhentning i Srima og Tribunj."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor længe er vi i Krka Nationalpark?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De fleste gæster vælger omkring 3 til 4 timers fri tid inde i parken, nok til at se de største vandfald og gå den klassiske rundtur ad træstierne. Et kortere eller længere ophold kan aftales, når du bestiller."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Er entrébilletter til Krka inkluderet i prisen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nej. Entrébilletter købes separat, direkte hos Krka Nationalpark ved indgangen i Skradin eller Lozovac eller online. Billetterne koster cirka 7 til 40 euro afhængigt af sæsonen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvordan bestiller og betaler jeg dagsturen fra Vodice til Krka?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En forudbetaling på 20% (mindst 20 euro) bekræfter bestillingen, via bankoverførsel eller kort, og du får en faktura som bekræftelse. Restbeløbet betaler du til chaufføren på dagen, kontant eller med kort."
+          }
+        }
+      ]
+    }
+  ]
+}

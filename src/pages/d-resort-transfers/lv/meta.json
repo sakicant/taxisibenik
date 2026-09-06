@@ -1,0 +1,145 @@
+{
+  "slug": "d-resort-sibenik-transfers",
+  "title": "D-Resort Šibenik transfēri | Fiksētas cenas | TAXI Antonio",
+  "description": "Privāti transfēri uz un no D-Resort Šibenik Mandalinas pussalā. Fiksētas cenas, rezervējot iepriekš: Splitas lidosta €95, Zadaras lidosta €130, Krka no €45. No durvīm līdz durvīm, viens vietējais šoferis.",
+  "keywords": "d-resort šibenik transfēri, d-resort viesnīcas transfērs, d-resort šibenik taksometrs, d-resort lidostas transfērs, taksometrs d-resort šibenik, mandalina taksometrs",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Viesnīcu lidostu un pilsētu taksometra transfēri",
+      "name": "D-Resort Šibenik transfēri",
+      "description": "Privāti taksometra transfēri par fiksētu cenu uz un no D-Resort Šibenik Mandalinas pussalā. Lidostu transfēri, transfēri starp pilsētām un Krkas dienas braucieni, rezervēti iepriekš par iepriekš saskaņotu cenu.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "D-Resort Šibenik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/lv/d-resort-sibenik-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fiksētas transfēru cenas no D-Resort Šibenik",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "D-Resort uz Splitas lidostu",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort uz Zadaras lidostu",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort uz Zagrebas lidostu",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort uz Dubrovnikas lidostu",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort uz Šibenikas centru",
+            "price": "15",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort uz Krkas nacionālo parku (Lozovac)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort uz Splitu",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "D-Resort uz Zadaru",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik maksā taksometrs no D-Resort Šibenik uz Splitas lidostu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Privāts transfērs no D-Resort Šibenik uz Splitas lidostu maksā fiksētus 95 eiro par automašīnu līdz 4 pasažieriem, rezervējot iepriekš. Ceļa nodevas, degviela un bagāža ir iekļautas, un cena ir vienāda abos virzienos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kur jūs sagaidāt pie D-Resort?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tieši pie viesnīcas galvenās ieejas Mandalinas pussalā. Ja ierodaties ar jahtu blakus esošajā D-Marin Marina Mandalina, es sagaidu arī marinā, par tām pašām fiksētajām cenām."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai D-Resort transfērs jārezervē iepriekš?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Visas norādītās cenas ir fiksētas cenas transfēriem, kas rezervēti iepriekš. Rezervējot laikus, jums ir garantēta automašīna, sagaidīšanas laiks un cena, kas visvairāk nozīmē agru lidojumu un sezonas pīķa gadījumā."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs sagaidāt viesus lidostā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Ielidojot es reāllaikā sekoju jūsu lidojumam, gaidu ielidošanas zālē ar vārda plāksnīti un aizvedu jūs tieši uz D-Resort. Gaidīšana aizkavētu lidojumu gadījumā ir bez maksas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai varat mūs aizvest no D-Resort uz Krkas nacionālo parku?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Vienvirziena transfērs uz Krkas Lozovac ieeju maksā 45 eiro, bet uz Skradinas ieeju 50 eiro. Piedāvāju arī pilnu privātu dienas braucienu ar iekļautu gaidīšanas laiku un sagaidīšanu pie viesnīcas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kā es maksāju par transfēru?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervāciju apstiprina 20% avansa maksājums (minimums 20 eiro) ar bankas pārskaitījumu vai karti. Atlikumu maksājat šoferim brauciena dienā, skaidrā naudā vai ar karti."
+          }
+        }
+      ]
+    }
+  ]
+}

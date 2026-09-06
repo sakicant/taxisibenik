@@ -7,13 +7,13 @@
 - One driver, one car: Antonio Šakić, a Škoda Superb seating up to 4 passengers with luggage. Antonio speaks Croatian and English.
 - Fixed prices per car (not per person), agreed before travel. A 20% advance payment (minimum €20) confirms a booking; the balance is paid on the day in cash or by card.
 - Bookings need at least 2 hours' notice.
-- Office hours: Mon-Fri 07:00-14:00 and 16:00-21:00, Sat-Sun 06:00-16:00. Available 24/7 for rides booked in advance, including weekends and holidays.
+- Office hours: Mon-Fri 07:00-20:00, Sat-Sun 07:00-16:00. Available 24/7 for rides booked in advance, including weekends and holidays.
 - Serves Šibenik and the wider Dalmatian coast and interior, and all four regional airports: Split (SPU), Zadar (ZAD), Zagreb (ZAG) and Dubrovnik (DBV). Airport transfers cover both the commercial terminals and the private/general-aviation terminals used for private jets and charter flights.
 - For larger groups or a van, Antonio arranges it through a hand-picked network of trusted local drivers, staying the single point of contact.
 
 ## Languages
 
-The whole site is published in 19 languages. English is served at the root; each other language lives under its own prefix: Croatian /hr/, German /de/, Polish /pl/, Czech /cs/, Italian /it/, French /fr/, Dutch /nl/, Slovenian /sl/, Hungarian /hu/, Slovak /sk/, Spanish /es/, Swedish /sv/, Serbian (Latin) /sr/, Norwegian /no/, Chinese /zh/, Korean /ko/, Finnish /fi/ and Japanese /ja/. The ten original languages use localized slugs; the newer ones keep Latin slugs. Every page links to its alternates via hreflang.
+The whole site is published in 27 languages. English is served at the root; each other language lives under its own prefix: Croatian /hr/, German /de/, Polish /pl/, Czech /cs/, Italian /it/, French /fr/, Dutch /nl/, Slovenian /sl/, Hungarian /hu/, Slovak /sk/, Spanish /es/, Swedish /sv/, Serbian (Latin) /sr/, Norwegian /no/, Chinese /zh/, Korean /ko/, Finnish /fi/, Japanese /ja/, Russian /ru/, Ukrainian /uk/, Turkish /tr/, Greek /el/, Romanian /ro/, Bulgarian /bg/, Danish /da/ and Latvian /lv/. Most languages use localized slugs; a few keep Latin slugs. Every page links to its alternates via hreflang.
 
 ## Main pages
 

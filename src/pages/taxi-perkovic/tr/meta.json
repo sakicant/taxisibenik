@@ -1,0 +1,64 @@
+{
+  "slug": "taxi-perkovic",
+  "title": "Taksi Perković | TAXI Antonio",
+  "description": "Taksi Perković: Šibenik bölgesine hizmet veren ana tren istasyonunda peronda karşılama, ardından Šibenik, Vodice, Krka ve ötesine transferler.",
+  "keywords": "taksi perkovic, perkovic taksi, perkovic tren istasyonu taksi, perkovic gar transferi, perkovic sibenik, perkovic krka",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Yerel taksi ve havalimanı transferleri",
+      "name": "Taksi Perković",
+      "description": "Šibenik bölgesine hizmet veren ana tren istasyonu Perković'te trenleri karşılayan özel taksi; Šibenik, Vodice, Krka, Drniš, Knin ve Split Havalimanı'na devam transferleriyle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Perković",
+      "url": "https://taxisibenik.hr/tr/taxi-perkovic/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Perković istasyonunda beni nerede karşılıyorsunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Peronda, isterseniz istasyon çıkışında. Adınız elimde hazır olur ve bavullarınıza yardım ederim, böylece doğruca araca yürürsünüz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Perković'e gelen trenim gecikirse ne olur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Treninizi takip eder ve alış saatini ona göre ayarlarım, ek ücret olmadan, böylece tren gerçekte ne zaman gelirse orada olurum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Perković'te taksi durağı var mı?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hayır, istasyonda durak yok, o yüzden önceden rezervasyon en iyisi. Bana tren saatinizi ve gideceğiniz yeri gönderin, siz inerken orada bekliyor olayım."
+          }
+        }
+      ]
+    }
+  ]
+}

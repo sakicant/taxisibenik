@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-dubrovnikas-lidosta-novalja",
+  "title": "Taksometrs Dubrovnikas lidosta - Novalja | Fiksēta cena €680 | TAXI Antonio",
+  "description": "Privāts taksometrs un transfērs maršrutā Dubrovnikas lidosta - Novalja. Fiksēta cena €680 par automašīnu, līdz 4. Rezervējiet tieši pie Antonio.",
+  "keywords": "taksometrs dubrovnikas lidosta - novalja, transfērs dubrovnikas lidosta - novalja, lidostas transfērs dubrovnikas lidosta - novalja",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privāts taksometra transfērs",
+      "name": "Taksometrs Dubrovnikas lidosta - Novalja",
+      "description": "Privāts taksometrs un transfērs par fiksētu cenu maršrutā Dubrovnikas lidosta - Novalja, 680 eiro par automašīnu līdz 4 pasažieriem, no durvīm līdz durvīm.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnikas lidosta",
+        "Novalja"
+      ],
+      "url": "https://taxisibenik.hr/lv/taxi-dubrovnikas-lidosta-novalja/",
+      "offers": {
+        "@type": "Offer",
+        "price": "680",
+        "priceCurrency": "EUR",
+        "description": "Privāts brauciens vienā virzienā maršrutā Dubrovnikas lidosta - Novalja, par automašīnu līdz 4 pasažieriem. Turp un atpakaļ 1360 eiro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik garš ir maršruts un cik ilgi jābrauc?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brauciens maršrutā Dubrovnikas lidosta - Novalja ir aptuveni 428 km garš un ilgst apmēram 5 h 55 min normālā satiksmē, vasaras sezonas pīķī nedaudz ilgāk. Izbraukšanu plānoju tā, lai lēns ceļa posms jūs nekad nesasteidzinātu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kur jūs mani sagaidīsiet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ielidošanas zālē, uzreiz pēc bagāžas saņemšanas, ar plāksnīti, uz kuras ir jūsu vārds. Palīdzu ar bagāžu un aizvedu jūs līdz automašīnai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kas notiek, ja mans lidojums kavējas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nekādu problēmu. Sekoju jūsu lidojumam reāllaikā un pielāgoju sagaidīšanu faktiskajai nolaišanās reizei, bez papildu maksas par gaidīšanu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik maksā transfērs maršrutā Dubrovnikas lidosta - Novalja?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiksēti 680 par automašīnu līdz 4 pasažieriem vienā virzienā, ceļa nodevas un bagāža iekļauta. Brauciens turp un atpakaļ maksā 1360."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cik ilgi iepriekš jārezervē?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vismaz 2 stundas iepriekš, lai varu plānot pēc jūsu lidojuma. Ja sagaidīšana vajadzīga tajā pašā dienā pēc pēkšņām izmaiņām, zvaniet vai rakstiet WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

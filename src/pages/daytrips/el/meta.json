@@ -1,0 +1,149 @@
+{
+  "slug": "daytrips",
+  "title": "Ημερήσιες Εκδρομές από το Šibenik | Ιδιωτικές Μεταφορές Krka & Plitvice | TAXI Antonio",
+  "description": "Ιδιωτικές ημερήσιες εκδρομές από το Šibenik και σε όλη τη Δαλματία προς το Εθνικό Πάρκο Krka και τις Λίμνες Plitvice. Μεταφορά με επιστροφή σε σταθερή τιμή, από πόρτα σε πόρτα, με τοπικό οδηγό. Δεν είναι ξενάγηση, μόνο η διαδρομή εκεί και πίσω.",
+  "keywords": "ημερήσιες εκδρομές από sibenik, εκδρομές sibenik, ιδιωτική ημερήσια εκδρομή κροατία, εκδρομή krka, εκδρομή plitvice, εκδρομή στο krka, εκδρομή στις plitvice",
+  "og_image": "https://taxisibenik.hr/assets/img/daytrip-krka-hero.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Ιδιωτικές ημερήσιες εκδρομές και εξορμήσεις",
+      "name": "Ημερήσιες Εκδρομές από το Šibenik και τη Δαλματία",
+      "description": "Ιδιωτικές ημερήσιες εκδρομές σε σταθερή τιμή προς το Εθνικό Πάρκο Krka και τις Λίμνες Plitvice με έναν τοπικό οδηγό από το Šibenik. Μεταφορά με επιστροφή από πόρτα σε πόρτα από Šibenik, Vodice, Primošten, Split και Zadar, έως 4 επιβάτες ανά αυτοκίνητο.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Vodice",
+        "Primošten",
+        "Split",
+        "Zadar"
+      ],
+      "url": "https://taxisibenik.hr/el/daytrips/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ιδιωτικές ημερήσιες εκδρομές από τη Δαλματία",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Ημερήσια εκδρομή στο Krka από το Šibenik",
+            "price": "100",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/day-trip-krka-national-park-sibenik/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ημερήσια εκδρομή στο Krka από τα Vodice",
+            "price": "125",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/day-trip-krka-national-park-vodice/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ημερήσια εκδρομή στο Krka από το Primošten",
+            "price": "155",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/day-trip-krka-national-park-primosten/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ημερήσια εκδρομή στο Krka από το Zadar",
+            "price": "260",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/day-trip-krka-national-park-zadar/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ημερήσια εκδρομή στο Krka από το Split",
+            "price": "290",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/day-trip-krka-national-park-split/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ημερήσια εκδρομή στις Plitvice από το Šibenik",
+            "price": "500",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/day-trip-plitvice-lakes-national-park-sibenik/"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ημερήσια εκδρομή στις Plitvice από το Split",
+            "price": "650",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/el/day-trip-plitvice-lakes-national-park-split/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ποιες ημερήσιες εκδρομές μπορώ να κλείσω από το Šibenik;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Οι δύο πιο δημοφιλείς ημερήσιες εκδρομές είναι το Εθνικό Πάρκο Krka και το Εθνικό Πάρκο Λιμνών Plitvice. Και οι δύο είναι ιδιωτικές μεταφορές με επιστροφή σε σταθερή τιμή, από πόρτα σε πόρτα από το ξενοδοχείο ή το διαμέρισμά σας, με ελεύθερο χρόνο μέσα στο πάρκο για να το εξερευνήσετε με τον δικό σας ρυθμό."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πρόκειται για ξεναγήσεις ή για μεταφορές με ταξί;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Είναι ιδιωτικές μεταφορές με ταξί, όχι οργανωμένες ξεναγήσεις. Ο Antonio είναι ένας τοπικός οδηγός που σας πηγαίνει εκεί και σας φέρνει πίσω με ένα άνετο Škoda Superb. Μέσα στο πάρκο είστε ελεύθεροι να εξερευνήσετε μόνοι σας, χωρίς ξεναγό και χωρίς κοινή ομάδα."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πόσο κοστίζει μια ημερήσια εκδρομή στο Krka ή στις Plitvice;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Μια ιδιωτική ημερήσια εκδρομή στο Krka ξεκινά από σταθερά 100 ευρώ ανά αυτοκίνητο από το Šibenik. Μια ημερήσια εκδρομή στις Λίμνες Plitvice κοστίζει 500 ευρώ ανά αυτοκίνητο από το Šibenik. Οι τιμές είναι ανά αυτοκίνητο για έως 4 επιβάτες και εξαρτώνται από την πόλη παραλαβής σας."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Παραλαμβάνετε και από άλλες πόλεις, όχι μόνο από το Šibenik;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ναι. Οι εκδρομές στο Krka ξεκινούν από Šibenik, Vodice, Primošten, Zadar και Split, και οι εκδρομές στις Plitvice από Šibenik και Split. Κάθε πόλη έχει τη δική της σταθερή τιμή και τη δική της σελίδα με όλες τις λεπτομέρειες."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Περιλαμβάνονται τα εισιτήρια εισόδου στο πάρκο;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Όχι. Η τιμή καλύπτει μόνο την ιδιωτική μεταφορά και τον χρόνο αναμονής. Τα εισιτήρια για το Krka και τις Plitvice αγοράζονται ξεχωριστά στην είσοδο ή διαδικτυακά και κοστίζουν περίπου 7 έως 40 ευρώ ανάλογα με την εποχή."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Πώς κλείνω μια ημερήσια εκδρομή;",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Στείλτε μου μήνυμα στο WhatsApp, καλέστε με, ή χρησιμοποιήστε τη σελίδα επικοινωνίας. Προκαταβολή 20% (ελάχιστο 20 ευρώ) επιβεβαιώνει την ημερομηνία, και το υπόλοιπο πληρώνεται στον οδηγό την ίδια μέρα."
+          }
+        }
+      ]
+    }
+  ]
+}

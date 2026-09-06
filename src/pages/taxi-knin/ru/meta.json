@@ -1,0 +1,91 @@
+{
+  "slug": "taxi-knin",
+  "title": "Такси Книн | TAXI Antonio",
+  "description": "Такси Книн: дальние трансферы в Шибеник (€95), аэропорт Сплита (€110) и аэропорт Задара из исторического железнодорожного города. Фиксированные цены.",
+  "keywords": "такси книн, книн такси, такси вокзал книн, трансфер из книна в аэропорт, книн аэропорт сплита, книн шибеник, такси крепость книн",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Местное такси и трансферы в аэропорт",
+      "name": "Такси Книн",
+      "description": "Частное такси на дальние расстояния по фиксированной цене из Книна, исторического железнодорожного города в глубине материка, в Шибеник, аэропорт Сплита и аэропорт Задара.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Knin",
+      "url": "https://taxisibenik.hr/ru/taxi-knin/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Цены на такси из Книна",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Такси из Книна в Шибеник",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Knin&to=%C5%A0ibenik%20-%20center&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Книна в аэропорт Сплита",
+            "price": "110",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Knin&to=Split%20Airport%20%28SPU%29&price=110"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Книна в аэропорт Задара",
+            "price": "140",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Knin&to=Zadar%20Airport%20%28ZAD%29&price=140"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Встречаете ли вы поезда на вокзале Книна?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Я встречаю вас на перроне или у выхода из вокзала, помогаю с сумками и сразу везу дальше. Пришлите мне время поезда при бронировании."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Цена на дальнюю поездку фиксированная?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да, и согласована заранее, учитывая расстояние. Из Книна в Шибеник €95, в аэропорт Сплита €110, в аэропорт Задара €140 за автомобиль до 4 пассажиров."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можете ли вы сделать поездку туда и обратно в тот же день?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Я могу подождать или вернуться за вами в тот же день. Назовите время, и я подтвержу фиксированную цену за поездку туда и обратно."
+          }
+        }
+      ]
+    }
+  ]
+}

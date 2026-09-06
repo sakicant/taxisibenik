@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-pirovac-aci-marina-trogir",
+  "title": "Taxi Pirovac - ACI Marina Trogir | Preț fix €140 | TAXI Antonio",
+  "description": "Taxi și transfer privat, ruta Pirovac - ACI Marina Trogir. Preț fix €140 per vehicul, până la 4 pasageri, din ușă în ușă. Rezervați direct la Antonio.",
+  "keywords": "taxi pirovac - aci marina trogir, transfer pirovac - aci marina trogir, transfer aeroport pirovac - aci marina trogir",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Transfer privat cu taxi",
+      "name": "Taxi Pirovac - ACI Marina Trogir",
+      "description": "Taxi și transfer privat la preț fix, ruta Pirovac - ACI Marina Trogir, 140 euro per vehicul pentru până la 4 pasageri, din ușă în ușă.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Pirovac",
+        "ACI Marina Trogir"
+      ],
+      "url": "https://taxisibenik.hr/ro/taxi-pirovac-aci-marina-trogir/",
+      "offers": {
+        "@type": "Offer",
+        "price": "140",
+        "priceCurrency": "EUR",
+        "description": "Cursă privată dus, ruta Pirovac - ACI Marina Trogir, per vehicul pentru până la 4 pasageri. Dus-întors 280 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cât costă un transfer pe ruta Pirovac - ACI Marina Trogir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fix 140 per vehicul pentru până la 4 pasageri, dus, cu taxele de drum, carburantul și bagajele. O cursă dus-întors costă 280."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puteți să mă preluați chiar din marină?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Vă întâlnesc la intrarea în marină sau la recepție și vă ajut cu bagajele, ca să mergeți de pe ponton direct la vehicul."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puteți potrivi transferul cu ambarcațiunea mea?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da. Trimiteți-mi la rezervare ora charterului, a check-inului sau a plecării și planific preluarea în jurul ei."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cu cât timp înainte ar trebui să rezerv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cu cel puțin 2 ore înainte, ca să confirm vehiculul și ora preluării. Pentru o cursă de ultim moment sunați-mă sau scrieți-mi direct pe WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

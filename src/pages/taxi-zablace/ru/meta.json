@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-zablace",
+  "title": "Такси Заблаче | TAXI Antonio",
+  "description": "Такси Заблаче: фиксированные трансферы в аэропорты Сплита (€95) и Задара для кемперов и пляжных гостей рядом с Amadria Park, плюс поездки в Шибеник и Водице.",
+  "keywords": "такси заблаче, заблаче такси, такси кемпинг заблаче, трансфер из заблаче в аэропорт, amadria park заблаче такси, заблаче аэропорт сплита",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Местное такси и трансферы в аэропорт",
+      "name": "Такси Заблаче",
+      "description": "Частное такси по фиксированной цене из Заблаче, района кемпингов и Amadria Park к юго-западу от Шибеника, в аэропорт Сплита, аэропорт Задара, Шибеник и Водице.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Zablaće",
+      "url": "https://taxisibenik.hr/ru/taxi-zablace/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Цены на такси из Заблаче",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Такси из Заблаче в Шибеник",
+            "price": "18",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Zabla%C4%87e&to=%C5%A0ibenik%20-%20center&price=18"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Заблаче в Водице",
+            "price": "40",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Zabla%C4%87e&to=Vodice&price=40"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Заблаче в аэропорт Сплита",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Zabla%C4%87e&to=Split%20Airport%20%28SPU%29&price=95"
+          },
+          {
+            "@type": "Offer",
+            "name": "Такси из Заблаче в аэропорт Задара",
+            "price": "130",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/ru/bronirovanie/?from=Zabla%C4%87e&to=Zadar%20Airport%20%28ZAD%29&price=130"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Забираете ли вы из кемпинга и из района Amadria Park?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Я забираю вас у ресепшена кемпинга, у ваших апартаментов или в районе Amadria Park по соседству, с местом для багажа и снаряжения. Пришлите точное место при бронировании."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Хватит ли места для кемпингового и пляжного снаряжения?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. У Škoda Superb большой багажник для чемоданов, кемпингового оборудования и пляжных вещей. Скажите, если у вас велосипеды или объёмные вещи, и я это учту."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит поездка из Заблаче в аэропорт Сплита?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированные €95 за автомобиль до 4 пассажиров, дорожные сборы и багаж включены, цена та же в обе стороны."
+          }
+        }
+      ]
+    }
+  ]
+}

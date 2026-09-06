@@ -1,0 +1,145 @@
+{
+  "slug": "bellevue-sibenik-transfers",
+  "title": "Трансфери Bellevue Superior Hotel Шибеник | Фіксовані ціни | TAXI Antonio",
+  "description": "Приватні трансфери до і з Bellevue Superior Hotel у Шибенику. Фіксовані ціни при бронюванні наперед: аеропорт Спліт €95, аеропорт Задар €130, Крка від €45. Від дверей до дверей, один місцевий водій.",
+  "keywords": "трансфери bellevue шибеник, трансфер bellevue superior hotel, таксі bellevue шибеник, трансфер bellevue в аеропорт, таксі bellevue шибеник",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Трансфери з готелю в аеропорт і між містами",
+      "name": "Трансфери Bellevue Superior Hotel Šibenik",
+      "description": "Приватні таксі-трансфери за фіксованою ціною до і з Bellevue Superior Hotel у самому серці Шибеника. Трансфери в аеропорт, трансфери між містами та поїздки на Крку, забронювані наперед за ціною, узгодженою заздалегідь.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Bellevue Superior Hotel Šibenik",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/uk/bellevue-sibenik-transfers/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Фіксовані ціни на трансфери з Bellevue Superior Hotel",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Bellevue - аеропорт Спліт",
+            "price": "95",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue - аеропорт Задар",
+            "price": "130",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue - аеропорт Загреб",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue - аеропорт Дубровник",
+            "price": "485",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue - національний парк Крка (Лозовац)",
+            "price": "45",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue - Водіце",
+            "price": "30",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue - Спліт",
+            "price": "140",
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bellevue - Задар",
+            "price": "140",
+            "priceCurrency": "EUR"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі від Bellevue Superior Hotel до аеропорту Спліт?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Приватний трансфер від Bellevue Superior Hotel до аеропорту Спліт коштує фіксовані 95 євро за автомобіль для до 4 пасажирів, при бронюванні наперед. Дорожні збори, паливо та багаж включені, і ціна однакова в обидва боки."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Звідки саме ви забираєте біля Bellevue Superior Hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Просто перед готелем. Bellevue стоїть у самому серці Шибеника, і я підтверджую точне місце подачі при бронюванні, щоб ви не чекали біля дороги."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи варто бронювати трансфер Bellevue наперед?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Усі вказані ціни, це фіксовані ціни для трансферів, забронюваних наперед. Бронювання заздалегідь гарантує автомобіль, час подачі та ціну, що найважливіше для ранніх рейсів і високого сезону."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ви зустрічаєте гостей, які прилітають, в аеропорту?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. При прильоті я стежу за вашим рейсом у реальному часі, чекаю в залі прильоту з табличкою з іменем і везу вас просто до Bellevue. Очікування затриманих рейсів безкоштовне."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете відвезти нас з Bellevue у національний парк Крка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. Трансфер в один бік до входу Крка Лозовац коштує 45 євро, а до входу Скрадін 50 євро. Я також пропоную повноцінну приватну одноденну поїздку з часом очікування у вартості, із подачею до готелю."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Як оплатити трансфер?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Передоплата 20% (щонайменше 20 євро) підтверджує бронювання, банківським переказом або карткою. Решту ви платите водієві в день поїздки, готівкою або карткою."
+          }
+        }
+      ]
+    }
+  ]
+}

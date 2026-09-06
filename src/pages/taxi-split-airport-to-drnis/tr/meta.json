@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-split-havalimani-drnis",
+  "title": "Taksi Split Havalimanı - Drniš | Sabit fiyat €110 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Split Havalimanı - Drniš güzergâhı. Araç başına sabit €110, 4 kişiye kadar. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi split havalimanı - drniš, transfer split havalimanı - drniš, havalimanı transferi split havalimanı - drniš",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Split Havalimanı - Drniš",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Split Havalimanı - Drniš güzergâhı, 4 yolcuya kadar araç başına 110 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Split Havalimanı",
+        "Drniš"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-split-havalimani-drnis/",
+      "offers": {
+        "@type": "Offer",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Split Havalimanı - Drniš güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 220 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Güzergâh ne kadar uzun ve yolculuk ne kadar sürer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Split Havalimanı - Drniš güzergâhındaki yolculuk yaklaşık 54 km uzunluğunda ve normal trafikte yaklaşık 70 min sürüyor, yaz yoğunluğunda biraz daha uzun. Alışı, yavaş bir yol sizi asla acele ettirmeyecek şekilde planlıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Beni nerede karşılıyorsunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Geliş salonunda, bagaj alımının hemen ardından, isminizin yazdığı bir tabelayla. Bagajla yardım eder ve sizi araca kadar götürürüm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Uçuşum rötar yaparsa ne olur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sorun değil. Uçuşunuzu gerçek zamanlı takip eder ve alışı gerçek iniş saatine göre ayarlarım, bekleme için ek ücret almadan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Split Havalimanı - Drniš güzergâhında transfer ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 yolcuya kadar araç başına sabit 110, tek yön, otoyol ücretleri ve bagaj dahil. Gidiş dönüş yolculuk 220."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Uçuşunuza göre planlayabilmem için en az 2 saat önce. Son dakika bir değişiklikten sonra aynı gün alış için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

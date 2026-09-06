@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-split-vodice",
+  "title": "Таксі Split - Vodice | Фіксована ціна €150 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Split - Vodice. Фіксована ціна €150 за автомобіль, до 4 пасажирів, від дверей до дверей. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі split - vodice, трансфер split - vodice, трансфер з аеропорту split - vodice",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Split - Vodice",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Split - Vodice, 150 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Split",
+        "Vodice"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-split-vodice/",
+      "offers": {
+        "@type": "Offer",
+        "price": "150",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Split - Vodice, за автомобіль для до 4 пасажирів. Туди й назад 300 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Яка відстань на маршруті і скільки триває поїздка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Поїздка маршрутом Split - Vodice становить близько 95 км і триває приблизно 85 min за звичайного руху, трохи довше в розпал літа. Я планую подачу так, щоб повільна ділянка ніколи вас не квапила."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі на маршруті Split - Vodice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 150 за автомобіль для до 4 пасажирів, в один бік, із дорожніми зборами, паливом і багажем. Поїздка туди й назад коштує 300."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Трансфер приватний чи спільний?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Кожен трансфер приватний і від дверей до дверей, на Škoda Superb. Автомобіль ні з ким не ділите, додаткових зупинок немає, якщо ви самі їх не попросите."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Чи можете зупинитися дорогою?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Так. На довших маршрутах охоче зупинюся на каву, для фото або біля короткої пам'ятки. Просто скажіть при бронюванні."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

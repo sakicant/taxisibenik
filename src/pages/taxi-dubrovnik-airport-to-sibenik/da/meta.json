@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-dubrovnik-lufthavn-sibenik",
+  "title": "Taxa Dubrovnik Lufthavn - Šibenik | Fast pris €485 | TAXI Antonio",
+  "description": "Privat taxa og transfer på ruten Dubrovnik Lufthavn - Šibenik. Fast pris €485 pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+  "keywords": "taxa dubrovnik lufthavn - šibenik, transfer dubrovnik lufthavn - šibenik, lufthavnstransfer dubrovnik lufthavn - šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxatransfer",
+      "name": "Taxa Dubrovnik Lufthavn - Šibenik",
+      "description": "Privat taxa og transfer til fast pris på ruten Dubrovnik Lufthavn - Šibenik, 485 euro pr. bil for op til 4 passagerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Dubrovnik Lufthavn",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/da/taxi-dubrovnik-lufthavn-sibenik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "485",
+        "priceCurrency": "EUR",
+        "description": "Privat enkeltrejse på ruten Dubrovnik Lufthavn - Šibenik, pr. bil for op til 4 passagerer. Tur og retur 970 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er ruten, og hvor længe tager turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på ruten Dubrovnik Lufthavn - Šibenik er cirka 297 km lang og tager omkring 4 h 10 min i normal trafik, lidt længere i sommerens højsæson. Jeg planlægger afhentningen, så en langsom strækning aldrig får dig til at skynde dig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor tager du imod mig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I ankomsthallen, lige efter bagageudleveringen, med et skilt med dit navn. Jeg hjælper med bagagen og følger dig til bilen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad hvis mit fly er forsinket?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Det er ikke noget problem. Jeg følger dit fly i realtid og tilpasser afhentningen til den faktiske landing, uden ekstra betaling for ventetiden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster transferen på ruten Dubrovnik Lufthavn - Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 485 pr. bil for op til 4 passagerer, enkeltrejse, vejafgifter og bagage inkluderet. Tur og retur koster 970."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindst 2 timer før, så jeg kan planlægge efter dit fly. Har du brug for afhentning samme dag efter en pludselig ændring, så ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

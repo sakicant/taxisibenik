@@ -1,0 +1,81 @@
+{
+  "slug": "taxi-aeroport-dubrovnik-marina-baotic",
+  "title": "Такси Аэропорт Дубровник - Marina Baotić | Фиксированная цена €420 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Аэропорт Дубровник - Marina Baotić. Фиксированная цена €420 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси аэропорт дубровник - marina baotić, трансфер аэропорт дубровник - marina baotić, трансфер из аэропорта аэропорт дубровник - marina baotić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Аэропорт Дубровник - Marina Baotić",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Аэропорт Дубровник - Marina Baotić, 420 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Аэропорт Дубровник",
+        "Marina Baotić"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-aeroport-dubrovnik-marina-baotic/",
+      "offers": {
+        "@type": "Offer",
+        "price": "420",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Аэропорт Дубровник - Marina Baotić, за автомобиль для до 4 пассажиров. Туда и обратно 840 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Где вы меня встречаете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "В зале прилёта, сразу после выдачи багажа, с табличкой с вашим именем. Помогаю с багажом и провожаю до машины."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Что если мой рейс задерживается?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Не проблема. Слежу за рейсом в реальном времени и подстраиваю подачу под фактическую посадку, без доплаты за ожидание."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит трансфер на маршруте Аэропорт Дубровник - Marina Baotić?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 420 за автомобиль для до 4 пассажиров, в одну сторону, дорожные сборы и багаж включены. Поездка туда и обратно стоит 840."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я спланировал всё под ваш рейс. Для подачи в тот же день после внезапного изменения позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

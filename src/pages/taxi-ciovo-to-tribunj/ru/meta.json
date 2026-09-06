@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-ciovo-tribunj",
+  "title": "Такси Čiovo - Tribunj | Фиксированная цена €135 | TAXI Antonio",
+  "description": "Частное такси и трансфер, маршрут Čiovo - Tribunj. Фиксированная цена €135 за автомобиль, до 4. Бронируйте напрямую у Антонио.",
+  "keywords": "такси čiovo - tribunj, трансфер čiovo - tribunj, трансфер из аэропорта čiovo - tribunj",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Частный такси-трансфер",
+      "name": "Такси Čiovo - Tribunj",
+      "description": "Частное такси и трансфер по фиксированной цене, маршрут Čiovo - Tribunj, 135 евро за автомобиль для до 4 пассажиров, от двери до двери.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Čiovo",
+        "Tribunj"
+      ],
+      "url": "https://taxisibenik.hr/ru/taxi-ciovo-tribunj/",
+      "offers": {
+        "@type": "Offer",
+        "price": "135",
+        "priceCurrency": "EUR",
+        "description": "Частная поездка в одну сторону, маршрут Čiovo - Tribunj, за автомобиль для до 4 пассажиров. Туда и обратно 270 евро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит такси на маршруте Čiovo - Tribunj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фиксированно 135 за автомобиль для до 4 пассажиров, в одну сторону, багаж включён. Поездка туда и обратно стоит 270."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Где вы меня забираете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По вашему точному адресу, будь то дом, отель или апартаменты. Пришлите адрес при бронировании, и я подтвержу место встречи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За сколько времени нужно бронировать?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Минимум за 2 часа, чтобы я подтвердил автомобиль и время подачи. Для срочной поездки позвоните или напишите в WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

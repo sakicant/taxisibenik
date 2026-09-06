@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zadar-zaboric",
+  "title": "Taxa Zadar - Žaborić | Fast pris €150 | TAXI Antonio",
+  "description": "Privat taxa og transfer på ruten Zadar - Žaborić. Fast pris €150 pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+  "keywords": "taxa zadar - žaborić, transfer zadar - žaborić, lufthavnstransfer zadar - žaborić",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxatransfer",
+      "name": "Taxa Zadar - Žaborić",
+      "description": "Privat taxa og transfer til fast pris på ruten Zadar - Žaborić, 150 euro pr. bil for op til 4 passagerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Zadar",
+        "Žaborić"
+      ],
+      "url": "https://taxisibenik.hr/da/taxi-zadar-zaboric/",
+      "offers": {
+        "@type": "Offer",
+        "price": "150",
+        "priceCurrency": "EUR",
+        "description": "Privat enkeltrejse på ruten Zadar - Žaborić, pr. bil for op til 4 passagerer. Tur og retur 300 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er ruten, og hvor længe tager turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på ruten Zadar - Žaborić er cirka 98 km lang og tager omkring 75 min i normal trafik, lidt længere i sommerens højsæson. Jeg planlægger afhentningen, så en langsom strækning aldrig får dig til at skynde dig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster en taxa på ruten Zadar - Žaborić?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 150 pr. bil for op til 4 passagerer, enkeltrejse, med vejafgifter, brændstof og bagage. Tur og retur koster 300."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Er transferen privat eller delt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hver transfer er privat og dør til dør, i en Škoda Superb. Ingen deling af bilen og ingen ekstra stop, medmindre du beder om det."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan du holde ind undervejs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. På længere ture holder jeg gerne ind til en kop kaffe, et foto eller en kort seværdighed. Sig bare til, når du bestiller."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindst 2 timer før, så jeg kan bekræfte bil og afhentningstidspunkt. Har du brug for en tur med kort varsel, så ring eller skriv på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

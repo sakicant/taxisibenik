@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-vodice-split-lufthavn",
+  "title": "Taxa Vodice - Split Lufthavn | Fast pris €115 | TAXI Antonio",
+  "description": "Privat taxa og transfer på ruten Vodice - Split Lufthavn. Fast pris €115 pr. bil, op til 4 passagerer, dør til dør. Bestil direkte hos Antonio.",
+  "keywords": "taxa vodice - split lufthavn, transfer vodice - split lufthavn, lufthavnstransfer vodice - split lufthavn",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Privat taxatransfer",
+      "name": "Taxa Vodice - Split Lufthavn",
+      "description": "Privat taxa og transfer til fast pris på ruten Vodice - Split Lufthavn, 115 euro pr. bil for op til 4 passagerer, dør til dør.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Vodice",
+        "Split Lufthavn"
+      ],
+      "url": "https://taxisibenik.hr/da/taxi-vodice-split-lufthavn/",
+      "offers": {
+        "@type": "Offer",
+        "price": "115",
+        "priceCurrency": "EUR",
+        "description": "Privat enkeltrejse på ruten Vodice - Split Lufthavn, pr. bil for op til 4 passagerer. Tur og retur 230 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hvor lang er ruten, og hvor længe tager turen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Turen på ruten Vodice - Split Lufthavn er cirka 65 km lang og tager omkring 70 min i normal trafik, lidt længere i sommerens højsæson. Jeg planlægger afhentningen, så en langsom strækning aldrig får dig til at skynde dig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvad koster en taxa på ruten Vodice - Split Lufthavn?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fast 115 pr. bil, enkeltrejse, for op til 4 passagerer. Prisen er pr. bil, ikke pr. person, og dækker vejafgifter, brændstof og bagage. Tur og retur koster 230."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvornår skal jeg tage af sted til lufthavnen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Som regel omkring 3 timer før et internationalt fly og 2 timer før et indenrigsfly. Fortæl mig din flytid, så bekræfter jeg det præcise afhentningstidspunkt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kører du helt til afgangsterminalen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Jeg kører dig direkte til afgangsterminalen og hjælper med bagagen. Ingen gåtur fra parkeringspladsen og ingen shuttlebus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hvor lang tid i forvejen skal jeg bestille?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mindst 2 timer før, så jeg kan bekræfte bil og afhentning, og gerne tidligere ved morgenfly og i højsæsonen. Har du brug for en tur med kort varsel, så ring eller skriv til mig på WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

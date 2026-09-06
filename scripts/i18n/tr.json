@@ -1,0 +1,261 @@
+{
+ "taxi_word": "Taksi",
+ "book_slug": "rezervasyon",
+ "airport_name": {
+  "Split Airport": "Split Havalimanı",
+  "Zadar Airport": "Zadar Havalimanı",
+  "Zagreb Airport": "Zagreb Havalimanı",
+  "Dubrovnik Airport": "Dubrovnik Havalimanı"
+ },
+ "airport_slug": {
+  "split-airport": "split-havalimani",
+  "zadar-airport": "zadar-havalimani",
+  "zagreb-airport": "zagreb-havalimani",
+  "dubrovnik-airport": "dubrovnik-havalimani"
+ },
+ "hero_alt": "Taksi {rel}: TAXI Antonio'nun Škoda Superb aracı Dalmaçya kıyısında",
+ "per_car": "araç başına &middot; 4 yolcuya kadar",
+ "book_now": "Hemen rezervasyon",
+ "book_wa": "WhatsApp ile rezervasyon",
+ "why_eyebrow": "Bu transferi neden rezerve etmeli",
+ "why_title": "{rel} taksinizi neden Antonio'dan rezerve etmelisiniz?",
+ "price_title": "{rel} fiyatı",
+ "price_sub": "Araç başına sabit fiyat, 4 yolcuya kadar, bagaj dahil. Aynı fiyat ters yönde de geçerlidir.",
+ "price_oneway_lbl": "Tek yön",
+ "price_return_lbl": "Gidiş &amp; dönüş",
+ "price_advance_lbl": "Onay için kapora",
+ "price_balance_val": "Nakit veya kart",
+ "price_balance_lbl": "Kalanı yolculuk günü",
+ "hub_note": "%20 kapora (en az &euro;20) rezervasyonunuzu onaylar, kalanını yolculuk günü nakit veya kartla ödersiniz. Ters yönde mi seyahat ediyorsunuz? Bakınız {revlink}.",
+ "reviews_eyebrow": "Yorumlar",
+ "reviews_title": "Yolcular ne diyor",
+ "reviews_sub": "Gerçek yolculardan gerçek yorumlar.",
+ "faq_eyebrow": "SSS",
+ "faq_title": "Taksi {rel}: sık sorulan sorular",
+ "cta_title": "{rel} transferinizi ayırtın",
+ "cta_sub": "Araç başına sabit &euro;{p}, 4 yolcuya kadar. Birkaç dokunuşla onay.",
+ "trust_air": "Kapora sonrası onaylanır &middot; Gizli ücret yok &middot; Uçuş takibi dahil",
+ "trust_generic": "Kapora sonrası onaylanır &middot; Gizli ücret yok &middot; Sabit fiyat, taksimetre yok",
+ "rf_fixed_oneway_lbl": "Sabit fiyat, tek yön",
+ "rf_distance_lbl": "Mesafe",
+ "rf_drivetime_lbl": "Yolculuk süresi",
+ "rf_return_lbl": "Gidiş &amp; dönüş",
+ "rf_upto4_val": "4'e kadar",
+ "rf_upto4_lbl": "Yolcu",
+ "rf_skoda_lbl": "Özel, kapıdan kapıya",
+ "meta_title": "Taksi {rel} | Sabit fiyat €{p} | TAXI Antonio",
+ "meta_desc": "Özel taksi ve transfer, {rel} güzergâhı. Araç başına sabit €{p}, 4 yolcuya kadar, kapıdan kapıya. Doğrudan Antonio'dan rezervasyon yapın.",
+ "meta_desc_short": "Özel taksi ve transfer, {rel} güzergâhı. Araç başına sabit €{p}, 4 kişiye kadar. Doğrudan Antonio'dan rezervasyon yapın.",
+ "keywords": "taksi {rell}, transfer {rell}, havalimanı transferi {rell}",
+ "schema_servicetype": "Özel taksi transferi",
+ "schema_name": "Taksi {rel}",
+ "schema_desc": "Sabit fiyatlı özel taksi ve transfer, {rel} güzergâhı, 4 yolcuya kadar araç başına {p} euro, kapıdan kapıya.",
+ "schema_offer_desc": "Tek yön özel yolculuk, {rel} güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş {rp} euro.",
+ "dist_faq_q": "Güzergâh ne kadar uzun ve yolculuk ne kadar sürer?",
+ "dist_faq_a": "{rel} güzergâhındaki yolculuk yaklaşık {km} km uzunluğunda ve normal trafikte yaklaşık {t} sürüyor, yaz yoğunluğunda biraz daha uzun. Alışı, yavaş bir yol sizi asla acele ettirmeyecek şekilde planlıyorum.",
+ "types": {
+  "to_airport": {
+   "heading": "Özel taksi ve transferiniz, {rel} güzergâhı",
+   "tagline": "Sabit fiyatlı taksi ve özel transfer, {rel} güzergâhı, doğrudan kalkışa.",
+   "intro": "{city} havalimanından mı uçuyorsunuz? {rel} güzergâhı için sabit fiyatlı özel taksi ve transfer sunuyorum. Ben Antonio, yerel bir şoför: sizi adresinizden alıyor ve rahat bir Škoda Superb ile doğrudan giden yolcu terminaline götürüyorum. Fiyat sabittir, tüm araç için &euro;{p}, 4 yolcuya kadar, önceden anlaşılır, taksimetre yok ve sürpriz yok. Alışı uçuş saatinize göre planlıyorum, böylece check-in için bol vakitle varırsınız. Yukarıdaki teklif formu bu güzergâh için hazır doldurulmuştur, fiyatı görüp birkaç dokunuşla rezervasyon yapabilirsiniz.",
+   "whys": [
+    [
+     "Sabit fiyat &euro;{p}",
+     "Tüm araç için tek fiyat, 4 yolcuya kadar, önceden anlaşılır. Otoyol ücretleri, yakıt ve bagaj dahildir, taksimetre yoktur."
+    ],
+    [
+     "Uçuşunuza göre planlanır",
+     "Bana kalkış saatinizi söyleyin, geriye doğru hesaplayayım, böylece terminale check-in için vaktiniz olacak şekilde varırsınız."
+    ],
+    [
+     "Kapıdan terminale",
+     "Adresinizden alış ve doğrudan giden yolcu terminalinin girişinde bırakış."
+    ],
+    [
+     "Her saatte",
+     "Sabahın erken ve gecenin geç uçuşları sorun değil. Önceden anlaşılan bir fiyatla 24 saat hizmet veriyorum."
+    ]
+   ],
+   "faqs": [
+    [
+     "{rel} güzergâhında taksi ne kadar tutar?",
+     "Araç başına sabit &euro;{p}, tek yön, 4 yolcuya kadar. Fiyat kişi başına değil araç başınadır ve otoyol ücretlerini, yakıtı ve bagajı kapsar. Gidiş dönüş yolculuk &euro;{rp}."
+    ],
+    [
+     "Havalimanına ne zaman yola çıkmalıyım?",
+     "Kural olarak uluslararası uçuştan yaklaşık 3 saat, iç hat uçuşundan 2 saat önce. Bana uçuş saatinizi söyleyin, tam alış saatini onaylayayım."
+    ],
+    [
+     "Giden yolcu terminaline kadar götürüyor musunuz?",
+     "Evet. Sizi doğrudan giden yolcu terminaline götürüyor ve bagajla yardım ediyorum. Otoparktan yürüyüş yok, servis aracı yok."
+    ],
+    [
+     "Ne kadar önceden rezervasyon yapmalıyım?",
+     "Aracı ve alışı onaylayabilmem için en az 2 saat önce, erken sabah uçuşları ve sezon için daha erken. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+    ]
+   ]
+  },
+  "from_airport": {
+   "heading": "Havalimanı karşılamanız ve transferiniz, {rel} güzergâhı",
+   "tagline": "Sabit fiyatlı özel havalimanı karşılama ve transfer, {rel} güzergâhı, uçuş takibiyle.",
+   "intro": "{city} havalimanına yeni mi indiniz? {rel} güzergâhı için özel bir transfer, varışın stresini alır. Sizi geliş salonunda isminizin yazdığı bir tabelayla karşılıyor, bagajla yardım ediyor ve rahat bir Škoda Superb ile doğrudan gideceğiniz yere götürüyorum, tüm araç için sabit &euro;{p} fiyatla, 4 yolcuya kadar. Uçuşunuzu gerçek zamanlı takip ediyorum, erken inseniz de geç inseniz de oradayım. Taksi kuyruğu yok, paylaşımlı transfer yok, ani zam yok. Yukarıdaki form bu güzergâh için hazır doldurulmuştur.",
+   "whys": [
+    [
+     "Tabelayla karşılama",
+     "Geliş salonunda isminizin yazdığı tabelayla bekliyor ve çantalarla yardım ediyorum, böylece doğruca araca geçersiniz."
+    ],
+    [
+     "Uçuş takibi",
+     "Uçuşunuzu gerçek zamanlı izliyor, erken inişe veya rötara uyum sağlıyorum, bekleme ücretsiz."
+    ],
+    [
+     "Sabit fiyat &euro;{p}",
+     "Tüm araç için tek fiyat, 4 yolcuya kadar, önceden anlaşılır. Otoyol ücretleri, yakıt ve bagaj dahildir, taksimetre yoktur."
+    ],
+    [
+     "Doğruca kapınıza",
+     "Kuyruk yok, aktarma yok. Sizi doğrudan adresinize götürüyorum."
+    ]
+   ],
+   "faqs": [
+    [
+     "Beni nerede karşılıyorsunuz?",
+     "Geliş salonunda, bagaj alımının hemen ardından, isminizin yazdığı bir tabelayla. Bagajla yardım eder ve sizi araca kadar götürürüm."
+    ],
+    [
+     "Uçuşum rötar yaparsa ne olur?",
+     "Sorun değil. Uçuşunuzu gerçek zamanlı takip eder ve alışı gerçek iniş saatine göre ayarlarım, bekleme için ek ücret almadan."
+    ],
+    [
+     "{rel} güzergâhında transfer ne kadar tutar?",
+     "4 yolcuya kadar araç başına sabit &euro;{p}, tek yön, otoyol ücretleri ve bagaj dahil. Gidiş dönüş yolculuk &euro;{rp}."
+    ],
+    [
+     "Ne kadar önceden rezervasyon yapmalıyım?",
+     "Uçuşunuza göre planlayabilmem için en az 2 saat önce. Son dakika bir değişiklikten sonra aynı gün alış için arayın veya WhatsApp'tan yazın."
+    ]
+   ]
+  },
+  "marina": {
+   "heading": "Özel marina transferi, {rel} güzergâhı",
+   "tagline": "Sabit fiyatlı özel taksi ve transfer, {rel} güzergâhı, teknenize göre planlanır.",
+   "intro": "{rel} güzergâhında mı seyahat ediyorsunuz? Marina misafirleri için sabit fiyatlı özel taksi ve transfer sunuyorum, teknenize ve seyahat planınıza göre ayarlanır. Bagajınız için bol yerle sizi alıyor ve yol boyunca rahat bir Škoda Superb ile götürüyorum, araç için götürü &euro;{p} fiyatla, 4 yolcuya kadar, yolculuktan önce anlaşılır. İster yatınıza gidin ister karaya çıktıktan sonra yolunuza devam edin, taksimetre yok, durakta bekleme yok, sadece doğrudan rezerve ettiğiniz yerel bir şoför. Bu, daha uzun bir güzergâhta özel bir transferdir ve yukarıdaki teklif bu güzergâh için hazır ayarlanmıştır.",
+   "whys": [
+    [
+     "Sabit fiyat &euro;{p}",
+     "4 yolcuya kadar araç başına tek fiyat, önceden anlaşılır. Otoyol ücretleri, yakıt ve bagaj dahildir, çalışan taksimetre yoktur."
+    ],
+    [
+     "Teknenize göre",
+     "Bana kiralama, check-in veya kalkış saatinizi söyleyin, alışı ona göre planlayayım, böylece yavaş bir yol sizi asla acele ettirmesin."
+    ],
+    [
+     "Bagajınıza yer",
+     "Valizler, erzak ve tekne çantaları rahat bir Škoda Superb'e sığar, yükleme ve boşaltmada bir yardım eliyle."
+    ],
+    [
+     "Tek bir yerel şoför",
+     "Rezervasyondan varışa kadar doğrudan benimle görüşürsünüz, telefon, WhatsApp veya e-posta ile. Çağrı merkezi yok."
+    ]
+   ],
+   "faqs": [
+    [
+     "{rel} güzergâhında transfer ne kadar tutar?",
+     "4 yolcuya kadar araç başına sabit &euro;{p}, tek yön, otoyol ücretleri, yakıt ve bagaj dahil. Gidiş dönüş yolculuk &euro;{rp}."
+    ],
+    [
+     "Beni doğrudan marinadan alabilir misiniz?",
+     "Evet. Sizi marina girişinde veya resepsiyonda karşılar ve bagajla yardım ederim, böylece iskeleden doğruca araca geçersiniz."
+    ],
+    [
+     "Transferi tekneme göre ayarlayabilir misiniz?",
+     "Evet. Rezervasyon sırasında kiralama, check-in veya kalkış saatinizi gönderin, alışı ona göre planlayayım."
+    ],
+    [
+     "Ne kadar önceden rezervasyon yapmalıyım?",
+     "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya doğrudan WhatsApp'tan yazın."
+    ]
+   ]
+  },
+  "city": {
+   "heading": "Özel transfer, {rel} güzergâhı",
+   "tagline": "Sabit fiyatlı özel taksi ve transfer, {rel} güzergâhı, kapıdan kapıya.",
+   "intro0": "{rel} güzergâhında güvenilir bir transfere mi ihtiyacınız var? Rahat bir Škoda Superb ile kapıdan kapıya, sabit fiyatlı özel taksi ve transfer sunuyorum. Sizi tam adresinizden alıyor ve doğrudan gideceğiniz yere götürüyorum, istemediğiniz ara duraklar ve başka yolcular olmadan. Fiyat sabittir, tüm araç için &euro;{p}, 4 yolcuya kadar, yola çıkmadan önce anlaşılır, otoyol ücretleri ve bagaj dahil. Yukarıdaki teklif bu güzergâh için doldurulmuştur, rezervasyon sadece birkaç dokunuş sürer.",
+   "intro1": "{rel} güzergâhında taksimetresiz ve zahmetsiz bir taksi mi arıyorsunuz? Bu, yerel bir şoförle sabit fiyatlı özel bir transferdir. Sizi kapıda alıyor ve bagajınızla birlikte rahatça gideceğiniz yere götürüyorum, 4 yolcuya kadar araç başına götürü &euro;{p} fiyatla. Çiftler ve aileler için genellikle ayrı otobüs veya tren biletlerinden daha uygundur, üstelik her zaman daha hızlı ve kapıdan kapıyadır. Yukarıdaki teklif bu güzergâh için hazır ayarlanmıştır.",
+   "whys": [
+    [
+     "Sabit fiyat &euro;{p}",
+     "4 yolcuya kadar araç başına tek fiyat, önceden anlaşılır. Otoyol ücretleri, yakıt ve bagaj dahildir, çalışan taksimetre yoktur."
+    ],
+    [
+     "Kapıdan kapıya",
+     "Sizi tam adresinizden alır ve gideceğiniz yerin kapısında bırakırım. İstasyon yok, aktarma yok."
+    ],
+    [
+     "Tek bir yerel şoför",
+     "Rezervasyondan varışa kadar doğrudan benimle görüşürsünüz, telefon, WhatsApp veya e-posta ile. Çağrı merkezi yok."
+    ],
+    [
+     "İstek üzerine molalar",
+     "Daha uzun güzergâhlarda bir kahve, bir fotoğraf ya da yol üstünde kısa bir görülecek yer için memnuniyetle dururum."
+    ]
+   ],
+   "faqs": [
+    [
+     "{rel} güzergâhında taksi ne kadar tutar?",
+     "4 yolcuya kadar araç başına sabit &euro;{p}, tek yön, otoyol ücretleri, yakıt ve bagaj dahil. Gidiş dönüş yolculuk &euro;{rp}."
+    ],
+    [
+     "Transfer özel mi yoksa paylaşımlı mı?",
+     "Her transfer özeldir ve kapıdan kapıyadır, bir Škoda Superb ile. Araç paylaşımı yok, siz istemedikçe ek durak yok."
+    ],
+    [
+     "Yol üstünde durabilir misiniz?",
+     "Evet. Daha uzun güzergâhlarda bir kahve, bir fotoğraf ya da kısa bir görülecek yer için memnuniyetle dururum. Rezervasyon sırasında söylemeniz yeterli."
+    ],
+    [
+     "Ne kadar önceden rezervasyon yapmalıyım?",
+     "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+    ]
+   ]
+  },
+  "local": {
+   "heading": "Özel taksi, {rel} güzergâhı",
+   "tagline": "Sabit fiyatlı özel taksi ve transfer, {rel} güzergâhı, kapıdan kapıya.",
+   "intro0": "{rel} güzergâhında mı seyahat ediyorsunuz? Kapınızdan alışla ve tam gitmeniz gereken yere bırakışla, sabit fiyatlı özel taksi ve transfer sunuyorum. Fiyat, tüm araç için götürü &euro;{p}, 4 yolcuya kadar, taksimetre yok, durakta bekleme yok. Rahat bir Škoda Superb, bagajınıza yer ve doğrudan rezerve ettiğiniz yerel bir şoför. Yukarıdaki teklif bu güzergâh için doldurulmuştur.",
+   "intro1": "{rel} güzergâhında taksiye mi ihtiyacınız var? Tüm araç için sabit &euro;{p} fiyatla, 4 yolcuya kadar, kapıdan kapıya özel transfer sunuyorum. Anlaşılan saatte adresinize geliyorum, böylece yol kenarında hiç beklemezsiniz ve sizi rahatça gideceğiniz yere götürüyorum. Taksimetre yok, sürpriz yok, sadece rezervasyondan varışa kadar yerel bir şoför. Yukarıdaki teklif bu güzergâh için hazır ayarlanmıştır.",
+   "whys": [
+    [
+     "Sabit fiyat &euro;{p}",
+     "4 yolcuya kadar araç başına tek fiyat, yolculuktan önce anlaşılır. Taksimetre yok, sürpriz yok."
+    ],
+    [
+     "Kapıdan kapıya",
+     "Adresinizden alış ve bagajınızla birlikte gideceğiniz yerin kapısında bırakış."
+    ],
+    [
+     "Durağa gerek yok",
+     "Önceden rezerve edilir, böylece geçen bir taksiyi hiç beklemezsiniz. Ben size gelirim."
+    ],
+    [
+     "Tek bir yerel şoför",
+     "Rezervasyondan varışa kadar doğrudan benimle görüşürsünüz, telefon, WhatsApp veya e-posta ile."
+    ]
+   ],
+   "faqs": [
+    [
+     "{rel} güzergâhında taksi ne kadar tutar?",
+     "4 yolcuya kadar araç başına sabit &euro;{p}, tek yön, bagaj dahil. Gidiş dönüş yolculuk &euro;{rp}."
+    ],
+    [
+     "Beni nereden alıyorsunuz?",
+     "Ev, otel ya da apart olsun, tam adresinizden. Rezervasyon sırasında adresi gönderin, buluşma noktasını onaylayayım."
+    ],
+    [
+     "Ne kadar önceden rezervasyon yapmalıyım?",
+     "Aracı ve alış saatini onaylayabilmem için en az 2 saat önce. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+    ]
+   ]
+  }
+ }
+}

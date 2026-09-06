@@ -1,0 +1,85 @@
+{
+  "slug": "airport-transfers-from-sibenik",
+  "title": "Šibenikas lidostu transfēri | Fiksētas cenas | TAXI Antonio",
+  "description": "Šibenikas lidostu transfēri uz Splitas, Zadaras, Zagrebas un Dubrovnikas lidostām un no tām. Fiksētas cenas, lidojumu uzraudzība, no durvīm līdz durvīm. Apkalpoju arī Vodices, Primoštenu & Skradinu. Rezervējiet pie Antonio.",
+  "keywords": "šibenikas lidostas transfēri, šibenik lidostas transfērs, splitas lidosta uz šibeniku, zadaras lidosta uz šibeniku, vodices lidostas transfērs",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-airport.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Lidostas transfērs",
+      "name": "Lidostu transfēri no Šibenikas",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Šibenik",
+        "Split Airport",
+        "Zadar Airport",
+        "Zagreb Airport",
+        "Dubrovnik Airport"
+      ],
+      "url": "https://taxisibenik.hr/lv/airport-transfers-from-sibenik/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kā es atradīšu savu šoferi lidostā?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Antonio gaida ielidošanas zālē pēc bagāžas saņemšanas, turot skaidri salasāmu plāksnīti ar jūsu vārdu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kas notiek, ja mans lidojums kavējas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lidojumi tiek uzraudzīti reāllaikā, izmantojot lidojuma numuru, ko norādāt rezervējot. Sagaidīšanas laiks tiek pielāgots automātiski, un par gaidīšanu papildu maksas nav."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai lidostas transfēra cena ir fiksēta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Katrs lidostas transfērs ir par fiksētu cenu par automašīnu līdz 4 pasažieriem, ar ceļa nodevām, degvielu un bagāžu. Bez skaitītāja, bez pārsteigumiem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai lidostas transfēriem nodrošināt bērnu sēdeklīšus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā, bērnu un paaugstinājuma sēdeklīši tiek nodrošināti bez maksas. Vienkārši palūdziet tos rezervācijas piezīmēs, norādot bērna vecumu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kā notiek samaksa par lidostas transfēru?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rezervāciju apstiprina 20% avansa maksājums (vismaz 20 eiro) ar bankas pārskaitījumu vai karti. Atlikumu samaksājat šoferim brauciena dienā, skaidrā naudā vai ar karti."
+          }
+        }
+      ]
+    }
+  ]
+}

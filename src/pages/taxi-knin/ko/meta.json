@@ -38,21 +38,21 @@
             "name": "Knin에서 Šibenik까지 택시",
             "price": "95",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Knin&to=%C5%A0ibenik%20-%20center&price=95"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Knin&to=%C5%A0ibenik%20-%20center&price=95"
           },
           {
             "@type": "Offer",
             "name": "Knin에서 스플리트 공항까지 택시",
             "price": "110",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Knin&to=Split%20Airport%20%28SPU%29&price=110"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Knin&to=Split%20Airport%20%28SPU%29&price=110"
           },
           {
             "@type": "Offer",
             "name": "Knin에서 자다르 공항까지 택시",
             "price": "140",
             "priceCurrency": "EUR",
-            "url": "https://taxisibenik.hr/ko/book/?from=Knin&to=Zadar%20Airport%20%28ZAD%29&price=140"
+            "url": "https://taxisibenik.hr/ko/yeyak/?from=Knin&to=Zadar%20Airport%20%28ZAD%29&price=140"
           }
         ]
       }

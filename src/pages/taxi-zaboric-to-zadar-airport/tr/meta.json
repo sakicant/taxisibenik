@@ -1,0 +1,89 @@
+{
+  "slug": "taxi-zaboric-zadar-havalimani",
+  "title": "Taksi Žaborić - Zadar Havalimanı | Sabit fiyat €140 | TAXI Antonio",
+  "description": "Özel taksi ve transfer, Žaborić - Zadar Havalimanı güzergâhı. Araç başına sabit €140, 4 kişiye kadar. Doğrudan Antonio'dan rezervasyon yapın.",
+  "keywords": "taksi žaborić - zadar havalimanı, transfer žaborić - zadar havalimanı, havalimanı transferi žaborić - zadar havalimanı",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Özel taksi transferi",
+      "name": "Taksi Žaborić - Zadar Havalimanı",
+      "description": "Sabit fiyatlı özel taksi ve transfer, Žaborić - Zadar Havalimanı güzergâhı, 4 yolcuya kadar araç başına 140 euro, kapıdan kapıya.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Žaborić",
+        "Zadar Havalimanı"
+      ],
+      "url": "https://taxisibenik.hr/tr/taxi-zaboric-zadar-havalimani/",
+      "offers": {
+        "@type": "Offer",
+        "price": "140",
+        "priceCurrency": "EUR",
+        "description": "Tek yön özel yolculuk, Žaborić - Zadar Havalimanı güzergâhı, 4 yolcuya kadar araç başına. Gidiş dönüş 280 euro."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Güzergâh ne kadar uzun ve yolculuk ne kadar sürer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Žaborić - Zadar Havalimanı güzergâhındaki yolculuk yaklaşık 79 km uzunluğunda ve normal trafikte yaklaşık 65 min sürüyor, yaz yoğunluğunda biraz daha uzun. Alışı, yavaş bir yol sizi asla acele ettirmeyecek şekilde planlıyorum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Žaborić - Zadar Havalimanı güzergâhında taksi ne kadar tutar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Araç başına sabit 140, tek yön, 4 yolcuya kadar. Fiyat kişi başına değil araç başınadır ve otoyol ücretlerini, yakıtı ve bagajı kapsar. Gidiş dönüş yolculuk 280."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Havalimanına ne zaman yola çıkmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kural olarak uluslararası uçuştan yaklaşık 3 saat, iç hat uçuşundan 2 saat önce. Bana uçuş saatinizi söyleyin, tam alış saatini onaylayayım."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Giden yolcu terminaline kadar götürüyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Sizi doğrudan giden yolcu terminaline götürüyor ve bagajla yardım ediyorum. Otoparktan yürüyüş yok, servis aracı yok."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aracı ve alışı onaylayabilmem için en az 2 saat önce, erken sabah uçuşları ve sezon için daha erken. Son dakika bir yolculuk için arayın veya WhatsApp'tan yazın."
+          }
+        }
+      ]
+    }
+  ]
+}

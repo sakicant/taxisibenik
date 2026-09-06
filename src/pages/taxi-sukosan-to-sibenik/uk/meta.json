@@ -1,0 +1,73 @@
+{
+  "slug": "taxi-sukosan-sibenik",
+  "title": "Таксі Sukošan - Šibenik | Фіксована ціна €130 | TAXI Antonio",
+  "description": "Приватне таксі та трансфер, маршрут Sukošan - Šibenik. Фіксована ціна €130 за автомобіль, до 4 пасажирів, від дверей до дверей. Бронюйте напряму в Антоніо.",
+  "keywords": "таксі sukošan - šibenik, трансфер sukošan - šibenik, трансфер з аеропорту sukošan - šibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Приватний таксі-трансфер",
+      "name": "Таксі Sukošan - Šibenik",
+      "description": "Приватне таксі та трансфер за фіксованою ціною, маршрут Sukošan - Šibenik, 130 євро за автомобіль для до 4 пасажирів, від дверей до дверей.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": [
+        "Sukošan",
+        "Šibenik"
+      ],
+      "url": "https://taxisibenik.hr/uk/taxi-sukosan-sibenik/",
+      "offers": {
+        "@type": "Offer",
+        "price": "130",
+        "priceCurrency": "EUR",
+        "description": "Приватна поїздка в один бік, маршрут Sukošan - Šibenik, за автомобіль для до 4 пасажирів. Туди й назад 260 євро."
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Скільки коштує таксі на маршруті Sukošan - Šibenik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Фіксовано 130 за автомобіль для до 4 пасажирів, в один бік, багаж включено. Поїздка туди й назад коштує 260."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Де ви мене забираєте?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "За вашою точною адресою, чи то будинок, готель або апартаменти. Надішліть адресу при бронюванні, і я підтверджу місце зустрічі."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "За скільки часу треба бронювати?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Щонайменше за 2 години, щоб я підтвердив автомобіль і час подачі. Для термінової поїздки зателефонуйте або напишіть у WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}

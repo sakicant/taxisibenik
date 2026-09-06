@@ -1,0 +1,98 @@
+{
+  "slug": "taxi-lozovac",
+  "title": "Taksometrs Lozovac | TAXI Antonio",
+  "description": "Taksometrs Lozovac: transfēri pie Krkas nacionālā parka ieejas (Skradinski Buk), dienas braucieni uz Krku un lidostas braucieni ar fiksētu cenu uz Splitu (€95). Rezervējiet tieši.",
+  "keywords": "taksometrs lozovac, lozovac taksometrs, taksometrs uz krkas nacionālo parku, lozovac krkas ieeja, taksometrs krkas ūdenskritumi, lozovac splitas lidosta, lozovac sibenik",
+  "og_image": "https://taxisibenik.hr/assets/img/hero-transfers.webp",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Vietējais taksometrs un lidostas transfēri",
+      "name": "Taksometrs Lozovac",
+      "description": "Privāts taksometrs Lozovacā, galvenajā Krkas nacionālā parka ieejā uz Skradinski Buk ūdenskritumiem: dienas braucieni uz parku, izbraucieni un lidostas transfēri par fiksētu cenu.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Taxi Antonio",
+        "telephone": "+385994471013",
+        "email": "info@taxisibenik.hr",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Šibenik",
+          "addressCountry": "HR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "152"
+        }
+      },
+      "areaServed": "Lozovac",
+      "url": "https://taxisibenik.hr/lv/taxi-lozovac/",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Taksometra cenas no Lozovacas",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Lozovac uz Šibeniku",
+            "price": "45",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Lozovac&to=%C5%A0ibenik%20-%20center&price=45"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Lozovac uz Vodicēm",
+            "price": "60",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Lozovac&to=Vodice&price=60"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Lozovac uz Krkas NP (Skradinas ieeja)",
+            "price": "25",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Lozovac&to=NP%20Krka%20-%20Skradin%20entrance&price=25"
+          },
+          {
+            "@type": "Offer",
+            "name": "Taksometrs Lozovac uz Splitas lidostu",
+            "price": "95",
+            "priceCurrency": "EUR",
+            "url": "https://taxisibenik.hr/lv/rezervet/?from=Lozovac&to=Split%20Airport%20%28SPU%29&price=95"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cik tālu Lozovaca ir no Krkas ieejas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lozovaca pati ir Krkas nacionālā parka ieeja no ceļa, tāpēc jūs jau esat pie vārtiem uz Skradinski Buk ūdenskritumiem. Es jūs izlaižu tieši pie ieejas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs varat pagaidīt, kamēr es apmeklēju parku?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Es piedāvāju privātu braucienu uz Krku ar iekļautu gaidīšanas laiku, tātad es jūs aizvedu līdz ūdenskritumiem, pagaidu, kamēr jūs izstaigājat parku savā tempā, un aizvedu atpakaļ. Skatiet manu dienas braucienu lapu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vai jūs braucat arī uz Skradinas ieeju?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jā. Transfērs uz Krkas Skradinas ieeju, kur jūs kāpjat laivā uz ūdenskritumiem, maksā fiksētus €25 par automašīnu."
+          }
+        }
+      ]
+    }
+  ]
+}
