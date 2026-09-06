@@ -38,7 +38,7 @@
           "name": "Do you take advance payments?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Confirming a booking requires a 20% advance payment (minimum €20). Rides priced at €20 or below require full payment in advance. You can also pay the full amount upfront if you prefer. Advance payments can be made by bank transfer (SEPA) or card, with the remaining balance settled with me on the day of the transfer."
+            "text": "Yes. Confirming a booking requires a 20% advance payment (minimum €20). On fares of €20 or less the minimum advance equals the fare, so that amount is paid in advance. Advance payments can be made by bank transfer (SEPA) or card, with the remaining balance settled with me on the day of the transfer."
           }
         },
         {

@@ -38,7 +38,7 @@
           "name": "Fogadnak előleget?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Igen. A foglalás megerősítéséhez 20% előleg szükséges (minimum €20). A €20 vagy annál alacsonyabb árú fuvarokat teljes egészében előre kell fizetni. Ha szeretné, a teljes összeget is kifizetheti előre. Az előleg banki átutalással (SEPA) vagy kártyával fizethető, a fennmaradó összeget pedig a transzfer napján rendezi velem."
+            "text": "Igen. A foglalás megerősítéséhez 20% előleg szükséges (minimum €20). Ha a viteldíj €20 vagy annál kevesebb, a legkisebb előleg megegyezik a viteldíjjal, így ezt az összeget kell előre kifizetni. Az előleg banki átutalással (SEPA) vagy kártyával fizethető, a fennmaradó összeget pedig a transzfer napján rendezi velem."
           }
         },
         {

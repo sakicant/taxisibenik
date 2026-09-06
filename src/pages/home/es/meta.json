@@ -168,7 +168,7 @@
           "name": "¿Piden un anticipo?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Sí. Confirmar una reserva requiere un anticipo del 20% (mínimo 20 euros). Los viajes de 20 euros o menos se pagan íntegramente por adelantado. Los anticipos se pueden hacer por transferencia bancaria (SEPA) o con tarjeta, y el resto se liquida el día del traslado."
+            "text": "Sí. Confirmar una reserva requiere un anticipo del 20% (mínimo 20 euros). Cuando la tarifa es de 20 euros o menos, el anticipo mínimo coincide con la tarifa, por lo que se paga ese importe por adelantado. Los anticipos se pueden hacer por transferencia bancaria (SEPA) o con tarjeta, y el resto se liquida el día del traslado."
           }
         },
         {
@@ -216,7 +216,7 @@
           "name": "¿Qué pasa si tengo que cancelar?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Las cancelaciones deben hacerse por escrito por email. Con más de 72 horas de antelación se devuelve el importe íntegro si pagó por transferencia, o el importe íntegro menos una comisión de gestión de 10 euros si pagó con tarjeta. Las cancelaciones dentro de las 72 horas, o si no se presenta, no tienen reembolso. Cambiar la fecha es gratis en cualquier momento."
+            "text": "Las cancelaciones deben hacerse por escrito por email. Con más de 72 horas de antelación se devuelve el importe íntegro, sea cual sea el método de pago que utilizó. Las cancelaciones dentro de las 72 horas, o si no se presenta, no tienen reembolso. Cambiar la fecha es gratis en cualquier momento."
           }
         },
         {

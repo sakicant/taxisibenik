@@ -38,7 +38,7 @@
           "name": "Prijímate zálohové platby?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Áno. Potvrdenie rezervácie si vyžaduje zálohu vo výške 20 % (minimálne €20). Jazdy s cenou €20 alebo nižšou si vyžadujú plnú platbu vopred. Ak chcete, môžete zaplatiť celú sumu vopred. Zálohy je možné uhradiť bankovým prevodom (SEPA) alebo kartou, pričom zvyšok sumy sa vyrovná so mnou v deň transferu."
+            "text": "Áno. Potvrdenie rezervácie si vyžaduje zálohu vo výške 20 % (minimálne €20). Ak je cena €20 alebo nižšia, minimálna záloha sa rovná cene, takže sa táto suma platí vopred. Zálohy je možné uhradiť bankovým prevodom (SEPA) alebo kartou, pričom zvyšok sumy sa vyrovná so mnou v deň transferu."
           }
         },
         {

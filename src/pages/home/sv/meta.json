@@ -168,7 +168,7 @@
           "name": "Tar ni emot förskottsbetalningar?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ja. För att bekräfta en bokning krävs en förskottsbetalning på 20 % (minst 20 euro). Resor som kostar 20 euro eller mindre betalas i sin helhet i förväg. Förskottsbetalning kan göras via banköverföring (SEPA) eller kort, och resten betalas på transferdagen."
+            "text": "Ja. För att bekräfta en bokning krävs en förskottsbetalning på 20 % (minst 20 euro). Om priset är 20 euro eller lägre motsvarar den minsta förskottsbetalningen hela priset, så det beloppet betalas i förväg. Förskottsbetalning kan göras via banköverföring (SEPA) eller kort, och resten betalas på transferdagen."
           }
         },
         {
@@ -216,7 +216,7 @@
           "name": "Vad händer om jag behöver avboka?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Avbokning måste ske skriftligen via e-post. Mer än 72 timmar före bokningen ges full återbetalning vid banköverföring, eller full återbetalning minus en administrativ avgift på 10 euro vid kortbetalning. Avbokning inom 72 timmar, eller utebliven ankomst, återbetalas inte. Att boka om är alltid kostnadsfritt."
+            "text": "Avbokning måste ske skriftligen via e-post. Mer än 72 timmar före bokningen ges full återbetalning, oavsett betalningssätt. Avbokning inom 72 timmar, eller utebliven ankomst, återbetalas inte. Att boka om är alltid kostnadsfritt."
           }
         },
         {

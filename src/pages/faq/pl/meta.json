@@ -38,7 +38,7 @@
           "name": "Czy pobierasz zaliczki?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Tak. Potwierdzenie rezerwacji wymaga zaliczki w wysokości 20% (minimum €20). Przejazdy w cenie €20 lub niższej wymagają pełnej płatności z góry. Jeśli wolisz, możesz też zapłacić całą kwotę z góry. Zaliczki można wpłacać przelewem bankowym (SEPA) lub kartą, a pozostałą część rozliczasz ze mną w dniu transferu."
+            "text": "Tak. Potwierdzenie rezerwacji wymaga zaliczki w wysokości 20% (minimum €20). Przy przejazdach za €20 lub taniej minimalna zaliczka równa się cenie przejazdu, więc ta kwota jest płatna z góry. Zaliczki można wpłacać przelewem bankowym (SEPA) lub kartą, a pozostałą część rozliczasz ze mną w dniu transferu."
           }
         },
         {

@@ -38,7 +38,7 @@
           "name": "Nehmen Sie Anzahlungen entgegen?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ja. Zur Bestätigung einer Buchung ist eine Anzahlung von 20% erforderlich (mindestens €20). Fahrten mit einem Preis von €20 oder weniger sind vollständig im Voraus zu bezahlen. Sie können auch den vollen Betrag im Voraus zahlen, wenn Sie möchten. Anzahlungen können per Banküberweisung (SEPA) oder Karte erfolgen, der Restbetrag wird am Tag des Transfers bei mir beglichen."
+            "text": "Ja. Zur Bestätigung einer Buchung ist eine Anzahlung von 20% erforderlich (mindestens €20). Bei Fahrpreisen von €20 oder weniger entspricht die Mindestanzahlung dem Fahrpreis, dieser Betrag wird also im Voraus bezahlt. Anzahlungen können per Banküberweisung (SEPA) oder Karte erfolgen, der Restbetrag wird am Tag des Transfers bei mir beglichen."
           }
         },
         {

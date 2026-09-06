@@ -38,7 +38,7 @@
           "name": "Otatko ennakkomaksuja?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kyllä. Varauksen vahvistaminen edellyttää 20 %:n ennakkomaksua (vähintään 20 euroa). Enintään 20 euron kyydit edellyttävät koko summan maksamista etukäteen. Voit halutessasi maksaa myös koko summan etukäteen. Ennakkomaksut voi suorittaa tilisiirrolla (SEPA) tai kortilla, ja loppusumma maksetaan minulle kuljetuspäivänä."
+            "text": "Kyllä. Varauksen vahvistaminen edellyttää 20 %:n ennakkomaksua (vähintään 20 euroa). Jos kyydin hinta on enintään 20 euroa, vähimmäisennakko on sama kuin kyydin hinta, joten se summa maksetaan etukäteen. Ennakkomaksut voi suorittaa tilisiirrolla (SEPA) tai kortilla, ja loppusumma maksetaan minulle kuljetuspäivänä."
           }
         },
         {

@@ -168,7 +168,7 @@
           "name": "Tar dere forskuddsbetaling?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ja. For å bekrefte en bestilling kreves en forskuddsbetaling på 20 % (minimum 20 euro). Turer til 20 euro eller mindre må betales i sin helhet på forhånd. Forskudd kan betales med bankoverføring (SEPA) eller kort, og resten gjøres opp på dagen for turen."
+            "text": "Ja. For å bekrefte en bestilling kreves en forskuddsbetaling på 20 % (minimum 20 euro). Er prisen 20 euro eller lavere, tilsvarer det minste forskuddet hele prisen, så dette beløpet betales på forhånd. Forskudd kan betales med bankoverføring (SEPA) eller kort, og resten gjøres opp på dagen for turen."
           }
         },
         {
@@ -216,7 +216,7 @@
           "name": "Hva skjer hvis jeg må avbestille?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Avbestillinger må gjøres skriftlig på e-post. Mer enn 72 timer før bestillingen gis full refusjon ved bankoverføring, eller full refusjon minus et behandlingsgebyr på 10 euro ved kort. Avbestillinger innen 72 timer, eller manglende oppmøte, refunderes ikke. Ombooking er alltid gratis."
+            "text": "Avbestillinger må gjøres skriftlig på e-post. Mer enn 72 timer før bestillingen gis full refusjon, uansett betalingsmåte. Avbestillinger innen 72 timer, eller manglende oppmøte, refunderes ikke. Ombooking er alltid gratis."
           }
         },
         {

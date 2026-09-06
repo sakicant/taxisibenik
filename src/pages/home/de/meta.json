@@ -168,7 +168,7 @@
           "name": "Nehmen Sie Anzahlungen entgegen?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ja. Zur Bestätigung einer Buchung ist eine Anzahlung von 20% erforderlich (mindestens 20 Euro). Fahrten mit einem Preis von 20 Euro oder weniger sind vollständig im Voraus zu bezahlen. Anzahlungen können per Banküberweisung (SEPA) oder Karte erfolgen, der Restbetrag wird am Tag des Transfers beglichen."
+            "text": "Ja. Zur Bestätigung einer Buchung ist eine Anzahlung von 20% erforderlich (mindestens 20 Euro). Bei Fahrpreisen von 20 Euro oder weniger entspricht die Mindestanzahlung dem Fahrpreis, dieser Betrag wird also im Voraus bezahlt. Anzahlungen können per Banküberweisung (SEPA) oder Karte erfolgen, der Restbetrag wird am Tag des Transfers beglichen."
           }
         },
         {
@@ -216,7 +216,7 @@
           "name": "Was passiert, wenn ich stornieren muss?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Stornierungen müssen schriftlich per E-Mail erfolgen. Mehr als 72 Stunden vor der Buchung gilt eine vollständige Rückerstattung bei Banküberweisung oder eine vollständige Rückerstattung abzüglich einer Bearbeitungsgebühr von 10 Euro bei Kartenzahlung. Stornierungen innerhalb von 72 Stunden oder Nichterscheinen sind nicht erstattungsfähig. Eine Umbuchung ist jederzeit kostenlos."
+            "text": "Stornierungen müssen schriftlich per E-Mail erfolgen. Mehr als 72 Stunden vor der Buchung gilt eine vollständige Rückerstattung, unabhängig von der gewählten Zahlungsart. Stornierungen innerhalb von 72 Stunden oder Nichterscheinen sind nicht erstattungsfähig. Eine Umbuchung ist jederzeit kostenlos."
           }
         },
         {

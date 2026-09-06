@@ -38,7 +38,7 @@
           "name": "Neemt u vooruitbetalingen aan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ja. Om een boeking te bevestigen is een aanbetaling van 20% vereist (minimaal €20). Ritten met een prijs van €20 of minder moeten volledig vooraf worden betaald. U kunt desgewenst ook het volledige bedrag vooraf betalen. Aanbetalingen kunnen worden gedaan via bankoverschrijving (SEPA) of kaart, waarbij het resterende bedrag op de dag van de transfer bij mij wordt voldaan."
+            "text": "Ja. Om een boeking te bevestigen is een aanbetaling van 20% vereist (minimaal €20). Is de ritprijs €20 of lager, dan is de minimale aanbetaling gelijk aan de ritprijs, dus dat bedrag wordt vooraf betaald. Aanbetalingen kunnen worden gedaan via bankoverschrijving (SEPA) of kaart, waarbij het resterende bedrag op de dag van de transfer bij mij wordt voldaan."
           }
         },
         {

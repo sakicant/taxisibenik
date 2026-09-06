@@ -38,7 +38,7 @@
           "name": "Tar du förskottsbetalning?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ja. För att bekräfta en bokning krävs 20 % i förskott (minst 20 €). Resor som kostar 20 € eller mindre betalas helt i förskott. Du kan också betala hela beloppet i förväg om du vill. Förskottsbetalning sker via banköverföring (SEPA) eller kort, och resten betalar du till mig på transferdagen."
+            "text": "Ja. För att bekräfta en bokning krävs 20 % i förskott (minst 20 €). Om priset är 20 € eller lägre motsvarar den minsta förskottsbetalningen hela priset, så det beloppet betalas i förväg. Förskottsbetalning sker via banköverföring (SEPA) eller kort, och resten betalar du till mig på transferdagen."
           }
         },
         {

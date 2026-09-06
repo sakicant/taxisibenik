@@ -38,7 +38,7 @@
           "name": "Primate li plaćanje unaprijed?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Da. Za potvrdu rezervacije potrebna je akontacija od 20% (najmanje €20). Vožnje s cijenom do €20 plaćaju se u cijelosti unaprijed. Ako želite, možete platiti i puni iznos unaprijed. Plaćanje unaprijed moguće je bankovnim prijenosom (SEPA) ili karticom, a ostatak podmirujete kod mene na dan prijevoza."
+            "text": "Da. Za potvrdu rezervacije potrebna je akontacija od 20% (najmanje €20). Kod vožnji do €20 najmanja akontacija jednaka je cijeni vožnje, pa se taj iznos plaća unaprijed. Plaćanje unaprijed moguće je bankovnim prijenosom (SEPA) ili karticom, a ostatak podmirujete kod mene na dan prijevoza."
           }
         },
         {

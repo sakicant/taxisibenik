@@ -168,7 +168,7 @@
           "name": "Vraagt u een aanbetaling?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ja. Het bevestigen van een boeking vereist een aanbetaling van 20% (minimaal 20 euro). Ritten met een prijs van 20 euro of lager moeten volledig vooraf worden betaald. Aanbetalingen kunnen worden gedaan via bankoverschrijving (SEPA) of kaart, waarbij het resterende bedrag op de dag van de transfer wordt voldaan."
+            "text": "Ja. Het bevestigen van een boeking vereist een aanbetaling van 20% (minimaal 20 euro). Is de ritprijs 20 euro of lager, dan is de minimale aanbetaling gelijk aan de ritprijs, dus dat bedrag wordt vooraf betaald. Aanbetalingen kunnen worden gedaan via bankoverschrijving (SEPA) of kaart, waarbij het resterende bedrag op de dag van de transfer wordt voldaan."
           }
         },
         {
@@ -216,7 +216,7 @@
           "name": "Wat gebeurt er als ik moet annuleren?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Annuleringen moeten schriftelijk per e-mail worden gedaan. Meer dan 72 uur voor de boeking geldt een volledige terugbetaling bij bankoverschrijving, of een volledige terugbetaling minus 10 euro administratiekosten bij kaart. Annuleringen binnen 72 uur, of niet komen opdagen, komen niet in aanmerking voor terugbetaling. Verzetten is op elk moment gratis."
+            "text": "Annuleringen moeten schriftelijk per e-mail worden gedaan. Meer dan 72 uur voor de boeking geldt een volledige terugbetaling, ongeacht de betaalmethode. Annuleringen binnen 72 uur, of niet komen opdagen, komen niet in aanmerking voor terugbetaling. Verzetten is op elk moment gratis."
           }
         },
         {

@@ -168,7 +168,7 @@
           "name": "Czy pobierasz zaliczki?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Tak. Potwierdzenie rezerwacji wymaga zaliczki w wysokości 20% (minimum 20 euro). Przejazdy w cenie 20 euro lub niższej wymagają pełnej płatności z góry. Zaliczki można wpłacać przelewem bankowym (SEPA) lub kartą, a pozostałą część rozlicza się w dniu transferu."
+            "text": "Tak. Potwierdzenie rezerwacji wymaga zaliczki w wysokości 20% (minimum 20 euro). Przy przejazdach za 20 euro lub taniej minimalna zaliczka równa się cenie przejazdu, więc ta kwota jest płatna z góry. Zaliczki można wpłacać przelewem bankowym (SEPA) lub kartą, a pozostałą część rozlicza się w dniu transferu."
           }
         },
         {
@@ -216,7 +216,7 @@
           "name": "Co się stanie, jeśli będę musiał odwołać rezerwację?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Anulacje należy zgłaszać pisemnie e-mailem. Przy anulacji na więcej niż 72 godziny przed rezerwacją przysługuje pełny zwrot w przypadku przelewu bankowego albo pełny zwrot pomniejszony o 10 euro opłaty manipulacyjnej w przypadku karty. Anulacje w ciągu 72 godzin lub niestawienie się nie podlegają zwrotowi. Zmiana terminu jest zawsze bezpłatna."
+            "text": "Anulacje należy zgłaszać pisemnie e-mailem. Przy anulacji na więcej niż 72 godziny przed rezerwacją przysługuje pełny zwrot niezależnie od formy płatności. Anulacje w ciągu 72 godzin lub niestawienie się nie podlegają zwrotowi. Zmiana terminu jest zawsze bezpłatna."
           }
         },
         {
